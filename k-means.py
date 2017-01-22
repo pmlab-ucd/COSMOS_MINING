@@ -80,8 +80,8 @@ if __name__ == '__main__':
             best_centroids = centroids
             best_label = label
 
-    data_0 = data[best_label==0]
-    data_1 = data[best_label==1]
+    data_0 = data[best_label == 0]
+    data_1 = data[best_label == 1]
 
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(12, 5))
     ax1.scatter(data[:, 0], data[:, 1], c='c', s=30, marker='o')
