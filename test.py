@@ -1,7 +1,6 @@
 from nltk.tokenize import RegexpTokenizer
 from stop_words import get_stop_words
 from nltk.stem.porter import PorterStemmer
-from numpy._distributor_init import NUMPY_MKL  # requires numpy+mkl
 from gensim import corpora, models
 import gensim
 
@@ -31,23 +30,30 @@ for i in doc_set:
     # clean and tokenize document string
     raw = i.lower()
     tokens = tokenizer.tokenize(raw)
+    print(tokens)
 
     # remove stop words from tokens
     stopped_tokens = [i for i in tokens if not i in en_stop]
+    print(stopped_tokens)
 
     # stem tokens
     stemmed_tokens = [p_stemmer.stem(i) for i in stopped_tokens]
+    print(stemmed_tokens)
 
     # add tokens to list
     texts.append(stemmed_tokens)
 
 # turn our tokenized documents into a id <-> term dictionary
 dictionary = corpora.Dictionary(texts)
+print(dictionary.token2id)
 
 # convert tokenized documents into a document-term matrix
 corpus = [dictionary.doc2bow(text) for text in texts]
+print(corpus[0])  # the frequency of the word which label is id0
 
 # generate LDA model
 ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=2, id2word=dictionary, passes=20)
+
+print(ldamodel.print_topics(num_topics=3, num_words=3))
 
 print(ldamodel.print_topics(num_topics=2, num_words=4))

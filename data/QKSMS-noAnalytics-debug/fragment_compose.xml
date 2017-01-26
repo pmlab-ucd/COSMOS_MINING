@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.moez.QKSMS.ui.view.AutoCompleteContactView android:id="@id/compose_recipients" android:background="@null" android:padding="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/hint_contacts" />
+            <include layout="@layout/view_starred_contacts" />
+        </LinearLayout>
+    </ScrollView>
+    <include layout="@layout/view_compose" />
+</LinearLayout>

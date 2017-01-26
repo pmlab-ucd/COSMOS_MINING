@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/empty_state" android:paddingBottom="32.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" android:alpha="0.5">
+        <ImageView android:id="@id/empty_state_icon" android:layout_width="120.0dip" android:layout_height="120.0dip" android:src="@drawable/ic_chat" />
+        <com.moez.QKSMS.ui.view.QKTextView android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hint_no_messages" app:type="dialog_title" />
+    </LinearLayout>
+    <android.support.v7.widget.RecyclerView android:scrollbarStyle="outsideOverlay" android:id="@id/conversations_list" android:paddingTop="8.0sp" android:paddingBottom="8.0sp" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:cacheColorHint="@color/transparent" android:divider="@null" />
+    <com.melnykov.fab.FloatingActionButton android:id="@id/fab" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="16.0dip" android:src="@drawable/ic_add" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" />
+</RelativeLayout>

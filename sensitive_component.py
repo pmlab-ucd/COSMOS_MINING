@@ -8,14 +8,15 @@ A class to represent a sensitive component
 
 
 class SensitiveComponent:
-    debug = True
+    debug = False
 
     class SensEntryPoint:
         def __init__(self, entry_data):
             self.entryName = entry_data['sensEntry']
             self.sensTargets = entry_data['sensTargets']
             self.views = {}
-            print(entry_data['views'])
+            if SensitiveComponent.debug:
+                print(entry_data['views'])
             for view_name in entry_data['views']:
                 self.views[view_name] = SensitiveComponent.SensitiveView(entry_data['views'][view_name])
 
@@ -40,9 +41,12 @@ class SensitiveComponent:
             entry_data = data['sensEntries'][sens_entry_name]
             self.sensEntries[sens_entry_name] = SensitiveComponent.SensEntryPoint(entry_data)
 
+    def get_entry(self, entry_name):
+        return self.sensEntries[entry_name]
+
 
 if __name__ == '__main__':
-    json_file = 'data/QKSMS-noAnalytics-debug.apk_com.moez.QKSMS.ui.compose.ComposeActivity.json'
+    json_file = 'data/QKSMS-noAnalytics-debug/QKSMS-noAnalytics-debug.apk_com.moez.QKSMS.ui.compose.ComposeActivity.json'
     sens_comp = SensitiveComponent(json_file)
     # print(sens_comp.componentName, sens_comp.layoutFile)
     for entry_name in sens_comp.sensEntries:
