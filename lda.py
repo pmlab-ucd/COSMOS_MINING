@@ -1,9 +1,9 @@
 from nltk.tokenize import RegexpTokenizer
 from stop_words import get_stop_words
 from nltk.stem.porter import PorterStemmer
-from gensim import corpora
+import os
 from gensim.models import ldamodel
-from operator import itemgetter
+from gensim import corpora, models
 
 
 class LDA:
@@ -30,7 +30,7 @@ class LDA:
 
     debug = False
 
-    def __init__(self, doc_list):
+    def __init__(self, doc_list, out_dir, model_name):
         # list for tokenized documents in loop
         self.texts = []
         self.doc_set = []
@@ -39,6 +39,8 @@ class LDA:
             self.add_doc(doc)
         self.model = None
         self.dictionary = None
+        self.out_dir = out_dir
+        self.model_name = model_name
 
     def add_doc(self, doc):
         self.doc_set.append(doc)
@@ -73,6 +75,7 @@ class LDA:
 
         print(dictionary.token2id)
         self.dictionary = dictionary
+        dictionary.save(self.out_dir + '/' + self.model_name + '.dict')
 
         # convert tokenized documents into a document-term matrix
         corpus = [dictionary.doc2bow(text) for text in self.texts]
@@ -82,14 +85,28 @@ class LDA:
         model = ldamodel.LdaModel(corpus, num_topics=3, id2word=dictionary, passes=20)
         print(model.print_topics(num_topics=3, num_words=9))
         self.model = model
+        model.save(self.out_dir + '/' + self.model_name + '.pkl')
 
         for i in self.texts:
             self.predict(' '.join(i))
 
     def predict(self, query):
-        if not self.model or not self.dictionary:
-            print('The model or dict is not set yet!')
-            return
+        model_file = self.out_dir + '/' + self.model_name + '.pkl'
+        dic_file = self.out_dir + '/' + self.model_name + '.dict'
+        if not self.model:
+            if not os.path.exists(model_file):
+                print('The model is not set yet!')
+                return
+            else:
+                self.model = models.LdaModel.load(model_file)
+
+        if not self.dictionary:
+            if not os.path.exists(dic_file):
+                print('The model is not set yet!')
+                return
+            else:
+                self.dictionary = corpora.Dictionary.load(dic_file)
+
         print(query)
         query = query.split()
         query_bow = self.dictionary.doc2bow(query)

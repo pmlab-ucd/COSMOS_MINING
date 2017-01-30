@@ -18,6 +18,6 @@ if __name__ == '__main__':
         print(trigger_out_handler.loc_words)
         Utilities.save_json(words, word_data_file_path)
     print(words)
-    a_lda = LDA(words)
+    a_lda = LDA(words, 'data/words/', category)
     a_lda.fit()
 
