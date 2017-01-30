@@ -19,5 +19,5 @@ if __name__ == '__main__':
         Utilities.save_json(words, word_data_file_path)
     print(words)
     a_lda = LDA(words)
-    a_lda.train()
+    a_lda.fit()
 

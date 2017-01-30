@@ -1,8 +1,9 @@
 from nltk.tokenize import RegexpTokenizer
 from stop_words import get_stop_words
 from nltk.stem.porter import PorterStemmer
-from gensim import corpora, models
-import gensim
+from gensim import corpora
+from gensim.models import ldamodel
+from operator import itemgetter
 
 
 class LDA:
@@ -36,6 +37,8 @@ class LDA:
         for doc in doc_list:
             doc = ';'.join(doc)
             self.add_doc(doc)
+        self.model = None
+        self.dictionary = None
 
     def add_doc(self, doc):
         self.doc_set.append(doc)
@@ -63,21 +66,37 @@ class LDA:
             # add tokens to list
             self.texts.append(filtered_tokens)
 
-    def train(self):
+    def fit(self):
         self.pre_process()
         # turn our tokenized documents into a id <-> term dictionary
         dictionary = corpora.Dictionary(self.texts)
 
         print(dictionary.token2id)
+        self.dictionary = dictionary
 
         # convert tokenized documents into a document-term matrix
         corpus = [dictionary.doc2bow(text) for text in self.texts]
         print(corpus[0])  # the frequency of the word which label is id0
 
         # generate LDA model
-        ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics=2, id2word=dictionary, passes=20)
+        model = ldamodel.LdaModel(corpus, num_topics=3, id2word=dictionary, passes=20)
+        print(model.print_topics(num_topics=3, num_words=9))
+        self.model = model
 
-        print(ldamodel.print_topics(num_topics=3, num_words=3))
+        for i in self.texts:
+            self.predict(' '.join(i))
 
-        print(ldamodel.print_topics(num_topics=5, num_words=5))
+    def predict(self, query):
+        if not self.model or not self.dictionary:
+            print('The model or dict is not set yet!')
+            return
+        print(query)
+        query = query.split()
+        query_bow = self.dictionary.doc2bow(query)
+        a = list(sorted(self.model[query_bow], key=lambda x: x[1]))
+        print(a[0], self.model.print_topic(a[0][0])) # the least related
+        print(a[-1], self.model.print_topic(a[-1][0])) # the most related
+
+
+
 
