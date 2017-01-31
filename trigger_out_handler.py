@@ -5,12 +5,16 @@ import os
 
 class TriggerOutHandler:
     category = ''
-    loc_words = []
+    words = []
     sens_comp = None
     apk_name = None
+    perm_type = None
 
-    def __init__(self, category):
+    def __init__(self, category, perm_type, trigger_py_out_dir):
         TriggerOutHandler.category = category
+        TriggerOutHandler.perm_type = perm_type
+        self.trigger_py_out_dir = trigger_py_out_dir
+        print(trigger_py_out_dir)
 
     def handle_dynamic_xml(self, dynamic_xml):
         text = []
@@ -38,19 +42,19 @@ class TriggerOutHandler:
 
             for entry_name in self.sens_comp.sensEntries:
                 for sens_target in self.sens_comp.get_entry(entry_name).sensTargets:
-                    if 'Location' in str(sens_target):
-                        self.loc_words.append(text)
-
+                    if self.perm_type in str(sens_target):
+                        self.words.append(text)
+        else:
+            print(dynamic_xml + ' does not exist!')
 
     def handle_out_json(self, json_file):
         #print(json_file)
         self.apk_name = os.path.basename(os.path.dirname(json_file))
-        activity_name = json_file.split('_')[1].replace('.json', '')
+        activity_name = str(os.path.basename(json_file))
+        activity_name = activity_name.split('_')[1].replace('.json', '')
         self.sens_comp = sensitive_component.SensitiveComponent(json_file)
         #print(sens_comp.componentName, sens_comp.layoutFile)
 
-
-        trigger_py_out_dir = 'data\\'
-        dynamic_xml_dir = trigger_py_out_dir + self.category + "\\" + self.apk_name
+        dynamic_xml_dir = self.trigger_py_out_dir + self.category + "\\" + self.apk_name
         dymamic_xml = dynamic_xml_dir + "\\" + activity_name + '.xml'
         self.handle_dynamic_xml(dymamic_xml)
