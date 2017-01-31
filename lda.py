@@ -7,6 +7,7 @@ from gensim import corpora, models
 
 
 class LDA:
+    logger = None
     tokenizer = RegexpTokenizer(r'\w+')
 
     # create English stop words list
@@ -30,7 +31,7 @@ class LDA:
 
     debug = False
 
-    def __init__(self, doc_list, out_dir, model_name):
+    def __init__(self, doc_list, out_dir, model_name, ntop):
         # list for tokenized documents in loop
         self.texts = []
         self.doc_set = []
@@ -41,6 +42,7 @@ class LDA:
         self.dictionary = None
         self.out_dir = out_dir
         self.model_name = model_name
+        self.ntop = ntop
 
     def add_doc(self, doc):
         self.doc_set.append(doc)
@@ -52,7 +54,7 @@ class LDA:
             raw = i.lower()
             tokens = self.tokenizer.tokenize(raw)
             if LDA.debug:
-                print(tokens)
+                LDA.logger.info(tokens)
 
             # remove stop words from tokens
             stopped_tokens = [i for i in tokens if i not in self.en_stop]
@@ -60,7 +62,7 @@ class LDA:
             # stem tokens
             stemmed_tokens = [self.p_stemmer.stem(i) for i in stopped_tokens ]
             if LDA.debug:
-                print(stemmed_tokens)
+                LDA.logger.info(stemmed_tokens)
 
             # filter other useless words
             filtered_tokens = [i for i in stemmed_tokens if i not in self.useless_words]
@@ -73,17 +75,17 @@ class LDA:
         # turn our tokenized documents into a id <-> term dictionary
         dictionary = corpora.Dictionary(self.texts)
 
-        print(dictionary.token2id)
+        LDA.logger.info(dictionary.token2id)
         self.dictionary = dictionary
         dictionary.save(self.out_dir + '/' + self.model_name + '.dict')
 
         # convert tokenized documents into a document-term matrix
         corpus = [dictionary.doc2bow(text) for text in self.texts]
-        print(corpus[0])  # the frequency of the word which label is id0
+        LDA.logger.info(corpus[0])  # the frequency of the word which label is id0
 
         # generate LDA model
-        model = ldamodel.LdaModel(corpus, num_topics=3, id2word=dictionary, passes=20)
-        print(model.print_topics(num_topics=3, num_words=9))
+        model = ldamodel.LdaModel(corpus, num_topics=self.ntop, id2word=dictionary, passes=20)
+        LDA.logger.info(model.print_topics(num_topics=self.ntop, num_words=9))
         self.model = model
         model.save(self.out_dir + '/' + self.model_name + '.pkl')
 
@@ -95,24 +97,24 @@ class LDA:
         dic_file = self.out_dir + '/' + self.model_name + '.dict'
         if not self.model:
             if not os.path.exists(model_file):
-                print('The model is not set yet!')
+                LDA.logger.info('The model is not set yet!')
                 return
             else:
                 self.model = models.LdaModel.load(model_file)
 
         if not self.dictionary:
             if not os.path.exists(dic_file):
-                print('The model is not set yet!')
+                LDA.logger.info('The model is not set yet!')
                 return
             else:
                 self.dictionary = corpora.Dictionary.load(dic_file)
 
-        print(query)
+        LDA.logger.info(query)
         query = query.split()
         query_bow = self.dictionary.doc2bow(query)
         a = list(sorted(self.model[query_bow], key=lambda x: x[1]))
-        print(a[0], self.model.print_topic(a[0][0])) # the least related
-        print(a[-1], self.model.print_topic(a[-1][0])) # the most related
+        LDA.logger.info(str(a[0]) + ', ' + self.model.print_topic(a[0][0])) # the least related
+        LDA.logger.info(str(a[0]) + ', ' + self.model.print_topic(a[-1][0])) # the most related
 
 
 

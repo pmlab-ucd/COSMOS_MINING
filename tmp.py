@@ -1,8 +1,15 @@
 import os
+super_out_dir = 'Play_win8'
+out_base_dir = 'data/words/' + super_out_dir
+file_path = out_base_dir + '/COSMOS_TRIGGER_PY.log'
+print(os.path.dirname(file_path))
+if not os.path.exists(os.path.dirname(file_path)):
 
-trigger_py_out_dir = 'D:\COSMOS\output\py\\'
-for filename in os.listdir(trigger_py_out_dir):
-    if os.path.isdir(os.path.join(trigger_py_out_dir, filename)):
-        print(filename)
+    print('g')
+    os.makedirs(os.path.dirname(file_path))
+else:
+    print(os.path.abspath(os.path.dirname(file_path)))
+    print('c')
+
 
 
