@@ -13,12 +13,12 @@ if __name__ == '__main__':
 
     trigger_java_out_dir = 'D:\COSMOS\output\java\\' + super_out_dir + '\\'
     trigger_py_out_dir = 'D:\COSMOS\output\py\\' + super_out_dir + '\\'
-    categories = []
+    categories = {}
     for filename in os.listdir(trigger_py_out_dir):
         if os.path.isdir(os.path.join(trigger_py_out_dir, filename)):
             logger.info(filename)
             category = filename
-            categories.append(category)
+            categories[category] = []
 
     all_words = []
     for category in categories:
@@ -37,12 +37,16 @@ if __name__ == '__main__':
             # logger.info(trigger_out_handler.words)
             Utilities.save_json(words, word_data_file_path)
         # logger.info(words)
-        for word in words:
-            print(word)
+        categories[category] = words
         all_words.extend(words.values())
 
     a_lda = LDA(all_words, out_base_dir, super_out_dir, len(categories))
     a_lda.fit()
+
+    for category in categories:
+        for doc_xml in categories[category]:
+            logger.info(doc_xml)
+            a_lda.predict(categories[category][doc_xml], pre_process=True)
 
     file_handler.close()
     logger.removeHandler(file_handler)

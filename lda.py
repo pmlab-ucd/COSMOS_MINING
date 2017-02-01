@@ -65,13 +65,13 @@ class LDA:
         # filter other useless words
         filtered_tokens = [i for i in stemmed_tokens if i not in self.useless_words]
 
-        # add tokens to list
-        self.texts.append(filtered_tokens)
+        return filtered_tokens
 
     def pre_process_doc_set(self, doc_set):
         # loop through document list
         for i in doc_set:
-            self.pre_process(i)
+            # add tokens to list
+            self.texts.append(self.pre_process(i))
 
     def fit(self):
         self.pre_process_doc_set(self.doc_set)
@@ -99,10 +99,9 @@ class LDA:
             for i in self.texts:
                 self.predict(' '.join(i))
 
-    def predict(self, query):
-        model_file = self.out_dir + '/' + self.model_name + '.pkl'
-        dic_file = self.out_dir + '/' + self.model_name + '.dict'
+    def predict(self, query, pre_process=False):
         if not self.model:
+            model_file = self.out_dir + '/' + self.model_name + '.pkl'
             if not os.path.exists(model_file):
                 LDA.logger.error('The model is not set yet!')
                 return
@@ -110,11 +109,19 @@ class LDA:
                 self.model = models.LdaModel.load(model_file)
 
         if not self.dictionary:
+            dic_file = self.out_dir + '/' + self.model_name + '.dict'
             if not os.path.exists(dic_file):
                 LDA.logger.error('The model is not set yet!')
                 return
             else:
                 self.dictionary = corpora.Dictionary.load(dic_file)
+
+        if pre_process:
+            query = ';'.join(query)
+            query = self.pre_process(query)
+
+        if not isinstance(query, str):
+            query = ' '.join(query)
 
         LDA.logger.info(query)
         query = query.split()
