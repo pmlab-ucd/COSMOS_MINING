@@ -28,6 +28,7 @@ class Utilities:
     @staticmethod
     def load_json(file_path):
         if not os.path.exists(file_path):
+            print(file_path + ' does not exist.')
             return None
         with open(file_path) as data_file:
             data = json.load(data_file)

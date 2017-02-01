@@ -5,10 +5,11 @@ import os
 
 class TriggerOutHandler:
     category = ''
-    words = []
+    words = {}
     sens_comp = None
     apk_name = None
     perm_type = None
+    logger = None
 
     def __init__(self, category, perm_type, trigger_py_out_dir):
         TriggerOutHandler.category = category
@@ -24,7 +25,7 @@ class TriggerOutHandler:
                 try:
                     data = f.read()
                 except UnicodeDecodeError as e:
-                    print(e)
+                    TriggerOutHandler.logger.error(e)
                     return
             dom = parseString(data)
             nodes = dom.getElementsByTagName('node')
@@ -43,9 +44,9 @@ class TriggerOutHandler:
             for entry_name in self.sens_comp.sensEntries:
                 for sens_target in self.sens_comp.get_entry(entry_name).sensTargets:
                     if self.perm_type in str(sens_target):
-                        self.words.append(text)
+                        self.words[dynamic_xml] = text
         else:
-            print(dynamic_xml + ' does not exist!')
+            TriggerOutHandler.logger.error(dynamic_xml + ' does not exist!')
 
     def handle_out_json(self, json_file):
         #print(json_file)

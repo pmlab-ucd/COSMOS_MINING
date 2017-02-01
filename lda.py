@@ -12,7 +12,7 @@ class LDA:
 
     # create English stop words list
     en_stop = get_stop_words('en')
-    useless_words = ['get', 'start', 'let', 's', 'start', 'use']
+    useless_words = ['get', 'start', 'let', 's', 'start', 'use', 'ok']
 
     # Create p_stemmer of class PorterStemmer
     p_stemmer = PorterStemmer()
@@ -47,64 +47,71 @@ class LDA:
     def add_doc(self, doc):
         self.doc_set.append(doc)
 
-    def pre_process(self):
+    def pre_process(self, doc):
+        # clean and tokenize document string
+        raw = doc.lower()
+        tokens = self.tokenizer.tokenize(raw)
+        if LDA.debug:
+            LDA.logger.info(tokens)
+
+        # remove stop words from tokens
+        stopped_tokens = [i for i in tokens if i not in self.en_stop]
+
+        # stem tokens
+        stemmed_tokens = [self.p_stemmer.stem(i) for i in stopped_tokens]
+        if LDA.debug:
+            LDA.logger.info(stemmed_tokens)
+
+        # filter other useless words
+        filtered_tokens = [i for i in stemmed_tokens if i not in self.useless_words]
+
+        # add tokens to list
+        self.texts.append(filtered_tokens)
+
+    def pre_process_doc_set(self, doc_set):
         # loop through document list
-        for i in self.doc_set:
-            # clean and tokenize document string
-            raw = i.lower()
-            tokens = self.tokenizer.tokenize(raw)
-            if LDA.debug:
-                LDA.logger.info(tokens)
-
-            # remove stop words from tokens
-            stopped_tokens = [i for i in tokens if i not in self.en_stop]
-
-            # stem tokens
-            stemmed_tokens = [self.p_stemmer.stem(i) for i in stopped_tokens ]
-            if LDA.debug:
-                LDA.logger.info(stemmed_tokens)
-
-            # filter other useless words
-            filtered_tokens = [i for i in stemmed_tokens if i not in self.useless_words]
-
-            # add tokens to list
-            self.texts.append(filtered_tokens)
+        for i in doc_set:
+            self.pre_process(i)
 
     def fit(self):
-        self.pre_process()
+        self.pre_process_doc_set(self.doc_set)
         # turn our tokenized documents into a id <-> term dictionary
         dictionary = corpora.Dictionary(self.texts)
 
-        LDA.logger.info(dictionary.token2id)
+        if self.debug:
+            LDA.logger.info(dictionary.token2id)
         self.dictionary = dictionary
         dictionary.save(self.out_dir + '/' + self.model_name + '.dict')
 
         # convert tokenized documents into a document-term matrix
         corpus = [dictionary.doc2bow(text) for text in self.texts]
-        LDA.logger.info(corpus[0])  # the frequency of the word which label is id0
+        if self.debug:
+            LDA.logger.info(corpus[0])  # the frequency of the word which label is id0
 
         # generate LDA model
         model = ldamodel.LdaModel(corpus, num_topics=self.ntop, id2word=dictionary, passes=20)
-        LDA.logger.info(model.print_topics(num_topics=self.ntop, num_words=9))
+        for trained_model in model.print_topics(num_topics=self.ntop, num_words=9):
+            LDA.logger.info('Trained: ' + str(trained_model))
         self.model = model
         model.save(self.out_dir + '/' + self.model_name + '.pkl')
 
-        for i in self.texts:
-            self.predict(' '.join(i))
+        if self.debug:
+            for i in self.texts:
+                self.predict(' '.join(i))
 
     def predict(self, query):
         model_file = self.out_dir + '/' + self.model_name + '.pkl'
         dic_file = self.out_dir + '/' + self.model_name + '.dict'
         if not self.model:
             if not os.path.exists(model_file):
-                LDA.logger.info('The model is not set yet!')
+                LDA.logger.error('The model is not set yet!')
                 return
             else:
                 self.model = models.LdaModel.load(model_file)
 
         if not self.dictionary:
             if not os.path.exists(dic_file):
-                LDA.logger.info('The model is not set yet!')
+                LDA.logger.error('The model is not set yet!')
                 return
             else:
                 self.dictionary = corpora.Dictionary.load(dic_file)
@@ -113,8 +120,8 @@ class LDA:
         query = query.split()
         query_bow = self.dictionary.doc2bow(query)
         a = list(sorted(self.model[query_bow], key=lambda x: x[1]))
-        LDA.logger.info(str(a[0]) + ', ' + self.model.print_topic(a[0][0])) # the least related
-        LDA.logger.info(str(a[0]) + ', ' + self.model.print_topic(a[-1][0])) # the most related
+        LDA.logger.info(str(a[0]) + ', ' + self.model.print_topic(a[0][0]))  # the least related
+        LDA.logger.info(str(a[-1]) + ', ' + self.model.print_topic(a[-1][0]))  # the most related
 
 
 
