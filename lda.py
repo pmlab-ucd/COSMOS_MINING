@@ -12,7 +12,7 @@ class LDA:
 
     # create English stop words list
     en_stop = get_stop_words('en')
-    useless_words = ['get', 'start', 'let', 's', 'start', 'use', 'ok']
+    useless_words = ['get', 'start', 'let', 's', 'start', 'use', 'ok', 'cancel', 'please']
 
     # Create p_stemmer of class PorterStemmer
     p_stemmer = PorterStemmer()
@@ -57,13 +57,17 @@ class LDA:
         # remove stop words from tokens
         stopped_tokens = [i for i in tokens if i not in self.en_stop]
 
-        # stem tokens
-        stemmed_tokens = [self.p_stemmer.stem(i) for i in stopped_tokens]
-        if LDA.debug:
-            LDA.logger.info(stemmed_tokens)
-
         # filter other useless words
+        filtered_tokens = [i for i in stopped_tokens if i not in self.useless_words]
+
+        # stem tokens
+        stemmed_tokens = [self.p_stemmer.stem(i) for i in filtered_tokens]
+
+        # filter other useless words, again
         filtered_tokens = [i for i in stemmed_tokens if i not in self.useless_words]
+
+        if LDA.debug:
+            LDA.logger.info(filtered_tokens)
 
         return filtered_tokens
 
@@ -99,7 +103,7 @@ class LDA:
             for i in self.texts:
                 self.predict(' '.join(i))
 
-    def predict(self, query, pre_process=False):
+    def predict(self, query, pre_process=False, threshold=0.5):
         if not self.model:
             model_file = self.out_dir + '/' + self.model_name + '.pkl'
             if not os.path.exists(model_file):
@@ -127,8 +131,12 @@ class LDA:
         query = query.split()
         query_bow = self.dictionary.doc2bow(query)
         a = list(sorted(self.model[query_bow], key=lambda x: x[1]))
-        LDA.logger.info(str(a[0]) + ', ' + self.model.print_topic(a[0][0]))  # the least related
-        LDA.logger.info(str(a[-1]) + ', ' + self.model.print_topic(a[-1][0]))  # the most related
+        tnum, likelihood = a[-1]
+        if likelihood < threshold:
+                # LDA.logger.info(str(a[0]) + ', ' + self.model.print_topic(a[0][0]))  # the least related
+            LDA.logger.info(str(a[-1]) + ', ' + self.model.print_topic(a[-1][0]))  # the most related
+        else:
+            LDA.logger.info('Passed with ' + str(a[-1]) + ', ' + self.model.print_topic(a[-1][0]))
 
 
 

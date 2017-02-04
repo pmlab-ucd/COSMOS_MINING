@@ -16,34 +16,51 @@ if __name__ == '__main__':
     categories = {}
     for filename in os.listdir(trigger_py_out_dir):
         if os.path.isdir(os.path.join(trigger_py_out_dir, filename)):
-            logger.info(filename)
             category = filename
             categories[category] = []
 
     all_words = []
+    rm_category = []
     for category in categories:
-        word_data_file_path = trigger_py_out_dir + category + '.json'
-        words = Utilities.load_json(word_data_file_path)
+        doc_data_file_path = trigger_py_out_dir + category + '.json'
+        docs = {}
+        docs = Utilities.load_json(doc_data_file_path)
 
-        if not words:
+        if not docs:
+            logger.info('Try to read xml files for ' + category)
             trigger_out_handler = TriggerOutHandler(category, 'Location', trigger_py_out_dir)
             if not os.path.exists(trigger_java_out_dir + category):
+                rm_category.append(category)
                 continue
             for root, dirs, files in os.walk(trigger_java_out_dir + category):
                 for file_name in files:
                     if file_name.endswith('.json'):
-                        trigger_out_handler.handle_out_json(os.path.join(root, file_name))
-            words = trigger_out_handler.words
+                        try:
+                            trigger_out_handler.handle_out_json(os.path.join(root, file_name))
+                        except KeyError as e:
+                            logger.error(e)
+                            logger.error(os.path.join(root, file_name))
+            docs = trigger_out_handler.words
             # logger.info(trigger_out_handler.words)
-            Utilities.save_json(words, word_data_file_path)
-        # logger.info(words)
-        categories[category] = words
-        all_words.extend(words.values())
+
+            Utilities.save_json(docs, doc_data_file_path)
+        if not docs or len(docs) == 0 or not isinstance(docs, dict):
+            rm_category.append(category)
+        else:
+            categories[category] = docs
+            all_words.extend(docs.values())
+
+    for category in rm_category:
+        categories.pop(category, None)
+
+    for category in categories:
+        logger.info(category)
 
     a_lda = LDA(all_words, out_base_dir, super_out_dir, len(categories))
     a_lda.fit()
 
     for category in categories:
+        logger.info(category)
         for doc_xml in categories[category]:
             logger.info(doc_xml)
             a_lda.predict(categories[category][doc_xml], pre_process=True)
