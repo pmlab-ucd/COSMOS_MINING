@@ -5,9 +5,11 @@ from utils import Utilities
 
 if __name__ == '__main__':
     super_out_dir = 'Play_win8'
-    out_base_dir = 'data/words/' + super_out_dir
+    perm_keyword = 'Location'  # Location'
+    out_base_dir = 'output/semantic_dist/' + super_out_dir + '/' + perm_keyword + '/'
     logger = Utilities.set_logger('COSMOS_MINING_PY')
-    file_handler = Utilities.set_file_log(logger, out_base_dir + '/COSMOS_MINING_PY.log')
+
+    file_handler = Utilities.set_file_log(logger, out_base_dir + '/COSMOS_MINING_PY' + '_' + perm_keyword + '.log')
     LDA.logger = logger
     TriggerOutHandler.logger = logger
 
@@ -21,14 +23,15 @@ if __name__ == '__main__':
 
     all_words = []
     rm_category = []
+
     for category in categories:
-        doc_data_file_path = trigger_py_out_dir + category + '.json'
+        doc_data_file_path = out_base_dir + category + '_' + perm_keyword + '.json'
         docs = {}
         docs = Utilities.load_json(doc_data_file_path)
 
         if not docs:
             logger.info('Try to read xml files for ' + category)
-            trigger_out_handler = TriggerOutHandler(category, 'Location', trigger_py_out_dir)
+            trigger_out_handler = TriggerOutHandler(category, perm_keyword, trigger_py_out_dir)
             if not os.path.exists(trigger_java_out_dir + category):
                 rm_category.append(category)
                 continue
@@ -37,7 +40,7 @@ if __name__ == '__main__':
                     if file_name.endswith('.json'):
                         try:
                             trigger_out_handler.handle_out_json(os.path.join(root, file_name))
-                        except KeyError as e:
+                        except Exception as e:
                             logger.error(e)
                             logger.error(os.path.join(root, file_name))
             docs = trigger_out_handler.words
@@ -56,7 +59,7 @@ if __name__ == '__main__':
     for category in categories:
         logger.info(category)
 
-    a_lda = LDA(all_words, out_base_dir, super_out_dir, len(categories))
+    a_lda = LDA(all_words, out_base_dir, super_out_dir + '_' + perm_keyword, len(categories))
     a_lda.fit()
 
     for category in categories:

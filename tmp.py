@@ -1,6 +1,7 @@
 import os
 super_out_dir = 'Play_win8'
-out_base_dir = 'data/words/' + super_out_dir
+perm_keyword = 'Contact'  # Location'
+out_base_dir = 'output/semantic_dist/' + super_out_dir + '/' + perm_keyword
 file_path = out_base_dir + '/COSMOS_TRIGGER_PY.log'
 print(os.path.dirname(file_path))
 if not os.path.exists(os.path.dirname(file_path)):
