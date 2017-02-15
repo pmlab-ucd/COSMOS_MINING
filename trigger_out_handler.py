@@ -8,12 +8,12 @@ class TriggerOutHandler:
     words = {}
     sens_comp = None
     apk_name = None
-    perm_type = None
+    perm_keywords = None
     logger = None
 
-    def __init__(self, category, perm_type, trigger_py_out_dir):
+    def __init__(self, category, perm_keywords, trigger_py_out_dir):
         TriggerOutHandler.category = category
-        TriggerOutHandler.perm_type = perm_type
+        TriggerOutHandler.perm_keywords = perm_keywords
         self.trigger_py_out_dir = trigger_py_out_dir
         print(trigger_py_out_dir)
 
@@ -43,8 +43,9 @@ class TriggerOutHandler:
 
             for entry_name in self.sens_comp.sensEntries:
                 for sens_target in self.sens_comp.get_entry(entry_name).sensTargets:
-                    if self.perm_type in str(sens_target):
-                        self.words[dynamic_xml] = text
+                    for perm_keyword in self.perm_keywords:
+                        if perm_keyword in str(sens_target):
+                            self.words[dynamic_xml] = text
         else:
             TriggerOutHandler.logger.error(dynamic_xml + ' does not exist!')
 

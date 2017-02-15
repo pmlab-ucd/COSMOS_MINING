@@ -3,13 +3,20 @@ from trigger_out_handler import TriggerOutHandler
 from lda import LDA
 from utils import Utilities
 
+perm_types = {
+    'Location': ['Location'],
+    'Contact': ['Contact'],
+    'Camera': ['Camera', 'MediaRecorder'],
+    'CHANGE_WIFI_STATE': ['WifiManager', 'WifiP2pManager']}
+
 if __name__ == '__main__':
     super_out_dir = 'Play_win8'
-    perm_keyword = 'Location'  # Location'
-    out_base_dir = 'output/semantic_dist/' + super_out_dir + '/' + perm_keyword + '/'
+    perm_type = 'Location'
+    perm_keywords = perm_types[perm_type]
+    out_base_dir = 'output/semantic_dist/' + super_out_dir + '/' + perm_type + '/'
     logger = Utilities.set_logger('COSMOS_MINING_PY')
 
-    file_handler = Utilities.set_file_log(logger, out_base_dir + '/COSMOS_MINING_PY' + '_' + perm_keyword + '.log')
+    file_handler = Utilities.set_file_log(logger, out_base_dir + '/COSMOS_MINING_PY' + '_' + perm_type + '.log')
     LDA.logger = logger
     TriggerOutHandler.logger = logger
 
@@ -25,15 +32,16 @@ if __name__ == '__main__':
     rm_category = []
 
     for category in categories:
-        doc_data_file_path = out_base_dir + category + '_' + perm_keyword + '.json'
+        doc_data_file_path = out_base_dir + category + '_' + perm_type + '.json'
         docs = {}
         docs = Utilities.load_json(doc_data_file_path)
 
         if not docs:
             logger.info('Try to read xml files for ' + category)
-            trigger_out_handler = TriggerOutHandler(category, perm_keyword, trigger_py_out_dir)
+            trigger_out_handler = TriggerOutHandler(category, perm_keywords, trigger_py_out_dir)
             if not os.path.exists(trigger_java_out_dir + category):
                 rm_category.append(category)
+                logger.warn(category + ' does not exist.')
                 continue
             for root, dirs, files in os.walk(trigger_java_out_dir + category):
                 for file_name in files:
@@ -59,7 +67,7 @@ if __name__ == '__main__':
     for category in categories:
         logger.info(category)
 
-    a_lda = LDA(all_words, out_base_dir, super_out_dir + '_' + perm_keyword, len(categories))
+    a_lda = LDA(all_words, out_base_dir, super_out_dir + '_' + perm_type, len(categories))
     a_lda.fit()
 
     for category in categories:
