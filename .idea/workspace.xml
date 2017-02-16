@@ -2,42 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b876ad0-1846-4c17-9912-20cfaf15dc70" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Play_win8_Location.dict" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Play_win8_Location.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Play_win8_Location.pkl.state" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Books_Reference_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Business_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/COMICS_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/COSMOS_MINING_PY_Location.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Casual_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Communication_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Education_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Finance_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Health_Fitness_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Libraries_Demo_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Medical_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Music_Audio_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/News_Magazines_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Personalization_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Photography_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Productivity_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Shopping_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Simulation_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Social_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Sports_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Tools_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Travel_Local_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Weather_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sensitive_component_test.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Social_Camera.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Location/Social_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Books_Reference_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Business_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/COMICS_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/COSMOS_MINING_PY_Location.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Casual_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Communication_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Education_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Finance_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Health_Fitness_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Libraries_Demo_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Medical_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Music_Audio_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/News_Magazines_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Personalization_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Photography_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Play_win8_Location.dict" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Play_win8_Location.pkl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Play_win8_Location.pkl.state" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Productivity_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Shopping_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Simulation_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Social_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Sports_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Tools_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Travel_Local_Location.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Weather_Location.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lda.py" afterPath="$PROJECT_DIR$/lda.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sensitive_component.py" afterPath="$PROJECT_DIR$/sensitive_component.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp.py" afterPath="$PROJECT_DIR$/tmp.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trigger_out_handler.py" afterPath="$PROJECT_DIR$/trigger_out_handler.py" />
     </list>
     <ignored path="COSPOS_MINGING.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,7 +43,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/COSMOS_MINING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1487131823343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$main.coverage" NAME="main Coverage Results" MODIFIED="1487203962037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$main.coverage" NAME="main Coverage Results" MODIFIED="1487207123191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSPOS_MINGING$lda.coverage" NAME="lda Coverage Results" MODIFIED="1477613100242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$k_means.coverage" NAME="k-means Coverage Results" MODIFIED="1485041961188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$lda.coverage" NAME="lda Coverage Results" MODIFIED="1485234377879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -160,8 +152,8 @@
       <file leaf-file-name="sensitive_component.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sensitive_component.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            <state relative-caret-position="600">
+              <caret line="40" column="23" lean-forward="false" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -413,7 +405,7 @@
       <recent name="D:\workspace\COSPOS_MINGING\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sensitive_component_test">
+  <component name="RunManager" selected="Python.main">
     <configuration default="false" name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -738,8 +730,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.sensitive_component_test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sensitive_component_test" />
         <item index="2" class="java.lang.String" itemvalue="Python.test" />
         <item index="3" class="java.lang.String" itemvalue="Python.tmp" />
         <item index="4" class="java.lang.String" itemvalue="Python.lda" />
@@ -837,7 +829,14 @@
       <option name="project" value="LOCAL" />
       <updated>1487129384381</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add event type">
+      <created>1487207076929</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1487207076957</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -907,7 +906,8 @@
     <MESSAGE value="Correct the category number" />
     <MESSAGE value="Optimize output folders" />
     <MESSAGE value="More results" />
-    <option name="LAST_COMMIT_MESSAGE" value="More results" />
+    <MESSAGE value="Add event type" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add event type" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1278,8 +1278,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sensitive_component.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        <state relative-caret-position="600">
+          <caret line="40" column="23" lean-forward="false" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

@@ -1,6 +1,7 @@
 import json
 import utils
 from pprint import pprint
+import re
 
 """
 A class to represent a sensitive component
@@ -30,7 +31,12 @@ class SensitiveComponent:
             sub_names = entry_name.split(' ')
             method_name = sub_names[2]
             class_name = sub_names[0]
+            class_name = SensitiveComponent.SensEntryPoint.sep_class_name(class_name)
             return class_name + ' ' + method_name
+
+        @staticmethod
+        def sep_class_name(class_name):
+            return ' '.join(re.findall('[A-Z][^A-Z]*', class_name))
 
     class SensitiveView:
         def __init__(self, view_data):
