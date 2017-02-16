@@ -13,7 +13,7 @@ class LDA:
     # create English stop words list
     en_stop = get_stop_words('en')
     useless_words = ['get', 'start', 'let', 's', 'start', 'use', 'ok', 'cancel', 'please', 'void', 'com',
-                     'bundl', 'boolean', 'android', 'os', 'int', 'activ', 'view', 'app']
+                     'bundl', 'android', 'os', 'int', 'activ', 'view', 'app', 'ui']
 
     # Create p_stemmer of class PorterStemmer
     p_stemmer = PorterStemmer()

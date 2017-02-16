@@ -2,6 +2,7 @@ import json
 import utils
 from pprint import pprint
 import re
+from word_spliter import WordSpliter
 
 """
 A class to represent a sensitive component
@@ -36,7 +37,19 @@ class SensitiveComponent:
 
         @staticmethod
         def sep_class_name(class_name):
-            return ' '.join(re.findall('[A-Z][^A-Z]*', class_name))
+            name = []
+            class_sub_names = str(class_name).split('.')
+            for sub_name in class_sub_names:
+                cap_sub_name = ' '.join(re.findall('[A-Z][^A-Z]*', sub_name))
+                if len(cap_sub_name) > 0:
+                    name.append(cap_sub_name)
+                else:
+                    if len(sub_name) == len(WordSpliter.infer_spaces(sub_name).split(' ')):
+                        name.append(sub_name)
+                    else:
+                        name.append(WordSpliter.infer_spaces(sub_name))
+
+            return ' '.join(name)
 
     class SensitiveView:
         def __init__(self, view_data):
