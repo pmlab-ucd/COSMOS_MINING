@@ -1,86 +1,81 @@
-# Author: Olivier Grisel <olivier.grisel@ensta.org>
-#         Lars Buitinck
-#         Chyi-Kwei Yau <chyikwei.yau@gmail.com>
-# License: BSD 3 clause
-
-from __future__ import print_function
-from time import time
-
-from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
-from sklearn.decomposition import NMF, LatentDirichletAllocation
-from sklearn.datasets import fetch_20newsgroups
+import os
+from trigger_out_handler import TriggerOutHandler
+from lda import LDA
 from utils import Utilities
 
-n_samples = 2000
-n_features = 1000
-n_topics = 10
-n_top_words = 20
+perm_types = {
+    'Location': ['Location'],
+    'Contact': ['Contact'],
+    'Camera': ['Camera', 'MediaRecorder'],
+    'CHANGE_WIFI_STATE': ['WifiManager', 'WifiP2pManager']}
+
+dist_types = {
+    'semantic': 'semantic_dist',
+    'event': 'event_dist',
+    'who': 'who_dist',
+    'all': 'all_dist'
+}
+
+if __name__ == '__main__':
+    super_out_dir = 'Play_win8'
+    perm_type = 'Location'
+    perm_keywords = perm_types[perm_type]
+    dist_type = 'who'
+    out_base_dir = 'output/' + dist_types[dist_type] + '/' + super_out_dir + '/' + perm_type + '/'
+    logger = Utilities.set_logger('COSMOS_MINING_PY')
+
+    LDA.logger = logger
+    TriggerOutHandler.logger = logger
+
+    trigger_java_out_dir = 'D:\COSMOS\output\java\\' + super_out_dir + '\\'
+    trigger_py_out_dir = 'D:\COSMOS\output\py\\' + super_out_dir + '\\'
+    categories = {}
+    for filename in os.listdir(trigger_py_out_dir):
+        if os.path.isdir(os.path.join(trigger_py_out_dir, filename)):
+            category = filename
+            categories[category] = []
+
+    all_words = []
+    rm_category = []
+
+    for category in categories:
+        doc_data_file_path = out_base_dir + category + '_' + perm_type + '.json'
+        docs = {}
+        docs = Utilities.load_json(doc_data_file_path)
+
+        if not docs:
+            logger.info('Try to read xml files for ' + category)
+            trigger_out_handler = TriggerOutHandler(category, perm_keywords, trigger_py_out_dir)
+            if not os.path.exists(trigger_java_out_dir + category):
+                rm_category.append(category)
+                logger.warn(category + ' does not exist.')
+                continue
+            for root, dirs, files in os.walk(trigger_java_out_dir + category):
+                for file_name in files:
+                    if file_name.endswith('.json'):
+                        try:
+                            trigger_out_handler.handle_out_json(os.path.join(root, file_name))
+                            for entry in trigger_out_handler.get_sens_comp().get_entries():
+                                views = trigger_out_handler.get_sens_comp().get_entry(entry).get_views()
+                                for view in views:
+                                    print(view, views[view].srid)
+                        except Exception as e:
+                            logger.error(e)
+                            logger.error(os.path.join(root, file_name))
+            docs = trigger_out_handler.words
+            # logger.info(trigger_out_handler.words)
+
+            #Utilities.save_json(docs, doc_data_file_path)
+        if not docs or len(docs) == 0 or not isinstance(docs, dict):
+            rm_category.append(category)
+        else:
+            categories[category] = docs
+            all_words.extend(docs.values())
+
+    for category in rm_category:
+        categories.pop(category, None)
+
+    for category in categories:
+        logger.info(category)
 
 
-def print_top_words(model, feature_names, n_top_words):
-    for topic_idx, topic in enumerate(model.components_):
-        print("Topic #%d:" % topic_idx)
-        print(" ".join([feature_names[i]
-                        for i in topic.argsort()[:-n_top_words - 1:-1]]))
-    print()
-
-
-# Load the 20 newsgroups dataset and vectorize it. We use a few heuristics
-# to filter out useless terms early on: the posts are stripped of headers,
-# footers and quoted replies, and common English words, words occurring in
-# only one document or in at least 95% of the documents are removed.
-
-print("Loading dataset...")
-t0 = time()
-trigger_java_out_dir = 'D:\COSMOS\output\java\\'
-category = 'Weather'
-word_data_file_path = 'data/words/' + category + '.json'
-words = Utilities.load_json(word_data_file_path)
-data_samples = ','.join(words)
-print("done in %0.3fs." % (time() - t0))
-
-# Use tf-idf features for NMF.
-print("Extracting tf-idf features for NMF...")
-tfidf_vectorizer = TfidfVectorizer(max_df=0.95, min_df=2,
-                                   max_features=n_features,
-                                   stop_words='english')
-t0 = time()
-tfidf = tfidf_vectorizer.fit_transform(data_samples)
-print("done in %0.3fs." % (time() - t0))
-
-# Use tf (raw term count) features for LDA.
-print("Extracting tf features for LDA...")
-tf_vectorizer = CountVectorizer(max_df=0.95, min_df=2,
-                                max_features=n_features,
-                                stop_words='english')
-t0 = time()
-tf = tf_vectorizer.fit_transform(data_samples)
-print("done in %0.3fs." % (time() - t0))
-
-# Fit the NMF model
-print("Fitting the NMF model with tf-idf features, "
-      "n_samples=%d and n_features=%d..."
-      % (n_samples, n_features))
-t0 = time()
-nmf = NMF(n_components=n_topics, random_state=1,
-          alpha=.1, l1_ratio=.5).fit(tfidf)
-print("done in %0.3fs." % (time() - t0))
-
-print("\nTopics in NMF model:")
-tfidf_feature_names = tfidf_vectorizer.get_feature_names()
-print_top_words(nmf, tfidf_feature_names, n_top_words)
-
-print("Fitting LDA models with tf features, "
-      "n_samples=%d and n_features=%d..."
-      % (n_samples, n_features))
-lda = LatentDirichletAllocation(n_topics=n_topics, max_iter=5,
-                                learning_method='online',
-                                learning_offset=50.,
-                                random_state=0)
-t0 = time()
-lda.fit(tf)
-print("done in %0.3fs." % (time() - t0))
-
-print("\nTopics in LDA model:")
-tf_feature_names = tf_vectorizer.get_feature_names()
-print_top_words(lda, tf_feature_names, n_top_words)

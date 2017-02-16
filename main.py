@@ -9,11 +9,18 @@ perm_types = {
     'Camera': ['Camera', 'MediaRecorder'],
     'CHANGE_WIFI_STATE': ['WifiManager', 'WifiP2pManager']}
 
+dist_types = {
+    'semantic': 'semantic_dist',
+    'event': 'event_dist',
+    'all': 'all_dist'
+}
+
 if __name__ == '__main__':
     super_out_dir = 'Play_win8'
     perm_type = 'Location'
     perm_keywords = perm_types[perm_type]
-    out_base_dir = 'output/semantic_dist/' + super_out_dir + '/' + perm_type + '/'
+    dist_type = 'all'
+    out_base_dir = 'output/' + dist_types[dist_type] + '/' + super_out_dir + '/' + perm_type + '/'
     logger = Utilities.set_logger('COSMOS_MINING_PY')
 
     file_handler = Utilities.set_file_log(logger, out_base_dir + '/COSMOS_MINING_PY' + '_' + perm_type + '.log')

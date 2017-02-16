@@ -2,41 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b876ad0-1846-4c17-9912-20cfaf15dc70" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Play_win8_Camera.dict" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Play_win8_Camera.pkl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Play_win8_Camera.pkl.state" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Books_Reference_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Business_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/COMICS_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/COSMOS_MINING_PY_Camera.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Casual_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Communication_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Education_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Finance_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Health_Fitness_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Libraries_Demo_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Medical_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Music_Audio_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/News_Magazines_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Personalization_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Photography_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Productivity_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Shopping_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Simulation_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Social_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Sports_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Tools_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Travel_Local_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Weather_Camera.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Location/Business_Location.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Location/Social_Location.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Location/Play_win8_Location.dict" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Location/Play_win8_Location.dict" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Location/Play_win8_Location.pkl" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Location/Play_win8_Location.pkl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Location/Play_win8_Location.pkl.state" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Location/Play_win8_Location.pkl.state" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/COSMOS_MINING.iml" afterPath="$PROJECT_DIR$/.idea/COSMOS_MINING.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Play_win8_Location.dict" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Play_win8_Location.pkl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Play_win8_Location.pkl.state" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Books_Reference_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Business_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/COMICS_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/COSMOS_MINING_PY_Location.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Casual_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Communication_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Education_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Finance_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Health_Fitness_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Libraries_Demo_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Medical_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Music_Audio_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/News_Magazines_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Personalization_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Photography_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Productivity_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Shopping_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Simulation_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Social_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Sports_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Tools_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Travel_Local_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Weather_Location.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sensitive_component_test.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Camera/Social_Camera.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Location/Social_Location.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lda.py" afterPath="$PROJECT_DIR$/lda.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Location/COSMOS_MINING_PY_Location.log" afterPath="$PROJECT_DIR$/output/semantic_dist/Play_win8/Location/COSMOS_MINING_PY_Location.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sensitive_component.py" afterPath="$PROJECT_DIR$/sensitive_component.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp.py" afterPath="$PROJECT_DIR$/tmp.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trigger_out_handler.py" afterPath="$PROJECT_DIR$/trigger_out_handler.py" />
     </list>
     <ignored path="COSPOS_MINGING.iws" />
@@ -50,14 +50,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/COSMOS_MINGING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1485851519678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINGING$sensitive_component.coverage" NAME="sensitive_component Coverage Results" MODIFIED="1485150634815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1486769023565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$main.coverage" NAME="main Coverage Results" MODIFIED="1487121635655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1487131823343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$main.coverage" NAME="main Coverage Results" MODIFIED="1487203962037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSPOS_MINGING$lda.coverage" NAME="lda Coverage Results" MODIFIED="1477613100242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$k_means.coverage" NAME="k-means Coverage Results" MODIFIED="1485041961188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$lda.coverage" NAME="lda Coverage Results" MODIFIED="1485234377879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$test.coverage" NAME="test Coverage Results" MODIFIED="1485650762434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$Unittests_in_sensitive_component_test.coverage" NAME="Unittests in sensitive_component_test Coverage Results" MODIFIED="1487201647234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$test.coverage" NAME="test Coverage Results" MODIFIED="1487136749510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINGING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1485851519678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$sensitive_component_test.coverage" NAME="sensitive_component_test Coverage Results" MODIFIED="1487205248152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINGING$sensitive_component.coverage" NAME="sensitive_component Coverage Results" MODIFIED="1485150634815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$tag_lemma.coverage" NAME="tag_lemma Coverage Results" MODIFIED="1484346575013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$main.coverage" NAME="main Coverage Results" MODIFIED="1485851250070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -85,10 +88,10 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1776">
-              <caret line="80" column="11" lean-forward="false" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+            <state relative-caret-position="120">
+              <caret line="60" column="64" lean-forward="false" selection-start-line="60" selection-start-column="64" selection-end-line="60" selection-end-column="64" />
               <folding>
-                <element signature="e#150#187#0" expanded="true" />
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -97,8 +100,8 @@
       <file leaf-file-name="lda.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lda.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="33" column="51" lean-forward="false" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
+            <state relative-caret-position="363">
+              <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -109,9 +112,11 @@
       <file leaf-file-name="tmp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tmp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="288">
+              <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -119,8 +124,8 @@
       <file leaf-file-name="trigger_out_handler.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/trigger_out_handler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="47" column="28" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+            <state relative-caret-position="552">
+              <caret line="65" column="25" lean-forward="false" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -128,11 +133,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="1299">
+              <caret line="56" column="53" lean-forward="true" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -152,14 +157,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sensitive_component.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sensitive_component.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sensitive_component.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="336">
+              <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sensitive_component_test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sensitive_component_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -199,17 +214,18 @@
       <list>
         <option value="$PROJECT_DIR$/tag_lemma.py" />
         <option value="$PROJECT_DIR$/k-means.py" />
-        <option value="$PROJECT_DIR$/sensitive_component.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/tmp.py" />
+        <option value="$PROJECT_DIR$/tmp.py" />
+        <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/lda.py" />
-        <option value="$PROJECT_DIR$/utils.py" />
-        <option value="$PROJECT_DIR$/utils.py" />
-        <option value="$PROJECT_DIR$/lda.py" />
-        <option value="$PROJECT_DIR$/tmp.py" />
-        <option value="$PROJECT_DIR$/tmp.py" />
         <option value="$PROJECT_DIR$/trigger_out_handler.py" />
-        <option value="$PROJECT_DIR$/main.py" />
-        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/lda.py" />
+        <option value="$PROJECT_DIR$/lda.py" />
+        <option value="$PROJECT_DIR$/sensitive_component_test.py" />
+        <option value="$PROJECT_DIR$/sensitive_component.py" />
       </list>
     </option>
   </component>
@@ -294,6 +310,88 @@
               <option name="myItemId" value="Play_win8" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Location" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSMOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSPOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="output" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="semantic_dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play_win8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Contact" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSMOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSPOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="output" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="semantic_dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play_win8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Camera" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSMOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSPOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="output" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="all_dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Play_win8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Location" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -315,7 +413,7 @@
       <recent name="D:\workspace\COSPOS_MINGING\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.sensitive_component_test">
     <configuration default="false" name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,24 +428,6 @@
       <module name="COSMOS_MINING" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tmp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="sensitive_component" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="COSMOS_MINING" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sensitive_component.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -402,6 +482,24 @@
       <module name="COSMOS_MINING" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sensitive_component_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="COSMOS_MINING" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sensitive_component_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -633,18 +731,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.tmp" />
-      <item index="1" class="java.lang.String" itemvalue="Python.sensitive_component" />
-      <item index="2" class="java.lang.String" itemvalue="Python.lda" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.lda" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sensitive_component_test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.main" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tmp" />
+        <item index="0" class="java.lang.String" itemvalue="Python.sensitive_component_test" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
         <item index="2" class="java.lang.String" itemvalue="Python.test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.lda" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sensitive_component" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tmp" />
+        <item index="4" class="java.lang.String" itemvalue="Python.lda" />
       </list>
     </recent_temporary>
   </component>
@@ -732,8 +830,32 @@
       <option name="project" value="LOCAL" />
       <updated>1486782571316</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="More results">
+      <created>1487129384381</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1487129384381</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_sensitive_component_test - 2017.02.15 at 15h 32m 04s.xml">
+      <configuration name="Unittests in sensitive_component_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_sensitive_component_test - 2017.02.15 at 15h 33m 21s.xml">
+      <configuration name="Unittests in sensitive_component_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_sensitive_component_test - 2017.02.15 at 15h 33m 34s.xml">
+      <configuration name="Unittests in sensitive_component_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_sensitive_component_test - 2017.02.15 at 15h 33m 37s.xml">
+      <configuration name="Unittests in sensitive_component_test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_sensitive_component_test - 2017.02.15 at 15h 34m 07s.xml">
+      <configuration name="Unittests in sensitive_component_test" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -784,7 +906,8 @@
     <MESSAGE value="Multiple catogories" />
     <MESSAGE value="Correct the category number" />
     <MESSAGE value="Optimize output folders" />
-    <option name="LAST_COMMIT_MESSAGE" value="Optimize output folders" />
+    <MESSAGE value="More results" />
+    <option name="LAST_COMMIT_MESSAGE" value="More results" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -793,13 +916,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tag_lemma.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lda_zhihu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -815,7 +931,7 @@
         <state relative-caret-position="768">
           <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
           <folding>
-            <element signature="e#150#187#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -849,7 +965,7 @@
         <state relative-caret-position="888">
           <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
           <folding>
-            <element signature="e#150#187#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -883,7 +999,7 @@
         <state relative-caret-position="888">
           <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
           <folding>
-            <element signature="e#150#187#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -917,7 +1033,7 @@
         <state relative-caret-position="888">
           <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
           <folding>
-            <element signature="e#150#187#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -951,7 +1067,7 @@
         <state relative-caret-position="888">
           <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
           <folding>
-            <element signature="e#150#187#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1085,48 +1201,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lda.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="33" column="51" lean-forward="false" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="51" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1776">
-          <caret line="80" column="11" lean-forward="false" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
-          <folding>
-            <element signature="e#150#187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/output/semantic_dist/Play_win8/Contact/COSMOS_MINING_PY_Contact.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-22836">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sensitive_component.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tmp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1140,22 +1218,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1299">
+          <caret line="56" column="53" lean-forward="true" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/trigger_out_handler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="47" column="28" lean-forward="false" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+        <state relative-caret-position="552">
+          <caret line="65" column="25" lean-forward="false" selection-start-line="65" selection-start-column="25" selection-end-line="65" selection-end-column="25" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/lda.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="363">
+          <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="60" column="64" lean-forward="false" selection-start-line="60" selection-start-column="64" selection-end-line="60" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sensitive_component_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sensitive_component.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>

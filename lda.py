@@ -12,7 +12,8 @@ class LDA:
 
     # create English stop words list
     en_stop = get_stop_words('en')
-    useless_words = ['get', 'start', 'let', 's', 'start', 'use', 'ok', 'cancel', 'please']
+    useless_words = ['get', 'start', 'let', 's', 'start', 'use', 'ok', 'cancel', 'please', 'void', 'com',
+                     'bundl', 'boolean', 'android', 'os', 'int', 'activ', 'view', 'app']
 
     # Create p_stemmer of class PorterStemmer
     p_stemmer = PorterStemmer()
@@ -94,7 +95,7 @@ class LDA:
 
         # generate LDA model
         model = ldamodel.LdaModel(corpus, num_topics=self.ntop, id2word=dictionary, passes=20)
-        for trained_model in model.print_topics(num_topics=self.ntop, num_words=9):
+        for trained_model in model.print_topics(num_topics=self.ntop, num_words=19):
             LDA.logger.info('Trained: ' + str(trained_model))
         self.model = model
         model.save(self.out_dir + '/' + self.model_name + '.pkl')

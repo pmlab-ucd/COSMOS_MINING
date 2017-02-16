@@ -20,6 +20,18 @@ class SensitiveComponent:
             for view_name in entry_data['views']:
                 self.views[view_name] = SensitiveComponent.SensitiveView(entry_data['views'][view_name])
 
+        def get_views(self):
+            return self.views
+
+        @staticmethod
+        def simplify_name(entry_name):
+            entry_name = str(entry_name)
+            entry_name = entry_name.split('(')[0]
+            sub_names = entry_name.split(' ')
+            method_name = sub_names[2]
+            class_name = sub_names[0]
+            return class_name + ' ' + method_name
+
     class SensitiveView:
         def __init__(self, view_data):
             view = utils.Dict2obj(view_data)
@@ -44,6 +56,8 @@ class SensitiveComponent:
     def get_entry(self, entry_name):
         return self.sensEntries[entry_name]
 
+    def get_entries(self):
+        return self.sensEntries
 
 if __name__ == '__main__':
     json_file = 'data/QKSMS-noAnalytics-debug/QKSMS-noAnalytics-debug.apk_com.moez.QKSMS.ui.compose.ComposeActivity.json'

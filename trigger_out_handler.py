@@ -1,6 +1,7 @@
 import sensitive_component
 from xml.dom.minidom import parseString
 import os
+from sensitive_component import SensitiveComponent
 
 
 class TriggerOutHandler:
@@ -17,7 +18,7 @@ class TriggerOutHandler:
         self.trigger_py_out_dir = trigger_py_out_dir
         print(trigger_py_out_dir)
 
-    def handle_dynamic_xml(self, dynamic_xml):
+    def handle_dynamic_xml(self, dynamic_xml, use_event=True):
         text = []
         if os.path.exists(dynamic_xml):
             data = ''
@@ -41,11 +42,19 @@ class TriggerOutHandler:
             if ignore or len(text) == 0:
                 return
 
+            found = False
             for entry_name in self.sens_comp.sensEntries:
+                if found and not use_event:
+                    break
                 for sens_target in self.sens_comp.get_entry(entry_name).sensTargets:
                     for perm_keyword in self.perm_keywords:
                         if perm_keyword in str(sens_target):
-                            self.words[dynamic_xml] = text
+                            if use_event:
+                                text.append(SensitiveComponent.SensEntryPoint.simplify_name(entry_name))
+                            found = True
+                            break
+            if found:
+                self.words[dynamic_xml] = text
         else:
             TriggerOutHandler.logger.error(dynamic_xml + ' does not exist!')
 
@@ -54,9 +63,12 @@ class TriggerOutHandler:
         self.apk_name = os.path.basename(os.path.dirname(json_file))
         activity_name = str(os.path.basename(json_file))
         activity_name = activity_name.split('_')[1].replace('.json', '')
-        self.sens_comp = sensitive_component.SensitiveComponent(json_file)
+        self.sens_comp = SensitiveComponent(json_file)
         #print(sens_comp.componentName, sens_comp.layoutFile)
 
         dynamic_xml_dir = self.trigger_py_out_dir + self.category + "\\" + self.apk_name
         dymamic_xml = dynamic_xml_dir + "\\" + activity_name + '.xml'
         self.handle_dynamic_xml(dymamic_xml)
+
+    def get_sens_comp(self):
+        return self.sens_comp
