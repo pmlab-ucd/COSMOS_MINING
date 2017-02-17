@@ -59,7 +59,7 @@ class LDA:
         stopped_tokens = [i for i in tokens if i not in self.en_stop]
 
         # filter other useless words
-        filtered_tokens = [i for i in stopped_tokens if i not in self.useless_words]
+        filtered_tokens = [i for i in stopped_tokens if i not in self.useless_words and len(i) > 1]
 
         # stem tokens
         stemmed_tokens = [self.p_stemmer.stem(i) for i in filtered_tokens]

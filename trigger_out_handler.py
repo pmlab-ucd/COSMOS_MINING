@@ -43,13 +43,15 @@ class TriggerOutHandler:
                 return
 
             found = False
+            included_events = []
             for entry_name in self.sens_comp.sensEntries:
                 if found and not use_event:
                     break
                 for sens_target in self.sens_comp.get_entry(entry_name).sensTargets:
                     for perm_keyword in self.perm_keywords:
                         if perm_keyword in str(sens_target):
-                            if use_event:
+                            if use_event and entry_name not in included_events:
+                                included_events.append(entry_name)
                                 text.append(SensitiveComponent.SensEntryPoint.simplify_name(entry_name))
                             found = True
                             break
