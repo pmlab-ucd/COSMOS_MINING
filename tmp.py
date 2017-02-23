@@ -1,39 +1,54 @@
-import nltk
+import os
+from trigger_out_handler import TriggerOutHandler
+from miner import Miner
+"""
+Generate a markdown file
+class name | screen shot | entry point | rsid
+"""
 
-from math import log
 
-# Build a cost dictionary, assuming Zipf's law and cost = -math.log(probability).
-words = open("words-by-frequency.txt").read().split()
-wordcost = dict((k, log((i+1)*log(len(words)))) for i,k in enumerate(words))
-maxword = max(len(x) for x in words)
+class DataFormatter:
+    @staticmethod
+    def combining_data(trigger_out_dir='D:\COSMOS\output\\', super_out_dir='Play_win8', perm_type='Location'):
+        trigger_java_out_dir = trigger_out_dir + '\java\\' + super_out_dir + '\\'
+        trigger_py_out_dir = trigger_out_dir + '\py\\' + super_out_dir + '\\'
+        categories = {}
 
-def infer_spaces(s):
-    """Uses dynamic programming to infer the location of spaces in a string
-    without spaces."""
+        for filename in os.listdir(trigger_py_out_dir):
+            if os.path.isdir(os.path.join(trigger_py_out_dir, filename)):
+                category = filename
+                categories[category] = []
 
-    # Find the best match for the i first characters, assuming cost has
-    # been built for the i-1 first characters.
-    # Returns a pair (match_cost, match_length).
-    def best_match(i):
-        candidates = enumerate(reversed(cost[max(0, i-maxword):i]))
-        return min((c + wordcost.get(s[i-k-1:i], 9e999), k+1) for k,c in candidates)
+        rm_category = []
 
-    # Build the cost array.
-    cost = [0]
-    for i in range(1,len(s)+1):
-        c,k = best_match(i)
-        cost.append(c)
+        for category in categories:
+            print('Try to read xml files for ' + category)
+            perm_keywords = Miner.perm_types[perm_type]
+            trigger_out_handler = TriggerOutHandler(category, perm_keywords, trigger_py_out_dir)
+            if not os.path.exists(trigger_java_out_dir + category):
+                rm_category.append(category)
+                print(category + ' does not exist.')
+                continue
+            for root, dirs, files in os.walk(trigger_java_out_dir + category):
+                for file_name in files:
+                    if file_name.endswith('.json'):
+                        try:
+                            trigger_out_handler.handle_out_json(os.path.join(root, file_name))
+                        except Exception as e:
+                            print(e)
+                            print(os.path.join(root, file_name))
+            print(trigger_out_handler.instances)
+            instances = trigger_out_handler.instances
+            with open("Output.md", "w") as text_file:
+                print('### {}'.format(perm_type), file=text_file)
+                print("| Entry Point & APIs | Screen shot | Resource id | Label |", file=text_file)
+                print('| ------------- | ------------- |-------------|-------------|', file=text_file)
+                for instance in instances:
+                    png_file = '![](' + str(os.path.abspath(instances[instance]['png'])) + ')'
+                    sens_view = ''
+                    if len(instances[instance]['views']) > 0:
+                        sens_view = str(instance['views'])
+                    print("| {} | {} | {} | |".format(instance + ';' + instances[instance]['api'].split(':')[1].split('(')[0], png_file, sens_view), file=text_file)
 
-    # Backtrack to recover the minimal-cost string.
-    out = []
-    i = len(s)
-    while i>0:
-        c,k = best_match(i)
-        assert c == cost[i]
-        out.append(s[i-k:i])
-        i -= k
-
-    return " ".join(reversed(out))
-
-s = 'rateandreview'
-print(infer_spaces(s))
+if __name__ == '__main__':
+    DataFormatter.combining_data(trigger_out_dir=os.curdir + '\\test\output')
