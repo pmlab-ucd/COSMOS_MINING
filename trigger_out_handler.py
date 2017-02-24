@@ -6,7 +6,6 @@ from utils import Utilities
 
 class TriggerOutHandler:
     category = ''
-    instances = {}
     sens_comp = None
     apk_name = None
     perm_keywords = None
@@ -18,6 +17,7 @@ class TriggerOutHandler:
         TriggerOutHandler.perm_keywords = perm_keywords
         self.trigger_py_out_dir = trigger_py_out_dir
         print(trigger_py_out_dir)
+        self.instances = {}
         if not TriggerOutHandler.logger:
             TriggerOutHandler.logger = Utilities.set_logger(TriggerOutHandler.TAG)
 
