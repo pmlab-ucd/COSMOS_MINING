@@ -2,17 +2,542 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b876ad0-1846-4c17-9912-20cfaf15dc70" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Output.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/miner.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model_tester.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/COSMOS_MINING_PY_Location.log" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Play_win8_Location.dict" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Play_win8_Location.dict" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Play_win8_Location.pkl" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Play_win8_Location.pkl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Play_win8_Location.pkl.state" afterPath="$PROJECT_DIR$/output/all_dist/Play_win8/Location/Play_win8_Location.pkl.state" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/COSMOS_MINING.iml" afterPath="$PROJECT_DIR$/.idea/COSMOS_MINING.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_formatter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Books_Reference_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Books_Reference_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/COMICS_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/COMICS_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/COMICS_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/COMICS_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/COMICS_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/COMICS_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/COMICS_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Casual_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Casual_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Casual_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Casual_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Casual_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Casual_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Casual_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Education_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Education_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Education_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Education_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Education_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Education_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Education_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Education_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Education_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Education_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Education_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_11.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_12.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_13.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_11.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_12.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_13.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_14.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_15.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_11.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_12.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_13.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_14.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_15.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_16.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_11.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_12.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_13.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_14.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_15.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_16.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_17.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_18.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_11.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_12.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_13.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_14.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_15.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_16.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_17.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_18.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_19.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_20.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_11.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_12.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_13.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_14.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_15.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_16.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_17.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_18.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_19.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_20.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_21.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_22.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_11.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_12.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_13.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_14.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_15.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_16.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_17.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_18.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_19.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_20.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_21.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_22.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_23.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_11.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_12.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_13.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_14.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_15.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_16.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_17.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_18.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_19.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_20.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_21.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_22.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_23.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_24.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_25.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_11.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_12.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_13.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_14.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_15.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_16.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_17.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_18.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_19.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_20.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_21.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_22.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_23.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_24.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_25.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_26.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_27.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_28.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_29.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_11.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_12.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_13.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_14.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_15.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_16.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_17.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_18.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_19.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_20.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_21.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_22.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_23.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_24.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_25.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_26.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_27.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_28.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_29.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_30.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_31.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_32.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_33.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_11.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_12.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_13.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_14.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_15.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_16.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_17.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_18.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_19.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_20.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_21.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_22.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_23.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_24.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_25.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_26.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_27.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_28.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_29.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_30.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_31.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_32.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_33.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_11.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_12.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_13.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_14.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_15.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_16.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_17.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_18.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_19.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_20.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_21.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_22.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_23.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_24.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_25.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_26.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_27.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_28.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_29.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_30.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_31.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_32.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_33.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_34.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_35.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_36.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_37.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_11.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_12.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_13.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_14.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_15.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_16.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_17.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_18.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_19.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_20.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_21.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_22.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_23.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_24.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_25.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_26.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_27.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_28.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_29.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_30.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_31.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_32.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_33.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_34.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_35.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_36.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_37.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_38.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_39.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_40.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_41.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_11.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_12.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_13.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_14.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_15.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_16.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_17.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_18.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_19.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_20.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_21.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_22.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_23.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_24.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_25.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_26.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_27.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_28.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_29.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_30.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_31.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_32.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_33.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_34.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_35.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_36.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_37.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_38.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_39.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_40.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_41.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_42.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_43.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_11.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_12.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_13.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_14.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_15.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_16.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_17.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_18.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_19.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_20.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_21.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_22.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_23.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_24.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_25.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_26.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_27.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_28.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_29.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_30.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_31.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_32.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_33.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_34.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_35.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_36.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_37.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_38.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_39.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_40.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_41.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_42.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_43.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_44.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_45.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_46.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_47.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_48.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_49.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_9.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_10.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_11.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_12.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_13.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_14.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_15.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_16.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_17.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_18.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_19.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_20.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_21.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_22.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_23.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_24.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_25.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_26.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_27.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_28.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_29.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_30.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_31.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_32.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_33.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_34.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_35.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_36.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_37.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_38.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_39.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_40.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_41.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_42.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_43.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_44.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_45.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_46.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_47.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_48.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_49.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_50.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_51.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_52.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_53.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_54.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_55.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_7.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_8.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_9.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lda.py" afterPath="$PROJECT_DIR$/lda.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Output.md" afterPath="$PROJECT_DIR$/Output.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp.py" afterPath="$PROJECT_DIR$/tmp.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trigger_out_handler.py" afterPath="$PROJECT_DIR$/trigger_out_handler.py" />
     </list>
@@ -28,11 +553,12 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/COSMOS_MINING$main.coverage" NAME="main Coverage Results" MODIFIED="1487383936983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1487825440816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1487896505523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSPOS_MINGING$lda.coverage" NAME="lda Coverage Results" MODIFIED="1477613100242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$k_means.coverage" NAME="k-means Coverage Results" MODIFIED="1485041961188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$lda.coverage" NAME="lda Coverage Results" MODIFIED="1485234377879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$test.coverage" NAME="test Coverage Results" MODIFIED="1485650762434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$data_formatter.coverage" NAME="data_formatter Coverage Results" MODIFIED="1487897260856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$Unittests_in_sensitive_component_test.coverage" NAME="Unittests in sensitive_component_test Coverage Results" MODIFIED="1487201647234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$word_spliter.coverage" NAME="word_spliter Coverage Results" MODIFIED="1487278204195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$test.coverage" NAME="test Coverage Results" MODIFIED="1487136749510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -76,7 +602,7 @@
       <file leaf-file-name="model_tester.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model_tester.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
+            <state relative-caret-position="528">
               <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
@@ -85,11 +611,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="miner.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="miner.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/miner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="77" column="17" lean-forward="true" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+            <state relative-caret-position="1704">
+              <caret line="77" column="17" lean-forward="false" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -100,8 +626,18 @@
       <file leaf-file-name="tmp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tmp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="50" column="120" lean-forward="true" selection-start-line="50" selection-start-column="120" selection-end-line="50" selection-end-column="120" />
+            <state relative-caret-position="0">
+              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_formatter.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data_formatter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="53" column="58" lean-forward="true" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="58" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -112,7 +648,7 @@
       <file leaf-file-name="word_spliter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/word_spliter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
+            <state relative-caret-position="1104">
               <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
               <folding />
             </state>
@@ -122,10 +658,11 @@
       <file leaf-file-name="trigger_out_handler.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/trigger_out_handler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="56" column="108" lean-forward="false" selection-start-line="56" selection-start-column="108" selection-end-line="56" selection-end-column="108" />
+            <state relative-caret-position="366">
+              <caret line="61" column="12" lean-forward="false" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#2545#3354#1" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -134,21 +671,11 @@
       <file leaf-file-name="sensitive_component.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sensitive_component.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
+            <state relative-caret-position="1992">
               <caret line="87" column="17" lean-forward="false" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sensitive_component_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sensitive_component_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="74" lean-forward="false" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -193,8 +720,10 @@
         <option value="$PROJECT_DIR$/lda.py" />
         <option value="$PROJECT_DIR$/miner.py" />
         <option value="$PROJECT_DIR$/trigger_out_handler.py" />
+        <option value="$PROJECT_DIR$/output/ground/Business_50_0.md" />
         <option value="$PROJECT_DIR$/tmp.py" />
         <option value="$PROJECT_DIR$/tmp.py" />
+        <option value="$PROJECT_DIR$/data_formatter.py" />
       </list>
     </option>
   </component>
@@ -245,6 +774,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -285,22 +815,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="all_dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Play_win8" />
+              <option name="myItemId" value="gnd" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../XML_protein35/xml2csv.py" />
     <property name="js.eslint.eslintPackage" value="" />
@@ -329,24 +854,6 @@
       <module name="COSMOS_MINING" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tmp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="COSMOS_MINING" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -401,6 +908,24 @@
       <module name="COSMOS_MINING" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/word_spliter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="data_formatter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="COSMOS_MINING" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_formatter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -632,18 +1157,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.tmp" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.main" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sensitive_component_test" />
-      <item index="4" class="java.lang.String" itemvalue="Python.word_spliter" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sensitive_component_test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.word_spliter" />
+      <item index="4" class="java.lang.String" itemvalue="Python.data_formatter" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.tmp" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main" />
-        <item index="2" class="java.lang.String" itemvalue="Python.word_spliter" />
-        <item index="3" class="java.lang.String" itemvalue="Python.sensitive_component_test" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test" />
+        <item index="0" class="java.lang.String" itemvalue="Python.data_formatter" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tmp" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main" />
+        <item index="3" class="java.lang.String" itemvalue="Python.word_spliter" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sensitive_component_test" />
       </list>
     </recent_temporary>
   </component>
@@ -773,7 +1298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1487300030063</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Generate templates for labelling">
+      <created>1487825563894</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1487825563894</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -797,11 +1329,10 @@
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20948827" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21162046" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3678647" sideWeight="0.50208336" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29050815" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37104505" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" x="202" y="796" width="1366" height="728" />
@@ -814,6 +1345,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -867,7 +1399,8 @@
     <MESSAGE value="WordSpliter and Some results" />
     <MESSAGE value="Filter single character and some results" />
     <MESSAGE value="Some results" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some results" />
+    <MESSAGE value="Generate templates for labelling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generate templates for labelling" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -876,6 +1409,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tag_lemma.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -901,40 +1441,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="888">
           <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tag_lemma.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/gensim/models/word2vec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28080">
-          <caret line="1170" column="0" lean-forward="false" selection-start-line="1170" selection-start-column="0" selection-end-line="1170" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lda_zhihu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="888">
-          <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -963,9 +1469,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="888">
           <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1087,9 +1590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-          <folding>
-            <element signature="e#18#29#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1097,9 +1597,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="60" column="64" lean-forward="false" selection-start-line="60" selection-start-column="64" selection-end-line="60" selection-end-column="64" />
-          <folding>
-            <element signature="e#0#9#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1121,7 +1618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1153,7 +1649,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/word_spliter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
+        <state relative-caret-position="1104">
           <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
           <folding />
         </state>
@@ -1161,7 +1657,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model_tester.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
+        <state relative-caret-position="528">
           <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
@@ -1174,7 +1670,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="24">
             <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1182,7 +1677,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sensitive_component.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
+        <state relative-caret-position="1992">
           <caret line="87" column="17" lean-forward="false" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -1190,32 +1685,63 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/miner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1704">
+          <caret line="77" column="17" lean-forward="false" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/ground/COMICS_100.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/trigger_out_handler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="56" column="108" lean-forward="false" selection-start-line="56" selection-start-column="108" selection-end-line="56" selection-end-column="108" />
+        <state relative-caret-position="366">
+          <caret line="61" column="12" lean-forward="false" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#2545#3354#1" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/ground/Business_50_0.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tmp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="50" column="120" lean-forward="true" selection-start-line="50" selection-start-column="120" selection-end-line="50" selection-end-column="120" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/miner.py">
+    <entry file="file://$PROJECT_DIR$/data_formatter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="77" column="17" lean-forward="true" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+        <state relative-caret-position="100">
+          <caret line="53" column="58" lean-forward="true" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="58" />
           <folding>
-            <element signature="e#0#34#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>

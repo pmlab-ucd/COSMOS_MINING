@@ -23,6 +23,7 @@ class TriggerOutHandler:
 
     def handle_dynamic_xml(self, dynamic_xml, use_event=True):
         text = []
+        status = False
         if os.path.exists(dynamic_xml):
             data = ''
             with open(dynamic_xml, 'r') as f:
@@ -43,7 +44,7 @@ class TriggerOutHandler:
                 if node.getAttribute('package') == self.apk_name:
                     ignore = False
             if ignore or len(text) == 0:
-                return
+                return status
 
             for entry_name in self.sens_comp.sensEntries:
                 for sens_target in self.sens_comp.get_entry(entry_name).sensTargets:
@@ -55,7 +56,9 @@ class TriggerOutHandler:
                             self.instances[entry_name]['png'] = str(dynamic_xml).replace('xml', 'png')
                             self.instances[entry_name]['api'] = sens_target
                             self.instances[entry_name]['views'] = self.sens_comp.get_entry(entry_name).views
+                            status = True
                             break
+            return status
             """
             found = False
             included_events = []
@@ -75,6 +78,7 @@ class TriggerOutHandler:
             """
         else:
             TriggerOutHandler.logger.error(dynamic_xml + ' does not exist!')
+            return status
 
     def handle_out_json(self, json_file):
         #print(json_file)
@@ -86,7 +90,7 @@ class TriggerOutHandler:
 
         dynamic_xml_dir = self.trigger_py_out_dir + self.category + "\\" + self.apk_name
         dymamic_xml = dynamic_xml_dir + "\\" + activity_name + '.xml'
-        self.handle_dynamic_xml(dymamic_xml)
+        return self.handle_dynamic_xml(dymamic_xml)
 
     def get_sens_comp(self):
         return self.sens_comp
