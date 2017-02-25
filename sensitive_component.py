@@ -26,12 +26,12 @@ class SensitiveComponent:
             return self.views
 
         @staticmethod
-        def simplify_name(entry_name):
+        def split_entry_name(entry_name):
             entry_name = str(entry_name)
             entry_name = entry_name.split('(')[0]
-            sub_names = entry_name.split(' ')
-            method_name = sub_names[2]
-            class_name = sub_names[0]
+            sub_names = entry_name.split(': ')
+            method_name = sub_names[1]
+            class_name = sub_names[0].replace(' ', '')
             class_name = SensitiveComponent.SensEntryPoint.sep_class_name(class_name)
             return class_name + ' ' + method_name
 

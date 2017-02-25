@@ -1,6 +1,12 @@
 import os
 from trigger_out_handler import TriggerOutHandler
 from miner import Miner
+from xml.dom.minidom import parseString
+from sensitive_component import SensitiveComponent
+from utils import Utilities
+from sklearn.feature_extraction.text import CountVectorizer
+import numpy as np
+from lda import LDA
 
 """
 Generate a markdown file
@@ -9,6 +15,10 @@ class name | screen shot | entry point | rsid
 
 
 class DataFormatter:
+    TAG = 'DataFormatter'
+    logger = Utilities.set_logger(TAG)
+    gnd_dir = None
+
     @staticmethod
     def combining_data(trigger_out_dir='D:\COSMOS\output\\', super_out_dir='Play_win8', perm_type='Location', num=50):
         trigger_java_out_dir = trigger_out_dir + '\java\\' + super_out_dir + '\\'
@@ -64,6 +74,197 @@ class DataFormatter:
                     text_file.write("| {} | {} | {} | {} | |\n".format(count, instance + ';' + instances[instance]['api'].
                                                                      split(':')[1].split('(')[0], png_file, sens_view))
 
+    @staticmethod
+    def handle_dynamic_xml(dynamic_xml, doc):
+        status = False
+        if os.path.exists(dynamic_xml):
+            data = ''
+            with open(dynamic_xml, 'r') as f:
+                try:
+                    data = f.read()
+                except UnicodeDecodeError as e:
+                    print(e)
+                    return
+            dom = parseString(data)
+            nodes = dom.getElementsByTagName('node')
+            # Iterate over all the uses-permission nodes
+            ignore = True
+            for node in nodes:
+                if node.getAttribute('text') != '':
+                    doc.append(node.getAttribute('text'))
+                # print(node.getAttribute('text'))
+                # print(node.toxml())
+                if node.getAttribute('package') in str(dynamic_xml):
+                    ignore = False
+            if ignore or len(doc) == 0:
+                return status
+
+            print(doc)
+            return status
+        else:
+            DataFormatter.logger.error(dynamic_xml + ' does not exist!')
+            return status
+
+    @staticmethod
+    def handle_md(md_file, instances):
+        counter = len(instances)
+        with open(md_file, 'r') as text_file:
+            for line in text_file:
+                sub_lines = line.split('|')
+
+                if 'T' in sub_lines[len(sub_lines) - 2]:
+                    label = 1
+                elif 'F' in sub_lines[len(sub_lines) - 2]:
+                    label = 0
+                elif 'D' in sub_lines[len(sub_lines) - 2]:
+                    label = 2
+                else:
+                    continue
+                xml_path = sub_lines[len(sub_lines) - 4].split('(')[1]
+                xml_path = xml_path.split('.png')[0] + '.xml'
+                doc = []
+                DataFormatter.handle_dynamic_xml(xml_path, doc)
+                DataFormatter.logger.info(doc)
+
+                entry_name = sub_lines[len(sub_lines) - 5].split(';')[0]
+                entry_sub_words = SensitiveComponent.SensEntryPoint.split_entry_name(entry_name)
+                doc.append(entry_sub_words)
+                doc = LDA.pre_process(';'.join(doc))
+                instances[counter] = {}
+                instances[counter]['doc'] = doc
+                instances[counter]['label'] = label
+                instances[counter]['entry_name'] = entry_name
+                instances[counter]['xml_path'] = xml_path
+                counter += 1
+
+    @staticmethod
+    def docs2bag(instances):
+        train_data = []
+        train_data_label = []
+
+        for i in range(0, len(instances)):
+            train_data.append(' '.join(instances[i]['doc']))
+            train_data_label.append(instances[i]['label'])
+
+        print(train_data)
+
+        # Initialize the "CountVectorizer" object, which is scikit-learn's bag of words tool.
+        vectorizer = CountVectorizer(analyzer="word",
+                                     tokenizer=None,
+                                     preprocessor=None,
+                                     stop_words=None,
+                                     max_features=5000)
+        # fit_transform() does two functions: First, it fits the model
+        # and learns the vocabulary; second, it transforms our training data
+        # into feature vectors. The input to fit_transform should be a list of
+        # strings.
+        titles_vocab_mat = vectorizer.fit_transform(train_data)
+        # Numpy arrays are easy to work with, so convert the result to an array
+        # print vectorizer.vocabulary_  # a dict, the value is the index
+        train_data_features = titles_vocab_mat.toarray()
+        print(train_data_features.shape)
+        # Take a look at the words in the vocabulary
+        vocab = vectorizer.get_feature_names()
+        print('/'.join(vocab))
+        # Sum up the counts of each vocabulary word
+        dist = np.sum(train_data_features, axis=0)
+
+        if len(train_data_label) != len(train_data):
+            DataFormatter.logger.error('ERROR: number of titles and titles not consistent')
+            exit(1)
+        train_file = open(DataFormatter.gnd_dir + '/train_data.arff', 'w')
+        DataFormatter.gen_arff(train_file, vocab, dist, train_data_features, train_data_label, instances)
+
+    @staticmethod
+    def gen_arff_header(train_file):
+        if train_file:
+            train_file.write('@RELATION ' + 'doc' + '\n')
+            train_file.write('@ATTRIBUTE doc_name STRING\n')
+
+    @staticmethod
+    def gen_arff(train_file, vocab, dist, train_data_features, titles_label, instances, numeric_flag=False):
+        vocabulary = []
+        DataFormatter.gen_arff_header(train_file)
+        # For each, print the vocabulary word and the number of times it appears in the training set
+        if numeric_flag:
+            for tag, count in zip(vocab, dist):
+                # print '@ATTRIBUTE word_freq_' + tag + ' NUMERIC'
+                train_file.write('@ATTRIBUTE word_freq_' + tag.encode('utf-8') + ' NUMERIC\n')
+        else:
+            for tag, count in zip(vocab, dist):
+                # print '@ATTRIBUTE word_freq_' + tag + ' NUMERIC'
+                print(tag.encode('utf-8'))
+                #str_tag = str(tag.encode('utf-8')).replace('b\'', '\'')
+                #str_tag = str_tag.replace('\'', '')
+                train_file.write('@ATTRIBUTE word_' + tag + ' {0, 1}\n')
+                vocabulary.append(tag.encode('utf-8'))
+                # print count
+
+        train_file.write('@ATTRIBUTE class {0, 1, 2}\n')
+        # print '\n@DATA'
+        train_file.write('\n@DATA\n')
+
+        for i in range(0, len(train_data_features)):
+            test_flag = False
+
+            if test_flag:
+                for word_count in train_data_features[i]:
+                    # calculate freq of words = percentage of words in front page that match WORD
+                    # i.e. 100 * (number of times the WORD appears in the front_page) /  total number of words in front page
+
+                    # word_freq_list.append(word_freq)
+                    # sys.stdout.write(str(word_freq) + ',')
+                    if numeric_flag:
+                        total_words = 0
+                        for j in train_data_features:
+                            # print sum(i)
+                            total_words += sum(j)
+                        word_freq = 100 * float(word_count) / float(total_words)
+                        train_file.write(str(word_freq) + ',')
+                    else:
+                        if int(word_count) > 0:
+                            train_file.write('1,')
+                        else:
+                            train_file.write('0,')
+                            # sys.stdout.write(str(titles_lable[counter]) + '\n')
+                train_file.write(str(titles_label[i]) + '\n')
+            else:
+                # instances[i]['entry_name'] + '|' +
+                train_file.write(instances[i]['xml_path'] + ',')
+                for word_count in train_data_features[i]:
+                    # calculate freq of words = percentage of words in front page that match WORD
+                    # i.e. 100 * (number of times the WORD appears in the front_page) /  total number of words in front page
+
+                    # word_freq_list.append(word_freq)
+                    # sys.stdout.write(str(word_freq) + ',')
+                    if numeric_flag:
+                        total_words = 0
+                        for j in train_data_features:
+                            total_words += sum(j)
+                        print(total_words)
+                        word_freq = 100 * float(word_count) / float(total_words)
+                        train_file.write(str(word_freq) + ',')
+                    else:
+                        if int(word_count) > 0:
+                            train_file.write('1,')
+                        else:
+                            train_file.write('0,')
+                            # sys.stdout.write(str(titles_lable[counter]) + '\n')
+                train_file.write(str(titles_label[i]) + '\n')
+                DataFormatter.logger.info(str(titles_label[i]) + '\n')
+
+
+
+    @staticmethod
+    def parse_labelled(gnd_dir, instances):
+        DataFormatter.gnd_dir = gnd_dir
+        for root, dirs, files in os.walk(gnd_dir):
+            for file_name in files:
+                if file_name.endswith('.md'):
+                    DataFormatter.handle_md(os.path.join(root, file_name), instances)
 
 if __name__ == '__main__':
-    DataFormatter.combining_data(num=50)  # trigger_out_dir=os.curdir + '\\test\output')
+    #DataFormatter.combining_data(num=50)  # trigger_out_dir=os.curdir + '\\test\output')
+    instances = {}
+    DataFormatter.parse_labelled('output/gnd/Test', instances)
+    DataFormatter.docs2bag(instances)

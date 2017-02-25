@@ -1,5 +1,3 @@
-from gensim import corpora, models
-
 from utils import Utilities
 import os
 from trigger_out_handler import TriggerOutHandler
@@ -67,7 +65,7 @@ class Miner:
                                 self.logger.error(os.path.join(root, file_name))
                 instances = trigger_out_handler.instances
                 for instance in instances:
-                    entry_name = SensitiveComponent.SensEntryPoint.simplify_name(str(instance))
+                    entry_name = SensitiveComponent.SensEntryPoint.split_entry_name(str(instance))
                     if instance['dynamic_xml'] and entry_name in instance['dynamic_xml']:
                         continue
                     else:
