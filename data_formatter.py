@@ -168,10 +168,10 @@ class DataFormatter:
         print('/'.join(vocab))
         # Sum up the counts of each vocabulary word
         dist = np.sum(train_data_features, axis=0)
-        tags = []
+        dict = []
         for tag, count in zip(vocab, dist):
-            tags.append(tag)
-        json.dump(tags, open(out_dir + '/train_tag.json', 'w+'))
+            dict.append(tag)
+        json.dump(dict, open(out_dir + '/train_dict.json', 'w+'))
 
         for ins in train_data_features:
             tmp = {}
@@ -179,7 +179,7 @@ class DataFormatter:
             #tmp['label'] = data_target
             for i in range(0, len(ins)):
                 if ins[i] == 1:
-                    tmp['doc'].append(tags[i])
+                    tmp['doc'].append(dict[i])
             print(tmp)
 
         if len(train_data_label) != len(train_data):
@@ -188,7 +188,7 @@ class DataFormatter:
 
         if gen_arff:
             train_file = open(DataFormatter.gnd_dir + '/train_data.arff', 'w')
-            DataFormatter.gen_arff(train_file, tags, train_data_features, train_data_label, instances)
+            DataFormatter.gen_arff(train_file, dict, train_data_features, train_data_label, instances)
 
         return [train_data_features, train_data_label]
 
@@ -199,11 +199,11 @@ class DataFormatter:
             train_file.write('@ATTRIBUTE doc_name STRING\n')
 
     @staticmethod
-    def gen_arff(train_file, tags, train_data_features, titles_label, instances, numeric_flag=False):
+    def gen_arff(train_file, dict, train_data_features, titles_label, instances, numeric_flag=False):
         vocabulary = []
         DataFormatter.gen_arff_header(train_file)
         # For each, print the vocabulary word and the number of times it appears in the training set
-        for tag in tags:
+        for tag in dict:
             if numeric_flag:
                 # print '@ATTRIBUTE word_freq_' + tag + ' NUMERIC'
                 train_file.write('@ATTRIBUTE word_freq_' + tag + ' NUMERIC\n')
@@ -278,9 +278,9 @@ class DataFormatter:
 
     @staticmethod
     def check_data_consistency(instances, train_data_features):
-        train_data, train_target, train_tags = SklearnUtils.load_train_data(out_dir + 'train_data.json',
+        train_data, train_target, train_dict = SklearnUtils.load_train_data(out_dir + 'train_data.json',
                                                                             out_dir + 'train_target.json',
-                                                                            out_dir + 'train_tag.json')
+                                                                            out_dir + 'train_dict.json')
         if len(train_data) != len(instances):
             DataFormatter.logger.error(str(len(train_data)), str(len(instances)))
             exit(1)
@@ -289,7 +289,7 @@ class DataFormatter:
         for i in range(0, len(train_data)):
             data_instance = train_data[i]
             data_target = train_target[i]
-            loaded_ins = SklearnUtils.translate_feature(data_instance, train_tags, data_target)
+            loaded_ins = SklearnUtils.translate_feature(data_instance, train_dict, data_target)
             instance = instances[i]
             if str(instance['label']) != str(loaded_ins['label']):
                 DataFormatter.logger.error(str(i) + ' label: ' + str(instance['doc']) + ', ' + str(loaded_ins['doc']))

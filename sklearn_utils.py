@@ -19,19 +19,19 @@ class SklearnUtils:
         train_target = json.loads(obj_text)
 
         obj_text = codecs.open(tag_path, 'r', encoding='utf-8').read()
-        train_tags = json.loads(obj_text)
+        train_dict = json.loads(obj_text)
 
         if len(train_target) != len(train_data):
             print('ERROR: number of titles and titles not consistent')
             exit(1)
 
-        print(train_tags)
+        print(train_dict)
         for i in range(0, len(train_data)):
             data_instance = train_data[i]
             data_target = train_target[i]
-            SklearnUtils.translate_feature(data_instance, train_tags, data_target)
+            SklearnUtils.translate_feature(data_instance, train_dict, data_target)
 
-        return [train_data, train_target, train_tags]
+        return [train_data, train_target, train_dict]
 
     @staticmethod
     def fit(X, y):
@@ -41,18 +41,18 @@ class SklearnUtils:
         return clf
 
     @staticmethod
-    def translate_feature(data_instance, train_tags, data_target):
+    def translate_feature(data_instance, train_dict, data_target):
         instance = {}
         instance['doc'] = []
         instance['label'] = data_target
         for i in range(0, len(data_instance)):
             if data_instance[i] == 1:
-                instance['doc'].append(train_tags[i])
+                instance['doc'].append(train_dict[i])
         print(instance)
         return instance
 
 if __name__ == '__main__':
     X, y = SklearnUtils.load_train_data(SklearnUtils.out_dir + 'train_data.json', SklearnUtils.out_dir + 'train_target.json',
-                                        SklearnUtils.out_dir + 'train_tag.json')
+                                        SklearnUtils.out_dir + 'train_dict.json')
     clf = SklearnUtils.fit(X, y)
     # model2java(clf)
