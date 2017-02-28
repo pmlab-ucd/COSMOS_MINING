@@ -1,23 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b876ad0-1846-4c17-9912-20cfaf15dc70" name="Default" comment="Fixed a bug and manually labelled some">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/train_data.arff" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Output.md" afterPath="" />
+    <list default="true" id="6b876ad0-1846-4c17-9912-20cfaf15dc70" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/test.model" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model2code.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/RandomForestModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/instances.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/train_data.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/train_tag.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/train_target.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sklearn_utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/about.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityAbout.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityCalendar.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityCloudPrinters.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityContacts.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityDocsBrowser.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityDriversBrowser.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityFindPrinters.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityGDocsBrowser.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityGmail.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityGmailConversation.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityHelp.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityLocalPrinters.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityMain.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityMessages.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityPreview.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityPrint.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityPrintAndroid.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityPrintContacts.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityPrintDocuments.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityPrintGmail.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityPrintMessages.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityPrintPDF.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityPrintPictures.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityPrintTestPage.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityPrintText.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityPrintWeb.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityPrinters.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityProfile.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityProfileEdit.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityRoot.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityStart.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_com.dynamixsoftware.printershare.ActivityWeb.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.apk_tgtAct.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/gmail_conversation.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/help.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/print.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/profile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/profile_edit.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/start.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/output/java/Play_win8/com.dynamixsoftware.printershare/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_formatter.py" afterPath="$PROJECT_DIR$/data_formatter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/miner.py" afterPath="$PROJECT_DIR$/miner.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sensitive_component.py" afterPath="$PROJECT_DIR$/sensitive_component.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sensitive_component_test.py" afterPath="$PROJECT_DIR$/sensitive_component_test.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp.py" afterPath="$PROJECT_DIR$/tmp.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/output/gnd/Books_Reference_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Test/Books_Reference_50_0.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/output/gnd/Business_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Test/Business_50_0.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/output/gnd/COMICS_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Test/COMICS_50_0.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/output/gnd/Casual_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Test/Casual_50_0.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/output/gnd/Communication_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Test/Communication_50_0.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/output/gnd/Education_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Test/Education_50_0.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/output/gnd/Finance_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Test/Finance_50_0.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/output/gnd/Health_Fitness_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Test/Health_Fitness_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Test/train_data.arff" afterPath="$PROJECT_DIR$/output/gnd/Test/train_data.arff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.py" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/word_spliter.py" afterPath="$PROJECT_DIR$/word_spliter.py" />
     </list>
     <ignored path="COSPOS_MINGING.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -31,19 +73,20 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/COSMOS_MINING$main.coverage" NAME="main Coverage Results" MODIFIED="1487383936983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1487977605999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1488223869827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSPOS_MINGING$lda.coverage" NAME="lda Coverage Results" MODIFIED="1477613100242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$k_means.coverage" NAME="k-means Coverage Results" MODIFIED="1485041961188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$lda.coverage" NAME="lda Coverage Results" MODIFIED="1485234377879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$test.coverage" NAME="test Coverage Results" MODIFIED="1485650762434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$data_formatter.coverage" NAME="data_formatter Coverage Results" MODIFIED="1487988012293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$data_formatter.coverage" NAME="data_formatter Coverage Results" MODIFIED="1488257351926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$Unittests_in_sensitive_component_test.coverage" NAME="Unittests in sensitive_component_test Coverage Results" MODIFIED="1487201647234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$word_spliter.coverage" NAME="word_spliter Coverage Results" MODIFIED="1487278204195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$test.coverage" NAME="test Coverage Results" MODIFIED="1487136749510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$test.coverage" NAME="test Coverage Results" MODIFIED="1488238074254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1485851519678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$sensitive_component_test.coverage" NAME="sensitive_component_test Coverage Results" MODIFIED="1487973855122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$sensitive_component.coverage" NAME="sensitive_component Coverage Results" MODIFIED="1485150634815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$tag_lemma.coverage" NAME="tag_lemma Coverage Results" MODIFIED="1484346575013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$sklearn_utils.coverage" NAME="sklearn_utils Coverage Results" MODIFIED="1488253475819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$main.coverage" NAME="main Coverage Results" MODIFIED="1485851250070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -58,7 +101,7 @@
       <file leaf-file-name="lda.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lda.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="768">
+            <state relative-caret-position="1296">
               <caret line="62" column="18" lean-forward="false" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
@@ -67,22 +110,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="model_tester.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model_tester.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="miner.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/miner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
+            <state relative-caret-position="1968">
               <caret line="86" column="23" lean-forward="false" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
@@ -94,8 +125,8 @@
       <file leaf-file-name="tmp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tmp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="275">
+              <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
               </folding>
@@ -103,11 +134,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data_formatter.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_formatter.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data_formatter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="198" column="57" lean-forward="false" selection-start-line="198" selection-start-column="57" selection-end-line="198" selection-end-column="57" />
+            <state relative-caret-position="260">
+              <caret line="297" column="58" lean-forward="false" selection-start-line="297" selection-start-column="58" selection-end-line="297" selection-end-column="58" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -115,11 +158,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="train_data.arff" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sklearn_utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sklearn_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="45" column="8" lean-forward="false" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model2code.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/model2code.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train_data.arff" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/output/gnd/Test/train_data.arff">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="192">
+              <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -128,8 +195,8 @@
       <file leaf-file-name="word_spliter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/word_spliter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1104">
-              <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
+            <state relative-caret-position="48">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -144,16 +211,6 @@
                 <element signature="e#0#39#0" expanded="true" />
                 <element signature="e#2554#3363#1" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sensitive_component_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sensitive_component_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -177,6 +234,9 @@
       <find>&gt;&gt;&gt;</find>
       <find>li</find>
       <find>word_li</find>
+      <find>print</find>
+      <find>swipe</find>
+      <find>info</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -189,9 +249,7 @@
         <option value="$PROJECT_DIR$/k-means.py" />
         <option value="$PROJECT_DIR$/utils.py" />
         <option value="$PROJECT_DIR$/utils.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/j.txt" />
-        <option value="$PROJECT_DIR$/word_spliter.py" />
         <option value="$PROJECT_DIR$/model_tester.py" />
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/main.py" />
@@ -204,8 +262,12 @@
         <option value="$PROJECT_DIR$/miner.py" />
         <option value="$PROJECT_DIR$/tmp.py" />
         <option value="$PROJECT_DIR$/tmp.py" />
-        <option value="$PROJECT_DIR$/data_formatter.py" />
         <option value="$PROJECT_DIR$/output/gnd/Test/train_data.arff" />
+        <option value="$PROJECT_DIR$/word_spliter.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/model2code.py" />
+        <option value="$PROJECT_DIR$/sklearn_utils.py" />
+        <option value="$PROJECT_DIR$/data_formatter.py" />
       </list>
     </option>
   </component>
@@ -219,7 +281,7 @@
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -244,19 +306,20 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
-      <showMembers />
+      <showMembers ProjectPane="true" />
       <showModules />
       <showLibraryContents />
       <hideEmptyPackages />
       <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
       <sortByType />
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -267,6 +330,70 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="COSPOS_MINING" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSMOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSPOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test.py" />
+              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSMOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSPOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sklearn_utils.py" />
+              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SklearnUtils" />
+              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSMOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSPOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model2code.py" />
+              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSMOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSPOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data_formatter.py" />
+              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataFormatter" />
+              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -325,11 +452,10 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../XML_protein35/xml2csv.py" />
     <property name="js.eslint.eslintPackage" value="" />
@@ -363,24 +489,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\hao\AppData\Local\Programs\Python\Python36\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="COSMOS_MINING" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="sensitive_component_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -399,24 +507,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="word_spliter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="COSMOS_MINING" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/word_spliter.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
     <configuration default="false" name="data_formatter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -431,6 +521,42 @@
       <module name="COSMOS_MINING" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_formatter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="COSMOS_MINING" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sklearn_utils" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="COSMOS_MINING" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sklearn_utils.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -662,18 +788,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.tmp" />
-      <item index="1" class="java.lang.String" itemvalue="Python.main" />
-      <item index="2" class="java.lang.String" itemvalue="Python.sensitive_component_test" />
-      <item index="3" class="java.lang.String" itemvalue="Python.word_spliter" />
-      <item index="4" class="java.lang.String" itemvalue="Python.data_formatter" />
+      <item index="1" class="java.lang.String" itemvalue="Python.sensitive_component_test" />
+      <item index="2" class="java.lang.String" itemvalue="Python.data_formatter" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test" />
+      <item index="4" class="java.lang.String" itemvalue="Python.sklearn_utils" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.data_formatter" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tmp" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sensitive_component_test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.main" />
-        <item index="4" class="java.lang.String" itemvalue="Python.word_spliter" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sklearn_utils" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tmp" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sensitive_component_test" />
       </list>
     </recent_temporary>
   </component>
@@ -824,7 +950,14 @@
       <option name="project" value="LOCAL" />
       <updated>1487916909657</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Gen arff from labelled md">
+      <created>1487988374355</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1487988374355</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -845,17 +978,16 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21162046" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21375267" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3678647" sideWeight="0.50208336" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29050815" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37104505" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" x="202" y="796" width="1366" height="728" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38136512" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" x="202" y="796" width="1366" height="728" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -865,6 +997,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -921,7 +1054,8 @@
     <MESSAGE value="Generate templates for labelling" />
     <MESSAGE value="Formatting data for labelling" />
     <MESSAGE value="Fixed a bug and manually labelled some" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed a bug and manually labelled some" />
+    <MESSAGE value="Gen arff from labelled md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gen arff from labelled md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -930,41 +1064,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/gensim/models/word2vec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28080">
-          <caret line="1170" column="0" lean-forward="false" selection-start-line="1170" selection-start-column="0" selection-end-line="1170" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lda_zhihu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="888">
-          <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tag_lemma.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/gensim/models/word2vec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27792">
-          <caret line="1170" column="0" lean-forward="false" selection-start-line="1170" selection-start-column="0" selection-end-line="1170" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lda_zhihu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -1096,13 +1195,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="60" column="64" lean-forward="false" selection-start-line="60" selection-start-column="64" selection-end-line="60" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/words-by-frequency.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2373961">
@@ -1124,39 +1216,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Output.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="24">
-            <caret line="1" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/ground/COMICS_100.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/ground/Business_50_0.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Output.md" />
+    <entry file="file://$PROJECT_DIR$/output/ground/COMICS_100.md" />
+    <entry file="file://$PROJECT_DIR$/output/ground/Business_50_0.md" />
     <entry file="file://$PROJECT_DIR$/sensitive_component.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -1171,16 +1233,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model_tester.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
+        <state relative-caret-position="528">
           <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
           <folding>
-            <element signature="e#0#34#0" expanded="true" />
+            <element signature="e#0#34#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1188,7 +1249,51 @@
     <entry file="file://$PROJECT_DIR$/sensitive_component_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="62" column="18" lean-forward="false" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/miner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1968">
+          <caret line="86" column="23" lean-forward="false" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/sklearn/feature_extraction/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="780" column="0" lean-forward="false" selection-start-line="780" selection-start-column="0" selection-end-line="780" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/gnd/Test/train_UI.arff" />
+    <entry file="file://$PROJECT_DIR$/output/gnd/Test/train_data.arff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/word_spliter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1204,63 +1309,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/word_spliter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="46" column="10" lean-forward="false" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lda.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="62" column="18" lean-forward="false" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/miner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="86" column="23" lean-forward="false" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tmp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#47#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/sklearn/feature_extraction/text.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="780" column="0" lean-forward="false" selection-start-line="780" selection-start-column="0" selection-end-line="780" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_formatter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="198" column="57" lean-forward="false" selection-start-line="198" selection-start-column="57" selection-end-line="198" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/gnd/Test/train_UI.arff">
+    <entry file="file://$PROJECT_DIR$/output/gnd/Test/instances.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1268,11 +1317,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/gnd/Test/train_data.arff">
+    <entry file="file://$PROJECT_DIR$/tmp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="275">
+          <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/gnd/Test/train_data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/gnd/Test/RandomForestModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model2code.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sklearn_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="45" column="8" lean-forward="false" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_formatter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="297" column="58" lean-forward="false" selection-start-line="297" selection-start-column="58" selection-end-line="297" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

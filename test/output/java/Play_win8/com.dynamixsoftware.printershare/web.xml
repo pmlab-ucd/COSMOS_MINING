@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/url_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="2.0dip" android:layout_marginTop="2.0dip" android:layout_marginRight="2.0dip">
+        <EditText android:id="@id/enter_url" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" android:inputType="textUri" android:imeOptions="actionGo" />
+        <ImageButton android:gravity="center" android:id="@id/button_favbookmarks" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/star_on" android:minWidth="48.0dip" />
+        <Button android:gravity="center" android:id="@id/button_go" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="48.0dip" android:text="@string/button_go" />
+    </LinearLayout>
+    <WebView android:id="@id/web_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <include layout="@layout/bottom" />
+</LinearLayout>

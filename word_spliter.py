@@ -1,5 +1,6 @@
 from math import log
 
+
 class WordSpliter:
     # Build a cost dictionary, assuming Zipf's law and cost = -math.log(probability).
     words = None

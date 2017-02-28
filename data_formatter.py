@@ -7,6 +7,8 @@ from utils import Utilities
 from sklearn.feature_extraction.text import CountVectorizer
 import numpy as np
 from lda import LDA
+import json
+from sklearn_utils import SklearnUtils
 
 """
 Generate a markdown file
@@ -33,12 +35,12 @@ class DataFormatter:
         rm_category = []
 
         for category in categories:
-            print('Try to read xml files for ' + category)
+            DataFormatter.logger.info('Try to read xml files for ' + category)
             perm_keywords = Miner.perm_types[perm_type]
             trigger_out_handler = TriggerOutHandler(category, perm_keywords, trigger_py_out_dir)
             if not os.path.exists(trigger_java_out_dir + category):
                 rm_category.append(category)
-                print(category + ' does not exist.')
+                DataFormatter.logger.warn(category + ' does not exist.')
                 continue
             for root, dirs, files in os.walk(trigger_java_out_dir + category):
                 for file_name in files:
@@ -48,7 +50,6 @@ class DataFormatter:
                         except Exception as e:
                             print(e)
                             print(os.path.join(root, file_name))
-            print(trigger_out_handler.instances)
             instances = trigger_out_handler.instances
             out_base_path = os.path.abspath(os.path.join(os.path.curdir, 'output\gnd\\' + perm_type + '\\'))
             if not os.path.isdir(out_base_path):
@@ -107,7 +108,7 @@ class DataFormatter:
 
     @staticmethod
     def handle_md(md_file, instances):
-        counter = len(instances)
+        counter = 0
         with open(md_file, 'r') as text_file:
             for line in text_file:
                 sub_lines = line.split('|')
@@ -138,15 +139,14 @@ class DataFormatter:
                 counter += 1
 
     @staticmethod
-    def docs2bag(instances):
+    def docs2bag(instances, gen_arff=False):
         train_data = []
         train_data_label = []
 
         for i in range(0, len(instances)):
             train_data.append(' '.join(instances[i]['doc']))
             train_data_label.append(instances[i]['label'])
-
-        print(train_data)
+            print(str(i), train_data[i], train_data_label[i])
 
         # Initialize the "CountVectorizer" object, which is scikit-learn's bag of words tool.
         vectorizer = CountVectorizer(analyzer="word",
@@ -168,12 +168,29 @@ class DataFormatter:
         print('/'.join(vocab))
         # Sum up the counts of each vocabulary word
         dist = np.sum(train_data_features, axis=0)
+        tags = []
+        for tag, count in zip(vocab, dist):
+            tags.append(tag)
+        json.dump(tags, open(out_dir + '/train_tag.json', 'w+'))
+
+        for ins in train_data_features:
+            tmp = {}
+            tmp['doc'] = []
+            #tmp['label'] = data_target
+            for i in range(0, len(ins)):
+                if ins[i] == 1:
+                    tmp['doc'].append(tags[i])
+            print(tmp)
 
         if len(train_data_label) != len(train_data):
             DataFormatter.logger.error('ERROR: number of titles and titles not consistent')
             exit(1)
-        train_file = open(DataFormatter.gnd_dir + '/train_data.arff', 'w')
-        DataFormatter.gen_arff(train_file, vocab, dist, train_data_features, train_data_label, instances)
+
+        if gen_arff:
+            train_file = open(DataFormatter.gnd_dir + '/train_data.arff', 'w')
+            DataFormatter.gen_arff(train_file, tags, train_data_features, train_data_label, instances)
+
+        return [train_data_features, train_data_label]
 
     @staticmethod
     def gen_arff_header(train_file):
@@ -182,18 +199,16 @@ class DataFormatter:
             train_file.write('@ATTRIBUTE doc_name STRING\n')
 
     @staticmethod
-    def gen_arff(train_file, vocab, dist, train_data_features, titles_label, instances, numeric_flag=False):
+    def gen_arff(train_file, tags, train_data_features, titles_label, instances, numeric_flag=False):
         vocabulary = []
         DataFormatter.gen_arff_header(train_file)
         # For each, print the vocabulary word and the number of times it appears in the training set
-        if numeric_flag:
-            for tag, count in zip(vocab, dist):
+        for tag in tags:
+            if numeric_flag:
                 # print '@ATTRIBUTE word_freq_' + tag + ' NUMERIC'
-                train_file.write('@ATTRIBUTE word_freq_' + tag.encode('utf-8') + ' NUMERIC\n')
-        else:
-            for tag, count in zip(vocab, dist):
+                train_file.write('@ATTRIBUTE word_freq_' + tag + ' NUMERIC\n')
+            else:
                 # print '@ATTRIBUTE word_freq_' + tag + ' NUMERIC'
-                print(tag.encode('utf-8'))
                 #str_tag = str(tag.encode('utf-8')).replace('b\'', '\'')
                 #str_tag = str_tag.replace('\'', '')
                 train_file.write('@ATTRIBUTE word_' + tag + ' {0, 1}\n')
@@ -253,8 +268,6 @@ class DataFormatter:
                 train_file.write(str(titles_label[i]) + '\n')
                 DataFormatter.logger.info(str(titles_label[i]) + '\n')
 
-
-
     @staticmethod
     def parse_labelled(gnd_dir, instances):
         DataFormatter.gnd_dir = gnd_dir
@@ -263,8 +276,43 @@ class DataFormatter:
                 if file_name.endswith('.md'):
                     DataFormatter.handle_md(os.path.join(root, file_name), instances)
 
+    @staticmethod
+    def check_data_consistency(instances, train_data_features):
+        train_data, train_target, train_tags = SklearnUtils.load_train_data(out_dir + 'train_data.json',
+                                                                            out_dir + 'train_target.json',
+                                                                            out_dir + 'train_tag.json')
+        if len(train_data) != len(instances):
+            DataFormatter.logger.error(str(len(train_data)), str(len(instances)))
+            exit(1)
+        else:
+            DataFormatter.logger.info('Length: ' + str(len(instances)))
+        for i in range(0, len(train_data)):
+            data_instance = train_data[i]
+            data_target = train_target[i]
+            loaded_ins = SklearnUtils.translate_feature(data_instance, train_tags, data_target)
+            instance = instances[i]
+            if str(instance['label']) != str(loaded_ins['label']):
+                DataFormatter.logger.error(str(i) + ' label: ' + str(instance['doc']) + ', ' + str(loaded_ins['doc']))
+                exit(1)
+            if train_data[i].all() != train_data_features[i].all():
+                DataFormatter.logger.error(str(i) + ' data: ' + str(instance['doc']))
+                exit(1)
+            """
+            for word in instance['doc']:
+                if word not in loaded_ins['doc']:
+                    DataFormatter.logger.error(word)
+                    DataFormatter.logger.error(str(i) + ' data: ' + str(instance['doc']) + ', ' + str(loaded_ins['doc']))
+                     exit(1)
+            """
+
+out_dir = 'output/gnd/Test/'
+
 if __name__ == '__main__':
     #DataFormatter.combining_data(num=50)  # trigger_out_dir=os.curdir + '\\test\output')
     instances = {}
-    DataFormatter.parse_labelled('output/gnd/Test', instances)
-    DataFormatter.docs2bag(instances)
+    DataFormatter.parse_labelled(out_dir, instances)
+    # json.dump(instances, open(out_dir + '/instances.json', 'w+'))
+    [train_data_features, train_data_labels] = DataFormatter.docs2bag(instances)
+    json.dump(train_data_features.tolist(), open(out_dir + 'train_data.json', 'w+'))
+    json.dump(train_data_labels, open(out_dir + 'train_target.json', 'w+'))
+    DataFormatter.check_data_consistency(instances, train_data_features)

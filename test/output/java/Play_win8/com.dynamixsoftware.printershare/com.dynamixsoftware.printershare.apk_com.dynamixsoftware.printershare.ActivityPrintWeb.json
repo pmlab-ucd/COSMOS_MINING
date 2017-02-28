@@ -1,0 +1,1 @@
+{"componentName":"com.dynamixsoftware.printershare.ActivityPrintWeb","layoutFile":"print","sensEntries":{"<com.dynamixsoftware.printershare.ActivityPrintWeb: void onCreate(android.os.Bundle)>":{"sensEntry":"<com.dynamixsoftware.printershare.ActivityPrintWeb: void onCreate(android.os.Bundle)>","sensTargets":["<java.lang.reflect.Method: java.lang.String getName()>"],"views":{}}}}
