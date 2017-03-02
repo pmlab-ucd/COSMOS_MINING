@@ -10,4 +10,5 @@ def model2java(clf):
 
     java_file = open(out_dir + 'RandomForestModel.java', 'w')
     for line in result:
+        line = str(line).replace('Tmp', 'RandomForestModel')
         java_file.write(line)

@@ -130,7 +130,6 @@ class DataFormatter:
                 entry_name = sub_lines[len(sub_lines) - 5].split(';')[0]
                 entry_sub_words = SensitiveComponent.SensEntryPoint.split_entry_name(entry_name)
                 doc.append(entry_sub_words)
-                doc = LDA.pre_process(';'.join(doc))
                 instances[counter] = {}
                 instances[counter]['doc'] = doc
                 instances[counter]['label'] = label
@@ -144,8 +143,10 @@ class DataFormatter:
         train_data_label = []
 
         for i in range(0, len(instances)):
-            train_data.append(' '.join(instances[i]['doc']))
-            train_data_label.append(instances[i]['label'])
+            instance = instances[i]
+            doc = LDA.pre_process(';'.join(instance['doc']))
+            train_data.append(' '.join(doc))
+            train_data_label.append(instance['label'])
             print(str(i), train_data[i], train_data_label[i])
 
         # Initialize the "CountVectorizer" object, which is scikit-learn's bag of words tool.
@@ -244,8 +245,7 @@ class DataFormatter:
                             # sys.stdout.write(str(titles_lable[counter]) + '\n')
                 train_file.write(str(titles_label[i]) + '\n')
             else:
-                # instances[i]['entry_name'] + '|' +
-                train_file.write(instances[i]['xml_path'] + ',')
+                train_file.write(instances[i]['entry_name'] + '|' + instances[i]['xml_path'] + ',')
                 for word_count in train_data_features[i]:
                     # calculate freq of words = percentage of words in front page that match WORD
                     # i.e. 100 * (number of times the WORD appears in the front_page) /  total number of words in front page
@@ -305,6 +305,20 @@ class DataFormatter:
                      exit(1)
             """
 
+    @staticmethod
+    def instances2txtdocs(instances):
+        for i in instances:
+            instance = instances[i]
+            output_dir = out_dir + str(instance['label']) + '/'
+            if not os.path.exists(output_dir):
+                os.makedirs(output_dir)
+            file_name = str(instance['entry_name']).replace('<', '')
+            file_name = file_name.replace('>', '')
+            file_name = file_name.replace('()', '')
+            file_name = file_name.replace(': ', '_')
+            doc_file = open(output_dir + file_name + '.txt', 'w')
+            doc_file.write(str(instance['doc']))
+
 out_dir = 'output/gnd/Test/'
 
 if __name__ == '__main__':
@@ -312,7 +326,11 @@ if __name__ == '__main__':
     instances = {}
     DataFormatter.parse_labelled(out_dir, instances)
     # json.dump(instances, open(out_dir + '/instances.json', 'w+'))
+    DataFormatter.instances2txtdocs(instances)
+
+    """
     [train_data_features, train_data_labels] = DataFormatter.docs2bag(instances)
     json.dump(train_data_features.tolist(), open(out_dir + 'train_data.json', 'w+'))
     json.dump(train_data_labels, open(out_dir + 'train_target.json', 'w+'))
     DataFormatter.check_data_consistency(instances, train_data_features)
+    """
