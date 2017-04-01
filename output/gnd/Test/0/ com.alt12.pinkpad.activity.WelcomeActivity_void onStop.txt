@@ -1,1 +1,0 @@
-['Welcome to Pink Pad!', 'Pink Pad is a period & fertility tracker. Sign in and begin tracking your progress.', 'Register', 'Sign In', '<com alt 1 2 pink pad activity Welcome Activity void onStop']

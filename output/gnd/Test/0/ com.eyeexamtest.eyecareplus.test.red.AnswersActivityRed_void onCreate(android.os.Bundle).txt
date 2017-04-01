@@ -1,1 +1,0 @@
-['What did you see?', 'Shades of red in center and rear', 'Looks more orange', 'Looks more pink', 'The same red', 'Not sure', '<com eye exam test eye care plus test red Answers Activity Red void onCreate']

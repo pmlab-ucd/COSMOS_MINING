@@ -1,55 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b876ad0-1846-4c17-9912-20cfaf15dc70" name="Default" comment="Rename tags to dict">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ cc.pacer.androidapp.ui.settings.editavatar.AvatarEditActivity_void onRequestPermissionsResult(int,java.lang.String[],int[]).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ cc.pacer.androidapp.ui.workoutplan.controllers.WorkoutPlanActivity_void onPause.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.alt12.pinkpad.activity.WelcomeActivity_void onStop.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.eyeexamtest.eyecareplus.test.CloseYourEyeActivity_void onCreate(android.os.Bundle).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.eyeexamtest.eyecareplus.test.astigmatism.AnswersActivityAstigmatism_void onCreate(android.os.Bundle).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.eyeexamtest.eyecareplus.test.centralvision.AnswersActivityCentralVision_void onCreate(android.os.Bundle).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.eyeexamtest.eyecareplus.test.glasseschecker.AnswersActivityDuochrome_void onCreate(android.os.Bundle).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.eyeexamtest.eyecareplus.test.glasseschecker.TestActivityDuochrome_void onCreate(android.os.Bundle).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.eyeexamtest.eyecareplus.test.huetest.HueTestActivity_void onCreate(android.os.Bundle).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.eyeexamtest.eyecareplus.test.red.AnswersActivityRed_void onCreate(android.os.Bundle).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.fitapp.activity.GoPremiumActivity2_void onActivityResult(int,int,android.content.Intent).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.fitapp.activity.PartnerAccountsActivity_void onActivityResult(int,int,android.content.Intent).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.fitapp.activity.registration.BasicSettingsActivity_void onActivityResult(int,int,android.content.Intent).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.fitapp.activity.registration.LoginActivity_void onActivityResult(int,int,android.content.Intent).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.flurry.android.FlurryFullscreenTakeoverActivity_void onStop.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.google.vision.barcodereader.BarcodeCaptureActivity_void onPause.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.mynetdiary.ui.WhatsNewActivity_void onCreate(android.os.Bundle).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.northpark.drinkwater.guide.GuideActivity$14_void onClick(android.view.View).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.northpark.drinkwater.guide.GuideActivity$15_void onClick(android.view.View).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.northpark.drinkwater.settings.SimpleTimeSettingActivity$1_void onFocusChange(android.view.View,boolean).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.northpark.drinkwater.settings.SimpleTimeSettingActivity$5_void onClick(android.view.View).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.northpark.drinkwater.settings.SimpleTimeSettingActivity$6_void onFocusChange(android.view.View,boolean).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.northpark.drinkwater.settings.SimpleTimeSettingActivity$7_void onClick(android.view.View).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.protogeo.moves.ui.phone.CreateAccountSelectorActivity_void onActivityResult(int,int,android.content.Intent).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/0/ com.revmob.ads.fullscreen.FullscreenActivity_void onConfigurationChanged(android.content.res.Configuration).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/1/ cc.pacer.androidapp.ui.activity.swipepages.ActivitySwipeTutorialActivity_void onPause.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/1/ cc.pacer.androidapp.ui.coach.controllers.CoachActivity_void onPause.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/1/ cc.pacer.androidapp.ui.gps.controller.GpsRunningActivity_void onPause.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/1/ cc.pacer.androidapp.ui.group.messages.MessageCenterActivity_void onPause.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/1/ cc.pacer.androidapp.ui.input.InputExerciseActivity_void onPause.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/1/ com.coopervision.MainUI$10_void onClick(android.view.View).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/1/ com.coopervision.MainUI$11_void onClick(android.view.View).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/1/ com.coopervision.MainUI$12_void onClick(android.view.View).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/1/ com.coopervision.MainUI$13_void onClick(android.view.View).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/1/ com.coopervision.MainUI$14_void onClick(android.view.View).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/1/ com.coopervision.MainUI_void onStop.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/1/ com.hmravens.simplywalking.SimplyWalkingActivity_boolean onOptionsItemSelected(android.view.MenuItem).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/1/ com.hmravens.simplywalking.SimplyWalkingActivity_void onCreate(android.os.Bundle).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/1/ com.hmravens.simplywalking.SimplyWalkingActivity_void onResume.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/1/ com.protogeo.moves.ui.phone.PopularRoutesMapActivity_void onActivityResult(int,int,android.content.Intent).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/2/ com.mobilefitness.LoseBellyFatin2Week.FinishExerciceActivity$1_void onClick(android.view.View).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/2/ com.motivebite.smokefree.activities.SettingsActivity_void onCreate(android.os.Bundle).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/2/ com.protogeo.moves.ui.phone.MiniTutorialActivity_void onActivityResult(int,int,android.content.Intent).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/2/ com.protogeo.moves.ui.phone.MiniTutorialActivity_void onCreate(android.os.Bundle).txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/Test/2/ com.protogeo.moves.ui.phone.SummaryActivity_void onBackPressed.txt" />
+    <list default="true" id="6b876ad0-1846-4c17-9912-20cfaf15dc70" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ cc.pacer.androidapp.ui.settings.editavatar.AvatarEditActivity_void onRequestPermissionsResult(int,java.lang.String[],int[]).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ cc.pacer.androidapp.ui.workoutplan.controllers.WorkoutPlanActivity_void onPause.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.alt12.pinkpad.activity.WelcomeActivity_void onStop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.eyeexamtest.eyecareplus.test.CloseYourEyeActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.eyeexamtest.eyecareplus.test.astigmatism.AnswersActivityAstigmatism_void onCreate(android.os.Bundle).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.eyeexamtest.eyecareplus.test.centralvision.AnswersActivityCentralVision_void onCreate(android.os.Bundle).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.eyeexamtest.eyecareplus.test.glasseschecker.AnswersActivityDuochrome_void onCreate(android.os.Bundle).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.eyeexamtest.eyecareplus.test.glasseschecker.TestActivityDuochrome_void onCreate(android.os.Bundle).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.eyeexamtest.eyecareplus.test.huetest.HueTestActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.eyeexamtest.eyecareplus.test.red.AnswersActivityRed_void onCreate(android.os.Bundle).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.fitapp.activity.GoPremiumActivity2_void onActivityResult(int,int,android.content.Intent).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.fitapp.activity.PartnerAccountsActivity_void onActivityResult(int,int,android.content.Intent).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.fitapp.activity.registration.BasicSettingsActivity_void onActivityResult(int,int,android.content.Intent).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.fitapp.activity.registration.LoginActivity_void onActivityResult(int,int,android.content.Intent).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.flurry.android.FlurryFullscreenTakeoverActivity_void onStop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.google.vision.barcodereader.BarcodeCaptureActivity_void onPause.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.mynetdiary.ui.WhatsNewActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.northpark.drinkwater.guide.GuideActivity$14_void onClick(android.view.View).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.northpark.drinkwater.guide.GuideActivity$15_void onClick(android.view.View).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.northpark.drinkwater.settings.SimpleTimeSettingActivity$1_void onFocusChange(android.view.View,boolean).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.northpark.drinkwater.settings.SimpleTimeSettingActivity$5_void onClick(android.view.View).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.northpark.drinkwater.settings.SimpleTimeSettingActivity$6_void onFocusChange(android.view.View,boolean).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.northpark.drinkwater.settings.SimpleTimeSettingActivity$7_void onClick(android.view.View).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.protogeo.moves.ui.phone.CreateAccountSelectorActivity_void onActivityResult(int,int,android.content.Intent).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/0/ com.revmob.ads.fullscreen.FullscreenActivity_void onConfigurationChanged(android.content.res.Configuration).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/1/ cc.pacer.androidapp.ui.activity.swipepages.ActivitySwipeTutorialActivity_void onPause.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/1/ cc.pacer.androidapp.ui.coach.controllers.CoachActivity_void onPause.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/1/ cc.pacer.androidapp.ui.gps.controller.GpsRunningActivity_void onPause.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/1/ cc.pacer.androidapp.ui.group.messages.MessageCenterActivity_void onPause.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/1/ cc.pacer.androidapp.ui.input.InputExerciseActivity_void onPause.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/1/ com.coopervision.MainUI$10_void onClick(android.view.View).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/1/ com.coopervision.MainUI$11_void onClick(android.view.View).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/1/ com.coopervision.MainUI$12_void onClick(android.view.View).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/1/ com.coopervision.MainUI$13_void onClick(android.view.View).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/1/ com.coopervision.MainUI$14_void onClick(android.view.View).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/1/ com.coopervision.MainUI_void onStop.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/1/ com.hmravens.simplywalking.SimplyWalkingActivity_boolean onOptionsItemSelected(android.view.MenuItem).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/1/ com.hmravens.simplywalking.SimplyWalkingActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/1/ com.hmravens.simplywalking.SimplyWalkingActivity_void onResume.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/1/ com.protogeo.moves.ui.phone.PopularRoutesMapActivity_void onActivityResult(int,int,android.content.Intent).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/2/ com.mobilefitness.LoseBellyFatin2Week.FinishExerciceActivity$1_void onClick(android.view.View).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/2/ com.motivebite.smokefree.activities.SettingsActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/2/ com.protogeo.moves.ui.phone.MiniTutorialActivity_void onActivityResult(int,int,android.content.Intent).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/2/ com.protogeo.moves.ui.phone.MiniTutorialActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Test/2/ com.protogeo.moves.ui.phone.SummaryActivity_void onBackPressed.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_formatter.py" afterPath="$PROJECT_DIR$/data_formatter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/model2code.py" afterPath="$PROJECT_DIR$/model2code.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Books_Reference_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Books_Reference_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Books_Reference_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Books_Reference_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Business_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Business_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Business_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Business_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_3.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Business_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_4.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/COMICS_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/COMICS_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Communication_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Communication_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Communication_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Communication_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_3.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Education_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Education_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Finance_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Finance_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Medical_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Medical_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Photography_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Photography_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_3.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_4.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_3.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Social_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Social_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Social_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Social_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_3.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Social_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_4.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Sports_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Sports_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_1.md" />
     </list>
     <ignored path="COSPOS_MINGING.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -68,7 +113,7 @@
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$k_means.coverage" NAME="k-means Coverage Results" MODIFIED="1485041961188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$lda.coverage" NAME="lda Coverage Results" MODIFIED="1485234377879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$test.coverage" NAME="test Coverage Results" MODIFIED="1485650762434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$data_formatter.coverage" NAME="data_formatter Coverage Results" MODIFIED="1488430972839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$data_formatter.coverage" NAME="data_formatter Coverage Results" MODIFIED="1488484133397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$Unittests_in_sensitive_component_test.coverage" NAME="Unittests in sensitive_component_test Coverage Results" MODIFIED="1487201647234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$word_spliter.coverage" NAME="word_spliter Coverage Results" MODIFIED="1487278204195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$test.coverage" NAME="test Coverage Results" MODIFIED="1488238074254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -91,7 +136,7 @@
       <file leaf-file-name="tmp.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tmp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="336">
               <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding>
                 <element signature="e#0#47#0" expanded="true" />
@@ -103,7 +148,7 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="903">
+            <state relative-caret-position="864">
               <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -115,11 +160,11 @@
       <file leaf-file-name="data_formatter.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data_formatter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="328" column="23" lean-forward="false" selection-start-line="328" selection-start-column="4" selection-end-line="328" selection-end-column="35" />
+            <state relative-caret-position="408">
+              <caret line="87" column="25" lean-forward="false" selection-start-line="87" selection-start-column="25" selection-end-line="87" selection-end-column="25" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-                <element signature="e#12516#14033#0" expanded="false" />
+                <element signature="e#12588#14105#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -128,7 +173,7 @@
       <file leaf-file-name="sklearn_utils.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sklearn_utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
+            <state relative-caret-position="624">
               <caret line="31" column="68" lean-forward="false" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -140,8 +185,8 @@
       <file leaf-file-name="model2code.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model2code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+            <state relative-caret-position="72">
+              <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -152,7 +197,7 @@
       <file leaf-file-name="word_spliter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/word_spliter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-441">
+            <state relative-caret-position="48">
               <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
@@ -223,10 +268,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -263,8 +306,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -287,134 +328,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="word_spliter.py" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="trigger_out_handler.py" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test.py" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sklearn_utils.py" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SklearnUtils" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model_tester.py" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ModelTester" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model2code.py" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="miner.py" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Miner" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data_formatter.py" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataFormatter" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -423,40 +336,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="output" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="output" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gnd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -976,7 +859,14 @@
       <option name="project" value="LOCAL" />
       <updated>1488265508165</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="DataFormatter.instances2txtdocs">
+      <created>1488431031852</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1488431031852</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -997,27 +887,27 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21375267" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19569893" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3678647" sideWeight="0.50208336" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29050815" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33748803" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" x="202" y="796" width="1366" height="728" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2112676" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" x="202" y="796" width="1366" height="728" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1076,7 +966,8 @@
     <MESSAGE value="Gen arff from labelled md" />
     <MESSAGE value="Model2Java" />
     <MESSAGE value="Rename tags to dict" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename tags to dict" />
+    <MESSAGE value="DataFormatter.instances2txtdocs" />
+    <option name="LAST_COMMIT_MESSAGE" value="DataFormatter.instances2txtdocs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1085,28 +976,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lda_zhihu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/gensim/models/word2vec.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="1170" column="0" lean-forward="false" selection-start-line="1170" selection-start-column="0" selection-end-line="1170" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tag_lemma.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/QKSMS-noAnalytics-debug.apk_com.moez.QKSMS.ui.compose.ComposeActivity.json" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/json/decoder.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -1226,7 +1095,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1234,9 +1102,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1296">
           <caret line="62" column="18" lean-forward="false" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#41#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1244,7 +1109,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="780" column="0" lean-forward="false" selection-start-line="780" selection-start-column="0" selection-end-line="780" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1253,7 +1117,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1261,7 +1124,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1269,23 +1131,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/gnd/Test/train_tag.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/output/gnd/Test/train_tag.json" />
     <entry file="file://$PROJECT_DIR$/output/gnd/Test/train_dict.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1293,7 +1146,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1301,13 +1153,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7152">
           <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sklearn_utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
+        <state relative-caret-position="624">
           <caret line="31" column="68" lean-forward="false" selection-start-line="31" selection-start-column="68" selection-end-line="31" selection-end-column="68" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -1317,8 +1168,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model2code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        <state relative-caret-position="72">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
@@ -1330,7 +1181,7 @@
         <state relative-caret-position="-1401">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
             <element signature="e#2554#3363#1" expanded="false" />
           </folding>
         </state>
@@ -1338,7 +1189,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/word_spliter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-441">
+        <state relative-caret-position="48">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
@@ -1348,13 +1199,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tmp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="336">
           <caret line="17" column="29" lean-forward="false" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding>
             <element signature="e#0#47#0" expanded="true" />
@@ -1370,9 +1220,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/output/gnd/Test/0/ cc.pacer.androidapp.ui.workoutplan.controllers.WorkoutPlanActivity_void onPause.txt" />
+    <entry file="file://$PROJECT_DIR$/output/gnd/Test/0/ cc.pacer.androidapp.ui.settings.editavatar.AvatarEditActivity_void onRequestPermissionsResult(int,java.lang.String[],int[]).txt" />
+    <entry file="file://$PROJECT_DIR$/output/gnd/Test/labelled_D/ com.appdevandroid.framework.cashregisterfree.ReportTab$2_void onClick(android.view.View).txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/gnd/Test/labelled_T/ com.hmravens.simplywalking.SimplyWalkingActivity_void onCreate(android.os.Bundle).txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/gnd/Test/labelled_T/ org.qcontinuum.planets.Sky3dActivity_void onResume.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/output/py/Play_win8/Test/com.dynamixsoftware.printershare/com.dynamixsoftware.printershare.ActivityAbout.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="45" lean-forward="true" selection-start-line="0" selection-start-column="45" selection-end-line="0" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="903">
+        <state relative-caret-position="864">
           <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
@@ -1380,29 +1260,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/gnd/Test/0/ cc.pacer.androidapp.ui.workoutplan.controllers.WorkoutPlanActivity_void onPause.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/gnd/Test/0/ cc.pacer.androidapp.ui.settings.editavatar.AvatarEditActivity_void onRequestPermissionsResult(int,java.lang.String[],int[]).txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data_formatter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="328" column="23" lean-forward="false" selection-start-line="328" selection-start-column="4" selection-end-line="328" selection-end-column="35" />
+        <state relative-caret-position="408">
+          <caret line="87" column="25" lean-forward="false" selection-start-line="87" selection-start-column="25" selection-end-line="87" selection-end-column="25" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <element signature="e#12516#14033#0" expanded="false" />
+            <element signature="e#12588#14105#0" expanded="false" />
           </folding>
         </state>
       </provider>

@@ -1,1 +1,0 @@
-['Scan Barcode', 'Tap to capture. Pinch/Stretch to zoom', '<com google vision barcode reader Barcode Capture Activity void onPause']

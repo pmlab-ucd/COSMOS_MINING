@@ -11,7 +11,7 @@ import json
 from sklearn_utils import SklearnUtils
 
 """
-Generate a markdown file
+Generate markdown files of instances for labelling
 class name | screen shot | entry point | rsid
 """
 
@@ -108,17 +108,17 @@ class DataFormatter:
 
     @staticmethod
     def handle_md(md_file, instances):
-        counter = 0
+        counter = len(instances)
         with open(md_file, 'r') as text_file:
             for line in text_file:
                 sub_lines = line.split('|')
 
                 if 'T' in sub_lines[len(sub_lines) - 2]:
-                    label = 1
+                    label = 'labelled_T'
                 elif 'F' in sub_lines[len(sub_lines) - 2]:
-                    label = 0
+                    label = 'labelled_F'
                 elif 'D' in sub_lines[len(sub_lines) - 2]:
-                    label = 2
+                    label = 'labelled_D'
                 else:
                     continue
                 xml_path = sub_lines[len(sub_lines) - 4].split('(')[1]

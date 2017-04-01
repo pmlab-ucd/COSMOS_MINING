@@ -1,1 +1,0 @@
-['Sync with Google Fit', 'Google Fit', 'Sync all new activities with Google Fit.', 'Connect', '<com fit app activity Partner Accounts Activity void onActivityResult']
