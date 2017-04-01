@@ -1,0 +1,1 @@
+['Settings', 'PIN', 'Disabled', 'Dropbox sync', 'Disconnected', 'Background color', 'White', 'Toolbar color', 'Blue', 'Auto refresh', 'No auto refresh', 'Date format', 'MM/dd/yyyy', '<com android stock Settings New void onCreate']

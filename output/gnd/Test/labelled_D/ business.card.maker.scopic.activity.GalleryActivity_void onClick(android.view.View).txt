@@ -1,0 +1,1 @@
+['GALLERY', '<business card maker sco pic activity Gallery Activity void onClick']

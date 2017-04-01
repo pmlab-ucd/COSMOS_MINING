@@ -1,0 +1,1 @@
+['Update Photo', 'Tap to upload your photo', 'SAVE', 'or choose from default avatars', '<cc pacer android app ui settings edit avatar Avatar Edit Activity void onRequestPermissionsResult']

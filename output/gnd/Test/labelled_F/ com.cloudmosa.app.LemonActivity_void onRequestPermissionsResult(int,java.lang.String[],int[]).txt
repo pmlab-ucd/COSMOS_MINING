@@ -1,0 +1,1 @@
+['Data Savings', 'Data Savings reduces image and Flash data size. It saves your data usage.', 'Next', '<com cloud mos a app Lemon Activity void onRequestPermissionsResult']

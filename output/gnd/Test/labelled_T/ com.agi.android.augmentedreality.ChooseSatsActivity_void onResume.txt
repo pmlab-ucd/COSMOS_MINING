@@ -1,0 +1,1 @@
+['Privacy notice', 'What satellites are above you?  It depends on your location.  To improve privacy (if you are in a sensitive location) click "settings" to select a nearby city instead of sending your actual GPS location across the net.', 'OK', '<com agi android augmented reality Choose Sats Activity void onResume']

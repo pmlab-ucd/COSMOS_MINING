@@ -1,0 +1,1 @@
+['Settings', 'Advanced', 'Debug service', 'OFF', 'FGL service (fglserver, fgldb)', 'OFF', 'Clear cookies', 'Security', 'Manage allowed certificates', '<com four js gma monitor settings Settings Activity$7 void onClick']

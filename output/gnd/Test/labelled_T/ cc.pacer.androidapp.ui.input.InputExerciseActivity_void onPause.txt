@@ -1,0 +1,1 @@
+['Input Exercise', 'History', 'Type', 'Aerobic', 'Date', '2017-02-07', 'Start Time', '04:56', 'Duration', '0h 30min', 'Calories', '199', 'Comments', 'Tap to add comments', 'To manually add steps, please select the Walk or Custom activity type', 'Save', '<cc pacer android app ui input Input Exercise Activity void onPause']

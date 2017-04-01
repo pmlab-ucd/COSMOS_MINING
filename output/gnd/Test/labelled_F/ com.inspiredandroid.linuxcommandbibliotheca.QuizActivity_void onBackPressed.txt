@@ -1,0 +1,1 @@
+['Quiz', '1 / 20', '"create a directory called \'test\' with file mode(as in chmod) 755"', 'mkdir ', 'Help', 'Give up', '<com inspired android linux command bibliotheca Quiz Activity void onBackPressed']
