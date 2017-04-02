@@ -1,0 +1,18 @@
+### BLUETOOTH
+| Index | Entry Point & APIs | Screen shot | Resource id | Label |
+| ------------- | ------------- | ------------- |-------------|-------------|
+| 1 | <org.npr.android.news.AllProgramsActivity: void onCreate(android.os.Bundle)>; java.lang.String getName | ![](D:\COSMOS\output\py\Play_win8\News_Magazines\org.npr.android.news\org.npr.android.news.AllProgramsActivity.png) |  | |
+| 2 | <org.npr.android.news.NewsListActivity: void onStart()>; java.lang.String getName | ![](D:\COSMOS\output\py\Play_win8\News_Magazines\org.npr.android.news\org.npr.android.news.NewsListActivity.png) |  | |
+| 3 | <org.npr.android.news.NewsListActivity: void onCreate(android.os.Bundle)>; java.lang.String getName | ![](D:\COSMOS\output\py\Play_win8\News_Magazines\org.npr.android.news\org.npr.android.news.NewsListActivity.png) |  | |
+| 4 | <org.npr.android.news.NewsTopicActivity: void onCreate(android.os.Bundle)>; java.lang.String getName | ![](D:\COSMOS\output\py\Play_win8\News_Magazines\org.npr.android.news\org.npr.android.news.NewsTopicActivity.png) |  | |
+| 5 | <org.npr.android.news.ProgramStoryListActivity: void onCreate(android.os.Bundle)>; java.lang.String getName | ![](D:\COSMOS\output\py\Play_win8\News_Magazines\org.npr.android.news\org.npr.android.news.ProgramStoryListActivity.png) |  | |
+| 6 | <org.npr.android.news.SearchActivity: void onCreate(android.os.Bundle)>; java.lang.String getName | ![](D:\COSMOS\output\py\Play_win8\News_Magazines\org.npr.android.news\org.npr.android.news.SearchActivity.png) |  | |
+| 7 | <org.npr.android.news.SearchResultsActivity: void onCreate(android.os.Bundle)>; java.lang.String getName | ![](D:\COSMOS\output\py\Play_win8\News_Magazines\org.npr.android.news\org.npr.android.news.SearchResultsActivity.png) |  | |
+| 8 | <org.npr.android.news.SearchResultsActivity: boolean onKey(android.view.View,int,android.view.KeyEvent)>; java.lang.String getName | ![](D:\COSMOS\output\py\Play_win8\News_Magazines\org.npr.android.news\org.npr.android.news.SearchResultsActivity.png) |  | |
+| 9 | <org.npr.android.news.SearchResultsActivity$1: void onClick(android.view.View)>; java.lang.String getName | ![](D:\COSMOS\output\py\Play_win8\News_Magazines\org.npr.android.news\org.npr.android.news.SearchResultsActivity.png) | {'2131624100': <sensitive_component.SensitiveComponent.SensitiveView object at 0x0000027283A7EF28>} | |
+| 10 | <org.npr.android.news.SettingsActivity: void onCreate(android.os.Bundle)>; java.lang.String getName | ![](D:\COSMOS\output\py\Play_win8\News_Magazines\org.npr.android.news\org.npr.android.news.SettingsActivity.png) |  | |
+| 11 | <org.npr.android.news.StationLiveStreamActivity: void onCreate(android.os.Bundle)>; java.lang.String getName | ![](D:\COSMOS\output\py\Play_win8\News_Magazines\org.npr.android.news\org.npr.android.news.StationLiveStreamActivity.png) |  | |
+| 12 | <org.npr.android.news.StationTabsActivity: void onCreate(android.os.Bundle)>; java.lang.String getName | ![](D:\COSMOS\output\py\Play_win8\News_Magazines\org.npr.android.news\org.npr.android.news.StationTabsActivity.png) |  | |
+| 13 | <org.npr.android.news.StationTabsActivity: void onRequestPermissionsResult(int,java.lang.String[],int[])>; java.lang.String getName | ![](D:\COSMOS\output\py\Play_win8\News_Magazines\org.npr.android.news\org.npr.android.news.StationTabsActivity.png) |  | |
+| 14 | <org.npr.livio.LivioActivity: void onCreate(android.os.Bundle)>; java.lang.String getName | ![](D:\COSMOS\output\py\Play_win8\News_Magazines\org.npr.android.news\org.npr.livio.LivioActivity.png) |  | |
+| 15 | <org.npr.livio.LivioActivity: void onDestroy()>; java.lang.String getName | ![](D:\COSMOS\output\py\Play_win8\News_Magazines\org.npr.android.news\org.npr.livio.LivioActivity.png) |  | |
