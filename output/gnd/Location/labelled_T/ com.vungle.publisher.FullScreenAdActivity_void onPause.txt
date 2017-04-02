@@ -1,0 +1,1 @@
+['Restaurant Finder', 'Area or Zipcode', 'La Rue Road, Davis, California', 'SELECT A PLACE TYPE', 'Restaurant', 'Cafe', 'Takeaway', 'Bakery', 'Saved', 'More', 'RECENTLY VIEWED PLACES', '<com vung le publisher Full Screen Ad Activity void onPause']

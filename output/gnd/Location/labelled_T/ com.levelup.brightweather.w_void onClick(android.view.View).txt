@@ -1,0 +1,1 @@
+['Locations', 'You have no locations, you can add one with below button.', '<com level up bright weather w void onClick']

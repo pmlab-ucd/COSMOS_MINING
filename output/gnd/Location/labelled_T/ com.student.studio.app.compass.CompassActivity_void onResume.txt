@@ -1,0 +1,1 @@
+['Compass 360 Pro', '<com student studio app compass Compass Activity void onResume']

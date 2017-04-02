@@ -1,0 +1,1 @@
+['map', '<com tr over activity Discovery Detail Activity void onActivityResult']

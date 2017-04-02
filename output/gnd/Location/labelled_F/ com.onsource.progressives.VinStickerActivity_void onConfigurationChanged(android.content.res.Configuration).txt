@@ -1,0 +1,1 @@
+['VIN Sticker', 'HELP', 'Tap here to take\n the photo', 'VEHICLE-VIN STICKER', "Open the driver's door and take a photo of the VIN sticker,which should be located near the latch on the driver's side door jamb or driver's side doorpost.", 'BACK', 'NEXT', '<com on source progressives Vin Sticker Activity void onConfigurationChanged']

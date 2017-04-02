@@ -1,0 +1,1 @@
+['Glucose Buddy', 'More', 'Preferences', 'Custom Target Range', 'Tracking Units: lbs/cms', '<com sky health glucose buddy free U I weight Weight Fragment Activity More void onCreate']

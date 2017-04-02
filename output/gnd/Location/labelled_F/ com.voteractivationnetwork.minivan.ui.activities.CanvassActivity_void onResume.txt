@@ -1,0 +1,1 @@
+['MiniVAN', 'Not synced yet', '<com voter activation network minivan ui activities Canvass Activity void onResume']

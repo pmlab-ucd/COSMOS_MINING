@@ -1,0 +1,1 @@
+['Select a picture from', 'Camera', 'Albums', 'Cancel', '<com my photo effects fun i a Pic Activity boolean onKeyDown']

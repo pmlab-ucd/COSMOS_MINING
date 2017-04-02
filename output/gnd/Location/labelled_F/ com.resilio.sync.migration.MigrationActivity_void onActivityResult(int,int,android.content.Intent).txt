@@ -1,0 +1,1 @@
+['Migration', 'Do you want migrate app settings from BitTorrent Sync app?', 'All settings and folder will be migrated automatically. Old application can be uninstalled after completion.', 'Start migration', '<com res i lio sync migration Migration Activity void onActivityResult']

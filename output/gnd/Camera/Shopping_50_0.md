@@ -1,0 +1,18 @@
+### Camera
+| Index | Entry Point & APIs | Screen shot | Resource id | Label |
+| ------------- | ------------- | ------------- |-------------|-------------|
+| 1 | <net.sourceforge.zbar.android.ZBarScanner: void onRequestPermissionsResult(int,java.lang.String[],int[])>; android.hardware.Camera open | ![](D:\COSMOS\output\py\Play_win8\Shopping\target.shopping.store.cartwheel.redcard.discount.price.match\net.sourceforge.zbar.android.ZBarScanner.png) |  | |
+| 2 | <com.google.zxing.client.android.CaptureActivity: void onResume()>; android.hardware.Camera open | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.wakefern.shoprite.deli\com.google.zxing.client.android.CaptureActivity.png) |  | |
+| 3 | <com.google.zxing.client.android.CaptureActivity: void surfaceCreated(android.view.SurfaceHolder)>; android.hardware.Camera open | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.wakefern.shoprite.deli\com.google.zxing.client.android.CaptureActivity.png) |  | |
+| 4 | <com.coupons.GroceryIQ.ScanActivity: void surfaceCreated(android.view.SurfaceHolder)>; android.hardware.Camera open | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.coupons.GroceryIQ\com.coupons.GroceryIQ.ScanActivity.png) |  | |
+| 5 | <com.coupons.GroceryIQ.ScanActivity: void onResume()>; android.hardware.Camera open | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.coupons.GroceryIQ\com.coupons.GroceryIQ.ScanActivity.png) |  | |
+| 6 | <com.gunbroker.android.activity.BarcodeScannerActivity: void onResume()>; android.hardware.Camera open | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.gunbroker.android\com.gunbroker.android.activity.BarcodeScannerActivity.png) |  | |
+| 7 | <io.card.payment.CardIOActivity: void onResume()>; android.hardware.Camera open | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.gyft.android\io.card.payment.CardIOActivity.png) |  | |
+| 8 | <com.jpma.EBTShopper.BarcodeCaptureActivity: void onResume()>; android.hardware.Camera open | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.jpma.EBTShopper\com.jpma.EBTShopper.BarcodeCaptureActivity.png) |  | |
+| 9 | <com.jpma.EBTShopper.BarcodeCaptureActivity: void surfaceCreated(android.view.SurfaceHolder)>; android.hardware.Camera open | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.jpma.EBTShopper\com.jpma.EBTShopper.BarcodeCaptureActivity.png) |  | |
+| 10 | <com.newsamerica.qbridge.activity.CaptureActivity: boolean onKeyDown(int,android.view.KeyEvent)>; android.hardware.Camera open | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.newsamerica.ssx\com.newsamerica.qbridge.activity.CaptureActivity.png) |  | |
+| 11 | <com.newsamerica.qbridge.activity.CaptureActivity: void onResume()>; android.hardware.Camera open | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.newsamerica.ssx\com.newsamerica.qbridge.activity.CaptureActivity.png) |  | |
+| 12 | <com.newsamerica.qbridge.activity.UPCCaptureActivity: void onResume()>; android.hardware.Camera open | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.newsamerica.ssx\com.newsamerica.qbridge.activity.UPCCaptureActivity.png) |  | |
+| 13 | <com.safeway.mcommerce.android.BarcodeActivity: void onResume()>; android.hardware.Camera open | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.tomthumb.shop\com.safeway.mcommerce.android.BarcodeActivity.png) |  | |
+| 14 | <com.manateeworks.scanner.ActivityCapture: void onResume()>; android.hardware.Camera open | ![](D:\COSMOS\output\py\Play_win8\Shopping\de.stocard.stocard\com.manateeworks.scanner.ActivityCapture.png) |  | |
+| 15 | <com.manateeworks.scanner.ActivityCapture: void surfaceCreated(android.view.SurfaceHolder)>; android.hardware.Camera open | ![](D:\COSMOS\output\py\Play_win8\Shopping\de.stocard.stocard\com.manateeworks.scanner.ActivityCapture.png) |  | |

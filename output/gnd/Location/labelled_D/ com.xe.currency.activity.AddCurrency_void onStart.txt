@@ -1,0 +1,1 @@
+['Add Currency', 'Popularity', 'Code', 'Country', 'Add Currency', '<com xe currency activity Add Currency void onStart']

@@ -1,0 +1,1 @@
+['12720.4 Km', '<gpsfindme ben amati it Bearing Arrow Activity void onResume']

@@ -1,0 +1,1 @@
+['USAF Med Card', 'Other Health Insurance', 'Please Notify Other Health Insurance Changes', 'Tap Here to Validate', 'Go to the nearest base pharmacy and validate.', '<com griffin mobile usaf med card Med Card Activity$3 void onClick']

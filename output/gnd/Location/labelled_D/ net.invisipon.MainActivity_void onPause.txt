@@ -1,0 +1,1 @@
+['Invisipon', 'COUPONS', 'SHOPPING', 'LOCATE', 'CHECKOUT', 'MORE', '<net in vis ip on Main Activity void onPause']

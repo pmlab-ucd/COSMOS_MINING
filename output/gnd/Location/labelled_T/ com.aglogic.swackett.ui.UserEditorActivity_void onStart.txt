@@ -1,0 +1,1 @@
+['general settings', 'Default Settings', 'Show Temps In', 'Language', 'Favor', 'Preferred Menu Style', 'Temperature Ranges', 'Hot', 'Warm', 'Cool', 'Between Warm and Cold', '<com ag logic swac kett ui User Editor Activity void onStart']

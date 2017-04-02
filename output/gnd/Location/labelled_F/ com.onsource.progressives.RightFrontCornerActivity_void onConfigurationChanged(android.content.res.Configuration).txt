@@ -1,0 +1,1 @@
+['Right Front Corner', 'HELP', 'Walk clockwise around the vehicle. Take a photo of the right front corner of your vehicle. Be sure the entire vehicle is visible in the camera display.', 'Tap here to take\n the photo', 'VEHICLE-RIGHT FRONT CORNER', 'BACK', 'NEXT', '<com on source progressives Right Front Corner Activity void onConfigurationChanged']

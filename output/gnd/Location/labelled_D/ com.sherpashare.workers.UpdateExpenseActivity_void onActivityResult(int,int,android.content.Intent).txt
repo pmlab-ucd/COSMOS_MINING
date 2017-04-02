@@ -1,0 +1,1 @@
+['New Expense', 'Add', 'Category', 'Add a new category', 'Gas', 'Date', '02/5/2017', 'Cost ($)', 'Cost per gallon ($)', 'Memo (optional)', 'Receipt (optional)', 'Add Receipt', 'Add', '<com sherpa share workers Update Expense Activity void onActivityResult']

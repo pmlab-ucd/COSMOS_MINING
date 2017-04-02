@@ -1,0 +1,1 @@
+['Account Setup', "We'll personalize coupons, recipes and announcements that are the most relevant to you!", '(Step 1)    ', 'I SHOP FOR?', 'Just Myself', 'My Partner and I', 'My Family', 'RoomMates', 'Next Question', '<com cod al grocer ui activity Activity Setup Step First void onActivityResult']

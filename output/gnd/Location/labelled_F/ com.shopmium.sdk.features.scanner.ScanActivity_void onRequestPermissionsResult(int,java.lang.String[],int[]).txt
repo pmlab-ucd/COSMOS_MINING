@@ -1,0 +1,1 @@
+['Scan item barcode to start rebate process', '<com shop miu m sdk features scanner Scan Activity void onRequestPermissionsResult']

@@ -1,0 +1,1 @@
+['Remove Qustodio', 'By proceeding, this device will be eliminated from Qustodio and all protection features will be disabled immediately.', 'Remove now', '<com qu s to dio qu s to dio app activities Remove Qustodio Activity void onPause']

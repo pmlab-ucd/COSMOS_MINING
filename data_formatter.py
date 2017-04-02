@@ -172,7 +172,7 @@ class DataFormatter:
         dict = []
         for tag, count in zip(vocab, dist):
             dict.append(tag)
-        json.dump(dict, open(out_dir + '/train_dict.json', 'w+'))
+        json.dump(dict, open(instances_dir + '/train_dict.json', 'w+'))
 
         for ins in train_data_features:
             tmp = {}
@@ -274,13 +274,16 @@ class DataFormatter:
         for root, dirs, files in os.walk(gnd_dir):
             for file_name in files:
                 if file_name.endswith('.md'):
-                    DataFormatter.handle_md(os.path.join(root, file_name), instances)
+                    try:
+                        DataFormatter.handle_md(os.path.join(root, file_name), instances)
+                    except Exception as e:
+                        DataFormatter.logger.error(e)
 
     @staticmethod
     def check_data_consistency(instances, train_data_features):
-        train_data, train_target, train_dict = SklearnUtils.load_train_data(out_dir + 'train_data.json',
-                                                                            out_dir + 'train_target.json',
-                                                                            out_dir + 'train_dict.json')
+        train_data, train_target, train_dict = SklearnUtils.load_train_data(instances_dir + 'train_data.json',
+                                                                            instances_dir + 'train_target.json',
+                                                                            instances_dir + 'train_dict.json')
         if len(train_data) != len(instances):
             DataFormatter.logger.error(str(len(train_data)), str(len(instances)))
             exit(1)
@@ -309,7 +312,7 @@ class DataFormatter:
     def instances2txtdocs(instances):
         for i in instances:
             instance = instances[i]
-            output_dir = out_dir + str(instance['label']) + '/'
+            output_dir = instances_dir + str(instance['label']) + '/'
             if not os.path.exists(output_dir):
                 os.makedirs(output_dir)
             file_name = str(instance['entry_name']).replace('<', '')
@@ -319,14 +322,17 @@ class DataFormatter:
             doc_file = open(output_dir + file_name + '.txt', 'w')
             doc_file.write(str(instance['doc']))
 
-out_dir = 'output/gnd/Test/'
+instances_dir = 'output/gnd/Location/'
+gen_md = True
 
 if __name__ == '__main__':
-    #DataFormatter.combining_data(num=50)  # trigger_out_dir=os.curdir + '\\test\output')
-    instances = {}
-    DataFormatter.parse_labelled(out_dir, instances)
-    # json.dump(instances, open(out_dir + '/instances.json', 'w+'))
-    DataFormatter.instances2txtdocs(instances)
+    if gen_md:
+        DataFormatter.combining_data(num=50, perm_type='NFC')  # trigger_out_dir=os.curdir + '\\test\output')
+    else:
+        instances = {}
+        DataFormatter.parse_labelled(instances_dir, instances)
+        # json.dump(instances, open(out_dir + '/instances.json', 'w+'))
+        DataFormatter.instances2txtdocs(instances)
 
     """
     [train_data_features, train_data_labels] = DataFormatter.docs2bag(instances)

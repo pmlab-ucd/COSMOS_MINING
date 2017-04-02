@@ -1,0 +1,1 @@
+['Select a photo from', 'Camera', 'Albums', 'Cancel', '<com zhao kam camera Pic Activity$7 void onClick']

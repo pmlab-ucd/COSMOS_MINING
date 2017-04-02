@@ -1,0 +1,1 @@
+['Forms - Device Assignment', 'Join this device to your team on Device Magic.', 'Your Name:', 'e.g. John Smith', 'Tell your team who you are.', 'Organization Key:', 'e.g. ABC123', 'This is the unique key for your team from Device Magic.', 'Request Assignment', '<com device magic android x forms ui Forms List Activity boolean onCreateOptionsMenu']

@@ -1,0 +1,1 @@
+['Thank you!', 'Hit submit and our estimator will review your photos. A representative will contact you regarding the next steps in your process.', '<com on source progressives Submit Activity void onCreate']

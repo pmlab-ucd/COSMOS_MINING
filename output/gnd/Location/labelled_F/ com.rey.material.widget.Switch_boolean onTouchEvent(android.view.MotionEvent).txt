@@ -1,0 +1,1 @@
+['Alert', 'No Referrer Code Available!!', 'OK', '<com rey material widget Switch boolean onTouchEvent']

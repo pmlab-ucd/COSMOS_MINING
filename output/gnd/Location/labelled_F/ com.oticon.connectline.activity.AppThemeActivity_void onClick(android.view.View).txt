@@ -1,0 +1,1 @@
+['App Appearance', 'Done', 'App Color', 'High Contrast', '<com ot icon connect line activity App Theme Activity void onClick']

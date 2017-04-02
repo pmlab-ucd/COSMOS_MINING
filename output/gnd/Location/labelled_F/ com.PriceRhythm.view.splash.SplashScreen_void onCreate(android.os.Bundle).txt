@@ -1,0 +1,1 @@
+['PRICE RHYTHM', 'Name, barcode or model', 'Scan Barcode', 'Browse Popular Products', 'Settings', 'Leave Feedback', '<com Price Rhythm view splash Splash Screen void onCreate']

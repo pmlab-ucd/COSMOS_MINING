@@ -1,0 +1,1 @@
+['Search', 'Use current location', '<com sony ericsson extras live ware extension weather Search Location Activity void onRestart']

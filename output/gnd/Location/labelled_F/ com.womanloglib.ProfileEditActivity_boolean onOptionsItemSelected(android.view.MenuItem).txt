@@ -1,0 +1,1 @@
+['Save', 'Calendar title', 'Set as active calendar', 'You can switch between multiple calendars by tapping on the icon in the one year/month calendar.', '<com woman log lib Profile Edit Activity boolean onOptionsItemSelected']

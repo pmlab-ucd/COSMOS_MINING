@@ -10,8 +10,14 @@ class Miner:
     perm_types = {
         'Location': ['Location'],
         'Contact': ['Contact'],
-        'Camera': ['Camera', 'MediaRecorder'],
-        'CHANGE_WIFI_STATE': ['WifiManager', 'WifiP2pManager']}
+        'Camera': ['Camera', 'setVideoSource'],
+        'CHANGE_WIFI_STATE': ['WifiManager', 'WifiP2pManager'],
+        'READ_PHONE_STATE': ['TelephonyManager'],
+        'NFC': ['nfc'],
+        'BLUETOOTH': ['bluetooth'],
+        'RECORD_AUDIO': ['SpeechRecognizer', 'AudioRecord', 'setAudioSource'],
+        'CALENDAR': ['Calendar'],
+        'CALL_LOG': ['CallLog']}
 
     dist_types = {
         'semantic': 'semantic_dist',

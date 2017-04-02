@@ -1,0 +1,1 @@
+['Swipe to delete', 'Gas', 'Meals/Drinks', 'Phone/Internet', 'Parking/Toll', 'Education/Training', 'Car Wash', 'Car Maintenance', 'Supplies(Wears+Gears)', 'Other', 'Add', '<com sherpa share workers Update Expense Category Activity void onClick']

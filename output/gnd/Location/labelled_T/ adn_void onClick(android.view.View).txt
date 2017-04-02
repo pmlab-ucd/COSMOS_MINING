@@ -1,0 +1,1 @@
+['Welcome to Google My Maps', 'By using this application, you agree to our Terms of Service and Privacy Policy ', 'Accept & continue', 'Close', 'Learn more about Google My Maps', '<adn void onClick']

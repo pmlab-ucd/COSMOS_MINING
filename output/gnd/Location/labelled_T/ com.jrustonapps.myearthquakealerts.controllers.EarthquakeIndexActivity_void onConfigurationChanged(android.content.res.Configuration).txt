@@ -1,0 +1,1 @@
+['Earthquake', '<com j ruston apps my earthquake alerts controllers Earthquake Index Activity void onConfigurationChanged']

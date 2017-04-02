@@ -1,0 +1,1 @@
+['Digital Alarm Clock', 'Main\nClocks', 'Full Screen \nClocks', 'Others', 'Account', '60', '100', '$0.99', '225', '$1.99', '355', '$2.99', '630', '$4.99', 'Purchased', '<com mobile rise alarm clock In App Payment Shop Screen Activity Kindle Version void onCreate']

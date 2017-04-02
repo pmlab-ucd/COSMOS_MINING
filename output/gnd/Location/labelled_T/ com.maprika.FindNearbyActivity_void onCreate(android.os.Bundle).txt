@@ -1,0 +1,1 @@
+['Maprika', 'Nearby users', 'No users found', 'Refresh', '<com map rika Find Nearby Activity void onCreate']

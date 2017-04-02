@@ -1,0 +1,1 @@
+['Close', '<com shop miu m ui activities Information Activity void onCreate']

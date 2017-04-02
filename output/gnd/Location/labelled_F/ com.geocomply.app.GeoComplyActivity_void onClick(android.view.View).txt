@@ -1,0 +1,1 @@
+['SafeLotto Demo', 'SAFE\nLOTTO', 'PLAY SAFE', '- WITH US -', 'username', '<com geo comply app Geo Comply Activity void onClick']

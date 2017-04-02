@@ -1,0 +1,1 @@
+['Forms - Assignment Pending', 'This device is waiting for approval from your team administrator.', 'Your Name:', 'Organization Key:', 'Approve at devicemagic.com', 'Update', 'Cancel', '<com device magic android x forms ui Image View Activity void onCreate']

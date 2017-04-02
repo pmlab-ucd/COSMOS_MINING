@@ -1,0 +1,1 @@
+['get cash back on your shopping', 'Register', 'Log In', '<com shop miu m ui activities start Splash Screen Activity void onResume']

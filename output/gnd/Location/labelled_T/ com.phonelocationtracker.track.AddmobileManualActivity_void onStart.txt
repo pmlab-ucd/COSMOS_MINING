@@ -1,0 +1,1 @@
+['Set Emergency Contacts', "Please set the contact numbers which will receive your location details in emergency and which you can use to find your lost mobile. To find your lost mobile you need to give a MISSED call or send SMS 'lost' from any of the numbers Set below.", '    His/Her Name', '<com phone location tracker track Addmobile Manual Activity void onStart']

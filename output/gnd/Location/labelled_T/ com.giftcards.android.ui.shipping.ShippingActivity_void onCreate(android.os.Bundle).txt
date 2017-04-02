@@ -1,0 +1,1 @@
+['Shipping', 'Name (First and Last)', 'Address', 'Address 2', 'Zip', 'QTY', 'SUBTOTAL', 'TOTAL', '0', '$0.00', '$0.00', 'Shipping Methods:', 'Next Step', '<com gift cards android ui shipping Shipping Activity void onCreate']

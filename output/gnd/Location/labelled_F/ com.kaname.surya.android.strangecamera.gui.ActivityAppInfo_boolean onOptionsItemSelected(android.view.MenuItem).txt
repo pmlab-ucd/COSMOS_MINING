@@ -1,0 +1,1 @@
+['Ugly Camera', 'About', 'Share the APP to friends', 'Mail to developer', 'App List by Kaname', 'Open-source Licences', 'Other Licenses', 'Privacy Policy', 'APP version', '3.9.1(arm)', 'Developed by', 'kaname surya', '<com ka name surya android strange camera gui Activity App Info boolean onOptionsItemSelected']

@@ -1,0 +1,1 @@
+['Loading, please wait ...', '<catholic bible Splash Activity void onCreate']

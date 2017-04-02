@@ -1,0 +1,1 @@
+['KRMG', 'Back', 'Close', '<com jac apps kr mg Opt Out Activity void onCreate']

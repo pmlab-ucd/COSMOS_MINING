@@ -1,0 +1,1 @@
+['Child Info', 'Please choose your favorite avatar below.', "null's avatar.", '<com qu s to dio qu s to dio app activities New Kid2 Activity void onPause']

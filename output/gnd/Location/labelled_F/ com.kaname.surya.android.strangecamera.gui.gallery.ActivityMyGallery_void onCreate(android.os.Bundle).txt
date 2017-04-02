@@ -1,0 +1,1 @@
+['My Gallery', '0 / 0', '<com ka name surya android strange camera gui gallery Activity My Gallery void onCreate']

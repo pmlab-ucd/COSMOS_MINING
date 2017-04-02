@@ -1,0 +1,1 @@
+['Add Mobile to Locate', 'Please enter details of the person you want to track.', '    His/Her Name', '    His/Her Mobile Number', 'Continue', 'Please Note: You can track your own location by clicking on My button on top left side of the main screen. Click History to view your past locations.', '<com gps tracker track Addmobile Activity void onStart']

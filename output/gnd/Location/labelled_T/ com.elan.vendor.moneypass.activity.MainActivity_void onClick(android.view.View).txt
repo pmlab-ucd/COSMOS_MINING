@@ -1,0 +1,1 @@
+['MoneyPass Locations', 'Enter City/State or Zip code', '  Map', '<com elan vendor money pass activity Main Activity void onClick']

@@ -1,0 +1,1 @@
+['Multi Touch Paint', 'Press menu to hide Tools bar (and ads).', 'OK', '<com electric sheep mt p Multi Touch Paint Activity void onStart']

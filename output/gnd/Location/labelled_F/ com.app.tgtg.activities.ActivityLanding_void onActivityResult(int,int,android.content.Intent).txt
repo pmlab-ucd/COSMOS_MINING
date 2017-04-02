@@ -1,0 +1,1 @@
+['Log in', 'Create new account', 'Login via Facebook', 'Business login', 'Use as guest', '<com app tg tg activities Activity Landing void onActivityResult']

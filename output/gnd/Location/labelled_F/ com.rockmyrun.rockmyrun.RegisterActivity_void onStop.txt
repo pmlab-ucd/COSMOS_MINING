@@ -1,0 +1,1 @@
+['Register', 'WELCOME TO THE RUNROCKER FAMILY!', 'Sign in', 'Sign up with Partner Apps', 'First Name', 'Username', '<com rock my run rock my run Register Activity void onStop']

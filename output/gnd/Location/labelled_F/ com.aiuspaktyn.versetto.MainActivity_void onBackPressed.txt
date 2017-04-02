@@ -1,0 +1,1 @@
+['Verse', 'I will say of the LORD, "He is my refuge and my fortress, my God, in whom I trust."', 'Psalms 91:2', 'Share', '<com a ius pak ty n verse t to Main Activity void onBackPressed']

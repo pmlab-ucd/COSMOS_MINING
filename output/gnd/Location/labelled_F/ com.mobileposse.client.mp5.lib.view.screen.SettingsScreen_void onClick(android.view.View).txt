@@ -1,0 +1,1 @@
+['Set up My Message Alerts', 'Server URL', 'https://mp5-wl.mobileposse.com/api/', 'Application URL', 'http://an-615-tiles.static.mobileposse.com/', 'http://an-615-tiles.static.mobileposse.com/', 'Cancel', 'OK', '<com mobile posse client mp 5 lib view screen Settings Screen void onClick']

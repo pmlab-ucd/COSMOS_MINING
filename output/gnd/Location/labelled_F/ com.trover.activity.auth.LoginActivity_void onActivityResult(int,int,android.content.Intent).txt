@@ -1,0 +1,1 @@
+['Login', 'Email', 'Forgot your password?', 'Log in', '<com tr over activity au th Login Activity void onActivityResult']

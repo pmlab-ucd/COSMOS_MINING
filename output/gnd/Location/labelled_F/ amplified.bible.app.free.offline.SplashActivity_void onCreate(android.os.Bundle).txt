@@ -1,0 +1,1 @@
+['Loading, please wait ...', '<amplified bible app free offline Splash Activity void onCreate']

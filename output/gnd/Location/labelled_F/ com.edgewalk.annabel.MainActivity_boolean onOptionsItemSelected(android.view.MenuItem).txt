@@ -1,0 +1,1 @@
+['Annabel', 'Need More Engagement?', 'Play Lucky Match', 'Get Social App', 'Remove Ads', 'Enter your name', '<com edge walk annabel Main Activity boolean onOptionsItemSelected']

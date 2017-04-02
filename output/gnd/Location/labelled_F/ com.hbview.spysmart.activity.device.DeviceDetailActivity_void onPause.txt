@@ -1,0 +1,1 @@
+['Add device', 'Scan', 'LAN', 'S/N', 'Domain/IP', '<com hb view spy smart activity device Device Detail Activity void onPause']

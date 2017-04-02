@@ -1,0 +1,1 @@
+['Choose profile Photo', 'Please enter your valid mobile number', 'Mobile Number', 'Username', 'Male', 'Female', 'Register', '<com legend hope social Sign Up Activity$3 void onClick']

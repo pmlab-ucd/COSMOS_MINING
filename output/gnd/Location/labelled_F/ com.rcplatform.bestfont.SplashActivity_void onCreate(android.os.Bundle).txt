@@ -1,0 +1,1 @@
+['Filter', 'Best Font', 'PIP', 'Blend', 'Mix', 'Mirror', 'FilterGrid', '<com rc platform best font Splash Activity void onCreate']

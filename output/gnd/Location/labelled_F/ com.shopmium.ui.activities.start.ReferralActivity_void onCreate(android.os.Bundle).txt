@@ -1,0 +1,1 @@
+['REGISTER', 'Do you have a referral or promo code ?', 'Enter your code', 'Submit', 'Skip', '<com shop miu m ui activities start Referral Activity void onCreate']

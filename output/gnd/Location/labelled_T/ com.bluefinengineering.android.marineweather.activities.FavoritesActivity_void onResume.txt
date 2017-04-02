@@ -1,0 +1,1 @@
+['Forecast Zones', 'Live Weather Stations', 'Tide Stations', 'Current Stations', 'Sun Rise/Set', 'MinuteCast®', '<com bluefin engineering android marine weather activities Favorites Activity void onResume']

@@ -1,0 +1,1 @@
+['Device Set Up', 'Who uses this device? Enter the details below.', 'Who uses this device?', 'New user', 'Create new Qustodio user', '<com qu s to dio qu s to dio app activities Device Setup2 Activity void onPause']

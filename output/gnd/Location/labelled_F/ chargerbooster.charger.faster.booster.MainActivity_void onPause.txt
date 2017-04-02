@@ -1,0 +1,1 @@
+['Charger Booster', 'USB', 'BRIGHTNESS', 'AUTO ROTATE', 'AIRPLANE MODE', 'GPS MANAGER', '<chargerbooster charger faster booster Main Activity void onPause']

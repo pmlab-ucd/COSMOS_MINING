@@ -1,0 +1,1 @@
+['Login', 'Stores', 'Loading stores - please wait...', '<com mer catus technologies android pc Stores void locateMe']

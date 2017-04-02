@@ -1,0 +1,1 @@
+['GpsFix', 'Android GPS Provider', 'No fix', 'Start fixing', 'Stop fixing', 'Time left: 14:41', 'Android Network Provider', 'Last fix: 14 seconds ago, 6:12 PM', ' lat=38.53475,lon=-121.75254,accuracy 19m', '434 La Rue Road\nDavis, CA 95616\nUSA', 'Google Play Services', '<com android lab gps fix Main void onCreate']

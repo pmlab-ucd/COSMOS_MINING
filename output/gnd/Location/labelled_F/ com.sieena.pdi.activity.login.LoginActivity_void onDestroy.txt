@@ -1,0 +1,1 @@
+['Email', 'Log in', 'Version 1.21', '<com sie ena pd i activity login Login Activity void onDestroy']

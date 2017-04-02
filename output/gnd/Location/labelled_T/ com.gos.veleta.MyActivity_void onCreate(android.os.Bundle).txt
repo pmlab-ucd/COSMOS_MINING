@@ -1,0 +1,1 @@
+['Tap to get the wind direction.', '<com gos ve let a My Activity void onCreate']
