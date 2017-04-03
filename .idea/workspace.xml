@@ -2,56 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b876ad0-1846-4c17-9912-20cfaf15dc70" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Business_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Business_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Business_50_2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Communication_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Communication_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Communication_50_2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Communication_50_3.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Education_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Finance_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Finance_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Finance_50_2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Finance_50_3.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Health_Fitness_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Health_Fitness_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Libraries_Demo_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Libraries_Demo_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Medical_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Medical_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Medical_50_2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Music_Audio_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/News_Magazines_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/NFC/Communication_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/NFC/Libraries_Demo_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/NFC/Music_Audio_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/NFC/Photography_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/NFC/Photography_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/NFC/Productivity_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/NFC/Productivity_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/NFC/Productivity_50_2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/NFC/Tools_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Personalization_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Photography_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Productivity_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Productivity_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Shopping_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Social_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Sports_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Tools_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Travel_Local_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/BLUETOOTH/Weather_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/CALENDAR/Business_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Books_Reference_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Business_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Business_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/COMICS_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Casual_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Communication_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Communication_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Communication_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Communication_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Education_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Finance_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Finance_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Finance_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Health_Fitness_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Libraries_Demo_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Libraries_Demo_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Medical_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Music_Audio_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Music_Audio_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Music_Audio_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Music_Audio_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Music_Audio_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/News_Magazines_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Personalization_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_4.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_5.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_6.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Productivity_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Productivity_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Productivity_50_2.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Productivity_50_3.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Shopping_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Social_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Sports_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Tools_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Tools_50_1.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Travel_Local_50_0.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Weather_50_0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_formatter.py" afterPath="$PROJECT_DIR$/data_formatter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Business_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Business_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/COMICS_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/COMICS_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Communication_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Communication_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Education_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Education_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Finance_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Finance_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Health_Fitness_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Health_Fitness_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Libraries_Demo_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Libraries_Demo_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Medical_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Medical_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Music_Audio_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Music_Audio_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/News_Magazines_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/News_Magazines_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Photography_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Photography_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Productivity_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Productivity_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Shopping_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Shopping_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Social_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Social_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Sports_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Sports_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Tools_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Tools_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Travel_Local_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Travel_Local_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Weather_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Weather_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/NFC/Communication_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/NFC/Communication_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/NFC/Libraries_Demo_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/NFC/Libraries_Demo_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/NFC/Photography_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/NFC/Photography_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/NFC/Photography_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/NFC/Photography_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/NFC/Productivity_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/NFC/Productivity_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/NFC/Productivity_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/NFC/Productivity_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/NFC/Productivity_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/NFC/Productivity_50_2.md" />
     </list>
     <ignored path="COSPOS_MINGING.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,7 +82,7 @@
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$k_means.coverage" NAME="k-means Coverage Results" MODIFIED="1485041961188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$lda.coverage" NAME="lda Coverage Results" MODIFIED="1485234377879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$test.coverage" NAME="test Coverage Results" MODIFIED="1485650762434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$data_formatter.coverage" NAME="data_formatter Coverage Results" MODIFIED="1491166826708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$data_formatter.coverage" NAME="data_formatter Coverage Results" MODIFIED="1491178281646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$Unittests_in_sensitive_component_test.coverage" NAME="Unittests in sensitive_component_test Coverage Results" MODIFIED="1487201647234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$word_spliter.coverage" NAME="word_spliter Coverage Results" MODIFIED="1487278204195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$test.coverage" NAME="test Coverage Results" MODIFIED="1488238074254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -105,8 +117,8 @@
       <file leaf-file-name="data_formatter.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data_formatter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="658">
-              <caret line="315" column="45" lean-forward="false" selection-start-line="315" selection-start-column="45" selection-end-line="315" selection-end-column="45" />
+            <state relative-caret-position="370">
+              <caret line="336" column="7" lean-forward="true" selection-start-line="336" selection-start-column="7" selection-end-line="336" selection-end-column="7" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
                 <element signature="e#12720#14255#0" expanded="false" />
@@ -118,7 +130,7 @@
       <file leaf-file-name="trigger_out_handler.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/trigger_out_handler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
+            <state relative-caret-position="-480">
               <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
               <folding>
                 <element signature="e#2554#3363#1" expanded="false" />
@@ -131,7 +143,7 @@
         <entry file="file://$PROJECT_DIR$/miner.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+              <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -283,6 +295,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="trigger_out_handler.py" />
+              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TriggerOutHandler" />
+              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSMOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSPOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="test.py" />
               <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
             </PATH_ELEMENT>
@@ -317,6 +347,10 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="data_formatter.py" />
               <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DataFormatter" />
+              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -870,7 +904,14 @@
       <option name="project" value="LOCAL" />
       <updated>1491091359766</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Labelled Camera instances">
+      <created>1491168819164</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1491168819164</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -892,9 +933,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20309168" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20309168" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3678647" sideWeight="0.50208336" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -973,7 +1014,8 @@
     <MESSAGE value="DataFormatter.instances2txtdocs" />
     <MESSAGE value="More labelled location instances" />
     <MESSAGE value="Camera instances" />
-    <option name="LAST_COMMIT_MESSAGE" value="Camera instances" />
+    <MESSAGE value="Labelled Camera instances" />
+    <option name="LAST_COMMIT_MESSAGE" value="Labelled Camera instances" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1233,21 +1275,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/trigger_out_handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-          <folding>
-            <element signature="e#2554#3363#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/output/gnd/NFC/Communication_50_0.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1258,6 +1291,7 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1273,18 +1307,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/trigger_out_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480">
+          <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding>
+            <element signature="e#2554#3363#1" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/miner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data_formatter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="315" column="45" lean-forward="false" selection-start-line="315" selection-start-column="45" selection-end-line="315" selection-end-column="45" />
+        <state relative-caret-position="370">
+          <caret line="336" column="7" lean-forward="true" selection-start-line="336" selection-start-column="7" selection-end-line="336" selection-end-column="7" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
             <element signature="e#12720#14255#0" expanded="false" />
