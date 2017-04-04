@@ -1,0 +1,15 @@
+### READ_PHONE_STATE
+| Index | Entry Point & APIs | Screen shot | Resource id | Label |
+| ------------- | ------------- | ------------- |-------------|-------------|
+| 151 | <com.unbound.android.ubnal.MedlineSearchResultsActivity: void onCreate(android.os.Bundle)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Medical\com.unbound.android.ubnal\com.unbound.android.ubnal.MedlineSearchResultsActivity.png) |  | |
+| 152 | <com.unbound.android.ubnal.SearchActivity: void onCreate(android.os.Bundle)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Medical\com.unbound.android.ubnal\com.unbound.android.ubnal.SearchActivity.png) |  | |
+| 153 | <com.unbound.android.ubnal.SyncActivity: android.app.Dialog onCreateDialog(int)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Medical\com.unbound.android.ubnal\com.unbound.android.ubnal.SyncActivity.png) |  | |
+| 154 | <com.unbound.android.ubnal.SyncActivity: boolean onCreateOptionsMenu(android.view.Menu)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Medical\com.unbound.android.ubnal\com.unbound.android.ubnal.SyncActivity.png) |  | |
+| 155 | <com.unbound.android.ubnal.SyncActivity: void onCreate(android.os.Bundle)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Medical\com.unbound.android.ubnal\com.unbound.android.ubnal.SyncActivity.png) |  | |
+| 156 | <com.unbound.android.ubnal.UBActivity: android.app.Dialog onCreateDialog(int)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Medical\com.unbound.android.ubnal\com.unbound.android.ubnal.UBActivity.png) |  | |
+| 157 | <com.unbound.android.ubnal.UBActivity: boolean onCreateOptionsMenu(android.view.Menu)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Medical\com.unbound.android.ubnal\com.unbound.android.ubnal.UBActivity.png) |  | |
+| 158 | <com.unbound.android.ubnal.UBActivity: boolean onOptionsItemSelected(android.view.MenuItem)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Medical\com.unbound.android.ubnal\com.unbound.android.ubnal.UBActivity.png) |  | |
+| 159 | <com.unbound.android.ubnal.WebActivity: boolean onOptionsItemSelected(android.view.MenuItem)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Medical\com.unbound.android.ubnal\com.unbound.android.ubnal.WebActivity.png) |  | |
+| 160 | <kmg.android.medicode.ViewBookmarks: void onCreate(android.os.Bundle)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Medical\kmg.android.medicode\kmg.android.medicode.ViewBookmarks.png) |  | |
+| 161 | <org.sutterhealth.basicmobileapp.SutterHealth: void onCreate(android.os.Bundle)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Medical\org.sutterhealth.basicmobileapp\org.sutterhealth.basicmobileapp.SutterHealth.png) |  | |
+| 162 | <vspringboard.lancher.activity.SplashScreenActivity: void onCreate(android.os.Bundle)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Medical\vspringboard.dynamed.activity\vspringboard.lancher.activity.SplashScreenActivity.png) |  | |

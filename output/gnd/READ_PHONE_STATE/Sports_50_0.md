@@ -1,0 +1,20 @@
+### READ_PHONE_STATE
+| Index | Entry Point & APIs | Screen shot | Resource id | Label |
+| ------------- | ------------- | ------------- |-------------|-------------|
+| 1 | <com.telev.VideoActivity: void onDestroy()>; void listen | ![](D:\COSMOS\output\py\Play_win8\Sports\com.cactuslab.skateboard\com.telev.VideoActivity.png) |  | |
+| 2 | <com.emoji.ikeyboard.theme.retro.f: void onClick(android.view.View)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Sports\com.emoji.ikeyboard.theme.footballcraze\com.emoji.ikeyboard.theme.retro.ThemeDemoActivity.png) |  | |
+| 3 | <com.emoji.ikeyboard.theme.retro.h: void onClick(android.view.View)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Sports\com.emoji.ikeyboard.theme.footballcraze\com.emoji.ikeyboard.theme.retro.ThemeDemoActivity.png) |  | |
+| 4 | <com.emoji.ikeyboard.theme.retro.l: void onClick(android.view.View)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Sports\com.emoji.ikeyboard.theme.footballcraze\com.emoji.ikeyboard.theme.retro.ThemeDemoActivity.png) |  | |
+| 5 | <com.emoji.ikeyboard.theme.retro.k: void onClick(android.view.View)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Sports\com.emoji.ikeyboard.theme.footballcraze\com.emoji.ikeyboard.theme.retro.ThemeDemoActivity.png) |  | |
+| 6 | <com.emoji.ikeyboard.theme.retro.g: void onClick(android.view.View)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Sports\com.emoji.ikeyboard.theme.footballcraze\com.emoji.ikeyboard.theme.retro.ThemeDemoActivity.png) |  | |
+| 7 | <activity.MainActivity: void onCreate(android.os.Bundle)>; java.lang.String getLine1Number | ![](D:\COSMOS\output\py\Play_win8\Sports\com.fightscore.boxing.android\activity.MainActivity.png) |  | |
+| 8 | <com.flw.flw.TournamentRegistration: void onCreate(android.os.Bundle)>; java.lang.String getLine1Number | ![](D:\COSMOS\output\py\Play_win8\Sports\com.flw.flw\com.flw.flw.TournamentRegistration.png) |  | |
+| 9 | <com.hunterstoolkit.android.app.ui.activity.TrackerActivity$5: void onClick(android.view.View)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Sports\com.hunterstoolkit.android.app\com.hunterstoolkit.android.app.ui.activity.TrackerActivity.png) |  | |
+| 10 | <com.webcraftbd.radio.MainActivity: void onDestroy()>; void listen | ![](D:\COSMOS\output\py\Play_win8\Sports\com.nflradiolive.radio\com.webcraftbd.radio.MainActivity.png) |  | |
+| 11 | <com.webcraftbd.radio.MainActivity: void onCreate(android.os.Bundle)>; void listen | ![](D:\COSMOS\output\py\Play_win8\Sports\com.nflradiolive.radio\com.webcraftbd.radio.MainActivity.png) |  | |
+| 12 | <com.swyft.nfl.activities.TutorialScreen$2: void onClick(android.view.View)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Sports\com.swyft.nfl\com.swyft.nfl.activities.TutorialScreen.png) |  | |
+| 13 | <com.teamunify.ondeck.LoginActivity: void onActivityResult(int,int,android.content.Intent)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Sports\com.teamunify.ondeck\com.teamunify.ondeck.LoginActivity.png) |  | |
+| 14 | <com.teamunify.ondeckparent.LoginActivity: void onActivityResult(int,int,android.content.Intent)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Sports\com.teamunify.ondeckparent\com.teamunify.ondeckparent.LoginActivity.png) |  | |
+| 15 | <com.teamunify.ondeckparent.MainMenu: void onStart()>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Sports\com.teamunify.ondeckparent\com.teamunify.ondeckparent.MainMenu.png) |  | |
+| 16 | <com.teamunify.ondeckparent.MainMenu$13: void onClick(android.view.View)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Sports\com.teamunify.ondeckparent\com.teamunify.ondeckparent.MainMenu.png) |  | |
+| 17 | <com.ultimatefanlive.ultimatefanandroid.MainDispatcher: void onCreate(android.os.Bundle)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Sports\com.ultimatefanlive.ultimatefanandroid\com.ultimatefanlive.ultimatefanandroid.MainDispatcher.png) |  | |

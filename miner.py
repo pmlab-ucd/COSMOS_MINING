@@ -17,7 +17,8 @@ class Miner:
         'BLUETOOTH': ['bluetooth'],
         'RECORD_AUDIO': ['SpeechRecognizer', 'AudioRecord', 'setAudioSource'],
         'CALENDAR': ['Calendar'],
-        'CALL_LOG': ['CallLog']}
+        'CALL_LOG': ['CallLog'],
+        'SEND_SMS': ['SmsManager', 'mms.']}
 
     dist_types = {
         'semantic': 'semantic_dist',

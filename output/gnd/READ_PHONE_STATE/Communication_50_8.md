@@ -1,0 +1,9 @@
+### READ_PHONE_STATE
+| Index | Entry Point & APIs | Screen shot | Resource id | Label |
+| ------------- | ------------- | ------------- |-------------|-------------|
+| 401 | <phonelocation.example.asuss550c.phonelocation.PhoneVerify: void onResume()>; java.lang.String getLine1Number | ![](D:\COSMOS\output\py\Play_win8\Communication\phonelocation.example.asuss550c.phonelocationphone\phonelocation.example.asuss550c.phonelocation.PhoneVerify.png) |  | |
+| 402 | <phonelocation.example.asuss550c.phonelocation.PhoneVerify: void onRequestPermissionsResult(int,java.lang.String[],int[])>; java.lang.String getLine1Number | ![](D:\COSMOS\output\py\Play_win8\Communication\phonelocation.example.asuss550c.phonelocationphone\phonelocation.example.asuss550c.phonelocation.PhoneVerify.png) |  | |
+| 403 | <uk.co.digitalclockwork.apps.android.anonymoustexting.AnonymousTexting: void onCreate(android.os.Bundle)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Communication\uk.co.digitalclockwork.apps.android.anonymoustexting\uk.co.digitalclockwork.apps.android.anonymoustexting.AnonymousTexting.png) |  | |
+| 404 | <uk.co.digitalclockwork.apps.android.anonymoustexting.Numbers: void onCreate(android.os.Bundle)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Communication\uk.co.digitalclockwork.apps.android.anonymoustexting\uk.co.digitalclockwork.apps.android.anonymoustexting.Numbers.png) |  | |
+| 405 | <uk.co.digitalclockwork.apps.android.anonymoustexting.Preferences: void onCreate(android.os.Bundle)>; java.lang.String getDeviceId | ![](D:\COSMOS\output\py\Play_win8\Communication\uk.co.digitalclockwork.apps.android.anonymoustexting\uk.co.digitalclockwork.apps.android.anonymoustexting.Preferences.png) |  | |
+| 406 | <v.d.d.answercall.MainFrActivity: void onCreate(android.os.Bundle)>; java.lang.String getLine1Number | ![](D:\COSMOS\output\py\Play_win8\Communication\v.d.d.answercall\v.d.d.answercall.MainFrActivity.png) |  | |

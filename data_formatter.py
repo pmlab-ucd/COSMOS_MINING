@@ -327,7 +327,7 @@ gen_md = True
 
 if __name__ == '__main__':
     if gen_md:
-        DataFormatter.combining_data(num=50, perm_type='Contact')  # trigger_out_dir=os.curdir + '\\test\output')
+        DataFormatter.combining_data(num=50, perm_type='READ_PHONE_STATE')  # trigger_out_dir=os.curdir + '\\test\output')
     else:
         instances = {}
         DataFormatter.parse_labelled(instances_dir, instances)
