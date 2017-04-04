@@ -1,0 +1,16 @@
+### Contact
+| Index | Entry Point & APIs | Screen shot | Resource id | Label |
+| ------------- | ------------- | ------------- |-------------|-------------|
+| 1 | <info.kfsoft.calendar.MainActivity: boolean onOptionsItemSelected(android.view.MenuItem)>; void onClick | ![](D:\COSMOS\output\py\Play_win8\Productivity\info.kfsoft.calendar\info.kfsoft.calendar.MainActivity.png) |  | |
+| 2 | <info.kfsoft.calendar.MainActivity: void onNewIntent(android.content.Intent)>; void onClick | ![](D:\COSMOS\output\py\Play_win8\Productivity\info.kfsoft.calendar\info.kfsoft.calendar.MainActivity.png) |  | |
+| 3 | <info.kfsoft.calendar.MainActivity: boolean onPrepareOptionsMenu(android.view.Menu)>; void onClick | ![](D:\COSMOS\output\py\Play_win8\Productivity\info.kfsoft.calendar\info.kfsoft.calendar.MainActivity.png) |  | |
+| 4 | <info.kfsoft.calendar.MainActivity: void onBackPressed()>; void onClick | ![](D:\COSMOS\output\py\Play_win8\Productivity\info.kfsoft.calendar\info.kfsoft.calendar.MainActivity.png) |  | |
+| 5 | <org.withouthat.acalendar.ACalendar: boolean onSingleTapConfirmed(android.view.MotionEvent)>; void assignContactFromEmail | ![](D:\COSMOS\output\py\Play_win8\Productivity\org.withouthat.acalendar\org.withouthat.acalendar.ACalendar.png) |  | |
+| 6 | <org.withouthat.acalendar.agenda.AgendaActionActivity: void onCreate(android.os.Bundle)>; android.net.Uri getLookupUri | ![](D:\COSMOS\output\py\Play_win8\Productivity\org.withouthat.acalendar\org.withouthat.acalendar.agenda.AgendaActionActivity.png) |  | |
+| 7 | <org.withouthat.acalendar.agenda.AgendaActivity: void onItemClick(android.widget.AdapterView,android.view.View,int,long)>; void assignContactFromEmail | ![](D:\COSMOS\output\py\Play_win8\Productivity\org.withouthat.acalendar\org.withouthat.acalendar.agenda.AgendaActivity.png) |  | |
+| 8 | <org.withouthat.acalendar.edit.ap: void onClick(android.view.View)>; android.net.Uri getLookupUri | ![](D:\COSMOS\output\py\Play_win8\Productivity\org.withouthat.acalendar\org.withouthat.acalendar.edit.EditActivity.png) |  | |
+| 9 | <org.withouthat.acalendar.edit.ao: void onClick(android.view.View)>; android.net.Uri getLookupUri | ![](D:\COSMOS\output\py\Play_win8\Productivity\org.withouthat.acalendar\org.withouthat.acalendar.edit.EditActivity.png) |  | |
+| 10 | <org.withouthat.acalendar.tasks.t: void onClick(android.view.View)>; android.net.Uri getLookupUri | ![](D:\COSMOS\output\py\Play_win8\Productivity\org.withouthat.acalendar\org.withouthat.acalendar.tasks.EditTaskActivity.png) |  | |
+| 11 | <org.withouthat.acalendar.tasks.EditTaskActivity: void onActivityResult(int,int,android.content.Intent)>; android.net.Uri getLookupUri | ![](D:\COSMOS\output\py\Play_win8\Productivity\org.withouthat.acalendar\org.withouthat.acalendar.tasks.EditTaskActivity.png) |  | |
+| 12 | <org.withouthat.acalendar.tasks.u: void onClick(android.view.View)>; android.net.Uri getLookupUri | ![](D:\COSMOS\output\py\Play_win8\Productivity\org.withouthat.acalendar\org.withouthat.acalendar.tasks.EditTaskActivity.png) |  | |
+| 13 | <org.withouthat.acalendar.tasks.EditTaskActivity: void onConfigurationChanged(android.content.res.Configuration)>; android.net.Uri getLookupUri | ![](D:\COSMOS\output\py\Play_win8\Productivity\org.withouthat.acalendar\org.withouthat.acalendar.tasks.EditTaskActivity.png) |  | |
