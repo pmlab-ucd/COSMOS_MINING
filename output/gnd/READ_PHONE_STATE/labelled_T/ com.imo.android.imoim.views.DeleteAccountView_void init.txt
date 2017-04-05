@@ -1,0 +1,1 @@
+['Delete your imo account', 'Delete', 'Enter your phone number to delete your imo account.', '+0', 'Phone Number', '<com imo android imo im views Delete Account View void <init>']

@@ -1,0 +1,1 @@
+['Please share some general information about yourself so we can better understand who is using our MyPD app. This information is not tied to your profile and is shared with us so we can better serve you on future app updates.', 'GENDER', 'AGE RANGE', 'LIVE/WORK', 'HOW DID YOU HEAR ABOUT OUR APP?', '<com project android New User Activity void onCreate']

@@ -1,0 +1,1 @@
+['Memory:', 'Cpu:', 'Free:210MB', 'Total:694MB', 'Used:4%', 'SD Card:', 'Available:12.54GB\nTotal:13.33GB', 'Phone:', 'Available:12.54GB\nTotal:13.33GB', 'Battery:', 'Power:99%', 'Set', 'Free Memory', '...', '<net le peng super box s s memory monitor g void onClick']

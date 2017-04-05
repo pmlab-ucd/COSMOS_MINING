@@ -1,0 +1,1 @@
+['Sign into your Google Account', 'jameshaofu@gmail.com', 'Stay signed in', " I don't have a Google Account ", 'OK', 'Cancel', '<com kodak view Google Docs Activity void onCreate']

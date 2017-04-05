@@ -1,0 +1,1 @@
+['100%', 'Charging time left:', 'Battery is full, please disconnect!', 'Last charge', 'unknown', 'Statistic', 'Temp', '30.7 °C', 'Vol', '4.32 V', 'Tech', 'Li-ion', '<bth studio quick charge Tab Manager void onCreate']

@@ -1,0 +1,1 @@
+['Rate application', 'Please, rate the app on PlayStore', 'Later', 'Rate Now', '<com zed True Tone classes Zed Scroll View void onScrollChanged']

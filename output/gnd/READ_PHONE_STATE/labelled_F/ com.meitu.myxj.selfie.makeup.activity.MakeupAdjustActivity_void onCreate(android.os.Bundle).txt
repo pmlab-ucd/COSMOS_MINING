@@ -1,0 +1,1 @@
+['Move marks to correct position of eyes and lips.', 'Cannot recognize face, please move marks to eyes and lips.', 'Manual', '<com me it u my xj self ie makeup activity Makeup Adjust Activity void onCreate']

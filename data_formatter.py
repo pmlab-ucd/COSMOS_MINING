@@ -109,6 +109,7 @@ class DataFormatter:
     @staticmethod
     def handle_md(md_file, instances):
         counter = len(instances)
+        DataFormatter.logger.info(md_file)
         with open(md_file, 'r') as text_file:
             for line in text_file:
                 sub_lines = line.split('|')
@@ -121,10 +122,15 @@ class DataFormatter:
                     label = 'labelled_D'
                 else:
                     continue
+                if line.startswith('#'):
+                    continue
+                DataFormatter.logger.info(sub_lines)
                 xml_path = sub_lines[len(sub_lines) - 4].split('(')[1]
                 xml_path = xml_path.split('.png')[0] + '.xml'
+                DataFormatter.logger.info(xml_path + ', ' + line)
                 doc = []
                 DataFormatter.handle_dynamic_xml(xml_path, doc)
+
                 DataFormatter.logger.info(doc)
 
                 entry_name = sub_lines[len(sub_lines) - 5].split(';')[0]
@@ -274,10 +280,10 @@ class DataFormatter:
         for root, dirs, files in os.walk(gnd_dir):
             for file_name in files:
                 if file_name.endswith('.md'):
-                    try:
+                    #try:
                         DataFormatter.handle_md(os.path.join(root, file_name), instances)
-                    except Exception as e:
-                        DataFormatter.logger.error(e)
+                    #except Exception as e:
+                     #   DataFormatter.logger.error(e)
 
     @staticmethod
     def check_data_consistency(instances, train_data_features):
@@ -322,8 +328,8 @@ class DataFormatter:
             doc_file = open(output_dir + file_name + '.txt', 'w')
             doc_file.write(str(instance['doc']))
 
-instances_dir = 'output/gnd/Location/'
-gen_md = True
+instances_dir = 'output/gnd/READ_PHONE_STATE/'
+gen_md = False
 
 if __name__ == '__main__':
     if gen_md:

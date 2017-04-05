@@ -1,0 +1,1 @@
+['Link Mobile Number', 'Confirm your country code and enter your mobile number', 'India', '+ 91', 'Input mobile number', 'Verify Mobile Number', '(Example: +91 9123456789)', '<com i jinsha n k backup activity Verify Phone Activity void onCreate']

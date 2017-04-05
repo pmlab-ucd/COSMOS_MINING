@@ -1,0 +1,1 @@
+['Verify method', 'Activate online', 'Enter Activation Code manually', 'Fail to activate online and manually?', 'Contact support', '<com in t sig payment Activate Activity void onCreate']

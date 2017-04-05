@@ -1,0 +1,1 @@
+['Welcome!', "We're so glad to have you join the Call Control Community!\n\nYou've just installed the smartest call blocking app that automatically blocks the worst spam callers and lets you easily block anyone with just a tap.", 'Next', '<com flex aspect android every call control Main Activity void onResume']

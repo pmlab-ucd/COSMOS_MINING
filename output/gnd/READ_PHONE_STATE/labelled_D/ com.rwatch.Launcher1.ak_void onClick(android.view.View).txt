@@ -1,0 +1,1 @@
+['Registration', 'Mobile phone number', 'Nicknames', 'YES', '<com r watch Launcher1 ak void onClick']

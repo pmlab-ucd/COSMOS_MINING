@@ -1,0 +1,1 @@
+['Back', 'QQ Account', 'Login', 'Others', 'Weibo', 'Login', 'Twitter', 'Login', 'Facebook', 'Login', '<com me it u poster setting Setting Account Activity void onResume']

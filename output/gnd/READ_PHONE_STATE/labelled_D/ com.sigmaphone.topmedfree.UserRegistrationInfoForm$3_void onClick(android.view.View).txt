@@ -1,0 +1,1 @@
+[' Create an account', 'Username (3-20 chars)', 'E-mail address', 'Profession (none)', 'Age (none)', 'Gender (none)', 'Notify me by email about drug database updates, new products, CME activities or other relevant information from MedConnections.', '<com sigma phone top med free User Registration Info Form$3 void onClick']

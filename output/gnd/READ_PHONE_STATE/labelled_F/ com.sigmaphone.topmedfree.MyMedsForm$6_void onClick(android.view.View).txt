@@ -1,0 +1,1 @@
+['My Medications', 'Drug', 'Custom', 'Log', 'Share', " No medications in your list. \n\n You can add your medications by clicking the icons 'Add Drug' or 'Add Custom' above. \n\n Go to add a drug for yourself NOW!", 'Home', 'My Meds', 'Pill Id', 'Rx Card', 'Share', '<com sigma phone top med free My Meds Form$6 void onClick']

@@ -1,0 +1,1 @@
+['Verify Email', 'To confirm your email, please enter the code sent to ', 'Enter verification code', 'Confirm', 'RESEND', '<com i jinsha n k backup activity Email Verify Activity void onStop']

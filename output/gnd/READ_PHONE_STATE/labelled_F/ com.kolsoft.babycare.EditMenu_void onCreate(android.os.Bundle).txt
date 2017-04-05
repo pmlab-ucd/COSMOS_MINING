@@ -1,0 +1,1 @@
+['Baby Care', 'Feeding', 'Sleeping', 'Outdoor Time', 'Diapers', 'Bathing', 'Breast Pumping', "Today's Activities", 'Mood', 'Growth', 'Baby Development', 'Diary', 'Symptoms', 'Temperature', '<com kol soft baby care Edit Menu void onCreate']

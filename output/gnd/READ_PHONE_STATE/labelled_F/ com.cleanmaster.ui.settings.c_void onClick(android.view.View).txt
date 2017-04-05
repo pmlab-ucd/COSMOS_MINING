@@ -1,0 +1,1 @@
+['Camera quick access', 'Camera quick access', "Shake your phone when it's locked to launch the camera.You can take photos quickly without unlocking your phone.\n* Skip the lock when phone is secured to launch your camera.", 'Enabled', '<com clean master ui settings c void onClick']

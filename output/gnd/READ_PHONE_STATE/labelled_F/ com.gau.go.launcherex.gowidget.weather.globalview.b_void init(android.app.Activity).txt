@@ -1,0 +1,1 @@
+['Settings', 'City settings', 'Select city', 'No added city', 'Wall paper settings', 'OK', '<com gau go launcher ex go widget weather global view b void <init>']

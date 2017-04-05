@@ -1,0 +1,1 @@
+['Settings', 'Auto-update Definition', 'Real-time Protection', 'Push Notification enabled', 'Lockscreen Saver', 'Ignore List', 'Language', 'Add One-click Boost to desktop', 'Boost whenever you want. Contains ad', '<com c you security activity Setting Activity void onCreate']

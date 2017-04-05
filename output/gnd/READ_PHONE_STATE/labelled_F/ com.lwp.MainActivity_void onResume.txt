@@ -1,0 +1,1 @@
+['Wallpaper Theme', 'Change the theme of wallpaper', 'Share This Application', 'Rate This Application', 'More Live Wallpapers', 'Find Our Facebook Page', 'Follow Us On Google+', 'Follow Us On Twitter', 'Set background', '<com l wp Main Activity void onResume']

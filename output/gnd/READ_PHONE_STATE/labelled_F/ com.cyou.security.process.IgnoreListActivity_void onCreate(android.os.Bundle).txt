@@ -1,0 +1,1 @@
+['Ignore List', 'Apps in the Ignore List will not be scanned.', '<com c you security process Ignore List Activity void onCreate']

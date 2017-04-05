@@ -1,0 +1,1 @@
+['Incorrect position? Please use the mark to help correct makeup placement.', 'Eyes', 'Brows', 'Blush', 'Lips', "Tap to remove makeup you don't like.", '<com me it u my xj common activity Common Webview Activity void onCreate']

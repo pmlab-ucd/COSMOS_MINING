@@ -1,0 +1,1 @@
+['Email', 'jameshaofu@gmail.com', 'Sign In', '<com free mobile recharge coupon Login Activity$1 void onClick']

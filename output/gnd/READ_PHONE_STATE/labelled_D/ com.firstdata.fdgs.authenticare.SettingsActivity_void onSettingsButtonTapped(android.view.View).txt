@@ -1,0 +1,1 @@
+['Setup Code', 'Go', '<com first data f dgs authentic are Settings Activity void onSettingsButtonTapped']

@@ -1,0 +1,1 @@
+['Mobile info. Reset', 'If you have changed your phone number or SIM card, press "Reset" button. After reset your mobile information, you can make calls with OTO.', 'Mobile info. Reset', '<com open vac s android o to Activitys Reset Server void onClick']

@@ -1,0 +1,1 @@
+['Newsletter', 'Name', 'jameshaofu@gmail.com', 'Male', 'Female', 'Birthday', 'Income', 'Occupation', 'Job Title', 'Check this box to accept T-Me Studios Privacy Policy and receive updates from T-Me studios.', 'DISAGREE', 'AGREE & SUBSCRIBE', '<com gau go launcher ex theme pink bow go launcher Main Activity void onResume']

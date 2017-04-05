@@ -1,0 +1,1 @@
+['Edit Up account', 'Save', 'Enter Up account', 'Up account supports the combination of numbers, letters and underscores. \nIt cannot be only numbers. Should be 5-16 characters.', 'Up account only can be changed 1 time, please change it carefully', '<com asia in no up live live ui Live Watch Activity void onActivityResult']

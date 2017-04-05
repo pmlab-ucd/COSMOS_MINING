@@ -1,0 +1,1 @@
+['Call Details', 'Called', ': ', '(000) 000-0000', 'Fake ID', ': ', '(000) 000-0000', 'From', ': ', '(000) 000-0000', 'Call Time', ': ', 'time', 'Duration', ': ', '0 seconds', 'Voice', ': ', 'Normal', 'Play Call', '(', ')', '<com bluff my calls app Call Log Details void onCreate']

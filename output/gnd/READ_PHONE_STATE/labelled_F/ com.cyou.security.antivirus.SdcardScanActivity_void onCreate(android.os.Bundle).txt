@@ -1,0 +1,1 @@
+['SD Card Scan', '1.7', '%', 'Malware found:0', 'Stop', '<com c you security antivirus Sdcard Scan Activity void onCreate']

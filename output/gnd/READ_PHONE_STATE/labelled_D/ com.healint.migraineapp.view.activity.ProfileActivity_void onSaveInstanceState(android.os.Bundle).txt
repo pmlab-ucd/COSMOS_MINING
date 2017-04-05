@@ -1,0 +1,1 @@
+['Login', 'Login with Facebook', 'Login with Google', 'OR', 'Enter your Email used to register', 'FORGOT', 'PASSWORD', 'NEXT', 'ACCESS TO YOUR ACCOUNT', '<com he a lint migraine app view activity Profile Activity void onSaveInstanceState']

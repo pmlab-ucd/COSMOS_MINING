@@ -1,0 +1,1 @@
+['PptRemoteController', 'Please ensure laptop counterpart is running\nthen connect laptop to wifi hotspot ', 'PptRemoteController_8448', '<decemberpei gmail ppt controller Main Activity void onCreate']

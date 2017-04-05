@@ -1,0 +1,1 @@
+["Your email address must be verified before you can start using 100% free talk and text. We've just sent you an email with your FreedomPop account verification code. Enter the 5-digit code below.", 'Enter Code Here', 'Resend Verification', 'Verify', '<com freedom pop ott ui funnel Email Confirmation Activity void onClick']

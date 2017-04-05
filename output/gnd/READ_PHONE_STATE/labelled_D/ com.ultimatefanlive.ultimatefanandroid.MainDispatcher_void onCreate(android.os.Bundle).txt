@@ -1,0 +1,1 @@
+['NEXT GENERATION\nFANTASY FOOTBALL', "Let's start", 'Have an account? Log in', '<com ultimate fan live ultimate fan android Main Dispatcher void onCreate']

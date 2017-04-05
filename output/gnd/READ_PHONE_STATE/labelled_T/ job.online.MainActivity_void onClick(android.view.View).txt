@@ -1,0 +1,1 @@
+['Nexus 4', '78.761 USD', 'Install the following app to get bonus', 'Install app', 'Home', 'Tasks', 'Get bonus', '<job online Main Activity void onClick']

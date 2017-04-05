@@ -1,0 +1,1 @@
+['My Medications', 'Custom Drug', 'Name: (required)', 'Ingredient: (optional)', 'Form: (optional)', 'Firm: (optional)', 'Icon:', 'Cancel', 'Save', '<com sigma phone top med free Favorite Add Userdefined Form$1 void onClick']

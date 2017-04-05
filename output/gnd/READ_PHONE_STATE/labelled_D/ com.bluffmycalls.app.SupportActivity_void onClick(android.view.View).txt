@@ -1,0 +1,1 @@
+['Tell us what is wrong.', 'Please check FAQ/Help menu to check for common issue and easy troubleshoot.', 'Please type your issue here', 'Send', 'Cancel', '<com bluff my calls app Support Activity void onClick']

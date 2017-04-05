@@ -1,0 +1,1 @@
+['Enter', 'I have invite CODE', 'Registration', '<ru kid control gps tracker Registration Activity boolean onOptionsItemSelected']

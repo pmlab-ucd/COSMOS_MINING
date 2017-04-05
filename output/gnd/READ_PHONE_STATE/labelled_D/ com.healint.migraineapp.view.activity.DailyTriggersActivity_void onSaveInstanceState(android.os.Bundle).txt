@@ -1,0 +1,1 @@
+['Welcome to Trigger Inspector. It is here to help you identify and discover triggers.', '<com he a lint migraine app view activity Daily Triggers Activity void onSaveInstanceState']

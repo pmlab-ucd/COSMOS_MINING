@@ -1,0 +1,1 @@
+['Dead 2 Me', 'Enter the beginning fragment of a set of numbers you would like to bury. This will provide wildcard functionality, ex: entering 212 below will block all numbers starting with 212.', 'Name', 'Partial Phone', 'Cancel', 'Submit', '<com mad desa dead 2 m e Add Starts With Activity void onPause']

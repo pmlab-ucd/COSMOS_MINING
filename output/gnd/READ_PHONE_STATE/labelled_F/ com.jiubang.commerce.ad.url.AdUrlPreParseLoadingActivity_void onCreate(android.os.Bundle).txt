@@ -1,0 +1,1 @@
+['Settings', 'City settings', 'Select city', 'No added city', 'Wall paper settings', 'OK', '<com jiu bang commerce ad url Ad Url Pre Parse Loading Activity void onCreate']

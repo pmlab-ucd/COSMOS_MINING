@@ -1,0 +1,1 @@
+['Search again', 'Try searching for your product:', 'Brand name and model', 'For the best results search the brand name with the model number or product type. Examples:', 'Nike Running Shoes', 'Canon 60D', 'Sony DSC-WX50', 'Dyson Handheld Vacuum', 'Home', 'Favorites', 'Alerts', 'Barcode', 'Settings', '<com price grabber P G Android Barcode Barcode void onActivityResult']

@@ -1,0 +1,1 @@
+['Manage', 'Screening', 'Drag the device to change the order', '<com hb view spy smart activity device Manage Device Activity void onCreate']

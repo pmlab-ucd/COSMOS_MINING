@@ -1,0 +1,1 @@
+['Portrait', 'Landscape', 'Select sticker:', 'Select sticker position:', 'NEXT', '<com t ppm ghost camera Camera Photo Settings Activity void onCreate']

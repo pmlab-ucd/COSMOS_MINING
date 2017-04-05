@@ -1,0 +1,1 @@
+['Login ID', ' Remember me', 'Forgot your password?', 'Log In', 'Call Us', ' | ', 'Locations', ' | ', 'Privacy Policy', ' | ', 'Enroll', '<com q2 app core ui Main Activity void onCreate']

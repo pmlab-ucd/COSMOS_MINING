@@ -1,0 +1,1 @@
+['New feature allows Husband Wife Jokes to identify calls for you', 'DENY', 'ALLOW', '<com call dorado android ui Settings Activity void onRequestPermissionsResult']

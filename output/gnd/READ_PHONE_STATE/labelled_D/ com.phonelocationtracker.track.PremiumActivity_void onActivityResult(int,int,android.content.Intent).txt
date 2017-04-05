@@ -1,0 +1,1 @@
+['Upgrade to premium', 'Upgrade to Premium version today and enjoy these benefits:', '- No Ads', '- Enjoy history of 30 days for your Location', '- Pay per month or Yearly (pay only for 9 months)', '$0.99 per month', '$8.90 Yearly', '<com phone location tracker track Premium Activity void onActivityResult']

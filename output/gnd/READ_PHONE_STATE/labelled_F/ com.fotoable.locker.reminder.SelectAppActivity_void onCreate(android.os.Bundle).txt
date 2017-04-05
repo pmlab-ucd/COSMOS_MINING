@@ -1,0 +1,1 @@
+['App selection', 'Selected apps ( 2 )', 'A', 'Android Pay', 'B', 'BusyBox Free', 'C', 'Calculator', 'Calendar', 'Chrome', 'Camera', '<com foto able locker reminder Select App Activity void onCreate']

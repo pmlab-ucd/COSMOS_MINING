@@ -1,0 +1,1 @@
+['Back', 'Feedback', 'Other Contact Info(Optional)', 'Conte-nos sobre erros ou dê sugestões', 'Send', '<com bai wang insta box snap snap pic activity Snap Pic Main Activity void onCreate']

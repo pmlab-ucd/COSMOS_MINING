@@ -1,0 +1,1 @@
+['EMAIL/USERNAME', 'Forgot?', 'LOG IN', 'LOG IN WITH FACEBOOK', 'SIGN UP', '<com android app ab cut fragments Register Fragment void onClick']

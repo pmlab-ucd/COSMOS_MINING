@@ -1,0 +1,1 @@
+['Other settings', 'Unit setting', 'Temperature', '°F', 'Wind Speed', 'mph', 'Display setting', 'Location', 'Davis', 'The location setting applies to lockscreen, widget, notification and weather ball.', '<com foto able weather view a citi vit y Other Setting Activity void onActivityResult']

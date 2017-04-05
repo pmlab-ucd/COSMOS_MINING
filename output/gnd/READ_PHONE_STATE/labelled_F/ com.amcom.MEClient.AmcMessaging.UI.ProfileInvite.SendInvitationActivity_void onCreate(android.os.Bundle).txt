@@ -1,0 +1,1 @@
+['Send Invitation', 'In the Email field below, enter the email address of the person you would like to invite to join Spok Mobile.', 'Email', '<com am com M E Client Amc Messaging U I Profile Invite Send Invitation Activity void onCreate']

@@ -1,0 +1,1 @@
+['12/31/2', 'started at', '12:00 AM', '12/31/1', 'finished at', '12:00 AM', 'List of people', 'Mom', 'Daddy', 'Nanny', 'notes', 'Cancel', 'Save', '<com kol soft baby care Stroll Widget Dialog void onCreate']

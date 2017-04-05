@@ -1,0 +1,1 @@
+['Background', 'Background', 'Choose your favourite background image!', 'Parallax', 'Parallax ON/OFF', 'Glow', 'Speed of objects', 'Choose the speed of objects', 'Density of objects', 'Choose the density of objects', 'Recommended', 'Get More New Live Wallpapers', '<com l wp Wallpaper Settings void onResume']

@@ -1,0 +1,1 @@
+['Please wait...', '<com design man tic About Activity boolean onCreateOptionsMenu']

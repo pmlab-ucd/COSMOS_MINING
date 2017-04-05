@@ -1,0 +1,1 @@
+['Enable Smart Lock?', 'Your device can be charged over 25% faster by stopping battery-draining apps.', 'ENABLE', '<com mob i magic lock screen activity Fast Charge Tips Activity$2 void onClick']

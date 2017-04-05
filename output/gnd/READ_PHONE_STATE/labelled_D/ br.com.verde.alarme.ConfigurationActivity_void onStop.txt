@@ -1,0 +1,1 @@
+['Default Camera', 'Front Camera', 'Rear Camera', 'Activate Device Admin', 'Remote Access', 'Unlock password (numbers)', 'SMS password code', '<br com verde alarm e Configuration Activity void onStop']

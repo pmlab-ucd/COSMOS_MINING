@@ -1,0 +1,1 @@
+['Alarm Clock', '8:30 AM', 'OFF', 'Alarm Clock', 'Mon, Tue, Wed, Thu, Fri', '9:00 AM', 'OFF', 'Alarm Clock', 'Sun, Sat', '<com foto able weather view a citi vit y Alarm Clock Activity void onNewIntent']

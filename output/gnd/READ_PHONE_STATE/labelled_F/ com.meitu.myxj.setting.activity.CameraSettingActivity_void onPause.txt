@@ -1,0 +1,1 @@
+['Back', 'Camera Settings', 'Auto Face-Lift', 'Dark Circles', 'Acne', 'Satin', 'Fast Selfie Mode', 'Mirror Mode', 'Shutter SFX', 'Sound Effect', 'Real-Time Preview', 'Camera Orientation Correction', '<com me it u my xj setting activity Camera Setting Activity void onPause']

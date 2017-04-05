@@ -1,0 +1,1 @@
+['Welcome to ilocateMobile!', 'Please select your option', 'Track my own phone', 'OR', 'Track other phones', 'OR', 'I have an invitation code', '<com i locate mobile track Child Main Screen void onCreate']

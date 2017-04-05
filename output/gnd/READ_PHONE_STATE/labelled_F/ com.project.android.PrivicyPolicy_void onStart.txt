@@ -1,0 +1,1 @@
+['BACK', 'PRIVACY & TERMS', 'Privacy and Terms for your My Police Department app can be found online here', '<com project android Privicy Policy void onStart']

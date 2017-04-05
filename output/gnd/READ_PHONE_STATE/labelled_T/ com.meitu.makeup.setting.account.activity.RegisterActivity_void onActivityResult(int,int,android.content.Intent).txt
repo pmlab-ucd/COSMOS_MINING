@@ -1,0 +1,1 @@
+['+86', 'Phone Number', 'By clicking Sign Up you agree to our ', 'Terms of Service', 'SIGN UP', 'OR', 'LOG IN', '<com me it u makeup setting account activity Register Activity void onActivityResult']

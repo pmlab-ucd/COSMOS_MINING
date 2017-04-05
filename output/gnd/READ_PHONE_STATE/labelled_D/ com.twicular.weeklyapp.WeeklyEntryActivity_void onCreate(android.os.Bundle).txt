@@ -1,0 +1,1 @@
+['Welcome to Weekly!', 'Enter Zip Code', 'The zip code will be used to locate the stores in your area.', 'OK', 'Cancel', '<com twi cula r weekly app Weekly Entry Activity void onCreate']

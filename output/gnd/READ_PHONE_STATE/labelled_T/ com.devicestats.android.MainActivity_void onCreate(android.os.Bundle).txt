@@ -1,0 +1,1 @@
+['DeviceStats', ' ', ' ', ' ', ' ', ' ', ' ', '360dp (1080px)', '592dp\n(1776px)', 'Nexus 5', 'normal screen', 'xxhdpi', 'Phone', '592 x 360 dp', '1776 x 1080 px', '<com device stats android Main Activity void onCreate']

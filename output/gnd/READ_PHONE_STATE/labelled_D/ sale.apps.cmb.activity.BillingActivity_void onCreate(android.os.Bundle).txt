@@ -1,0 +1,1 @@
+['Get 150 free credits with your first purchase!', '$3.99, 250 credits', '$9.99, 1250 credits', '$19.99, 2500 credits', 'Credits\n40', 'Get 150 free credits with your first purchase!', '<sale apps cmb activity Billing Activity void onCreate']

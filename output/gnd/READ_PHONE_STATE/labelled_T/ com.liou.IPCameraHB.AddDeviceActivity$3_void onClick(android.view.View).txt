@@ -1,0 +1,1 @@
+['Add Camera', 'Device Setting', 'UID:', 'Scan', 'Search', 'Security Code:', 'Name:', 'Camera', 'OK', 'Cancel', '<com lio u I P Camera H B Add Device Activity$3 void onClick']

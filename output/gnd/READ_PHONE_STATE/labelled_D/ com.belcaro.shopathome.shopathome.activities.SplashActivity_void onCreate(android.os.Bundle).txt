@@ -1,0 +1,1 @@
+['Simple & smart shopping begins here.', 'Sign Up', 'Log In', 'Tell Me More', '<com bel caro shop at home shop at home activities Splash Activity void onCreate']

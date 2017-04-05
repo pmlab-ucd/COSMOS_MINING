@@ -1,0 +1,1 @@
+['03:09', 'Tuesday January-31-2017', 'slide to unlock', '<com pin screen lock Lock Screen Activity void onCreate']

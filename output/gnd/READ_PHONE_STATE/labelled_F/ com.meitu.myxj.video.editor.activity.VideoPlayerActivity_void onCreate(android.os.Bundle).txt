@@ -1,0 +1,1 @@
+['Tap to hide', 'Tap/Hold ', 'shutter button to start!', '1', '2', '3', '4', '5', '6', '7', '<com me it u my xj video editor activity Video Player Activity void onCreate']

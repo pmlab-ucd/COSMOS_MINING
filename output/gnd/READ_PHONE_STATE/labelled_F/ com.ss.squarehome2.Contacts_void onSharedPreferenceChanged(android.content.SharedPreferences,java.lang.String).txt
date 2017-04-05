@@ -1,0 +1,1 @@
+['Welcome!', 'Pinch in to show menu.', '<com ss square home 2 Contacts void onSharedPreferenceChanged']

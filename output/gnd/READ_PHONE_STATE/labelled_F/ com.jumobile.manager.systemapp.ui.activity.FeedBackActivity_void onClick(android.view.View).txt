@@ -1,0 +1,1 @@
+['Feedback', 'Description:', 'Please tell us in details, we will do our best to improve it.', 'Contacts(Email/IM/Phone):', 'Optional.', 'Clear', 'Submit', '<com ju mobile manager system app ui activity Feed Back Activity void onClick']

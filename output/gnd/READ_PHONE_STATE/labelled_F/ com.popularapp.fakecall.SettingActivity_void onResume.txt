@@ -1,0 +1,1 @@
+['Settings', 'Date Format', '2/6/2017', 'Language Option', 'Feedback', 'Rate us on Google Play', 'Version', '2.46d', '<com popular app fake call Setting Activity void onResume']

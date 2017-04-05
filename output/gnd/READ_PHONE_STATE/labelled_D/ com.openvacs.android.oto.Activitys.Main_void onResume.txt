@@ -1,0 +1,1 @@
+['Service info', "OTO Free int'l call app. is only avaiable in Korea and Japan. \nDownload OTO Global international call app. ,the upgrade version of OTO Free int'l call, for free, you can make a call at the cheapest price and the best voice quality.", 'Cancel', 'Install', '<com open vac s android o to Activitys Main void onResume']

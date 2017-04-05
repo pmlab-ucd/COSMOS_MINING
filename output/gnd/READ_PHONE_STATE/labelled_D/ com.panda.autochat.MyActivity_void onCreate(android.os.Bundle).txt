@@ -1,0 +1,1 @@
+['chat girl', 'Hi, I miss you so much, chat with me!', 'input here', 'Send', '<com panda auto chat My Activity void onCreate']

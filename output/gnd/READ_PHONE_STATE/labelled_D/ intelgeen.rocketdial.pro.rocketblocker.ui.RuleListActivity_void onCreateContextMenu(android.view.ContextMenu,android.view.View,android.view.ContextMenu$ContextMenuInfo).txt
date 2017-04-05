@@ -1,0 +1,1 @@
+['Filter Rules', 'Add Filter Rule', 'Default', 'RULE SETTINGS', 'Action :', 'Intercept', 'Filter Type :', 'BlackList filter', 'Weekdays :', 'every day', 'Time :', 'From AM 0:00  To PM 11:59', '<intelgeen rocket dial pro rocket blocker ui Rule List Activity void onCreateContextMenu']

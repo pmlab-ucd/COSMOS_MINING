@@ -1,0 +1,1 @@
+['Favorites', 'There are no products in your list at this time', 'Home', 'Favorites', 'Alerts', 'Barcode', 'Settings', '<com price grabber P G Android Search Favorites void onCreate']

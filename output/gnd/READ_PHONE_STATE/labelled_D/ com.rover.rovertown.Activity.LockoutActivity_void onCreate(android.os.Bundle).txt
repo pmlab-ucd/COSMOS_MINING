@@ -1,0 +1,1 @@
+['Mobile Student Discounts', 'VERIFY YOUR EMAIL', 'To access RoverTown, you must verify a valid .edu email address. The verification email we sent to you on 12/31/1969 expired after 72 hours.', 'RESEND VERIFICATION EMAIL', 'SIGN UP WITH A NEW .EDU EMAIL', 'Trouble signing up? Tap here.', '<com rover rover town Activity Lockout Activity void onCreate']

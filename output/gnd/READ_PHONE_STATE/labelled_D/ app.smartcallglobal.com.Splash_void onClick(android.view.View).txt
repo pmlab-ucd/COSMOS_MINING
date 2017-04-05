@@ -1,0 +1,1 @@
+['I am a New User, Register me!', 'I have a Premium Account Number/PIN', "Can't Find My Premium PIN?", '<app smart call global com Splash void onClick']

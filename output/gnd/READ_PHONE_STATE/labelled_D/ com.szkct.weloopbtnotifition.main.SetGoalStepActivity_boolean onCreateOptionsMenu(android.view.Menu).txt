@@ -1,0 +1,1 @@
+['Set Goal Step', 'It is recommended that the 10000 step of the exercise is a positive and healthy life style.', 'Small amount of exercise', 'Moderate exercise', 'High intensity exercise', '<com sz kc t we loop bt not if it ion main Set Goal Step Activity boolean onCreateOptionsMenu']

@@ -1,0 +1,1 @@
+['HOME', 'LOG ON', 'LOCATIONS', 'CONTACT US', 'MORE', 'Log on', 'to Mobile Banking', 'Equal Housing Lender - Member FDIC', 'Your nearest', 'Searching...', 'Getting location...', '<com sovereign santander f ku void onClick']

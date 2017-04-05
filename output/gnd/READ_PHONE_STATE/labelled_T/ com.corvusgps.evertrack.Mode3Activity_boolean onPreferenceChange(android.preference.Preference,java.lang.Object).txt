@@ -1,0 +1,1 @@
+['Mode Name', 'Accurate Mode', 'Location report settings', 'Report time interval', 'Actual value: 00:10:00\nTime interval between two location reports.', 'Positioning method', 'Actual method: Wireless if no GPS signal.\nChoose the method of how to get position.', '<com corvus gps ever track Mode3 Activity boolean onPreferenceChange']

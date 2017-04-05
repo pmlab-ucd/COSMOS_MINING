@@ -1,0 +1,1 @@
+['Nexus 4', '78.761 USD', 'Install the following app to get bonus', '0.0', '0.0', '0.0', '0.0', '0.0', 'Install app', 'Home', 'Tasks', 'Get bonus', '<mmo job Main Activity void onClick']

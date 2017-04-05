@@ -1,0 +1,1 @@
+['Login', 'NEW USER', 'Click this link to register an account', ' ', 'EXISTING USER', 'User Name', 'Password', 'Are you', 'Walk or', 'Drive?', 'Continue', ' ', 'Cancel', '<com f mee f mee ser v Login Screen void onActivityResult']

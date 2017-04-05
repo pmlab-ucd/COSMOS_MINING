@@ -1,0 +1,1 @@
+['+86', 'Phone Number', 'Forgot password?', 'LOG IN', 'OR', 'SIGN IN WITH FACEBOOK', '<com me it u makeup setting account activity Login Activity void onActivityResult']

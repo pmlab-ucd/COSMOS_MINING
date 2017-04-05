@@ -1,0 +1,1 @@
+['Memory Boost', '6 apps running', 'Google Play services', 'Advice: Keep', '93.2MB', 'Google Play Store', 'Advice: Keep', '34.0MB', 'Google Contacts Sync', 'Advice: Keep', '19.8MB', 'Hangouts', 'Advice: Keep', '18.4MB', 'User Dictionary', 'Advice: Keep', '7.0MB', 'Google Backup Transport', '4.2MB', 'BOOST', '<com clean master ui process Process Manager Activity void onPause']

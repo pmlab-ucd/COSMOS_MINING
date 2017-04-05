@@ -1,0 +1,1 @@
+['All content contained in Micromedex IV Compatibility is copyright (c) 2017 Truven Health Analytics.  All rights reserved.', '<com tru ven iv compatibility native activity Main Activity$ Paid Subscription Info Activity void onCreate']

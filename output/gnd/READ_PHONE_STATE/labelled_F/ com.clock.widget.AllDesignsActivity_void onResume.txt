@@ -1,0 +1,1 @@
+['Waterfall Clock Weather Widget', 'First you have to add widget to your home screen', 'OK', '<com clock widget All Designs Activity void onResume']

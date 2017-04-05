@@ -1,0 +1,1 @@
+['Back', 'Version: 1.5.8 Official', 'User Agreement', '©Meitu, Inc.', '<com me it u poster setting Setting About Activity void onCreate']

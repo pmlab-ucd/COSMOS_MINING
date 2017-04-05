@@ -1,0 +1,1 @@
+['Offline translation', 'Save the language pairs you need in the settings to translate without an internet connection', 'Next', '<ru y and ex translate activities Welcome Activity void onClick']

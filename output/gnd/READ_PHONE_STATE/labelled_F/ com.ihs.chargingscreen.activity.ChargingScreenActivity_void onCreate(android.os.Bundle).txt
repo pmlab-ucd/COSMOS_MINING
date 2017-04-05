@@ -1,0 +1,1 @@
+['Flashlight', '12', ':', '09', 'Fri', 'Jan', '27', '-1%', 'Full Charge Left', '1H 20Min', 'Regular', 'Charging your battery at the maximum speed till 80%.', '<com ihs charging screen activity Charging Screen Activity void onCreate']

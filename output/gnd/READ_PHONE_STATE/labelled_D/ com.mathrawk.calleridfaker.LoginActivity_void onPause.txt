@@ -1,0 +1,1 @@
+['Start making calls right away, when you sign up you receive 2 free minutes!', 'Email', 'Country:', 'United States', 'Sign in or register', 'Forgot your password?', 'By signing up, you agree to the', 'Privacy Policy', '&', 'Terms of Service', '<com math raw k caller id faker Login Activity void onPause']

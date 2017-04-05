@@ -1,0 +1,1 @@
+['Super Wifi Internet Manager', 'Secured Wifi', 'Direct Connect', 'Markov', 'PSK', 'ATT504', 'PSK', 'HOME-FAA2', 'PSK', 'PSK', 'ATT736', 'PSK', 'Wi-fi', 'Priority', 'Data Usage', 'Detail', '<app super wi fi internet manager Main Activity void onClick']

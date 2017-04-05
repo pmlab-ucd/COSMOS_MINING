@@ -1,0 +1,1 @@
+['Personalize', 'Widget', 'Background', 'Online', 'Local', '<com gau go launcher ex go widget weather scroller Weather Detail Scroll Group void onSizeChanged']

@@ -1,0 +1,1 @@
+['Sign Up', 'First Name', 'Last Name', '<com am com M E Client Registration Sign Up Activity void onCreate']

@@ -1,0 +1,1 @@
+['Registration', 'v 4.2.1', 'Username', 'Sign In', 'Accept the ', 'License Agreement', 'Forgot password?', 'Sign up for the free version', '<com am com M E Client Amc Messaging U I Main Fragment Activity void onCreate']

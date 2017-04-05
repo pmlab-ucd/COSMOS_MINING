@@ -1,0 +1,1 @@
+['Warning', 'we need root permissions to uninstall system app, make sure your device is rooted, and give us permissions', 'Root help', 'I know', '<com ju mobile manager system app ui activity Index Activity void onResume']

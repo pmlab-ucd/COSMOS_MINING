@@ -1,0 +1,1 @@
+['ACTIVATE', 'Guess you like:', 'MORE CONTENTS', '<com q is i plugin activities Main Activity void onResume']

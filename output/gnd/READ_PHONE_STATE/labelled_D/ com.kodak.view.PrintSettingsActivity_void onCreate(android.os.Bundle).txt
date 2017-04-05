@@ -1,0 +1,1 @@
+['Settings', 'Accounts', 'Google', 'Evernote', 'Dropbox', 'Would you like to help KODAK improve its products by sharing data about how you use KODAK Document Print App.?', ' User Experience Improvement Program ', 'I want to share data with Kodak', '<com kodak view Print Settings Activity void onCreate']

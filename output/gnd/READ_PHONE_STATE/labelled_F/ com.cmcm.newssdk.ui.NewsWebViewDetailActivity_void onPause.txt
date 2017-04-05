@@ -1,0 +1,1 @@
+['draw locker pattern', 'Cancel', '<com cm cm news sdk ui News Web View Detail Activity void onPause']

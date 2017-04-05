@@ -1,0 +1,1 @@
+['Warning', 'Your phone is not associated with an active line. Please ensure that you have an activated SIM card inserted.', 'Retry', '<com cell com cell com visual voice mail Launcher Activity void onResume']

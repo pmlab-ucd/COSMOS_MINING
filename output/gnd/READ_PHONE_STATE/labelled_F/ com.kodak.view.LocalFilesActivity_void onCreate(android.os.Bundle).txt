@@ -1,0 +1,1 @@
+['Local Files : ', 'Up', 'acct', 'd', 'dev', 'etc', 'factory', 'mnt', 'proc', 'res', 'sdcard', 'storage', 'sys', 'system', 'tmp-mksh', 'vendor', '<com kodak view Local Files Activity void onCreate']

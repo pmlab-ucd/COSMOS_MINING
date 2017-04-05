@@ -1,0 +1,1 @@
+['My Meds Reminder', 'Dosage: (optional)', 'Note: such as eat with food (optional)', 'Reminder on/off', 'On', 'Start date', 'End date', 'Refill date', '2/04/2017', '2/09/2017', '3/06/2017', 'Select taking time:', '(0 times/day)', '1', '2', '3', '4', '5', '6', 'Cancel', 'Save', '<com sigma phone top med free Favorite Add Reminder Form$4 void onClick']

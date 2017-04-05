@@ -1,0 +1,1 @@
+['Settings', 'City settings', 'Select city', 'No added city', 'Wall paper settings', 'OK', '<com go weather ex setting Live Wallpaper Settings Activity void onCreate']

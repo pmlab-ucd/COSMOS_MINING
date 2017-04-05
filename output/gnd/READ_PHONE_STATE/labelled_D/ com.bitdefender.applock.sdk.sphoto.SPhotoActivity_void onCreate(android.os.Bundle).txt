@@ -1,0 +1,1 @@
+['Sign in to use the best protection in the world.', 'Use Google ID', 'Use Central account', 'Create a new Central account', 'Help us improve by automatically sending anonymous statistics.', 'By continuing you agree with the End User License Agreement', '<com bit defender app lock sdk s photo S Photo Activity void onCreate']

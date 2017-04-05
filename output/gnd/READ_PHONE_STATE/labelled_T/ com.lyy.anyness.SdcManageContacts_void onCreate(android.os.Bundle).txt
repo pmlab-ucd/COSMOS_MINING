@@ -1,0 +1,1 @@
+['Manage contacts', 'My Desktop', 'www.damiapp.com', 'Send messages to (from) desktop', 'Select all', 'Delete', '<com l yy any ness Sdc Manage Contacts void onCreate']

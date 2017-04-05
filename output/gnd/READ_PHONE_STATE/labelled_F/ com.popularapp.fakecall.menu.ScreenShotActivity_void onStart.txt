@@ -1,0 +1,1 @@
+['Help', 'Call Assistant will support your device samsung(Galaxy Nexus) for next step.', '\nWe only need you to provide 4 screenshots from your real phone.\n', '(1)The calling page with contact name and avatar', 'Please check the sample screenshot as bellow', '<com popular app fake call menu Screen Shot Activity void onStart']

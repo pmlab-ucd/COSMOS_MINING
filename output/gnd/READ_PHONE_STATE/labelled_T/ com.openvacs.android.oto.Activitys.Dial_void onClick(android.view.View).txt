@@ -1,0 +1,1 @@
+['Speed dial 0', 'Name', 'Country', 'Phone No.', 'Select from contacts', 'Select from OTO Contacts', 'Cancel', 'Apply', '<com open vac s android o to Activitys Dial void onClick']

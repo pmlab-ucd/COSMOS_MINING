@@ -1,0 +1,1 @@
+['WiFiScanner', 'OFF', 'The service is stopped.(V1.4 .9)', 'IMEI:', '358239051788448', 'Auto Label:', 'Stationary Session ID:', 'Manual Label: ', 'None', ' >>>None', 'Upload Logs', '<com yi fei jiang wi fi scanner Wi Fi Scanner Activity void onCreate']

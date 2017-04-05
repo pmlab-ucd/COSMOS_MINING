@@ -1,0 +1,1 @@
+['Log in with mobile number', 'India', '+ 91', 'Input mobile number', 'Log in', '<com i jinsha n k backup activity User Login By Phone Activity void onActivityResult']

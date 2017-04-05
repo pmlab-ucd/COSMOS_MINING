@@ -1,0 +1,1 @@
+['Love Poems', 'We are constantly working to improve this app for you. \nIf you enjoy using Love Poems, please take a moment to rate it. Thank You!', 'Needs Work', 'Later', 'Love it!', '<com love poems what s app Love Poems Launcher Activity void onCreate']

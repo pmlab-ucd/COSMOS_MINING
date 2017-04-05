@@ -1,0 +1,1 @@
+['99%', 'Friday', 'January 27', '11:43', 'Slide to unlock', '<com q is i plugin activities Splash Activity void onResume']

@@ -1,0 +1,1 @@
+['Background', 'Choose your favorite background', 'Object speed', 'Speed up or slow down the floating object', '<com lp p Wallpaper Settings void onBackPressed']

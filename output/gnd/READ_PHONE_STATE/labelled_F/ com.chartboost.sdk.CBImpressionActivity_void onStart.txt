@@ -1,0 +1,1 @@
+['Falling Leaves Live Wallpaper', 'AdColony', 'off', 'AdMob', 'off', 'AppLovin', 'off', 'Chartboost', 'off', 'Facebook', 'off', 'Heyzap', 'on', 'Heyzap Cross Promo', 'on', 'Heyzap Exchange', 'off', 'HyprMX', 'off', 'InMobi', 'off', '<com chart boost sdk C B Impression Activity void onStart']

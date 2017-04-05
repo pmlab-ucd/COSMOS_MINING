@@ -1,0 +1,1 @@
+['Skins', 'You have 0 coins', 'Get free', 'Blue', 'Dark blue', 'Apply', '<booster cleaner optimizer activities Skin Activity void onPause']

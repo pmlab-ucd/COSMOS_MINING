@@ -1,0 +1,1 @@
+['Kein Ort gespeichert', 'Bitte fügen Sie mindestens einen Ort zu Ihren Favoriten hinzu.', 'Ort/PLZ suchen', 'Aktueller Standort', '<com telekom wetter info ui activities Main Activity void onPause']

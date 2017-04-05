@@ -1,0 +1,1 @@
+['Back', 'Send', 'Contacts (QQ/Email/Tel)', 'We welcome your comments, suggestions, and feedback.', '<com me it u poster setting Setting Feedback Activity void onCreate']

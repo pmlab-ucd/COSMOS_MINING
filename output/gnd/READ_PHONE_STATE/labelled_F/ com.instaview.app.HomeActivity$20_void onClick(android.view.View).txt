@@ -1,0 +1,1 @@
+['Top 20 List', 'Tap to reload', 'MORE', 'SHARE', 'BUY', '<com insta view app Home Activity$20 void onClick']

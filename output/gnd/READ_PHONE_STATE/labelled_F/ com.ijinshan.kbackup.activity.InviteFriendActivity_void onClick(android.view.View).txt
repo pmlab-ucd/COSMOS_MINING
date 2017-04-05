@@ -1,0 +1,1 @@
+['Invite Friends', 'You will get 0MB of free space', '9000MB', 'No contacts exist on the device', 'BACK', '<com i jinsha n k backup activity Invite Friend Activity void onClick']

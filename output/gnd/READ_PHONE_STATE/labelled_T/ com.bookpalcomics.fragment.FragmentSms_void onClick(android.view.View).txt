@@ -1,0 +1,1 @@
+['0/120 SMS', '<com book pal comics fragment Fragment Sms void onClick']
