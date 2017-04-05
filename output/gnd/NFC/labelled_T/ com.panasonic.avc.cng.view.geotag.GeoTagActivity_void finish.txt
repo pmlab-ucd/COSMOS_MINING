@@ -1,0 +1,1 @@
+['Geotagging', 'Geotagging off', 'Time sync', 'Start geotagging', 'Batch send', 'Send over NFC', '<com panasonic a vc cng view geo tag Geo Tag Activity void finish']

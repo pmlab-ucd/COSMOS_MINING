@@ -1,0 +1,1 @@
+['ImageMeter', 'inbox', 'example image', '<de dirk far in image meter lib Activity Image Select boolean onOptionsItemSelected']

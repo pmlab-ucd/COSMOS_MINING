@@ -1,0 +1,1 @@
+['Next', 'Sign in with your account information', 'jameshaofu@gmail.com', 'Forgot your password? Click here', '<com no om w lc sign up Email Log In Activity boolean onOptionsItemSelected']

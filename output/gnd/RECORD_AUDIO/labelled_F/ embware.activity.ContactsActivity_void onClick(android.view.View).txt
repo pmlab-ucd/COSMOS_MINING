@@ -1,0 +1,1 @@
+['Blacklist', 'Search', '  ', ' Add contact', 'no contacts', '<embware activity Contacts Activity void onClick']

@@ -1,0 +1,1 @@
+['Bluetooth is now OFF', 'Download the full version of Bluetooth for instant ON/OFF Bluetooth and no annoying ads.', 'Check it out', 'Later', '<com app vent ions bluetooth toggle bluetooth void onCreate']

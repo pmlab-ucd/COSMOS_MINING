@@ -1,0 +1,1 @@
+['Write contact Info', 'Email, MSN, Gtalk, or whatever we can find you.', 'Your precious feedback are appriciated.', 'Feedback', '<com rc platform venus activity Edit Activity void onActivityResult']

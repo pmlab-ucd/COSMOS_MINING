@@ -1,0 +1,1 @@
+['Format', 'When formatting, all data on the card in the connected device will be deleted. Continue with formatting?', 'Format', 'Cancel', '<com panasonic a vc cng view setting Cam Setup Format Activity void OnClickOK']

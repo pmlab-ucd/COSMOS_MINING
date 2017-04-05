@@ -1,0 +1,1 @@
+['tag', 'remove', 'share', '<com q is i sticker Sticker Image Custom Activity void onCreate']

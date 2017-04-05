@@ -1,0 +1,1 @@
+['Phonics', 'a', 'ai', 'ar', 'b', 'ch', 'ck', 'd', 'e', 'ee', 'er', 'f', 'g', 'h', 'i', 'ie', 'j', 'l', 'm', 'n', 'ng', 'o', 'oa', 'oi', 'oo', 'or', 'ou', 'p', 'qu', 'r', 's', 'sh', 't', '<com knm tech preschool 3 Phonics Grid void onCreate']

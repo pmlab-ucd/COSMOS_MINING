@@ -1,0 +1,1 @@
+['More by T-Me Studios', 'More Live Wallpapers', 'Configuration', 'Set date and time', 'Share this live wallpaper', 'Color effect', 'Scrollable', 'FPS', 'Screen interaction', '<com t me studios live wallpaper Wallpaper Settings Activity void onPause']

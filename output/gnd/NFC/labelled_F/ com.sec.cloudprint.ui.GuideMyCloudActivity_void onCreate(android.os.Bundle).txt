@@ -1,0 +1,1 @@
+['Select My Drive in the Printer/Friend list, and then upload files.', 'Uploaded files are saved in My Drive for 72 hours.', 'Do not show again.', 'Close', '<com sec cloud print ui Guide My Cloud Activity void onCreate']

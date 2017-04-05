@@ -1,0 +1,1 @@
+[' ', ' ', '<com in t sig cam dic t Capture Activity void surfaceChanged']

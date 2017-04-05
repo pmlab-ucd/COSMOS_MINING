@@ -1,0 +1,1 @@
+['VBlocker ', 'Blocklist', 'Calls', 'Sms', "Tap 'Add' to add numbers for blocking.", 'Add', '<com vishal mob i tech v blocker activity Blacklist Activity void onActivityResult']

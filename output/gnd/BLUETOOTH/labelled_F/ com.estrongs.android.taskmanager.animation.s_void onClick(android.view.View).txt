@@ -1,0 +1,1 @@
+['ES Task Manager', 'Free Memory', '   7', 'MB', 'Google Play services', '863', 'Chrome', '8598', 'Media Storage', '926', '<com e strong s android task manager animation s void onClick']

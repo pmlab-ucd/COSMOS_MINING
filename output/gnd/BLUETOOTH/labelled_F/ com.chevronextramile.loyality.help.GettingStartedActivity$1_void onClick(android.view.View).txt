@@ -1,0 +1,1 @@
+['ExtraMile', 'How do I redeem \n an Extra?', 'After you make the 5th qualifying purchase, you will have earned 5 Shields that equal 1 Extra. You can redeem your Extra as soon as it appears in your account or save it for later.', 'Next >', '<com chevron extra mile loyal it y help Getting Started Activity$1 void onClick']

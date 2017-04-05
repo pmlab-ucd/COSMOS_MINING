@@ -1,0 +1,1 @@
+['Schedule', 'Speakers', 'Exhibitors', 'Products', 'Mapping', 'Find People', 'Points of Interest', 'My Event', 'News & Social', 'Activity Stream', 'Info List', '<com event genie android activities dashboard Dashboard Split Background Activity void onResume']

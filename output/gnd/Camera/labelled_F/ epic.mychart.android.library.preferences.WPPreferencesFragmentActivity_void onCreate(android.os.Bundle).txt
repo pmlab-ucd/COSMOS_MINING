@@ -1,0 +1,1 @@
+['My Health Online', 'General Preferences', 'Remember User Name', 'Remember user name on the login screen?', 'Signature', 'Set a signature for messages sent from My Health Online.', 'Organizational Use Only', 'Server List Location', 'Address of the phone book', '<epic my chart android library preferences W P Preferences Fragment Activity void onCreate']

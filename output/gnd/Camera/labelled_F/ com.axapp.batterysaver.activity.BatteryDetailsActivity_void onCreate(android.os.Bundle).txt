@@ -1,0 +1,1 @@
+['Tips', "'AX Battery Saver' accessibility service needs to be enabled to turbo boost.", 'Cancel', 'Enable', '<com a x app battery saver activity Battery Details Activity void onCreate']

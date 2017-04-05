@@ -1,0 +1,1 @@
+['x', 'Sears', 'Open till 12 pm', 'To get the best deals & points while you shop, let Sears use your location data in our store.', "You'll need to have Bluetooth turned ON and Location set to HIGH ACCURACY and Sears app OPEN", 'Not Today', 'Allow', '<com android sears beacons Bluetooth Activity$1 void onClick']

@@ -1,0 +1,1 @@
+['CustomPrint', 'home', 'choose printer', 'printer status', 'WiFi configurator', 'web', 'Gmail', 'SMS', 'calls', 'contacts', 'gallery', 'draw', '<com custom custom print Main Activity void onSelectMenuSMARTCONFIG']

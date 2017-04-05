@@ -1,0 +1,1 @@
+['Successful Scans:', '0', 'Scanner', 'Frame a barcode or QR code inside the green guides. You can scan multiple barcodes before running a search.', 'Done', '<com usps mobile Scan Activity void onResume']

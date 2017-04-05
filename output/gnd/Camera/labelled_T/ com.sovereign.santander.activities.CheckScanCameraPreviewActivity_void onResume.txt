@@ -1,0 +1,1 @@
+['BACK OF CHECK', 'Take a clear, well-lit photo from above. Make sure the check fits within the four corners and is endorsed with a printed "FOR DEPOSIT ONLY"', '<com sovereign santander activities Check Scan Camera Preview Activity void onResume']

@@ -1,0 +1,1 @@
+['MEMORY FORMAT', 'PIN', 'INITIAL NDEF', 'PASSWORD', 'Lock Memory', 'CC(Capability Container)', '\tMemory Size', '144 bytes lock bit style 1', '144 bytes lock bit style 2', '888 bytes CC style 1 (E1 10 6F 00)', '888 bytes CC style 2 (E1 10 6D 00)', '944 bytes', 'Format Memory', '<com sic app sic 4 3 n 1 x config Config Activity void onCreate']

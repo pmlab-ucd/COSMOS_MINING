@@ -1,0 +1,1 @@
+['My Notes', 'You have not added any Notes.\n\nTo Add notes simply press the ##NOTE_ADD## button when prompted in other sections of the app.', '<com event genie android activities notes Notes Activity void onResume']

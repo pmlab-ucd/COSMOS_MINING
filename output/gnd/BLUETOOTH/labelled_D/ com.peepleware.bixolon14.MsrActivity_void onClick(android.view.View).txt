@@ -1,0 +1,1 @@
+['Bixolon MSR', 'MSR information', 'Track 1', 'Track 2', 'Track 3', 'Set MSR mode to start MSR reading.', 'Start', 'Stop', 'Clear', 'Print', '<com peep lew are bix ol on 1 4 Msr Activity void onClick']

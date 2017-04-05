@@ -1,0 +1,1 @@
+['Registration', 'Select your country code.', 'United States (+1)', 'Enter your phone number.', '+1', 'OK', '<com sec cloud print activity Payment Web Page Activity void onResume']

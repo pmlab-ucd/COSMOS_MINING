@@ -1,0 +1,1 @@
+['Paranormal Live Ghost Box', 'Stop', 'Start Ghost Box', 'Record', '<markcparanormal paranormal live ghost box Main Activity boolean onCreateOptionsMenu']

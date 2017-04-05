@@ -1,0 +1,1 @@
+['Audio Storage', 'New audio storage', 'Internal storage', 'Internal storage', 'Used 0, available 12,362 MB', 'External storage', 'Used 0, available 12,362 MB', 'Transfer all data to internal storage', 'Transfer all data to external storage', '<com snore lab app ui Settings Storage Activity$3 void onClick']

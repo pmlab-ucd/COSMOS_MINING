@@ -1,0 +1,1 @@
+['KViewQR', '<com google z xing client android book Search Book Contents Activity void <init>']

@@ -1,0 +1,1 @@
+['Sign in to make a call', 'check your balance or see rates', 'Email', 'Log In', 'or connect with', 'Facebook', 'Google', 'Create new account', '<com keep calling ui Login void onResume']

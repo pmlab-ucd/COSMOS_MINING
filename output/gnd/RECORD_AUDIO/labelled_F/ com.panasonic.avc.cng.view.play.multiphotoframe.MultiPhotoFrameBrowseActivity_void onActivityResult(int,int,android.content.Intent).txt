@@ -1,0 +1,1 @@
+['Highlight Photo Collage', 'Execute', 'Video camera', '0', '<com panasonic a vc cng view play multi photo frame Multi Photo Frame Browse Activity void onActivityResult']

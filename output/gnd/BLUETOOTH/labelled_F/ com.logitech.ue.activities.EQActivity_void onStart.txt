@@ -1,0 +1,1 @@
+['EQUALIZER', 'Custom', 'The Standard', 'Bass Jump', '<com logitech ue activities E Q Activity void onStart']

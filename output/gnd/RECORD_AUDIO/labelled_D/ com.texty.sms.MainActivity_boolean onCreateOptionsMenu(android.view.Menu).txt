@@ -1,0 +1,1 @@
+['MightyText', 'SMS from your computer', "Sync'd with your Android phone & number", 'Select which Google Account to use:', 'jameshaofu@gmail.com', 'Complete Setup »', 'By installing and using this application, you agree to the Terms of Service and Privacy Policy.', '<com text y sms Main Activity boolean onCreateOptionsMenu']

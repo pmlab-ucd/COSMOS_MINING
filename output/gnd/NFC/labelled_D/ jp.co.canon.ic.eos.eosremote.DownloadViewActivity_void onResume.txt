@@ -1,0 +1,1 @@
+['Device Name', 'Nexus 4', 'Camera Image Viewing', 'Uniform Thumbnails', 'Remote Shooting', 'Auto Live View', 'Show AF Button', 'Image Save Settings', 'Save GPS Info', 'Resize', 'Resize', 'Camera set.', 'Set Camera Time', 'Available when the device is connected to the camera.', '<jp co canon ic eos eos remote Download View Activity void onResume']

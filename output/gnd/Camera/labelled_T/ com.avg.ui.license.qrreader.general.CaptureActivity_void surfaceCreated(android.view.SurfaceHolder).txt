@@ -1,0 +1,1 @@
+['Place a barcode inside the viewfinder to scan it', '<com avg ui license qr reader general Capture Activity void surfaceCreated']

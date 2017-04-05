@@ -1,0 +1,1 @@
+['Settings', 'PREMIUM FEATURES', 'Enable Auto Protection', 'Enable Deep Scan', 'MORE SETTING', 'Change language', 'English', 'OTHER', 'Share it', 'Rate us!', 'About us', 'Version:2.9', '<com g paddy pro antivirus screen Paddy Settings Pro Activity$1 void onClick']

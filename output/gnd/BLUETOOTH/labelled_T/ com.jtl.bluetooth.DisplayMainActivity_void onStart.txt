@@ -1,0 +1,1 @@
+['Smart Box', 'Haven’t connected to Smart Bluetooth Speaker. Connect now?', 'Cancel', 'OK', '<com j tl bluetooth Display Main Activity void onStart']

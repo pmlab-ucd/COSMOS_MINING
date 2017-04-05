@@ -1,0 +1,1 @@
+['Photo Collage', 'Exit', '<com panasonic a vc cng view play multi photo frame Multi Photo Frame Main Activity void onActivityResult']

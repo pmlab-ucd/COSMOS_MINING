@@ -1,0 +1,1 @@
+['Tolerence  65%', '<com deep work chroma camera Main Activity void onCreate']

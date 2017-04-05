@@ -1,0 +1,1 @@
+['Choose Battery Level', 'Below 10%', 'Below 15%', 'Below 20%', 'Below 25%', 'Below 30%', 'Below 35%', 'Below 40%', 'Below 45%', 'Below 50%', 'Below 55%', '<com vishal mob i tech v blocker activity ak void onClick']

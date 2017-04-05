@@ -1,0 +1,1 @@
+['WEATHER', 'TEMPERATURE:', '15', '°C', 'HUMIDITY:', '78', '%', 'PRESSURE:', '759.97', 'mmHg', 'STD. PRESSURE AT ALT:', 'LOCATION', 'LATITUDE:', '45.12345', 'LONGITUDE:', '15.1234', 'ALTITUDE:', '91', 'm', 'GPS LOCATION:', 'WIND', 'SPEED:', '0', 'km/h', 'DIRECTION:', '0', '°', '<si mils iste mika ballistic Atm Activity void onCreate']

@@ -1,0 +1,1 @@
+['IPCameraHB', 'Click here to add camera', '<com lio u I P Camera H B Main Activity void onStop']

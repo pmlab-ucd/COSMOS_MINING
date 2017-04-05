@@ -1,0 +1,1 @@
+['Email', 'Forgot?', 'New to Bitwalking?', 'Sign up', 'Log in', '<bitwalking bit walking Main Activity void onResume']

@@ -1,0 +1,1 @@
+['Exit the app?', 'Cancel', 'OK', '<com sms robot call recorder Exit Dialog Activity void onResume']

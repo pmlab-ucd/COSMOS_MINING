@@ -1,0 +1,1 @@
+['Romantic Messenger', "Enter your loved one's number below (without country code) and tap a text genre to send!", 'General Romance', 'Good Morning Romance', 'Goodnight Romance', 'Edit Messages', 'App Info', 'App Settings', "<'to' max romantic text er Main Activity$2 void onClick"]

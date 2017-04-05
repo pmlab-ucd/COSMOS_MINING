@@ -1,0 +1,1 @@
+['DOUBLE UP', 'EQ', 'ALARM', 'MORE', '<com logitech ue activities Home Activity void onBackPressed']

@@ -1,0 +1,1 @@
+['Greetings', 'Default', '<com metro pcs service v vm activity Greetings Activity$3 void onClick']

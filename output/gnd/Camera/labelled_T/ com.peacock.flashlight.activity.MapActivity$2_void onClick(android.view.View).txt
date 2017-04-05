@@ -1,0 +1,1 @@
+['ON', 'Locate', '<com peacock flashlight activity Map Activity$2 void onClick']

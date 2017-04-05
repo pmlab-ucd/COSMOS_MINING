@@ -1,0 +1,1 @@
+['Application function', 'Usage conditions', '<com panasonic a vc cng view setting App Setting For No I D Activity void onActivityResult']

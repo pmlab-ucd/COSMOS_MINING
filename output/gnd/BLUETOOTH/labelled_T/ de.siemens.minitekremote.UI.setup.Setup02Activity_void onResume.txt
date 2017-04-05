@@ -1,0 +1,1 @@
+['Bluetooth', 'Please restart the app. If you are asked whether you want to use Bluetooth, please agree to this. Otherwise, no connection to the mini MEBluConnect can be established.', 'OK', '<de siemens mini tek remote U I setup Setup02 Activity void onResume']

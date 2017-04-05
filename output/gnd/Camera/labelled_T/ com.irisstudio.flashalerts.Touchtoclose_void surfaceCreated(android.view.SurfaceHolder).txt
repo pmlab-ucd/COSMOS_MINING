@@ -1,0 +1,1 @@
+['Touch here \n to stop flash', '<com iris studio flash alerts Touchtoclose void surfaceCreated']

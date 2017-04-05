@@ -1,0 +1,1 @@
+['Cleaner', '<com example administrator flashlight 2 Main Activity$8 void onClick']

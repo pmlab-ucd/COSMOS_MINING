@@ -1,0 +1,1 @@
+['Feedback', 'Version 1.7.2 - Build 999', 'Release Notes', 'Feedback Requested', 'Open Items', 'Resolved Items', 'Ignored Items', '<net slick deals android Rate Main Activity void onCreate']

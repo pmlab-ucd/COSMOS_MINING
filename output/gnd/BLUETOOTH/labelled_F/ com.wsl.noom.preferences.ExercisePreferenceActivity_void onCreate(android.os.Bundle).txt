@@ -1,0 +1,1 @@
+['Exercise Tracking Settings', 'Your walking goal: 2000 steps', 'Adjust daily steps', 'Noom will automatically adjust your step goal to help you reach 10,000 steps a day.', 'Workout schedule', 'Autopause & Autostart', 'Location Tracking', 'Voice Output Settings', '<com w sl no om preferences Exercise Preference Activity void onCreate']

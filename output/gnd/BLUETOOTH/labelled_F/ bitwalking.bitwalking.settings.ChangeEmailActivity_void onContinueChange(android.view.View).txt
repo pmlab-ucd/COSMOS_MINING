@@ -1,0 +1,1 @@
+['C   h   a   n   g   e       E   M   A   I   L', 'S A V E', 'New email', 'New email, again', '<bitwalking bit walking settings Change Email Activity void onContinueChange']

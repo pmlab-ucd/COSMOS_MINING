@@ -1,0 +1,1 @@
+['P1', 'Tap here to change programs', '1 / 5', '<com gn resound remote control activity Tutorial Activity void onStart']

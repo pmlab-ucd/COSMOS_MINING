@@ -1,0 +1,1 @@
+['Go to SETTINGS to Turn On Automatic Rounding.', 'Tip only calculates on Check, Not on Sales Tax', 'Turn Camera Light ON', 'SETTINGS', 'RESET', 'Check $', '$0.00', 'Sales Tax $', '$0.00', 'Tip Percent %', '15', 'Tip $', '$0.00', 'Total $', '$0.00', '<com star flower solutions easy fast tip calculator Tip Calc Activity void onResume']

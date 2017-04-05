@@ -1,0 +1,1 @@
+['Welcome to Remote Notifier', 'This application works in conjunction with a PC/Mac counterpart to display notifications.\n\nPlease visit the website http://bit.ly/android-notifier to read setup instructions and get the desktop application, as well as give feedback or report bugs.', 'OK', '<org dama zio notifier Notifier Main void onResume']

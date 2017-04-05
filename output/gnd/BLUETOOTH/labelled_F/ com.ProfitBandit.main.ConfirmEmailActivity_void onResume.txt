@@ -1,0 +1,1 @@
+['Confirm email', 'SellerEngine', 'Profit Bandit', 'Do you have a Paid Pro Merchant Seller Account on Amazon?', 'Yes, Continue', "No I don't, I have a basic individual seller account", 'Help me start scouting', '<com Profit Bandit main Confirm Email Activity void onResume']

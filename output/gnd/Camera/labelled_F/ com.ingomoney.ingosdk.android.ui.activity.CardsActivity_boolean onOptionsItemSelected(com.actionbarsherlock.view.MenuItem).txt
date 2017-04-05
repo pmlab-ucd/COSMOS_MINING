@@ -1,0 +1,1 @@
+['My Cards', 'You have no cards. You must have at least one card to load a check. To add a card, select the icon in the top right corner of the screen.', 'A service of First Century Bank, N.A. and Ingo Money, Inc.', '<com in go money in go sdk android ui activity Cards Activity boolean onOptionsItemSelected']

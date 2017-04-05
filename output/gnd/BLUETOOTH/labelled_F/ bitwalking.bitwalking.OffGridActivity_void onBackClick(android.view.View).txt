@@ -1,0 +1,1 @@
+['n   o       c   o   n   n   e   c   t   i   o   n', 'No connection', 'We’re having trouble reaching the\nBitwalking network. Please check\nyour connection.', 'ok', '<bitwalking bit walking Off Grid Activity void onBackClick']

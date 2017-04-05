@@ -1,0 +1,1 @@
+['Voice Output Settings', 'Enable Voice Output', 'Notification Type', 'Time', 'Notification Interval', '1 min', 'Interval for Racing', '30 sec', 'Notification Volume', 'Set the volume for all audio notifications.', '75', 'Calorie Notification', '<com no om android exercise logging settings Voice Output Preference Activity void onCreate']

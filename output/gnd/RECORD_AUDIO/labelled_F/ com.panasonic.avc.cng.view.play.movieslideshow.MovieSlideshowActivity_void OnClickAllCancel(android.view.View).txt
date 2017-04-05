@@ -1,0 +1,1 @@
+['Create highlights', 'Execute', 'Video camera', '0', '<com panasonic a vc cng view play movie slideshow Movie Slideshow Activity void OnClickAllCancel']

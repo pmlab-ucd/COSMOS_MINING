@@ -1,0 +1,1 @@
+['Power OFF', 'Turn OFF the connected device?', 'Power OFF', 'Cancel', '<com panasonic a vc cng view setting Camera Power Off Activity void onResume']

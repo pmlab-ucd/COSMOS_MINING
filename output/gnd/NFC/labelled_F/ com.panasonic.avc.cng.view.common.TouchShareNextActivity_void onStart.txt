@@ -1,0 +1,1 @@
+['Copied picture(s)', 'To continue copying pictures, select pictures on the camera and then touch your smartphone to the camera again.\nTo exit this function, tap the following button.', 'Exit', '<com panasonic a vc cng view common Touch Share Next Activity void onStart']

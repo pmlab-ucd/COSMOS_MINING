@@ -1,0 +1,1 @@
+['Stay in touch anywhere with\nfast and secure instant messaging.', 'Sign in', 'New to Trillian?  Sign up for free!', '<com cerulean studios trillian android Wizard Accounts Activity void onPause']

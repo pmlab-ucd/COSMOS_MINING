@@ -1,0 +1,1 @@
+['Please wait...', '<com panasonic a vc cng view setting Picture Jump Setup Activity void onResume']

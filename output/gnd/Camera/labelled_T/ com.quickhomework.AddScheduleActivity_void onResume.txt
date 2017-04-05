@@ -1,0 +1,1 @@
+['Cancel', 'Gallery', '<com quick homework Add Schedule Activity void onResume']

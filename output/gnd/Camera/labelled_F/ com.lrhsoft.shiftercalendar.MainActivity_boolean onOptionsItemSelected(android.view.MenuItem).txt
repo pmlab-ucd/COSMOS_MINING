@@ -1,0 +1,1 @@
+['Welcome', 'Do you want to see a small tutorial?', 'No', 'Yes', '<com l rh soft shifter calendar Main Activity boolean onOptionsItemSelected']

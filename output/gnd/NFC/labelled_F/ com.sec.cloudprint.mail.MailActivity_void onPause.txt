@@ -1,0 +1,1 @@
+['Samsung Cloud Print', 'Please complete registration first.', 'OK', '<com sec cloud print mail Mail Activity void onPause']

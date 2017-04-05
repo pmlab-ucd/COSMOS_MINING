@@ -1,0 +1,1 @@
+['Please point at the barcode, and hold still, please avoid glares.', 'Done', '<com coupons Grocery I Q Scan Activity void surfaceCreated']

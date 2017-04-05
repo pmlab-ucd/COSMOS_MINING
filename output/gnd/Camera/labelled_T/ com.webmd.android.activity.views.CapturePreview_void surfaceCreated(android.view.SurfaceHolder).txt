@@ -1,0 +1,1 @@
+['Transfer to Walgreens', 'by', 'Transfer from other pharmacy to Walgreens', 'Position bottle in screen so prescription number and pharmacy name are visible.', '<com web md android activity views Capture Preview void surfaceCreated']

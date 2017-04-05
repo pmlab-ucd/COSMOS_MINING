@@ -1,0 +1,1 @@
+['+0 Cal', '1200 Cal left today', 'More', 'analysis', 'Close', '<com no om android food logging feedback Meal Feedback Activity$2 void onClick']

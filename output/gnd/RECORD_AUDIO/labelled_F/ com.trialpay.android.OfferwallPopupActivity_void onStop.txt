@@ -1,0 +1,1 @@
+['Login or Register', 'Rewards', 'Get Nanas', 'Invite', 'How It Works', 'Country', 'United States', '5%\nBack', '5%\nBack', '5%\nBack', '5%\nBack', '5%\nBack', 'Amazon Gift Cards', '5%\nBack', 'Google Play Gift Cards', '5%\nBack', '5%\nBack', 'iTunes Gift Cards', '<com trial pay android Offerwall Popup Activity void onStop']

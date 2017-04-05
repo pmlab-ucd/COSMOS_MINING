@@ -1,0 +1,1 @@
+['Calculator', '0', 'mc', 'm+', 'm-', 'mr', 'C', '7', '8', '9', '4', '5', '6', '1', '2', '3', '0', '.', '<com droid 4 y o u util crop image Crop Image void onCreate']

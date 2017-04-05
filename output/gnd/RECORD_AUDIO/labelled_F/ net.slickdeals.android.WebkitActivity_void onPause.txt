@@ -1,0 +1,1 @@
+['Slickdeals', 'Help Us', 'Improve', 'How likely is that you would recommend Slickdeals to your friend?', 'Select Rating', ' Dismiss ', '<net slick deals android Webkit Activity void onPause']

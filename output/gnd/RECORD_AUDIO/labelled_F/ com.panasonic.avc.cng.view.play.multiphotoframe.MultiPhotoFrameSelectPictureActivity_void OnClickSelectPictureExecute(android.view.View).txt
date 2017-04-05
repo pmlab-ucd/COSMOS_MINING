@@ -1,0 +1,1 @@
+['Picture Selection', 'Gallery', '160', '<com panasonic a vc cng view play multi photo frame Multi Photo Frame Select Picture Activity void OnClickSelectPictureExecute']

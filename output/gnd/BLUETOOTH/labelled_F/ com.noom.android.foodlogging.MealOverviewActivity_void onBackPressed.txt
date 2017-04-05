@@ -1,0 +1,1 @@
+['Please Wait', 'Please wait while we prepare the Noom Food Database. This might take a few minutes...', 'Close', '<com no om android food logging Meal Overview Activity void onBackPressed']

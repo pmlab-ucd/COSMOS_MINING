@@ -1,0 +1,1 @@
+['Close', 'Install', '<com alma len ce night Main Screen void onResume']

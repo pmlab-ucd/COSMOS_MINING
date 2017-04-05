@@ -1,0 +1,1 @@
+['Scan Boarding Pass', 'Hold the boarding pass barcode in rectangle to scan the code', '<org sky team activities Sky Team Scan Activity$3 void onClick']

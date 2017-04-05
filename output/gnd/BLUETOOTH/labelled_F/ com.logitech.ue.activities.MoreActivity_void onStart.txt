@@ -1,0 +1,1 @@
+['MORE', 'Settings', 'How To', 'Support', 'About', '<com logitech ue activities More Activity void onStart']

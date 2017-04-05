@@ -1,0 +1,1 @@
+['Customized', 'Modify bluetooth device name', 'OK', '<com r watch Launcher1 ap void onClick']

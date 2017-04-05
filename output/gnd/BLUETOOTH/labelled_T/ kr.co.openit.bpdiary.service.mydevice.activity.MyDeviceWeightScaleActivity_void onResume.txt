@@ -1,0 +1,1 @@
+['My scale', 'Xiaomi', 'MI_SCALE', 'Other devices to manage your weight manually entered.', '<kr co open it bp diary service my device activity My Device Weight Scale Activity void onResume']

@@ -1,0 +1,1 @@
+['About application', 'About', 'Privacy policy', 'Terms of use', '<com fun be rs app ui Call Settings Activity void onBackPressed']

@@ -1,0 +1,1 @@
+['Workout Schedule', 'Done', 'Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Tuesday workouts', 'Add Workout', 'Remind me before my scheduled workouts.', '<com no om android exercise logging scheduler Edit Workout Schedule Activity void onCreate']

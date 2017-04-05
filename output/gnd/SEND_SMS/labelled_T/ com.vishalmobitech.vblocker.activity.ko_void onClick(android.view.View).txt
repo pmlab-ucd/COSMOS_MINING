@@ -1,0 +1,1 @@
+['Detail', '<com vishal mob i tech v blocker activity ko void onClick']

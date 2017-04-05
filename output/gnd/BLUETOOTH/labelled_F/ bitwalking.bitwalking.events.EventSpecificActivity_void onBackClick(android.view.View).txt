@@ -1,0 +1,1 @@
+['e   v   e   n   t       d   e   t   a   i   l   s', '<bitwalking bit walking events Event Specific Activity void onBackClick']

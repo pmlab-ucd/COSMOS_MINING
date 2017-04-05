@@ -1,0 +1,1 @@
+['CardTest', 'Waiting for NFC...', '<com sam j Card Test Card Test Activity void onNewIntent']

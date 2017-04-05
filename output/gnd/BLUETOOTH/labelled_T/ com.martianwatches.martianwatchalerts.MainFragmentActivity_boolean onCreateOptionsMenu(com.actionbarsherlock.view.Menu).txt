@@ -1,0 +1,1 @@
+['Provide your email address to receive notices from Martian:', 'Software Updates', 'All News', 'No Thanks', 'Enter your email', 'Continue', "Don't forget to register your Martian.", 'By using this app, you accept the Terms of Service and Privacy Policy.', '<com martian watches martian watch alerts Main Fragment Activity boolean onCreateOptionsMenu']

@@ -1,0 +1,1 @@
+['My BP Meter', 'A&D', 'UA-651BLE', 'A&D', 'UA-851PBT-C', 'A&D', 'UA-767PBT-C', 'Foracare', 'Fora D40b', 'OMRON', 'HEM-7081-IT', 'As for other devices,\nyou can manage your blood pressure\nby the manual input function.', '<kr co open it bp diary service my device activity d void onClick']

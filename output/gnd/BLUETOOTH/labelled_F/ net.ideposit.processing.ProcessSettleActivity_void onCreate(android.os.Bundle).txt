@@ -1,0 +1,1 @@
+['iDeposit.net', 'Status:', 'No Open Transactions to Settle', '<net i deposit processing Process Settle Activity void onCreate']

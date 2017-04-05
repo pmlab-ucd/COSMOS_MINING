@@ -1,0 +1,1 @@
+['Easy Address Book', 'Detected Devices', 'Scan for compatable devices', '<com leonid address book Device Chooser void onDestroy']

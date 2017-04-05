@@ -1,0 +1,1 @@
+['Place a barcode inside the rectangle to scan it.', '<com antenna software hybrid container barcode Capture Activity void onCreate']

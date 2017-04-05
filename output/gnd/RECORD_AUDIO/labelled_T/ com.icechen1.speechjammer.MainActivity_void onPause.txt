@@ -1,0 +1,1 @@
+['SpeechJammer', 'Configure', 'Headphone not connected', 'Adjust voice delay', '150 ms', "Because of the Android's inherent audio latency, the actual audio delay will be higher than configured. A value of 150ms is recommended.\nThen begin recording by pressing Start below!", 'Start', '<com ice chen 1 speech jammer Main Activity void onPause']

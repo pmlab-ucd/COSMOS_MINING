@@ -1,0 +1,1 @@
+['Categories', '+Misc', 'There are no items in the product catalog.\n You can add Miscellaneous items.', 'Continue', '<com cp m pos payment product view Product Catalog List View void <init>']

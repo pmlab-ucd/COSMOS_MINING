@@ -1,0 +1,1 @@
+['A smart system to protect your kids all the time.', 'Skip', '<com yak o safe kids activity Intro Slider void attachBaseContext']

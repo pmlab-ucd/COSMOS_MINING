@@ -1,0 +1,1 @@
+['Select your location\nSkEye needs accurate location for best results', 'Add new', '<com lava dip sk eye Sk Eye boolean onOptionsItemSelected']

@@ -1,0 +1,1 @@
+['Ear Assist', 'Audio Volume', 'Equalizer', '60', '230', '910', '3.6k', '14k', '<com microphone ear spy Microphone Activity boolean onCreateOptionsMenu']

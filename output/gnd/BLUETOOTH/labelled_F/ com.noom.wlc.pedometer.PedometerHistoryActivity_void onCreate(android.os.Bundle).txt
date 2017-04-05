@@ -1,0 +1,1 @@
+['Step History', '<com no om w lc pedometer Pedometer History Activity void onCreate']

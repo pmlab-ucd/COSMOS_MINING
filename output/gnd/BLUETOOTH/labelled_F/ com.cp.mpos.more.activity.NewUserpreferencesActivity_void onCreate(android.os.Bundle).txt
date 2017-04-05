@@ -1,0 +1,1 @@
+['Preferences', 'ACCOUNT PREFERENCES', 'Product Catalog', 'Off', 'Transaction Settings', 'PAYMENT SETTINGS', 'Tip Settings', 'Disabled', 'Tax Settings', 'Disabled', 'Discounts', 'USER PREFERENCES', '<com cp m pos more activity New Userpreferences Activity void onCreate']

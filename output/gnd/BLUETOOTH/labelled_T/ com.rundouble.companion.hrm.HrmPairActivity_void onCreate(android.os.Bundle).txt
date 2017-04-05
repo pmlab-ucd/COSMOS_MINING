@@ -1,0 +1,1 @@
+['Heart Rate Settings', 'PAIR', 'SETTINGS', 'Enable HRM', 'Please see our website for a compatibility list.', "Note: BLE or Bluetooth 'Smart' devices may only work with your Wifi turned OFF. ", 'Searching for device...', '<com run double companion hr m Hrm Pair Activity void onCreate']

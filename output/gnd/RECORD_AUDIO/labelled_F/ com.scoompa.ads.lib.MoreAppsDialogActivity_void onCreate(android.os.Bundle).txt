@@ -1,0 +1,1 @@
+['Thank you for using our app!', 'Would you like more of our apps?', 'Yes!', 'Not now', '<com s coo mpa ads lib More Apps Dialog Activity void onCreate']

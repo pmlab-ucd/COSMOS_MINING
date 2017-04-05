@@ -1,0 +1,1 @@
+['Sign In', 'Pick an email to create your account with', 'jameshaofu@gmail.com', 'Use another account', 'Privacy Policy', 'Email Support', '<me double dutch Sign In Choose Account Activity void onResume']

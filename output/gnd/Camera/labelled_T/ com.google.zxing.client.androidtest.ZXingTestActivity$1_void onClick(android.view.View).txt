@@ -1,0 +1,1 @@
+['ZXing Test', 'Run benchmark', 'Get camera parameters', 'Scan product', 'Scan QR Code', 'Scan anything', 'Search Book Contents', 'Encode URL', 'Encode email', 'Encode phone', 'Encode SMS', 'Encode contact', '<com google z xing client android test Z Xing Test Activity$1 void onClick']

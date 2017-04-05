@@ -1,0 +1,1 @@
+['Align check to fit in the green guidelines.\nTap the screen to capture the image.', 'Cancel', '<com or cc rd c Camera Preview void <init>']

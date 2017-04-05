@@ -1,0 +1,1 @@
+['Transaction Reports', 'Transaction \nSummary', 'Sales \nOverview', 'Settlement Reports', 'Settlement', 'Funding', 'Fees', 'Chargeback', '<com cp m pos component activity Reports Activity void onResume']

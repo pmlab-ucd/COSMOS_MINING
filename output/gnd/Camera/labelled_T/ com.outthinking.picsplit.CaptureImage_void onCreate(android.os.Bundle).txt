@@ -1,0 +1,1 @@
+['Gallery', 'Exit', 'Finish', '<com out thinking pic split Capture Image void onCreate']

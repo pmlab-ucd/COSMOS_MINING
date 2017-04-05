@@ -1,0 +1,1 @@
+['Auto-Start & Auto-Pause Settings', 'Autopause', 'Enable Autopause', 'Workouts will automatically be paused if the phone is not moved', 'Detection Time', '30 seconds', 'Autostart', 'Enable Autostart', 'Automatically start workouts without having to click "start"', 'Countdown Time', '15 seconds', '<com w sl no om preferences Autostart Autopause Preference Activity void onCreate']

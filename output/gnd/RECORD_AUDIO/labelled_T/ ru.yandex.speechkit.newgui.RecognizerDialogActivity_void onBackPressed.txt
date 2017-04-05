@@ -1,0 +1,1 @@
+['Voice search not available', 'Retry', 'One second...', '<ru y and ex speech kit new gui Recognizer Dialog Activity void onBackPressed']

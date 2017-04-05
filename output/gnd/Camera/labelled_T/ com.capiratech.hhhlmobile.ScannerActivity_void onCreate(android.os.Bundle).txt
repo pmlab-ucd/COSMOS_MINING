@@ -1,0 +1,1 @@
+['Cancel', '<com ca pirate ch hh hl mobile Scanner Activity void onCreate']

@@ -1,0 +1,1 @@
+['TrackAddict', 'This live streaming feature enables you to share your position, speed, lap times, and other telemetry with viewers on http://Live.RaceRender.com \n\nPlease read and understand the advisories before enabling its use.', 'OK', '<com hp tuners track addict Streaming Activity void onCreate']

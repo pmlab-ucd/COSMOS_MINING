@@ -1,0 +1,1 @@
+['Bluetooth', 'Save location when a bluetooth device unpairs', 'Paired Bluetooth Device', 'Location will be saved whenever No device selected disconnects from your phone. ', 'Car Dock', 'Save location when phone disconnects from a car dock', '<com edward kim android car locator bluetooth plugin activities Edit Preferences void onCreate']

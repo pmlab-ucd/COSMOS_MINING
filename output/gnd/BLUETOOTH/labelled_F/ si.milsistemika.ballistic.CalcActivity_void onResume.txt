@@ -1,0 +1,1 @@
+['Range\n(m)', 'Windage\n(Clicks)', 'Windage\n(cm)', 'xVelocity\n(m/s)', '<si mils iste mika ballistic Calc Activity void onResume']

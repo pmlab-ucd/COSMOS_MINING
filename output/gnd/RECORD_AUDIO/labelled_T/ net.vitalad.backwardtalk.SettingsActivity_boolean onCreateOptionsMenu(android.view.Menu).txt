@@ -1,0 +1,1 @@
+['˂ Done', 'Maximum duration', '20 sec', '<net vital ad backward talk Settings Activity boolean onCreateOptionsMenu']

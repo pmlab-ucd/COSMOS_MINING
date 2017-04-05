@@ -1,0 +1,1 @@
+['iMobile', '*Take Picture', '<com c sam i cici bank i mobile Camera Test Activity void onCreate']

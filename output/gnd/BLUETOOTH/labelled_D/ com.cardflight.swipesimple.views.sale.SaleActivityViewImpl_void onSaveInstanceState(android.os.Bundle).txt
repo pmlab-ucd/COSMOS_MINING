@@ -1,0 +1,1 @@
+['Charge', '$0.00', 'Connecting to Reader...', 'Audio Jack', 'Enter card info manually', 'Cancel Payment', '<com card flight swipe simple views sale Sale Activity View Impl void onSaveInstanceState']

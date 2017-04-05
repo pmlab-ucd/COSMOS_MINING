@@ -1,0 +1,1 @@
+['1: Tap to Record', '2: Tap to Pause', 'CONTINUE', '<net vital ad backward talk First Launch Activity boolean onCreateOptionsMenu']

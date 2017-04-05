@@ -1,0 +1,1 @@
+['Add Speed Dial', 'Name', 'xx xxx xxxxx', '+', 'Number', 'Add phone number in international format:\nCountry Code + Area Code + Phone Number.', 'Save', '<com keep calling ui Microphone Permission void onCreate']

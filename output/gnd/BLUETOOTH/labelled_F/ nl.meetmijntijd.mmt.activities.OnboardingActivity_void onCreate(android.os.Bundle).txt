@@ -1,0 +1,1 @@
+['Sign up with Facebook', 'Sign up with email', 'Log in', 'Skip this for now', '<nl meet mi jn tijd mm t activities Onboarding Activity void onCreate']

@@ -1,0 +1,1 @@
+['About', 'Easy Voice Recorder', 'Version 1.8.1', "See what's new", 'Upgrade to Pro', 'See all the additional features', 'Rate the app', 'Follow us on Twitter', 'Suggest EVR to a friend', 'More apps', 'Help us translate and beta test', 'www.digipom.com', '<com dig i pom easy voice recorder ui activity About Activity void onSaveInstanceState']

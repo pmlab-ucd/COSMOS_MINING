@@ -1,0 +1,1 @@
+['This app allows the use of different user interfaces.\n\nUse the interface that you prefer (you can change this again later at any time):', 'Select interface', 'Use standard', '<de siemens mini tek remote U I setup Setup04 Activity void onResume']

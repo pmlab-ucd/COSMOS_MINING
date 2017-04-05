@@ -1,0 +1,1 @@
+['Text Invitation', 'Number', 'Message', 'Send SMS', '<com tch adv fragments sms Text Invitation Activity void onClick']

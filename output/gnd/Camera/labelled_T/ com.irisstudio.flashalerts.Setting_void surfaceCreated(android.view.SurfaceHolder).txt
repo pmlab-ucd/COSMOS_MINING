@@ -1,0 +1,1 @@
+['Flash SETTINGS', 'Set frequency', '-', '+', 'Enable custom call screen', 'Enable flash while call in progress', '<com iris studio flash alerts Setting void surfaceCreated']

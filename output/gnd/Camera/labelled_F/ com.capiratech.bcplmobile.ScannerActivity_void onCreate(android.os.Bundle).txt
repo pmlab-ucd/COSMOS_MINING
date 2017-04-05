@@ -1,0 +1,1 @@
+['BCPL Mobile', 'Cancel', '<com ca pirate ch bc pl mobile Scanner Activity void onCreate']

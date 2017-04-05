@@ -1,0 +1,1 @@
+['Place a barcode inside the viewfinder rectangle to scan it.', '<nuance com barcode Capture Activity void onResume']

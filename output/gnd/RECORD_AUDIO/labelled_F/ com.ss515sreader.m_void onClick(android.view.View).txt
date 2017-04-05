@@ -1,0 +1,1 @@
+['SS515SReader-1.0.4', 'SS515 Read Card', 'Read Card', 'Get Version', 'Get PAN', '<com ss515sreader m void onClick']

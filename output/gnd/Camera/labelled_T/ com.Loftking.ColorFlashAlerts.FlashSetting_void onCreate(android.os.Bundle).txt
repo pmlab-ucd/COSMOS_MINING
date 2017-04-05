@@ -1,0 +1,1 @@
+['Flash Setting', 'Notification', 'Incoming call', 'Incoming Text', 'Phone Status', 'Silent', 'Vibrate', 'Ring', '<com Loftking Color Flash Alerts Flash Setting void onCreate']

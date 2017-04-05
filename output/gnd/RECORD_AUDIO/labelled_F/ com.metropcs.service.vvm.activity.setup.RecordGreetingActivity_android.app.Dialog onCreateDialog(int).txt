@@ -1,0 +1,1 @@
+['Failed to subscribe to Voicemail to Text. Please make sure that you have connection to the data network.', 'OK', '<com metro pcs service v vm activity setup Record Greeting Activity android.app.Dialog onCreateDialog']

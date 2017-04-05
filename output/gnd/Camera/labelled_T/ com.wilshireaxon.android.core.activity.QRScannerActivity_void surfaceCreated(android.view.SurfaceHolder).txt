@@ -1,0 +1,1 @@
+['Point back camera at QR code and hold steady.', '<com wil shire axon android core activity Q R Scanner Activity void surfaceCreated']

@@ -1,0 +1,1 @@
+['Message', 'No ATM or Branch is available nearby.', 'OK', '<com cp m pos tools activity Atm Branch List Activity void onDestroy']

@@ -1,0 +1,1 @@
+['My SP Sync Account', 'Log In To Your Account', 'Account - Free 50 MB', 'Amount Used - 0 KB of 50 MB', 'Need More Space?', 'Sync with Wifi only', 'Deregister this device', 'Deregister all my devices', '<com w om swp ad activity Sync Settings Activity void onCreate']

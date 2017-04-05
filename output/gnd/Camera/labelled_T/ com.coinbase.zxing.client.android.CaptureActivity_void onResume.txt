@@ -1,0 +1,1 @@
+['Place a Bitcoin QR code inside the\nviewfinder to scan it.', '<com coin base z xing client android Capture Activity void onResume']

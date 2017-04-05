@@ -1,0 +1,1 @@
+['Usage tips', 'Double-tap to wake', '<com sony ericsson extras smart watch preferences Usage Tips void onResume']

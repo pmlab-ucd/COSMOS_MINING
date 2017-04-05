@@ -1,0 +1,1 @@
+['Position the QR code within the frame and capture it.', '<com panasonic a vc cng view common Qr Code Reader Activity void onResume']

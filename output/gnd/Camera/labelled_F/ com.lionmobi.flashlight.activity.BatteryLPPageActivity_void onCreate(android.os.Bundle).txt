@@ -1,0 +1,1 @@
+['Draining apps', 'Current', '99', '%', '10 apps draining battery', 'More details', 'Google Play Store', '7%', 'Google Services Framework', '6%', 'Google Play services', '6%', 'Background apps are wasting battery and using data.', 'One-Step super saving', 'Extend + 19% use time', 'Save Battery Now', '<com lion mob i flashlight activity Battery L P Page Activity void onCreate']

@@ -1,0 +1,1 @@
+['Settings', 'Use PIN code', '<com log mein authentic at or activities Settings Activity boolean onOptionsItemSelected']

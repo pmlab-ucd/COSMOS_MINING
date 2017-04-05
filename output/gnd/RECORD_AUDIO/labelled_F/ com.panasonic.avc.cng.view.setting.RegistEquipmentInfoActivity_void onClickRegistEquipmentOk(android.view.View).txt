@@ -1,0 +1,1 @@
+['AV Device Information', 'Name', 'Address Number', 'Access Number', 'OK', 'Cancel', '<com panasonic a vc cng view setting Regist Equipment Info Activity void onClickRegistEquipmentOk']

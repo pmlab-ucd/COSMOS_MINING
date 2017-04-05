@@ -1,0 +1,1 @@
+['Error', 'This functionality is not included in the current application version. Application needs to be updated to support this feature.', 'OK', '<net sourceforge z bar android Z Bar Scanner void onCreate']

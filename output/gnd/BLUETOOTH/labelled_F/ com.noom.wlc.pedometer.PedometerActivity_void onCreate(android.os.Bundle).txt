@@ -1,0 +1,1 @@
+['Steps today', '0', 'steps', 'Daily goal: 0 steps', 'Upgrade your pedometer\nwith Noom Walk!', 'View your record step counts\nEncourage friends and family\nBeautifully updated design\nFully integrated with Noom Weight Loss\n', 'Free Download', 'Noom is using your Noom pedometer to count your steps.', '<com no om w lc pedometer Pedometer Activity void onCreate']

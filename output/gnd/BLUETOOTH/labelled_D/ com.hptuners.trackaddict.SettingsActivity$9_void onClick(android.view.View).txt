@@ -1,0 +1,1 @@
+['TrackAddict', "Thanks for downloading TrackAddict by HP Tuners. \n\nWe have made most of this app's features available to you for free. \n\nWe've also enabled Online Telemetry as a free trial while we work on enhancing it even further! \n\nEnjoy!", 'OK', '<com hp tuners track addict Settings Activity$9 void onClick']

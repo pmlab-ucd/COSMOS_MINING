@@ -1,0 +1,1 @@
+['Alerts Manager', 'Monetary Total', 'Off', '# of Transaction Types', 'Off', '# of Transactions', 'Off', '<com cp m pos more activity Alert Manager Activity void onDestroy']

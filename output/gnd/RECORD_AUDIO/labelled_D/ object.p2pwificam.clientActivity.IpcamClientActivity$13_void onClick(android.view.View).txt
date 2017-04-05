@@ -1,0 +1,1 @@
+['DroneView', 'Edit', 'Add new camera', '<object p2pwificam Activity Ipcam Client Activity$13 void onClick']

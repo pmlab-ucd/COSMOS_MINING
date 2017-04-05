@@ -1,0 +1,1 @@
+['Secret Video Camera', 'Start', 'Stop', 'Resume preview', 'Timer', 'Videos', '<ahapps spy videocamera Main Activity void onPause']

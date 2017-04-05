@@ -1,0 +1,1 @@
+['SimpleFPV', 'Remote Connection', 'IP to connect', '192.168.49.1', 'My p2p or wlan IP', '192.168.43.1', 'Bluetooth Connection', 'Device to connect', 'Environment', 'GPS', 'Activate transmit/display gps', 'Attitude', '<de mobile 2 p o w e r simple f pv Configuration Activity void onCreate']

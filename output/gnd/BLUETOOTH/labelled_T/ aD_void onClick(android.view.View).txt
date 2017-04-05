@@ -1,0 +1,1 @@
+['select a device to connect', 'No devices have been paired', 'Scan for devices', 'D void onClick']

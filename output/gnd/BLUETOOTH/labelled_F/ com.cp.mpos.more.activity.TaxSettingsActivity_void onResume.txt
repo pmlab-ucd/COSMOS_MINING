@@ -1,0 +1,1 @@
+['Tax Settings', 'Tax labels will show on customer receipts', 'Tax 1', 'Tax 2', 'Tax 3', '<com cp m pos more activity Tax Settings Activity void onResume']

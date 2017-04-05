@@ -1,0 +1,1 @@
+['Video Source', 'Live Camera', 'Image/Video From Library', 'Other Options', 'Timer', 'Off', 'Aspect Ratio', 'Match screen', 'Soundtrack', 'Microphone', 'Logo on Pictures', 'High Resolution Photos', 'Picture taking is much slower when this is checked', 'Fast Switch Menu', '<eu jan muller android simple crop image Crop Image boolean onCreateOptionsMenu']

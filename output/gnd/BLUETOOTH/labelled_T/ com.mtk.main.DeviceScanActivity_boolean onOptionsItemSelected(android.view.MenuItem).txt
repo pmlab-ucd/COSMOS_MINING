@@ -1,0 +1,1 @@
+['SmartWatch', 'Stop', '<com mt k main Device Scan Activity boolean onOptionsItemSelected']

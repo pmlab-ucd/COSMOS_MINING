@@ -1,0 +1,1 @@
+['Pin code', 'Enable pin code access', 'Every time the app launches', 'If inactive for 5 min', '*', '*', '*', '*', 'Change your pin code', '<com fun be rs app ui Pin Lock Settings Activity void onBackPressed']

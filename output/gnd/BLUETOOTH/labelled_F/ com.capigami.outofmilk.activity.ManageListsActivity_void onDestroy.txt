@@ -1,0 +1,1 @@
+['Manage lists', 'Create New List', '<com cap iga mi out of milk activity Manage Lists Activity void onDestroy']

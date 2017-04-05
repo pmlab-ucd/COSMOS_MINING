@@ -1,0 +1,1 @@
+['Add a workout!', 'Save', 'Walking', '3:00 PM', '2.5', 'mi', '<com no om android exercise logging scheduler Add Edit Workout Activity void onCreate']

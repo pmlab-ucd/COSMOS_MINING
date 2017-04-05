@@ -1,0 +1,1 @@
+['LOW', 'PITCH', 'HIGH', 'SLOW', 'SPEED', 'FAST', 'METAL', 'AMPLIFY', 'ECHO', 'CHORUS', 'PRESET', '<com cool apps change my voice Main Activity$4 void onClick']

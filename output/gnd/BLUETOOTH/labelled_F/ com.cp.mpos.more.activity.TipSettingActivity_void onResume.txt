@@ -1,0 +1,1 @@
+['Tip Settings', 'Tip', 'Off', '<com cp m pos more activity Tip Setting Activity void onResume']

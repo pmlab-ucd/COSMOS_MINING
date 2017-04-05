@@ -1,0 +1,1 @@
+['Walkie Talkie', '<ru nx domain bluetooth walk ie talk ie Main Activity void onClick']

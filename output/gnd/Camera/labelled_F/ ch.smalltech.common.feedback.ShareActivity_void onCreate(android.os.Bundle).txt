@@ -1,0 +1,1 @@
+['Thank you :-)', 'Leave a review on Google Play', 'Share with Facebook', 'Share with Twitter', 'Share with Google+', 'Share by e-mail', 'Share with another app', '<ch small tech common feedback Share Activity void onCreate']

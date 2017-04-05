@@ -1,0 +1,1 @@
+['Items in History: 0', '<com Profit Bandit main History Activity void onDestroy']

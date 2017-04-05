@@ -1,0 +1,1 @@
+['Scan QR Code', 'Cancel', '<com tv t network camera Capture Activity void onResume']

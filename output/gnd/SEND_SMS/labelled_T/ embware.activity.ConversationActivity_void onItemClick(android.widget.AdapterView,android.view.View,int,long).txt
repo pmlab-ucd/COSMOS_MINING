@@ -1,0 +1,1 @@
+['Search', '  ', ' Show', ' Clear', ' Call ', ' enter message', 'Send', '<embware activity Conversation Activity void onItemClick']

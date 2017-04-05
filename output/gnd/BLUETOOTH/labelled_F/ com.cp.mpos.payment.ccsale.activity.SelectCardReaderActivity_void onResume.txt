@@ -1,0 +1,1 @@
+['Select a Card Reader', 'No Card Reader Selected', 'Audio Jack Card Reader', 'Chase uDynamo', '<com cp m pos payment cc sale activity Select Card Reader Activity void onResume']

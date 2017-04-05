@@ -1,0 +1,1 @@
+['Draw pattern to unlock', '<com g paddy app lock ui activity Gesture Unlock Activity boolean onKeyDown']
