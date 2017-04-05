@@ -2,71 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b876ad0-1846-4c17-9912-20cfaf15dc70" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Books_Reference_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Business_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Business_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Business_50_2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/COMICS_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Casual_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_3.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_4.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_5.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_6.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_7.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_8.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Education_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Finance_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Health_Fitness_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Libraries_Demo_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Medical_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Medical_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Medical_50_2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Medical_50_3.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Music_Audio_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Music_Audio_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/News_Magazines_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Personalization_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Personalization_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Personalization_50_2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Photography_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Photography_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Photography_50_2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Photography_50_3.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Productivity_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Productivity_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Productivity_50_2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Productivity_50_3.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Shopping_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Shopping_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Social_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Social_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Sports_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Tools_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Tools_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Tools_50_2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Travel_Local_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Weather_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Weather_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Weather_50_2.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/SEND_SMS/Business_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/SEND_SMS/Communication_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/SEND_SMS/Communication_50_1.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/SEND_SMS/Medical_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/SEND_SMS/Music_Audio_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/SEND_SMS/News_Magazines_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/SEND_SMS/Productivity_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/SEND_SMS/Social_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/SEND_SMS/Tools_50_0.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output/gnd/SEND_SMS/Travel_Local_50_0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_formatter.py" afterPath="$PROJECT_DIR$/data_formatter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/miner.py" afterPath="$PROJECT_DIR$/miner.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Contact/Business_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Contact/Business_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Contact/Communication_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Contact/Communication_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Contact/Personalization_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Contact/Personalization_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Books_Reference_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Books_Reference_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Business_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Business_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Business_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Business_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Business_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Business_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/COMICS_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/COMICS_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_3.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_5.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_5.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_6.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_6.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_7.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_7.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_8.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Communication_50_8.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Education_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Education_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Finance_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Finance_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Health_Fitness_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Health_Fitness_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Libraries_Demo_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Libraries_Demo_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Medical_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Medical_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Medical_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Medical_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Medical_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Medical_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Medical_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Medical_50_3.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Music_Audio_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Music_Audio_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Music_Audio_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Music_Audio_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Personalization_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Personalization_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Personalization_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Personalization_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Personalization_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Personalization_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Photography_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Photography_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Photography_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Photography_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Photography_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Photography_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Photography_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Photography_50_3.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Productivity_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Productivity_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Productivity_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Productivity_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Productivity_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Productivity_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Productivity_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Productivity_50_3.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Shopping_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Shopping_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Shopping_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Shopping_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Social_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Social_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Social_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Social_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Sports_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Sports_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Tools_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Tools_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Tools_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Tools_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Tools_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Tools_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Travel_Local_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Travel_Local_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Weather_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Weather_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Weather_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Weather_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Weather_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/READ_PHONE_STATE/Weather_50_2.md" />
     </list>
     <ignored path="COSPOS_MINGING.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -143,9 +125,11 @@
       <file leaf-file-name="miner.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/miner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="17" />
-              <folding />
+            <state relative-caret-position="-1516">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -234,10 +218,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="686" />
-    <option name="y" value="83" />
+    <option name="x" value="507" />
     <option name="width" value="1364" />
-    <option name="height" value="728" />
+    <option name="height" value="1167" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -493,7 +476,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../XML_protein35/xml2csv.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../XML_protein35" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
@@ -1063,7 +1046,14 @@
       <option name="project" value="LOCAL" />
       <updated>1491281719737</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary=" Labelled SEND_SMS instances; PHONE_STATE instances">
+      <created>1491339306226</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1491339306226</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1084,16 +1074,16 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="686" y="83" width="1364" height="728" extended-state="0" />
-    <editor active="false" />
+    <frame x="507" y="0" width="1364" height="1167" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29217792" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29217792" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3678647" sideWeight="0.50208336" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29050815" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.64033616" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" x="202" y="796" width="1366" height="728" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36847195" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" x="202" y="796" width="1366" height="728" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3279003" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1142,7 +1132,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="init trigger_out_handler" />
     <MESSAGE value="Try LDA" />
     <MESSAGE value="Prediction in LDA" />
     <MESSAGE value="Write results into files" />
@@ -1167,7 +1156,8 @@
     <MESSAGE value="Bluetooth &amp; NFC &amp; Audio  instances" />
     <MESSAGE value=" Labelled Audio instances" />
     <MESSAGE value=" Labelled bluetooth instances; contact instances" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Labelled bluetooth instances; contact instances" />
+    <MESSAGE value=" Labelled SEND_SMS instances; PHONE_STATE instances" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Labelled SEND_SMS instances; PHONE_STATE instances" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1500,9 +1490,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/miner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="-1516">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
