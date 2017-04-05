@@ -46,7 +46,7 @@
 | 93 | <com.cp.mpos.tools.activity.CalculatorActivity: void onResume()>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Finance\com.cp.mpos\com.cp.mpos.tools.activity.CalculatorActivity.png) |  | F |
 | 94 | <com.cp.mpos.tools.activity.CalculatorActivity: void onDestroy()>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Finance\com.cp.mpos\com.cp.mpos.tools.activity.CalculatorActivity.png) |  | F |
 | 95 | <com.cp.mpos.tools.activity.CalculatorActivity: void onBackPressed()>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Finance\com.cp.mpos\com.cp.mpos.tools.activity.CalculatorActivity.png) |  | F |
-| 96 | <com.cp.mpos.tools.activity.DiscountCalculationActivity: void onResume()>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Finance\com.cp.mpos\com.cp.mpos.tools.activity.DiscountCalculationActivity.png) |   F |
+| 96 | <com.cp.mpos.tools.activity.DiscountCalculationActivity: void onResume()>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Finance\com.cp.mpos\com.cp.mpos.tools.activity.DiscountCalculationActivity.png) | |  F |
 | 97 | <com.cp.mpos.tools.activity.DiscountCalculationActivity: void onDestroy()>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Finance\com.cp.mpos\com.cp.mpos.tools.activity.DiscountCalculationActivity.png) |  | F |
 | 98 | <com.cp.mpos.userauth.activity.ChangePwrdActivity: void onResume()>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Finance\com.cp.mpos\com.cp.mpos.userauth.activity.ChangePwrdActivity.png) |  | F |
 | 99 | <com.cp.mpos.userauth.activity.ChangePwrdActivity$5: void onClick(android.view.View)>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Finance\com.cp.mpos\com.cp.mpos.userauth.activity.ChangePwrdActivity.png) |  | F |

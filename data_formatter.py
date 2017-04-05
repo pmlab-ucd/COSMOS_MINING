@@ -328,12 +328,12 @@ class DataFormatter:
             doc_file = open(output_dir + file_name + '.txt', 'w')
             doc_file.write(str(instance['doc']))
 
-instances_dir = 'output/gnd/READ_PHONE_STATE/'
+instances_dir = 'output/gnd/BLUETOOTH/'
 gen_md = False
 
 if __name__ == '__main__':
     if gen_md:
-        DataFormatter.combining_data(num=50, perm_type='READ_PHONE_STATE')  # trigger_out_dir=os.curdir + '\\test\output')
+        DataFormatter.combining_data(num=50, perm_type='Contact')  # trigger_out_dir=os.curdir + '\\test\output')
     else:
         instances = {}
         DataFormatter.parse_labelled(instances_dir, instances)

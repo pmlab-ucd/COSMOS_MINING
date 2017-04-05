@@ -26,7 +26,7 @@
 | 23 | <com.mobisystems.msdict.viewer.MainActivity: void onCreate(android.os.Bundle)>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Libraries_Demo\com.mobisystems.msdict.embedded.wireless.mcgrawhill.peb\com.mobisystems.msdict.viewer.MainActivity.png) |  | F |
 | 24 | <com.mobisystems.msdict.viewer.MainActivity: boolean onCreateOptionsMenu(com.actionbarsherlock.view.Menu)>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Libraries_Demo\com.mobisystems.msdict.embedded.wireless.mcgrawhill.peb\com.mobisystems.msdict.viewer.MainActivity.png) |  | F |
 | 25 | <com.reader.hdmi.Main: void onResume()>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Libraries_Demo\com.reader.hdmi\com.reader.hdmi.Main.png) |  | D |
-| 26 | <com.reader.hdmi.Main: void onCreate(android.os.Bundle)>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Libraries_Demo\com.reader.hdmi\com.reader.hdmi.Main.png) |   D |
+| 26 | <com.reader.hdmi.Main: void onCreate(android.os.Bundle)>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Libraries_Demo\com.reader.hdmi\com.reader.hdmi.Main.png) | |  D |
 | 27 | <com.reader.hdmi.Main: void onPause()>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Libraries_Demo\com.reader.hdmi\com.reader.hdmi.Main.png) |  | D |
 | 28 | <com.reader.hdmi.Main: boolean onCreateOptionsMenu(android.view.Menu)>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Libraries_Demo\com.reader.hdmi\com.reader.hdmi.Main.png) |  | D |
 | 29 | <com.reader.otg.Main: void onCreate(android.os.Bundle)>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Libraries_Demo\com.reader.otg\com.reader.otg.Main.png) |  | D |

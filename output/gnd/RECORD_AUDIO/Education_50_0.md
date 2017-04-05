@@ -5,7 +5,7 @@
 | 2 | <com.bbcollaborate.collaborate.ClassroomActivity: void onSaveInstanceState(android.os.Bundle)>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Education\com.bbcollaborate.collaborate\com.bbcollaborate.collaborate.ClassroomActivity.png) |  | T |
 | 3 | <com.knmtech.kidsspeller.Blends: void onCreate(android.os.Bundle)>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Education\com.knmtech.kidsspeller\com.knmtech.kidsspeller.Blends.png) |  | F |
 | 4 | <com.knmtech.kidsspeller.BlendsDownload: void onPause()>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Education\com.knmtech.kidsspeller\com.knmtech.kidsspeller.BlendsDownload.png) |  | F |
-| 5 | <com.knmtech.kidsspeller.BlendsDownload: void onCreate(android.os.Bundle)>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Education\com.knmtech.kidsspeller\com.knmtech.kidsspeller.BlendsDownload.png) |   F |
+| 5 | <com.knmtech.kidsspeller.BlendsDownload: void onCreate(android.os.Bundle)>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Education\com.knmtech.kidsspeller\com.knmtech.kidsspeller.BlendsDownload.png) | |  F |
 | 6 | <com.knmtech.kidsspeller.KidsSpellerHome: void onCreate(android.os.Bundle)>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Education\com.knmtech.kidsspeller\com.knmtech.kidsspeller.KidsSpellerHome.png) |  | F |
 | 7 | <com.knmtech.kidsspeller.KidsSpellerHome: void onPause()>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Education\com.knmtech.kidsspeller\com.knmtech.kidsspeller.KidsSpellerHome.png) |  | F |
 | 8 | <com.knmtech.kidsspeller.MatchingGame: void onCreate(android.os.Bundle)>; void <init> | ![](D:\COSMOS\output\py\Play_win8\Education\com.knmtech.kidsspeller\com.knmtech.kidsspeller.MatchingGame.png) |  | F |
