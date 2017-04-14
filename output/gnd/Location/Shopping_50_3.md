@@ -10,8 +10,8 @@
 | 157 | <com.webmap.MapV2: void onCreate(android.os.Bundle)>; java.lang.String getBestProvider | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.webmap\com.webmap.MapV2.png) |  | T |
 | 158 | <com.webmap.MapV2: void onResume()>; void requestLocationUpdates | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.webmap\com.webmap.MapV2.png) |  | T |
 | 159 | <com.webmap.MapV2: void SearchLocationClick(android.view.View)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.webmap\com.webmap.MapV2.png) |  | T |
-| 160 | <gov.pa.lcb.mobile.MyStoresActivity: void onPause()>; void requestLocationUpdates | ![](D:\COSMOS\output\py\Play_win8\Shopping\gov.pa.lcb.mobile\gov.pa.lcb.mobile.MyStoresActivity.png) |  | F |
-| 161 | <gov.pa.lcb.mobile.MyStoresActivity: void onResume()>; void requestLocationUpdates | ![](D:\COSMOS\output\py\Play_win8\Shopping\gov.pa.lcb.mobile\gov.pa.lcb.mobile.MyStoresActivity.png) |  | F |
+| 160 | <gov.pa.lcb.mobile.MyStoresActivity: void onPause()>; void requestLocationUpdates | ![](D:\COSMOS\output\py\Play_win8\Shopping\gov.pa.lcb.mobile\gov.pa.lcb.mobile.MyStoresActivity.png) |  | D |
+| 161 | <gov.pa.lcb.mobile.MyStoresActivity: void onResume()>; void requestLocationUpdates | ![](D:\COSMOS\output\py\Play_win8\Shopping\gov.pa.lcb.mobile\gov.pa.lcb.mobile.MyStoresActivity.png) |  | D |
 | 162 | <it.doveconviene.android.MainActivity: void onCreate(android.os.Bundle)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Shopping\it.doveconviene.android\it.doveconviene.android.MainActivity.png) |  | T |
 | 163 | <it.doveconviene.android.MainActivity: void onResume()>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Shopping\it.doveconviene.android\it.doveconviene.android.MainActivity.png) |  | T |
 | 164 | <it.doveconviene.android.SettingsLocationActivity: void onClick(android.view.View)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Shopping\it.doveconviene.android\it.doveconviene.android.SettingsLocationActivity.png) |  | T |

@@ -15,7 +15,7 @@ class SimpleDataFormatter:
         with open(md_file, 'r') as text_file:
             for line in text_file:
                 sub_lines = line.split('|')
-                 
+
                 if ('D' or 'd') in sub_lines[len(sub_lines) - 2]:
                     label = 'labelled_D'
                     print(line)
@@ -55,7 +55,8 @@ class SimpleDataFormatter:
 
 if __name__ == '__main__':
     instances = {}
-    gnd_based_dir = 'output/drebin/gnd/'
+    gnd_based_dir = 'output/gnd/'
     perm_type = 'Location'
     instance_dir = gnd_based_dir + '/' + perm_type
     SimpleDataFormatter.parse_labelled(instance_dir, instances)
+    print(len(instances))

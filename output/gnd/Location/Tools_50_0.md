@@ -1,11 +1,11 @@
 ### Location
 | Index | Entry Point & APIs | Screen shot | Resource id | Label |
 | ------------- | ------------- | ------------- |-------------|-------------|
-| 1 | <booster.cleaner.optimizer.activities.HistoryActivity: void onCreate(android.os.Bundle)>; android.location.Location getLastKnownLocation | ![](D:\COSMOS\output\py\Play_win8\Tools\booster.cleaner.optimizer\booster.cleaner.optimizer.activities.HistoryActivity.png) |  | F |
-| 2 | <chargerbooster.charger.faster.booster.MainActivity: void onPause()>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Tools\chargerbooster.charger.faster.booster\chargerbooster.charger.faster.booster.MainActivity.png) |  | F |
+| 1 | <booster.cleaner.optimizer.activities.HistoryActivity: void onCreate(android.os.Bundle)>; android.location.Location getLastKnownLocation | ![](D:\COSMOS\output\py\Play_win8\Tools\booster.cleaner.optimizer\booster.cleaner.optimizer.activities.HistoryActivity.png) | 04  | F |
+| 2 | <chargerbooster.charger.faster.booster.MainActivity: void onPause()>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Tools\chargerbooster.charger.faster.booster\chargerbooster.charger.faster.booster.MainActivity.png) | 0005  |  |
 | 3 | <com.adobe.air.wand.WandActivity: void onConfigurationChanged(android.content.res.Configuration)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Tools\com.adobe.air\com.adobe.air.wand.WandActivity.png) |  | F |
 | 4 | <com.alokmandavgane.sunrisesunset.MainActivity: void onResume()>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Tools\com.alokmandavgane.sunrisesunset\com.alokmandavgane.sunrisesunset.MainActivity.png) |  | T |
-| 5 | <com.alokmandavgane.sunrisesunset.u: void onClick(android.view.View)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Tools\com.alokmandavgane.sunrisesunset\com.alokmandavgane.sunrisesunset.MainActivity.png) |  | T |
+| 5 | <com.alokmandavgane.sunrisesunset.u: void onClick(android.view.View)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Tools\com.alokmandavgane.sunrisesunset\com.alokmandavgane.sunrisesunset.MainActivity.png) | | T |
 | 6 | <gpsjoystick.gofly.ui.FlyToActivity: boolean onContextItemSelected(android.view.MenuItem)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Tools\com.androdiki.flygpsplus\gpsjoystick.gofly.ui.FlyToActivity.png) |  | T |
 | 7 | <gpsjoystick.gofly.ui.FlyToActivity: void onBackPressed()>; void addTestProvider | ![](D:\COSMOS\output\py\Play_win8\Tools\com.androdiki.flygpsplus\gpsjoystick.gofly.ui.FlyToActivity.png) |  | T |
 | 8 | <gpsjoystick.gofly.ui.FlyToActivity: void onDestroy()>; void addTestProvider | ![](D:\COSMOS\output\py\Play_win8\Tools\com.androdiki.flygpsplus\gpsjoystick.gofly.ui.FlyToActivity.png) |  | T |
@@ -37,7 +37,7 @@
 | 34 | <com.fw.appshare.activity.ai: void onCreate(android.os.Bundle)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Tools\com.fw.appshare\com.fw.appshare.activity.ai.png) |  | F |
 | 35 | <com.fw.appshare.activity.gt: void onClick(android.view.View)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Tools\com.fw.appshare\com.fw.appshare.activity.ShareCloudSettingActivity.png) | {'2131559180': <sensitive_component.SensitiveComponent.SensitiveView object at 0x0000012523EE75F8>} | |
 | 36 | <example.qrcode.MainActivity: void onPause()>; void requestLocationUpdates | ![](D:\COSMOS\output\py\Play_win8\Tools\com.gamma.scan\example.qrcode.MainActivity.png) |  | F |
-| 37 | <extraslegacy.CaptureActivity: void onPause()>; void requestLocationUpdates | ![](D:\COSMOS\output\py\Play_win8\Tools\com.gamma.scan\extraslegacy.CaptureActivity.png) |  | F |
+| 37 | <extraslegacy.CaptureActivity: void onPause()>; void requestLocationUpdates | ![](D:\COSMOS\output\py\Play_win8\Tools\com.gamma.scan\extraslegacy.CaptureActivity.png) | 0005 | F |
 | 38 | <com.ljapps.wifix.ui.activity.a: void onResume()>; boolean addGpsStatusListener | ![](D:\COSMOS\output\py\Play_win8\Tools\com.ljapps.wifix.masterkey\com.ljapps.wifix.ui.activity.a.png) |  | F |
 | 39 | <com.ljapps.wifix.ui.activity.a: void onPause()>; boolean addGpsStatusListener | ![](D:\COSMOS\output\py\Play_win8\Tools\com.ljapps.wifix.masterkey\com.ljapps.wifix.ui.activity.a.png) |  | F |
 | 40 | <com.ljapps.wifix.ui.activity.WifiXEntryActivity: boolean onKeyDown(int,android.view.KeyEvent)>; boolean addGpsStatusListener | ![](D:\COSMOS\output\py\Play_win8\Tools\com.ljapps.wifix.masterkey\com.ljapps.wifix.ui.activity.WifiXEntryActivity.png) |  | T |

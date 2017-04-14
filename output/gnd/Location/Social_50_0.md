@@ -1,7 +1,7 @@
 ### Location
 | Index | Entry Point & APIs | Screen shot | Resource id | Label |
 | ------------- | ------------- | ------------- |-------------|-------------|
-| 1 | <com.afanche.android.LocalSingles.ATAppUIEntry: void onResume()>; void requestLocationUpdates | ![](D:\COSMOS\output\py\Play_win8\Social\com.afanche.android.LocalSingles\com.afanche.android.LocalSingles.ATAppUIEntry.png) |  | F |
+| 1 | <com.afanche.android.LocalSingles.ATAppUIEntry: void onResume()>; void requestLocationUpdates | ![](D:\COSMOS\output\py\Play_win8\Social\com.afanche.android.LocalSingles\com.afanche.android.LocalSingles.ATAppUIEntry.png) |  | T |
 | 2 | <com.asiainno.uplive.profile.ui.PhotoEditActivity: void onActivityResult(int,int,android.content.Intent)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Social\com.asiainno.uplive\com.asiainno.uplive.profile.ui.PhotoEditActivity.png) |  | F |
 | 3 | <com.seattleclouds.modules.rateandreview.a: void onClick(android.view.View)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Social\com.bayona.gettw\com.seattleclouds.modules.rateandreview.NewRateAndCommentActivity.png) |  | D |
 | 4 | <com.bearwww2.android.activity.ArroundActivity: boolean onOptionsItemSelected(android.view.MenuItem)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Social\com.bearwww2.android\com.bearwww2.android.activity.ArroundActivity.png) |  | T |
@@ -16,8 +16,8 @@
 | 13 | <com.cuddli.cuddli.activities.SpecifyTimeActivity: void onCreate(android.os.Bundle)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Social\com.cuddli.cuddli\com.cuddli.cuddli.activities.SpecifyTimeActivity.png) |  | F |
 | 14 | <com.cuddli.cuddli.activities.VenueDetailsActivity: void onCreate(android.os.Bundle)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Social\com.cuddli.cuddli\com.cuddli.cuddli.activities.VenueDetailsActivity.png) |  | F |
 | 15 | <com.cuddli.cuddli.activities.VenueDetailsActivity: void onActivityResult(int,int,android.content.Intent)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Social\com.cuddli.cuddli\com.cuddli.cuddli.activities.VenueDetailsActivity.png) |  | F |
-| 16 | <com.dating.mechat.SignUp: void onClick(android.view.View)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Social\com.dating.mechat\com.dating.mechat.SignUp.png) |  | F |
-| 17 | <com.edgewalk.annabel.MainActivity: boolean onOptionsItemSelected(android.view.MenuItem)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Social\com.edgewalk.annabel\com.edgewalk.annabel.MainActivity.png) |  | F |
+| 16 | <com.dating.mechat.SignUp: void onClick(android.view.View)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Social\com.dating.mechat\com.dating.mechat.SignUp.png) |  | D |
+| 17 | <com.edgewalk.annabel.MainActivity: boolean onOptionsItemSelected(android.view.MenuItem)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Social\com.edgewalk.annabel\com.edgewalk.annabel.MainActivity.png) |  | D |
 | 18 | <com.emojifamily.emoji.keyboard.font.puppyemoji.AboutActivity: void onResume()>; android.location.Location getLastKnownLocation | ![](D:\COSMOS\output\py\Play_win8\Social\com.emojifamily.emoji.keyboard.font.puppyemoji\com.emojifamily.emoji.keyboard.font.puppyemoji.AboutActivity.png) |  | F |
 | 19 | <com.emojifamily.emoji.keyboard.font.puppyemoji.AboutActivity: void onPause()>; android.location.Location getLastKnownLocation | ![](D:\COSMOS\output\py\Play_win8\Social\com.emojifamily.emoji.keyboard.font.puppyemoji\com.emojifamily.emoji.keyboard.font.puppyemoji.AboutActivity.png) |  | F |
 | 20 | <com.kusernames.KActivity: void onResume()>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Social\com.find.kusernames\com.kusernames.KActivity.png) |  | D |

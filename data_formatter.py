@@ -40,7 +40,7 @@ class DataFormatter:
             trigger_out_handler = TriggerOutHandler(category, perm_keywords, trigger_py_out_dir)
             if not os.path.exists(trigger_java_out_dir + category):
                 rm_category.append(category)
-                DataFormatter.logger.warn(category + ' does not exist.')
+                DataFormatter.logger.warn('Category ' + category + ' does not exist.')
                 continue
             for root, dirs, files in os.walk(trigger_java_out_dir + category):
                 for file_name in files:
@@ -51,7 +51,7 @@ class DataFormatter:
                             print(e)
                             print(os.path.join(root, file_name))
             instances = trigger_out_handler.instances
-            out_base_path = os.path.abspath(os.path.join(os.path.curdir, 'output\gnd\\' + perm_type + '\\'))
+            out_base_path = os.path.abspath(os.path.join(os.path.curdir, gnd_based_dir + '\\' + perm_type + '\\'))
             if not os.path.isdir(out_base_path):
                 os.makedirs(out_base_path)
             count = -1
@@ -103,7 +103,7 @@ class DataFormatter:
             print(doc)
             return status
         else:
-            DataFormatter.logger.error(dynamic_xml + ' does not exist!')
+            DataFormatter.logger.error('XML ' + dynamic_xml + ' does not exist!')
             return status
 
     @staticmethod
@@ -144,7 +144,7 @@ class DataFormatter:
                 counter += 1
 
     @staticmethod
-    def docs2bag(instances, gen_arff=False):
+    def docs2bag(instances_dir, instances, gen_arff=False):
         train_data = []
         train_data_label = []
 
@@ -286,7 +286,7 @@ class DataFormatter:
                      #   DataFormatter.logger.error(e)
 
     @staticmethod
-    def check_data_consistency(instances, train_data_features):
+    def check_data_consistency(instances_dir, instances, train_data_features):
         train_data, train_target, train_dict = SklearnUtils.load_train_data(instances_dir + 'train_data.json',
                                                                             instances_dir + 'train_target.json',
                                                                             instances_dir + 'train_dict.json')
@@ -315,7 +315,7 @@ class DataFormatter:
             """
 
     @staticmethod
-    def instances2txtdocs(instances):
+    def instances2txtdocs(instances_dir, instances):
         for i in instances:
             instance = instances[i]
             output_dir = instances_dir + str(instance['label']) + '/'
@@ -328,17 +328,20 @@ class DataFormatter:
             doc_file = open(output_dir + file_name + '.txt', 'w')
             doc_file.write(str(instance['doc']))
 
-instances_dir = 'output/gnd/BLUETOOTH/'
-gen_md = False
+gnd_based_dir = 'output/drebin/gnd/'
+perm_type = 'Location'
+gen_md = True
 
 if __name__ == '__main__':
     if gen_md:
-        DataFormatter.combining_data(num=50, perm_type='Contact')  # trigger_out_dir=os.curdir + '\\test\output')
+        DataFormatter.combining_data(trigger_out_dir='D:\COSMOS\output\\', super_out_dir='Drebin',
+                                     num=50, perm_type='Location')  # trigger_out_dir=os.curdir + '\\test\output')
     else:
         instances = {}
-        DataFormatter.parse_labelled(instances_dir, instances)
+        instance_dir = gnd_based_dir + '/' + perm_type
+        DataFormatter.parse_labelled(instance_dir, instances)
         # json.dump(instances, open(out_dir + '/instances.json', 'w+'))
-        DataFormatter.instances2txtdocs(instances)
+        DataFormatter.instances2txtdocs(instance_dir, instances)
 
     """
     [train_data_features, train_data_labels] = DataFormatter.docs2bag(instances)

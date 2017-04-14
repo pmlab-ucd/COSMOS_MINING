@@ -2,7 +2,7 @@
 | Index | Entry Point & APIs | Screen shot | Resource id | Label |
 | ------------- | ------------- | ------------- |-------------|-------------|
 | 1 | <com.aircrunch.shopalerts.activities.PostDealCommentActivity: void onPause()>; android.location.Location getLastKnownLocation | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.aircrunch.shopalerts\com.aircrunch.shopalerts.activities.PostDealCommentActivity.png) |  | F |
-| 2 | <com.andromo.dev276720.app268807.AndromoDashboardActivity: void onResume()>; java.lang.String getBestProvider | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.andromo.dev276720.app268807\com.andromo.dev276720.app268807.AndromoDashboardActivity.png) |  | F |
+| 2 | <com.andromo.dev276720.app268807.AndromoDashboardActivity: void onResume()>; java.lang.String getBestProvider | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.andromo.dev276720.app268807\com.andromo.dev276720.app268807.AndromoDashboardActivity.png) | 02 | F |
 | 3 | <com.app.tgtg.activities.ActivityLanding: void onActivityResult(int,int,android.content.Intent)>; void requestSingleUpdate | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.app.tgtg\com.app.tgtg.activities.ActivityLanding.png) |  | F |
 | 4 | <com.avantar.yp.ui.main.MainActivity: void onCreate(android.os.Bundle)>; void requestLocationUpdates | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.avantar.wny\com.avantar.yp.ui.main.MainActivity.png) |  | F |
 | 5 | <com.buycott.android.activities.PermissionActivity$3: void onClick(android.view.View)>; boolean isProviderEnabled | ![](D:\COSMOS\output\py\Play_win8\Shopping\com.buycott.android\com.buycott.android.activities.PermissionActivity.png) |  | F |

@@ -77,14 +77,15 @@ class TriggerOutHandler:
                  self.words[dynamic_xml] = text
             """
         else:
-            TriggerOutHandler.logger.error(dynamic_xml + ' does not exist!')
+            TriggerOutHandler.logger.error('XML ' + dynamic_xml + ' does not exist!')
             return status
 
     def handle_out_json(self, json_file):
         #print(json_file)
         self.apk_name = os.path.basename(os.path.dirname(json_file))
         activity_name = str(os.path.basename(json_file))
-        activity_name = activity_name.split('_')[1].replace('.json', '')
+        activity_name = activity_name.split('_')
+        activity_name = activity_name[len(activity_name) - 1].replace('.json', '')
         self.sens_comp = SensitiveComponent(json_file)
         #print(sens_comp.componentName, sens_comp.layoutFile)
 
