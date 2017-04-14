@@ -2,26 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b876ad0-1846-4c17-9912-20cfaf15dc70" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimpleDataFormatter.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_formatter.py" afterPath="$PROJECT_DIR$/data_formatter.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Books_Reference_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Books_Reference_50_0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Books_Reference_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Books_Reference_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Business_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Business_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_1.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Business_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_2.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Business_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_3.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Business_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_4.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/COMICS_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/COMICS_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Communication_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Communication_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_1.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Communication_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_2.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Communication_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_3.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Education_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Education_50_0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Finance_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Finance_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Finance_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_2.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_1.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_1.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Medical_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Medical_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_1.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_1.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Photography_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Photography_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_3.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_4.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_1.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_2.md" />
@@ -30,14 +47,28 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Social_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_1.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Social_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_2.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Social_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_3.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Social_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_4.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Sports_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Sports_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Sports_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Sports_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_3.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Sports_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_4.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Tools_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Tools_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_1.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_3.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_4.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_5.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_5.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_6.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_6.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Weather_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Weather_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_1.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Weather_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_2.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Weather_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_3.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Weather_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_4.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Weather_50_5.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_5.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp.py" afterPath="$PROJECT_DIR$/tmp.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/trigger_out_handler.py" afterPath="$PROJECT_DIR$/trigger_out_handler.py" />
     </list>
     <ignored path="COSPOS_MINGING.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,7 +81,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1488223869827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1492138454561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$main.coverage" NAME="main Coverage Results" MODIFIED="1485851250070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$k_means.coverage" NAME="k-means Coverage Results" MODIFIED="1485041961188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$data_formatter.coverage" NAME="data_formatter Coverage Results" MODIFIED="1491868901214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -58,7 +89,7 @@
     <SUITE FILE_PATH="coverage/COSPOS_MINGING$lda.coverage" NAME="lda Coverage Results" MODIFIED="1477613100242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$lda.coverage" NAME="lda Coverage Results" MODIFIED="1485234377879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$sensitive_component_test.coverage" NAME="sensitive_component_test Coverage Results" MODIFIED="1487973855122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$SimpleDataFormatter.coverage" NAME="SimpleDataFormatter Coverage Results" MODIFIED="1492137833619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$SimpleDataFormatter.coverage" NAME="SimpleDataFormatter Coverage Results" MODIFIED="1492138427457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$test.coverage" NAME="test Coverage Results" MODIFIED="1488238074254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$sensitive_component.coverage" NAME="sensitive_component Coverage Results" MODIFIED="1485150634815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1485851519678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -92,10 +123,10 @@
       <file leaf-file-name="tmp.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tmp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="72">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
-                <element signature="e#0#27#0" expanded="true" />
+                <element signature="e#0#16#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,7 +136,7 @@
         <entry file="file://$PROJECT_DIR$/SimpleDataFormatter.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="912">
-              <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -310,10 +341,6 @@
               <option name="myItemId" value="tmp.py" />
               <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SimpleDataFormatter" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -506,7 +533,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SimpleDataFormatter">
+  <component name="RunManager" selected="Python.tmp">
     <configuration default="false" name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -804,11 +831,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.SimpleDataFormatter" />
-        <item index="1" class="java.lang.String" itemvalue="Python.data_formatter" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sklearn_utils" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test" />
-        <item index="4" class="java.lang.String" itemvalue="Python.tmp" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tmp" />
+        <item index="1" class="java.lang.String" itemvalue="Python.SimpleDataFormatter" />
+        <item index="2" class="java.lang.String" itemvalue="Python.data_formatter" />
+        <item index="3" class="java.lang.String" itemvalue="Python.sklearn_utils" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -1091,7 +1118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1491365500055</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Modify some labels">
+      <created>1492138004390</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1492138004390</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1171,7 +1205,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Write results into files" />
     <MESSAGE value="Multiple catogories" />
     <MESSAGE value="Correct the category number" />
     <MESSAGE value="Optimize output folders" />
@@ -1196,7 +1229,8 @@
     <MESSAGE value=" Labelled SEND_SMS instances; PHONE_STATE instances" />
     <MESSAGE value=" Labelled PHONE_STATE instances" />
     <MESSAGE value="Create instances 2 txts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create instances 2 txts" />
+    <MESSAGE value="Modify some labels" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify some labels" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1476,7 +1510,7 @@
     <entry file="file://$PROJECT_DIR$/SimpleDataFormatter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="912">
-          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
@@ -1485,10 +1519,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tmp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        <state relative-caret-position="72">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
-            <element signature="e#0#27#0" expanded="true" />
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>
