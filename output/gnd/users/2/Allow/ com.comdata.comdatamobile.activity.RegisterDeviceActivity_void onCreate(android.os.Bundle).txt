@@ -1,0 +1,1 @@
+['User Authentication', 'For your security, a one-time device activation code will be sent to your iConnectData email address. Please press the continue button below and use this code within 24 hours to activate your device.', 'Continue', '<com com data com data mobile activity Register Device Activity void onCreate']

@@ -48,5 +48,4 @@
 | 145 | <org.msufcu.mobile.Activities.HomeActivityFragment: void onCreate(android.os.Bundle)>; boolean isProviderEnabled | ![](F:\COSMOS\output\py\Play_win8\Finance\org.msufcu.mobile\org.msufcu.mobile.Activities.HomeActivityFragment.png) |  | |
 | 146 | <org.msufcu.mobile.Activities.SplashActivity: void onResume()>; boolean isProviderEnabled | ![](F:\COSMOS\output\py\Play_win8\Finance\org.msufcu.mobile\org.msufcu.mobile.Activities.SplashActivity.png) |  | |
 | 147 | <org.msufcu.mobile.Activities.SplashActivity: void onCreate(android.os.Bundle)>; boolean isProviderEnabled | ![](F:\COSMOS\output\py\Play_win8\Finance\org.msufcu.mobile\org.msufcu.mobile.Activities.SplashActivity.png) |  | |
-| 148 | <yp: void onClick(android.view.View)>; boolean isProviderEnabled | ![](F:\COSMOS\output\py\Play_win8\Finance\org.navyfederal.visabuxx\com.devicefidelity.app.visabuxx.ui.locator.LocatorActivity.png) |  | T
-|
+| 148 | <yp: void onClick(android.view.View)>; boolean isProviderEnabled | ![](F:\COSMOS\output\py\Play_win8\Finance\org.navyfederal.visabuxx\com.devicefidelity.app.visabuxx.ui.locator.LocatorActivity.png) |  | T |

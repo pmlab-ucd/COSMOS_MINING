@@ -9,6 +9,7 @@ import numpy as np
 from lda import LDA
 import json
 from sklearn_utils import SklearnUtils
+import codecs
 
 """
 Generate markdown files of instances for labelling
@@ -80,11 +81,11 @@ class DataFormatter:
         status = False
         if os.path.exists(dynamic_xml):
             data = ''
-            with open(dynamic_xml, 'r') as f:
+            with open(dynamic_xml, 'r', encoding='utf8') as f:
                 try:
                     data = f.read()
                 except UnicodeDecodeError as e:
-                    print(e)
+                    print('Unicode Decode Error: ' + e)
                     return
             dom = parseString(data)
             nodes = dom.getElementsByTagName('node')
@@ -136,11 +137,19 @@ class DataFormatter:
                 entry_name = sub_lines[len(sub_lines) - 5].split(';')[0]
                 entry_sub_words = SensitiveComponent.SensEntryPoint.split_entry_name(entry_name)
                 doc.append(entry_sub_words)
+                '''
                 instances[counter] = {}
                 instances[counter]['doc'] = doc
                 instances[counter]['label'] = label
                 instances[counter]['entry_name'] = entry_name
                 instances[counter]['xml_path'] = xml_path
+                '''
+
+                instance = {}
+                instance['doc'] = doc
+                instance['entry_name'] = entry_name
+                instance['xml_path'] = xml_path
+                instances.append(instance)
                 counter += 1
 
     @staticmethod
@@ -148,12 +157,12 @@ class DataFormatter:
         train_data = []
         train_data_label = []
 
-        for i in range(0, len(instances)):
-            instance = instances[i]
+        for instance in instances:
+            #instance = instances[i]
             doc = LDA.pre_process(';'.join(instance['doc']))
             train_data.append(' '.join(doc))
             train_data_label.append(instance['label'])
-            print(str(i), train_data[i], train_data_label[i])
+            #print(str(i), train_data[i], train_data_label[i])
 
         # Initialize the "CountVectorizer" object, which is scikit-learn's bag of words tool.
         vectorizer = CountVectorizer(analyzer="word",
@@ -316,9 +325,9 @@ class DataFormatter:
 
     @staticmethod
     def instances2txtdocs(instances_dir, instances):
-        for i in instances:
-            instance = instances[i]
-            output_dir = instances_dir + str(instance['label']) + '/'
+        for instance in instances:
+            #instance = instances[i]
+            output_dir = instances_dir + '/' + str(instance['label']) + '/'
             if not os.path.exists(output_dir):
                 os.makedirs(output_dir)
             file_name = str(instance['entry_name']).replace('<', '')
@@ -337,7 +346,7 @@ if __name__ == '__main__':
         DataFormatter.combining_data(trigger_out_dir='D:\COSMOS\output\\', super_out_dir='Drebin',
                                      num=50, perm_type='Location')  # trigger_out_dir=os.curdir + '\\test\output')
     else:
-        instances = {}
+        instances = []
         instance_dir = gnd_based_dir + '/' + perm_type
         DataFormatter.parse_labelled(instance_dir, instances)
         # json.dump(instances, open(out_dir + '/instances.json', 'w+'))

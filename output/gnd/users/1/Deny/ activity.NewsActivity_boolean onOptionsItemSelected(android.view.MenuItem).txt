@@ -1,0 +1,1 @@
+['News', '<activity News Activity boolean onOptionsItemSelected']

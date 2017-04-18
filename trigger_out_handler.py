@@ -2,6 +2,7 @@ from xml.dom.minidom import parseString
 import os
 from sensitive_component import SensitiveComponent
 from utils import Utilities
+import codecs
 
 
 class TriggerOutHandler:
@@ -25,8 +26,22 @@ class TriggerOutHandler:
         text = []
         status = False
         if os.path.exists(dynamic_xml):
+            instances = {}
+            for entry_name in self.sens_comp.sensEntries:
+                for sens_target in self.sens_comp.get_entry(entry_name).sensTargets:
+                    for perm_keyword in self.perm_keywords:
+                        if perm_keyword in str(sens_target):
+                            instances[entry_name] = {}
+                            #instances[entry_name]['text'] = text
+                            instances[entry_name]['dynamic_xml'] = dynamic_xml
+                            instances[entry_name]['png'] = str(dynamic_xml).replace('xml', 'png')
+                            instances[entry_name]['api'] = sens_target
+                            instances[entry_name]['views'] = self.sens_comp.get_entry(entry_name).views
+                            status = True
+                            break
+
             data = ''
-            with open(dynamic_xml, 'r') as f:
+            with open(dynamic_xml, 'r', encoding='utf8') as f:
                 try:
                     data = f.read()
                 except UnicodeDecodeError as e:
@@ -41,23 +56,22 @@ class TriggerOutHandler:
                     text.append(node.getAttribute('text'))
                 # print(node.getAttribute('text'))
                 # print(node.toxml())
-                if node.getAttribute('package') == self.apk_name:
+                pkg = node.getAttribute('package')
+                if pkg == self.apk_name or not (str(pkg).startswith('com.google.android')\
+                        or str(pkg).startswith('com.android.launcher') or str(pkg) == 'android'):
                     ignore = False
-            if ignore or len(text) == 0:
-                return status
 
-            for entry_name in self.sens_comp.sensEntries:
-                for sens_target in self.sens_comp.get_entry(entry_name).sensTargets:
-                    for perm_keyword in self.perm_keywords:
-                        if perm_keyword in str(sens_target):
-                            self.instances[entry_name] = {}
-                            self.instances[entry_name]['text'] = text
-                            self.instances[entry_name]['dynamic_xml'] = dynamic_xml
-                            self.instances[entry_name]['png'] = str(dynamic_xml).replace('xml', 'png')
-                            self.instances[entry_name]['api'] = sens_target
-                            self.instances[entry_name]['views'] = self.sens_comp.get_entry(entry_name).views
-                            status = True
-                            break
+            if ignore: #or len(text) == 0:
+                return False
+
+            TriggerOutHandler.logger.info(text)
+
+            for entry_name in instances:
+                instances[entry_name]['text'] = text
+                self.instances[entry_name] = instances[entry_name]
+                TriggerOutHandler.logger.info('Add ' + entry_name)
+
+
             return status
             """
             found = False
@@ -77,7 +91,7 @@ class TriggerOutHandler:
                  self.words[dynamic_xml] = text
             """
         else:
-            TriggerOutHandler.logger.error('XML ' + dynamic_xml + ' does not exist!')
+            TriggerOutHandler.logger.debug('XML ' + dynamic_xml + ' does not exist!')
             return status
 
     def handle_out_json(self, json_file):
