@@ -7,7 +7,9 @@ import csv
 
 pngs = []
 
-
+'''
+To handle user study feedback
+'''
 class SimpleDataFormatter:
     TAG = 'DataFormatter'
     logger = Utilities.set_logger(TAG)
