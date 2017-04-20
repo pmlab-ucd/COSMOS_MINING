@@ -1,1 +1,0 @@
-['Connecting...', 'Connecting to camera.', 'Remote operation', 'Transfer image', 'Geotagging', 'Snap Movie', 'Photo Collage', 'Highlight Photo Collage', 'Highlight Playback', 'Home Monitor', '<com panasonic a vc cng view camera connect Guidance Menu Activity void onBackPressed']

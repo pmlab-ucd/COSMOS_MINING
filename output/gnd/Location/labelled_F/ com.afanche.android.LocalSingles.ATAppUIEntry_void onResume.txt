@@ -1,1 +1,0 @@
-['Local Singles', 'Search', 'Profile', 'Mail', 'Find you the right date! ', 'Looking For : ', 'Unknown', 'Age :  between ', '25', ' and ', '35', '    Search    ', '<com a fan che android Local Singles A T App U I Entry void onResume']

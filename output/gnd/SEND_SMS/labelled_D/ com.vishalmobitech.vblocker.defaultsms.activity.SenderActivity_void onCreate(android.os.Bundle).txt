@@ -1,1 +1,0 @@
-['VBlocker', 'Name or Number', 'Text', '<com vishal mob i tech v blocker defaults ms activity Sender Activity void onCreate']

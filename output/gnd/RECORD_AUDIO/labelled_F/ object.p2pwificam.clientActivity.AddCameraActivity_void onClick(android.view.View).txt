@@ -1,1 +1,0 @@
-['Add Camera', 'Done', 'Device Name', 'Device ID', 'User', 'Password', 'Scan ID', 'Lan Search', '<object p2pwificam Activity Add Camera Activity void onClick']

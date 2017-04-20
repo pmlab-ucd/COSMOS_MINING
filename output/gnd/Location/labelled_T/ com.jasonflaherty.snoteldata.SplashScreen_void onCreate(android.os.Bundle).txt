@@ -1,1 +1,0 @@
-['Mapping SnoTel Locations', '<com jason flaherty s not el data Splash Screen void onCreate']

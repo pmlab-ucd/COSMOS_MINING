@@ -1,1 +1,0 @@
-['Image', '<com ss square home 2 Pick Image Activity void onCreate']

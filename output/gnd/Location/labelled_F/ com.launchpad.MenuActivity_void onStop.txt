@@ -1,1 +1,0 @@
-['INFO', 'Connect with Facebook and get 250 FREE coins!', '(250 free coins for new users only)', 'Log in with Facebook', 'We will not use your info or post anything on your Facebook page', 'Later', '<com launchpad Menu Activity void onStop']

@@ -1,1 +1,0 @@
-['Frontpage Deals', 'Discover amazing deals from the largest deal community on the web. Vetted and verified by Slickdeals Deal Editors, these are the best savings and offers available.', 'NEXT', '<com mo pub mobile ads Mraid Video Player Activity void onCreate']

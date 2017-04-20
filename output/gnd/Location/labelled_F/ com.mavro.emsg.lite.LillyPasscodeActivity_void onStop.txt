@@ -1,1 +1,0 @@
-['Medical Spanish - AUDIO', 'Passcode', 'This feature is intended for healthcare providers that have been provided an activation code by Mavro Inc.', 'More', 'Enter Passcode', 'XXXXXXXX', 'Activate', '<com m avro e msg lite Lilly Passcode Activity void onStop']

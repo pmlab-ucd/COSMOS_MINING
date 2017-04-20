@@ -1,1 +1,0 @@
-['Favorite', 'No favorite yet.', '<com vishal mob i tech v blocker activity Favorite Activity void onCreate']

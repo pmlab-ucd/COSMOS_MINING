@@ -1,1 +1,0 @@
-["Select causes you're interested in so Buycott can tell you how a product matches up against your principles.", 'ok', '<com buy c ott android Campaign All void onCreate']

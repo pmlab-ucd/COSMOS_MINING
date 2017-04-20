@@ -1,1 +1,0 @@
-['callX', 'All Calls', 'Favorites', 'Filter', 'Today, Tuesday, February 7', 'Unknown', 'Welcome', '0 minutes ago, 5:45 PM', '01:42', 'Thursday, January 19', 'Unknown', 'Welcome', 'Jan 19, 5:32 AM', '01:42', '<com sms robot call recorder Call Recorder$1 void onClick']

@@ -1,1 +1,0 @@
-['Phone On Map', 'GPS', 'Monitoring filter', '40m', 'GPS mode', 'Continuous monitoring', 'GPS monitoring interval', '30s', 'Maximal GPS fix time', '30s', 'Other', 'Autostart', 'Monitoring starts with phone boot', 'Write your phone name', '<cz ka kt us Phone On Map Activity Settings Experimental void onListItemClick']

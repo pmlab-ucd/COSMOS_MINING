@@ -1,1 +1,0 @@
-['NCAA Basketball', 'Games', 'Teams', 'Standings', 'Set League Alerts', 'Received Alerts', 'Expert Handicappers', 'Settings', '<lunosoftware sports activities N C A A Teams Activity void onCreate']

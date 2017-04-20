@@ -1,1 +1,0 @@
-['Contacts to ignore', 'There are no recordings', '<com app star call recorder core Contacts2 Ignore Activity boolean onCreateOptionsMenu']

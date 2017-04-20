@@ -1,1 +1,0 @@
-['Your first wishlist', 'TouristEye is all about collecting travel ideas and planning trips around them.', "Let's start with a wishlist of places you may want to go on your weekends.", 'Create a Wishlist for your Weekends', '<com tourist eye activities First Wishlist Activity void onActivityResult']

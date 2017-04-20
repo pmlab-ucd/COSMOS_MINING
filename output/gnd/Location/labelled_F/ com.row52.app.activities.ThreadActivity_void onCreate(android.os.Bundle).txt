@@ -1,1 +1,0 @@
-['Or', 'Log In With ', 'ROW', '52', 'Username', '<com row 5 2 app activities Thread Activity void onCreate']

@@ -1,1 +1,0 @@
-['Sale', 'Test Drive', 'Enter Amount', '$0.00', 'Update Tax % in User Preferences', 'Continue', '<com cp m pos test drive T D C C Sale Activity void onResume']

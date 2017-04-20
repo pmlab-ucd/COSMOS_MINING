@@ -1,1 +1,0 @@
-['Food Detail', 'TODAY', 'Breakfast', 'Lunch', 'Dinner', 'Snack', 'Servings:', '1', 'Add to favorites', 'No', 'Add Food & Search Again', 'Nutrition Facts', 'Amount Per Serving', 'Calories', 'Total Fat', '     Saturated Fat', '     Polyunsaturated Fat', '     Monounsaturated Fat', '<com spark people android tracker Food Detail void onCreate']

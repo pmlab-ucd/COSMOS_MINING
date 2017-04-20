@@ -1,1 +1,0 @@
-['Offline translation', 'AVAILABLE FOR DOWNLOAD', 'English—Russian', '360 (660) MB', 'French—English', '320 (587) MB', 'French—Russian', '328 (600) MB', 'German—English', '368 (674) MB', 'German—Russian', '293 (537) MB', 'Italian—English', '340 (623) MB', 'Italian—Russian', '279 (511) MB', '<ru y and ex translate activities Offline D M Activity void onCreateContextMenu']

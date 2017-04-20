@@ -1,1 +1,0 @@
-['Add Mobile to Locate', 'Please enter details of the person you want to track.', '    His/Her Name', '    His/Her Mobile Number', 'Continue', '<com i locate mobile track Addmobile Activity void onStart']

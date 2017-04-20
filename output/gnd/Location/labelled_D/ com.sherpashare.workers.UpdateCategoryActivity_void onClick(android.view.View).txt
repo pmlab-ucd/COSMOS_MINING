@@ -1,1 +1,0 @@
-['Personal', 'Business', 'Swipe to delete', 'Commute', 'Errands/Shopping', 'Medical', 'Travel', 'Moving', 'Dining/Meal', 'Entertainment', 'Other', 'Add', '<com sherpa share workers Update Category Activity void onClick']

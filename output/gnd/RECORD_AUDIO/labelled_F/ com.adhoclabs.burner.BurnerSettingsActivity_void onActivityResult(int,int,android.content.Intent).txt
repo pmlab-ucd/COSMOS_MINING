@@ -1,1 +1,0 @@
-['Welcome to Burner', 'Life is complicated! Use Burner to stay in touch in everyday situation, without sharing your personal number.', 'How will you use Burner?', '<com ad hoc labs burner Burner Settings Activity void onActivityResult']

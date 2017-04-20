@@ -1,1 +1,0 @@
-['Current Location ON', 'Kathmandu, Nepal', 'Kitty Hawk, North Carolina', 'Catumbela, Angola', 'Catania, Italy', 'Add / Edit Locationz', '<com ask applications weather whiskers Location Manager Activity void onCreate']

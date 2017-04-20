@@ -1,1 +1,0 @@
-['Ways to use the app', 'Say "Lumos" to turn the light on \n and "Nox" to turn it off', 'Shake the smartphone to turn \n the light on and off', 'Tap the screen and hold it \n to turn on the light', 'Got it', '<com br leonardo morais lumo s activities Wand Activity void onActivityResult']

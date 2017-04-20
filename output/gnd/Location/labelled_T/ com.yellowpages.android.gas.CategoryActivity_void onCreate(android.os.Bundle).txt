@@ -1,1 +1,0 @@
-["See What's Nearby", 'Restaurants', 'Coffee', 'Auto Repair', 'ATM', 'Roadside Assistance', '<com yellow pages android gas Category Activity void onCreate']

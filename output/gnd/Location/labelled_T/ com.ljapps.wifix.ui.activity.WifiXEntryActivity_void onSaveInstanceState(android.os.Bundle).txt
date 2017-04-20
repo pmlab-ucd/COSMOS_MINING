@@ -1,1 +1,0 @@
-['Tap this button to search shared free WiFi around you.', 'Got it!', 'WiFi Pass Key', 'WiFi Security', 'WiFi Connect', 'ToolBox', 'Open/Free WiFi', '6 hotspots', '100%', 'moobilenetx', '100%', 'eduroam', 'FREE', '56%', 'Eben-Ezer', 'FREE', '100%', 'Watershed', '100%', 'ucd-guest', '44%', 'APP', '<com lj apps wi fix ui activity Wifi X Entry Activity void onSaveInstanceState']

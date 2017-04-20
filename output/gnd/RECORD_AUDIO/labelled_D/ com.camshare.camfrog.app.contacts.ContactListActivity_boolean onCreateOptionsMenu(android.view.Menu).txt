@@ -1,1 +1,0 @@
-['Contacts', 'Online', 'All', 'WELCOME!', 'Join Main Camfrog Room', 'Search For Camfrog Users', 'Chat Room List', '<com cam share cam frog app contacts Contact List Activity boolean onCreateOptionsMenu']

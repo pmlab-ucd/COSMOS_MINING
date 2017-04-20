@@ -1,1 +1,0 @@
-['Privacy Policy & Advertising Terms', 'Cancel', 'Ok', '<st gps map Current Location Activity boolean onCreateOptionsMenu']

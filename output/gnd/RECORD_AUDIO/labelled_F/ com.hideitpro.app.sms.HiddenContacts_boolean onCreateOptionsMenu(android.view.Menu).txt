@@ -1,1 +1,0 @@
-['Contacts', "You don't have any hidden contacts. Tap here to add some.", 'Read Help', '<com hide it pro app sms Hidden Contacts boolean onCreateOptionsMenu']

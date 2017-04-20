@@ -1,1 +1,0 @@
-['Latitude:', '0.000000', 'Longitude:', '0.000000', '<com rev mob Fullscreen Activity void onConfigurationChanged']

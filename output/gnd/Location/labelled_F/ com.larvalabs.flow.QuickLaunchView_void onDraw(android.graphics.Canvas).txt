@@ -1,1 +1,0 @@
-['Welcome\nto your\nnew\nphone', 'Get Started', '<com larva labs flow Quick Launch View void onDraw']

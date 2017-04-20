@@ -1,1 +1,0 @@
-['Find by name, city, or zip', 'Search', 'Nearby Organizations', 'Adventure Christian Church of North Natomas', '4660 Natomas Blvd, Suite 120-200', 'The Mission', '6391 Leisure Town Road', '<mobile Secure Give Organization Search Activity void onRestart']

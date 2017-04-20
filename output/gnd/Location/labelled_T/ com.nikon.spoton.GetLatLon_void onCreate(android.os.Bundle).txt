@@ -1,1 +1,0 @@
-['Nikon SpotOn', 'Get lat-Lon', 'No Provider', 'No Provider', '<com nikon spot on Get Lat Lon void onCreate']

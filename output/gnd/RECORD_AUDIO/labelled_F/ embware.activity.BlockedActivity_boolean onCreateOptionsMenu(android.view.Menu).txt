@@ -1,1 +1,0 @@
-['Logs', 'Search', '  ', ' Show', ' Clear', 'no log items', '<embware activity Blocked Activity boolean onCreateOptionsMenu']

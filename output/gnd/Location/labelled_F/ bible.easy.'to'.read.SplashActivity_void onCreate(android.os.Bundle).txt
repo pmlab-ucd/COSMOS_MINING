@@ -1,1 +1,0 @@
-['Loading, please wait ...', "<bible easy 'to' read Splash Activity void onCreate"]

@@ -1,1 +1,0 @@
-['Model', 'HELP', 'Take a photo of the model of your vehicle, which is usually located on the rear or the side of the vehicle.', 'Tap here to take\n the photo', 'VEHICLE-MODEL', 'BACK', 'NEXT', '<com on source progressives Model Activity void onConfigurationChanged']

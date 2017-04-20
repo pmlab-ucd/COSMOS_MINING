@@ -1,1 +1,0 @@
-['GPSSETTINGS', 'GPSis not enabled! Do you Want to go to settings menu?', 'Setting', 'Cancel', '<com code games gps route finder Grid View Example Activity void onCreate']

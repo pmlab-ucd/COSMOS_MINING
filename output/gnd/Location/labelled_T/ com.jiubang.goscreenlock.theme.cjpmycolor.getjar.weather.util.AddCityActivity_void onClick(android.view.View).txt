@@ -1,1 +1,0 @@
-['Add Location', 'Enter city or US ZIP code', 'Example: Enter New York', 'Popular Locations', 'Browse by Locations', 'Download GO Werther EX', '<com jiu bang go screen lock theme c jp my color get jar weather util Add City Activity void onClick']

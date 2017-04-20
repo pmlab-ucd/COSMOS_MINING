@@ -1,1 +1,0 @@
-['Nickname', 'Email', 'Sign up with Camfrog', 'Sign up with Facebook', 'Already have an account?', 'Sign In', '<com cam share cam frog app room Room Activity boolean onPrepareOptionsMenu']

@@ -1,1 +1,0 @@
-['Thanks for booking!', 'If you enjoy using Last Minute Golfer, please take a moment to rate it on the Google Play Store. We appreciate your support!', 'Rate Now', 'Remind Me Later', 'No Thanks', '<com last minute golfer mobile booking Rating Dialog Activity void onCreate']

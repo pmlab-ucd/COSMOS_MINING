@@ -1,1 +1,0 @@
-['Log In With:', 'Sign Up', 'Skip', '<com cap iga mi out of milk Main Activity void onPause']

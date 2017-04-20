@@ -1,1 +1,0 @@
-['Location', 'e.g. zip (13601) or lat,long (43,-72)', 'Frequency', 'e.g. 91.7', 'Zip Code', 'N/A', 'Search', 'No Data', '<com Shadowpuppets N P R Stations Admin Research List Fragment void onClick']

@@ -1,1 +1,0 @@
-['Audio Recorder', 'Click on Record to start recording.', 'Record', '<com ti fb chat media Recorder void onClick']

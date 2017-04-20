@@ -1,1 +1,0 @@
-['Talk', 'Exit', '0 seconds left', '<com panasonic a vc cng view live view movie home monitor Live View Movie Pantilter Remote Voice Activity void OnClickRemoteVoiceCancel']

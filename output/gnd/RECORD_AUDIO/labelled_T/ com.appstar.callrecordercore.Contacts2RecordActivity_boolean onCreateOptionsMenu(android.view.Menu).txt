@@ -1,1 +1,0 @@
-['Contacts to record', 'There are no recordings', '<com app star call recorder core Contacts2 Record Activity boolean onCreateOptionsMenu']

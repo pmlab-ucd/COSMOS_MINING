@@ -1,1 +1,0 @@
-['Sunrise/Sunset', 'Sunrise/Sunset is loading. Please wait', '<com hunters toolkit android app ui activity Sunrise Activity void onResume']

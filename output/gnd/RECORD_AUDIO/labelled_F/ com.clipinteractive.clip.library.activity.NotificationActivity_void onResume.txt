@@ -1,1 +1,0 @@
-['1080 The FAN', '<com clip interactive clip library activity Notification Activity void onResume']

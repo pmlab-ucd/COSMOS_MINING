@@ -1,1 +1,0 @@
-['Welcome!', 'This is your personal Panic Button.', 'It silently alerts your trusted contacts that you are in trouble and shares your location with them.', "Let's learn how to use it.", '<com qu s to dio qu s to dio app activities Panic Button Activity void onPause']

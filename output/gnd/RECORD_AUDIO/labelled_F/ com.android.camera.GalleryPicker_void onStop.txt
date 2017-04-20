@@ -1,1 +1,0 @@
-['Gallery', 'No media found.', '<com android camera Gallery Picker void onStop']

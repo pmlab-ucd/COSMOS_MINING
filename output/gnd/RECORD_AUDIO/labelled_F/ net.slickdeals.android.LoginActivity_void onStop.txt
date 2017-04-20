@@ -1,1 +1,0 @@
-['To get started, please register or log in:', 'Why is registration required?', 'REGISTER / LOG IN USING', 'FACEBOOK', 'REGISTER / LOG IN USING', 'GOOGLE+', 'REGISTER A NEW', 'SLICKDEALS ACCOUNT', 'ALREADY HAVE A SLICKDEALS ACCOUNT? LOG IN NOW', '<net slick deals android Login Activity void onStop']

@@ -1,1 +1,0 @@
-['Doorstep Delivery', "What's your Address?", 'Add', 'View Restaurants', 'Past Orders', '<com doorstep ui activity Home Activity boolean onCreateOptionsMenu']

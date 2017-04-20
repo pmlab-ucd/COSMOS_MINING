@@ -1,1 +1,0 @@
-['Get personalized coupons, recipes & promotions exclusively through our app, updated weekly!', 'Register with Email', 'Login with Email', 'LOGIN WITH FACEBOOK', 'PREVIEW APP', '<com cod al grocer ui activity Splash Activity void onActivityResult']

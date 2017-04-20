@@ -1,1 +1,0 @@
-['Aerobic', 'Search for an exercise', 'Frequent', 'My Exercises', 'All Exercises', 'All Exercises', 'aerobic dance wearing 10-15 lb weights', 'aerobic, general', 'aerobic, high impact', 'aerobic, low impact', 'aerobic, step, with 10 - 12 inch step', 'Create New Exercise', '<com Mountain main Exercise Activity$6 void onClick']

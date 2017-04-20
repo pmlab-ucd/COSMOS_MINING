@@ -1,1 +1,0 @@
-['Flights', 'One-Way', 'Roundtrip', 'Multi-City', 'From', 'To', 'Depart', '4 February 2017', 'Return', '11 February 2017', '1', 'Economy', 'Find', '<net a via scanner a via scanner ui start Start Activity void onNewIntent']

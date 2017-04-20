@@ -1,1 +1,0 @@
-['Pick Location', 'Tap on map for select location', '<com anton nik it in so lunar forecast Pick Location$2 void onClick']

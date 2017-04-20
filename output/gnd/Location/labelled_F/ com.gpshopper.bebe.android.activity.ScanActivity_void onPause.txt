@@ -1,1 +1,0 @@
-['bebe', '<com gps hopper be be android activity Scan Activity void onPause']

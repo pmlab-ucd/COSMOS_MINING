@@ -1,1 +1,0 @@
-['Prepare for first run', 'To play file formats supported by jetAudio (APE, MPC, TTA, MOD and more), rebuilding media library to add the files is required.\n\nDo you want to rebuild media library now?\n\n(You can rebuild/restore media library anytime from Preferences menu)', 'Cancel', 'OK', '<com jet app factory jet audio Artist Browser Activity void onDestroy']

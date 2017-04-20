@@ -1,1 +1,0 @@
-['SentriLock ID', 'Login', 'Forgotpassword', '<com sent ri lock sent ri smart Register void onCreate']

@@ -1,1 +1,0 @@
-['Favorites', 'Back', '<com rev mob Fullscreen Activity void onConfigurationChanged']

@@ -1,1 +1,0 @@
-['Latitude', '38:32.08475', 'Longitude', '-121:45.1523', 'Altitude', '---', 'Accuracy', '20m', 'Velocity', '---', 'Heading', '---', 'Pitch', '---', 'Roll', '---', 'Magnetic Field Strength', '---', '<com kettle r ar gps c 3 d Activity Location Info void onCreate']

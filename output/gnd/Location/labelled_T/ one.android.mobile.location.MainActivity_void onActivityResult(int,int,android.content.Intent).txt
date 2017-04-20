@@ -1,1 +1,0 @@
-['CELL TRACKER', 'Location History', 'Current Location', 'Route Direction', 'Find Address', 'Rate App', 'Share', '<one android mobile location Main Activity void onActivityResult']

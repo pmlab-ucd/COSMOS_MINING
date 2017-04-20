@@ -1,1 +1,0 @@
-['Highlight Photo Collage', 'Execute', '0 pictures will be saved in the smartphone.', 'Specify the still picture storage folder name', '20170207', '<com panasonic a vc cng view play multi photo frame Multi Photo Frame Execute Activity void OnClickPictureCopyExecuteExecute']

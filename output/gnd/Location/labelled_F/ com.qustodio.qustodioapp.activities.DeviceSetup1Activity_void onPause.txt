@@ -1,1 +1,0 @@
-['Device Set Up', 'Provide a name for this device.', "Example: Mike's phone.", 'Device name', 'Galaxy Nexus', 'Next', '<com qu s to dio qu s to dio app activities Device Setup1 Activity void onPause']

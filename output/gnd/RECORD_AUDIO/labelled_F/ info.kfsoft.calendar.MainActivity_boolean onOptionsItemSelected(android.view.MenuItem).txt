@@ -1,1 +1,0 @@
-['New Calendar', 'jameshaofu@gmail.com', 'Google', 'jameshaofu@gmail.com', 'synced', 'Cancel', 'OK', '<info kf soft calendar Main Activity boolean onOptionsItemSelected']

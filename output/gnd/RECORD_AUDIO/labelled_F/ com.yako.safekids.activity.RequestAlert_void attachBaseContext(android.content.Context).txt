@@ -1,1 +1,0 @@
-["If you stopped your car!! Do you need to activate the smart warning to protect your kid so you won't forget him at the car?!", 'Cancel', 'Ok', '<com yak o safe kids activity Request Alert void attachBaseContext']

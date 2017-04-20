@@ -1,1 +1,0 @@
-['Check', 'Download', 'Installed Version:', 'Oficial Version Available:', '<watsap update last update w app Main Activity void onBackPressed']

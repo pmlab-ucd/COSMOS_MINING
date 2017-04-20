@@ -1,1 +1,0 @@
-['OK', '<com phone find and lock Map Main Activity$13 void onClick']

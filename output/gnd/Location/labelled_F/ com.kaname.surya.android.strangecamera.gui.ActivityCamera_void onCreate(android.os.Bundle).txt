@@ -1,1 +1,0 @@
-['PENTAGON', 'PHOTO', 'GIF', '<com ka name surya android strange camera gui Activity Camera void onCreate']

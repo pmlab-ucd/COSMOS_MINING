@@ -1,1 +1,0 @@
-['Auto', '<com vibe r wink ui activity Main Activity void onResume']

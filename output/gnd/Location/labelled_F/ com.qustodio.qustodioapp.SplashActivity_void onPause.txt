@@ -1,1 +1,0 @@
-["I'm new to Qustodio", 'I have an account', '<com qu s to dio qu s to dio app Splash Activity void onPause']

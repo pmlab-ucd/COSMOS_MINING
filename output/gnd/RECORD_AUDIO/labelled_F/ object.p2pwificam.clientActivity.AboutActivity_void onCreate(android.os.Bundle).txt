@@ -1,1 +1,0 @@
-['About Us', 'Software Name', 'DroneView', 'Version Number', '2.14', 'cleaning storage', 'Exit', '<object p2pwificam Activity About Activity void onCreate']

@@ -1,1 +1,0 @@
-['Preparing charts, please wait.', '<org j tb cs droid Tab Widget Activity boolean onOptionsItemSelected']

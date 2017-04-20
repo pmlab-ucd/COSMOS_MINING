@@ -1,1 +1,0 @@
-['Settings', 'Upgrade to Pro', 'See all the additional features', 'Sound quality', 'Recording', 'Interface', 'Advanced', '<com dig i pom easy voice recorder ui activity Settings Activity void onPause']

@@ -1,1 +1,0 @@
-['LIGHTS', ' by Q Raider', '<com q raider W I A A J J R Menu Activity boolean onCreateOptionsMenu']

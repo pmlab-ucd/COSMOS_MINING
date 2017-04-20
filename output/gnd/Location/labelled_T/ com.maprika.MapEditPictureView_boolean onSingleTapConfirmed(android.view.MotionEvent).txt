@@ -1,1 +1,0 @@
-['Select location', 'Cancel', 'Next', '<com map rika Map Edit Picture View boolean onSingleTapConfirmed']

@@ -1,1 +1,0 @@
-['Exit the app?', 'Cancel', 'OK', '<com sms robot call recorder Call Player$5 void onClick']

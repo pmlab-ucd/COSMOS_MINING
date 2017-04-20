@@ -1,1 +1,0 @@
-['SComboReaderII', 'Initial', 'Clear Msg', 'Exit', 'Get Ver', 'Battery', 'Get UID', 'Sleep Timer:', 'Set', '(00) Non-encryption', 'Select', '>>>>>>APP initialized.', '\nRequest AudioFocus: true', 'Library version: SComboReaderII_Lib_V1.7', 'Phone model: Nexus 5', 'Card Reader Function', 'Set key Function', '<scomboreader demo sdk 2 S Combo Reader Activity void onCreate']

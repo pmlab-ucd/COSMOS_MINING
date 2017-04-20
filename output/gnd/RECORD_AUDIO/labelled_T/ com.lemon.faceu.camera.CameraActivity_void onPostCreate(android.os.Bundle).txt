@@ -1,1 +1,0 @@
-['Long press to take a video', 'Stickers', '<com lemon face u camera Camera Activity void onPostCreate']

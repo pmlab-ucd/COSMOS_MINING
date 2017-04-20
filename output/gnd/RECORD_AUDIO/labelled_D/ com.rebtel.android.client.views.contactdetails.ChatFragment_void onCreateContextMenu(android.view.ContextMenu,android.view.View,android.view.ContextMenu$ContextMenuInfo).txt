@@ -1,1 +1,0 @@
-['Rebtel', 'No messages yet.', 'Chat', '<com reb tel android client views contact details Chat Fragment void onCreateContextMenu']

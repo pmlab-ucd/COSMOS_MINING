@@ -1,1 +1,0 @@
-['Camera Name', '01/02/2009', '09:30:00PM', '<com r creations Basic Gallery View Activity void onActivityResult']

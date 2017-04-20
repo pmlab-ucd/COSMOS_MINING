@@ -1,1 +1,0 @@
-['History', 'Tap on start and end date to select search range', 'Start Date', 'End Date', 'Optionally, enter in card number for your search (full or last 4 digits)', 'Card Number', 'Search', '<com el avon internet secure ui activities Transaction History Activity void onStop']

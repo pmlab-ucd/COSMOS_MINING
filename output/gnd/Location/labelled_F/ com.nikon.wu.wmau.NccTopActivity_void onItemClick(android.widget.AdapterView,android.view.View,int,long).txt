@@ -1,1 +1,0 @@
-['Top', 'Take photos', 'View photos', '<com nikon wu wma u Ncc Top Activity void onItemClick']

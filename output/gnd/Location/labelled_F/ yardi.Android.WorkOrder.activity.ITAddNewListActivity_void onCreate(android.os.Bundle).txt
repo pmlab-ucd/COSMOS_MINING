@@ -1,1 +1,0 @@
-['Add New Item Type', '<yardi Android Work Order activity I T Add New List Activity void onCreate']

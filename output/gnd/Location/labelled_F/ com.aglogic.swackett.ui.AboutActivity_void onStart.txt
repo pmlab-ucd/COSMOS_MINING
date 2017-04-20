@@ -1,1 +1,0 @@
-['about swackett', 'About!', '<com ag logic swac kett ui About Activity void onStart']

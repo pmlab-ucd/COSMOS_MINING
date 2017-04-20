@@ -1,1 +1,0 @@
-['Satellite View', '<com kelly technology global cast Satellite View void onCreate']

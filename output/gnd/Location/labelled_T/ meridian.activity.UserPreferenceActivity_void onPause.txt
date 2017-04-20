@@ -1,1 +1,0 @@
-['Preferences', 'Allow Location', 'Allow your location to be determined using GPS and or Wifi.', 'Allow Notifications', 'Allow push notifications.', 'Meridian Base Version', '1.17.0', '<meridian activity User Preference Activity void onPause']

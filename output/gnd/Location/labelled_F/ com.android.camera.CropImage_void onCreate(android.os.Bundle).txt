@@ -1,1 +1,0 @@
-['No collages found!', 'OK', '<com android camera Crop Image void onCreate']

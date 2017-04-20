@@ -1,1 +1,0 @@
-['Welcome\nto your\nnew\nphone', 'Get Started', '<com larva labs flow launcher Launcher Activity$25 void onClick']

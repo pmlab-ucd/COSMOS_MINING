@@ -1,1 +1,0 @@
-['HELP', 'ASSISTANCE', 'Tutorial', 'Help center', 'ABOUT', 'Presentation', 'Terms & conditions', 'Privacy policy', 'Shopmium V4.8.0', '<com shop miu m ui activities Help Activity void onCreate']

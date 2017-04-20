@@ -1,1 +1,0 @@
-['Welcome to Maprika!', "tap the '+' icon above to select a map", '<com map rika Map View Activity$13 void onClick']

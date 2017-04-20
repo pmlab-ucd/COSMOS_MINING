@@ -1,1 +1,0 @@
-['Welcome to Health Mate', 'Your Activity Tracker and Life Coach.', 'Log In', 'Join Withings', '<com wi things wi scale 2 Main Activity void onActivityResult']

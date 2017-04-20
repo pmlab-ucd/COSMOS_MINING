@@ -1,1 +1,0 @@
-['Recycle Bin', '0', '0 B', '<com nll acr activity Recycle Bin Activity void onPause']

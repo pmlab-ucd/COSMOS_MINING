@@ -1,1 +1,0 @@
-['Bonhomie: good-natured geniality; atmosphere of good cheer', '<com h rd ui Home Activity void onResume']

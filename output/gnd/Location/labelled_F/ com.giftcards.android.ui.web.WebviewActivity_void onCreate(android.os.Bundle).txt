@@ -1,1 +1,0 @@
-['GiftCards.com', '<com gift cards android ui web Webview Activity void onCreate']

@@ -1,1 +1,0 @@
-['Set connect. dest.', '1', '2', '3', '<com panasonic a vc cng view setting Setup Connect Setting Activity void onRestart']

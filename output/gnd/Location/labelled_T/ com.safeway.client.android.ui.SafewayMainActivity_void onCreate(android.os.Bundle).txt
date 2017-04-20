@@ -1,1 +1,0 @@
-['For specials in your area,\nplease select your local store', 'Enter location or ZIP', 'Use my current location', 'Albertsons Companies, LLC - Version 4.9.0', '<com safeway client android ui Safeway Main Activity void onCreate']

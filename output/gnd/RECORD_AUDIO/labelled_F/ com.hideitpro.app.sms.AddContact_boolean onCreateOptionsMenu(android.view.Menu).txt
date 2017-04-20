@@ -1,1 +1,0 @@
-['Adding Contact', 'Pick From Contacts', 'Name', 'eg. John Doe (optional)', 'Phone', 'eg. 18003636857', 'SMS Settings', 'Hide SMS', '<com hide it pro app sms Add Contact boolean onCreateOptionsMenu']

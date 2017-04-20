@@ -1,1 +1,0 @@
-['YOUR DEPARTURE AIRPORT', 'Airport', 'Sacramento (SMF)', '<com star alliance navigator activity Choose From Airport Activity void onResume']

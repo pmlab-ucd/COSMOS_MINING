@@ -1,1 +1,0 @@
-['Emergency Contacts', '<com matrix emergency lite Emergency Contacts Activity void onCreate']

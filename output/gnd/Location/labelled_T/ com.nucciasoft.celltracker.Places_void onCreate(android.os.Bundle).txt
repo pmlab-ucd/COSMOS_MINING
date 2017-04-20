@@ -1,1 +1,0 @@
-['Cell Tracker', 'History', 'Last', 'Caricamento ...', 'Map', '<com nu cci a soft cell tracker Places void onCreate']

@@ -1,1 +1,0 @@
-['MVDC', 'Enter your ZipCode', 'ZipCode', 'Submit', 'Invite a friend', '<com military and veterans discounts main menu Veterans Day Form Activity void onClick']

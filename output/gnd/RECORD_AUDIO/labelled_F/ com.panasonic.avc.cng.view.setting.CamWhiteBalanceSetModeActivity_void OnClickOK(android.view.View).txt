@@ -1,1 +1,0 @@
-['White balance', 'Tapping the button below allows you to set the white balance.', 'Set', 'Cancel', '<com panasonic a vc cng view setting Cam White Balance Set Mode Activity void OnClickOK']

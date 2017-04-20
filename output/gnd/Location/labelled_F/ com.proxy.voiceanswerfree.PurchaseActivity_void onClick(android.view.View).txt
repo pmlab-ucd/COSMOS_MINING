@@ -1,1 +1,0 @@
-['Purchase Items', 'Activate the wolfram alpha knowledge base', 'Buy', 'Disable advertisements', 'Buy', '<com proxy voice answer free Purchase Activity void onClick']

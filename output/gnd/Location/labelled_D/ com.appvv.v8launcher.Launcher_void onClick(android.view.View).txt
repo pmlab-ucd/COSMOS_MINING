@@ -1,1 +1,0 @@
-['Set as default desktop', 'Set i10 OS iPhone 7 launcher as default desktop for better experience', 'OK', '<com a ppv v v8launcher Launcher void onClick']

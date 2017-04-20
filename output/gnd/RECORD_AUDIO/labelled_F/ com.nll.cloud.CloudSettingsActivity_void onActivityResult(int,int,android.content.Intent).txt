@@ -1,1 +1,0 @@
-['Cloud Services', 'Dropbox', 'Google Drive', 'One Drive', 'WebDAV', 'FTP', 'Auto Email', 'Gmail', 'Auto Email', 'Hotmail (Outlook.com), Yandex, Yahoo, Mail.ru, Gmx, iCloud/Me.com', 'Web access', 'Other settings', 'Cloud upload size limit (No limit)', '<com nll cloud Cloud Settings Activity void onActivityResult']

@@ -1,1 +1,0 @@
-['Physical Inventory', '<yardi Android Work Order activity Physical Inventory List Activity void onCreate']

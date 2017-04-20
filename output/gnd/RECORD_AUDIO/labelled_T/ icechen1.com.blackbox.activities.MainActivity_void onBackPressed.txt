@@ -1,1 +1,0 @@
-['Welcome to Rewind', 'Rewind is a reverse voice recorder.', '<icechen1 com blackbox activities Main Activity void onBackPressed']

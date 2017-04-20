@@ -1,1 +1,0 @@
-['SIZE', '0.9MP', 'GPS', 'LOADING', 'SAVE', 'Timer', '5', 'Sec', '<jp snow life 0 1 android hd camera Main Activity2$120 void onClick']

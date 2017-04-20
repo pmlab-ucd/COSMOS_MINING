@@ -1,1 +1,0 @@
-['    Add City', ' Current Location', 'OFF', 'My Locations', '<com weather activity Edit Location Activity void onResume']

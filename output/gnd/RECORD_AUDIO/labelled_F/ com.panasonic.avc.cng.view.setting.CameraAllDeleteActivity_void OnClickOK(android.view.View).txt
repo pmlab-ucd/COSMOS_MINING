@@ -1,1 +1,0 @@
-['Delete all', 'Delete the currently displayed camera files? (Protected files will not be deleted.)', 'Delete all', 'Cancel', '<com panasonic a vc cng view setting Camera All Delete Activity void OnClickOK']

@@ -1,1 +1,0 @@
-['Add new kid', "Kid's name", "Kid's age", 'female', 'male', 'Ok', '<com yak o safe kids activity New Kids void onRequestPermissionsResult']

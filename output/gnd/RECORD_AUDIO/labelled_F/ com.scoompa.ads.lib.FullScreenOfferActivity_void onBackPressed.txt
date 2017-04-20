@@ -1,1 +1,0 @@
-['Cancel', '<com s coo mpa ads lib Full Screen Offer Activity void onBackPressed']

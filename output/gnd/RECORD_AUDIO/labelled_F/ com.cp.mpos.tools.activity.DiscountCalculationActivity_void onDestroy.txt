@@ -1,1 +1,0 @@
-['Discount Calculator', 'Current Price', '$0.00', 'Enter Discount %', '0.00%', 'Discounted Amount', 'Your Total Price', 'Reset', '<com cp m pos tools activity Discount Calculation Activity void onDestroy']

@@ -1,1 +1,0 @@
-['Phonics', 'a', 'ai', 'ar', 'b', 'ch', 'ck', 'd', 'e', 'ee', 'er', 'f', 'g', 'h', 'i', 'ie', 'j', 'l', 'm', 'n', 'ng', 'o', 'oa', 'oi', 'oo', '<com knm tech kids speller Phonics Grid void onCreate']

@@ -1,1 +1,0 @@
-['Select photos', 'Gallery', 'Camera', '0', '/0 Selected', 'Next', 'No Image', '<com photo video three d collage maker Activities Collage Selecter Activity void onRequestPermissionsResult']

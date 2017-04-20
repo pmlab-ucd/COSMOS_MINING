@@ -1,1 +1,0 @@
-['My location', 'Davis', 'Watershed Science Research Center, Davis, CA 95616, USA', '38.5347458, -121.7525384', '<com droid 2 7 sense flip clock weather Location Setup Activity void onPause']

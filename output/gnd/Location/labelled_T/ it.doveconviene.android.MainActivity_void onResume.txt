@@ -1,1 +1,0 @@
-['Select Country', 'Select the country you want to be redirected to', 'USA', 'OK', '<it dove con vie ne android Main Activity void onResume']

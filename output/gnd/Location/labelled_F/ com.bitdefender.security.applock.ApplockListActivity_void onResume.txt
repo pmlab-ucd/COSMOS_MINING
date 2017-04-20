@@ -1,1 +1,0 @@
-['Press OK to stop', 'OK', '<com bit defender security app lock Applock List Activity void onResume']

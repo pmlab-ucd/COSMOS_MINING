@@ -1,1 +1,0 @@
-['150 Smart points', 'on Sign Up', 'Deals & Offers', 'Mobiles & Tablets', 'Men', 'Women', 'Restaurants Near You', 'TV & Entertainment', 'Laptops & Peripherals', 'All Categories', 'Trending Deals', 'View All', 'Search for products or brands', 'Home', 'Just for You', 'Nearby', 'Profile', '<com My Smart Price My Smart Price Deep Link Activity void onCreate']

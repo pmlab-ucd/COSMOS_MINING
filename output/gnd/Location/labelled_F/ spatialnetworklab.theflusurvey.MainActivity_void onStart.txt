@@ -1,1 +1,0 @@
-['Tips', 'In response to a large number of inquiries: please go to "Award Points" page to see your points.', 'Remind me later', 'Do not show again', '<spatialnetworklab the flu survey Main Activity void onStart']

@@ -1,1 +1,0 @@
-['Scan QR or Barcode ', '<example qr code Main Activity void onPause']

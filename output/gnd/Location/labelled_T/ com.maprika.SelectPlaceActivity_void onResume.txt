@@ -1,1 +1,0 @@
-['Select location', 'Cancel', 'Next', '<com map rika Select Place Activity void onResume']

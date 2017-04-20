@@ -1,1 +1,0 @@
-['About', 'GENERAL', 'Version 1.3.0 (1) - Rate It!', 'Send Feedback About This App', 'LEGAL', 'Terms of Use', 'Privacy Policy', 'Legal Notices', 'Attributions', '<com yellow pages android gas About Activity void onCreate']

@@ -10,6 +10,7 @@ from lda import LDA
 import json
 from sklearn_utils import SklearnUtils
 import codecs
+import shutil
 
 """
 Generate markdown files of instances for labelling
@@ -78,7 +79,7 @@ class DataFormatter:
 
     @staticmethod
     def handle_dynamic_xml(dynamic_xml, doc):
-        status = False
+        all_views = []
         if os.path.exists(dynamic_xml):
             data = ''
             with open(dynamic_xml, 'r', encoding='utf8') as f:
@@ -97,19 +98,18 @@ class DataFormatter:
                 # print(node.getAttribute('text'))
                 # print(node.toxml())
                 if node.getAttribute('package') in str(dynamic_xml):
+                    all_views.append(node)
                     ignore = False
-            if ignore or len(doc) == 0:
-                return status
+            #if ignore or len(doc) == 0:
 
             print(doc)
-            return status
         else:
             DataFormatter.logger.error('XML ' + dynamic_xml + ' does not exist!')
-            return status
+        return all_views
 
     @staticmethod
     def handle_md(md_file, instances):
-        counter = len(instances)
+        #counter = len(instances)
         DataFormatter.logger.info(md_file)
         with open(md_file, 'r') as text_file:
             for line in text_file:
@@ -129,28 +129,62 @@ class DataFormatter:
                 xml_path = sub_lines[len(sub_lines) - 4].split('(')[1]
                 xml_path = xml_path.split('.png')[0] + '.xml'
                 DataFormatter.logger.info(xml_path + ', ' + line)
-                doc = []
-                DataFormatter.handle_dynamic_xml(xml_path, doc)
+                texts = []
+                all_views = DataFormatter.handle_dynamic_xml(xml_path, texts)
 
-                DataFormatter.logger.info(doc)
+                DataFormatter.logger.info(texts)
 
                 entry_name = sub_lines[len(sub_lines) - 5].split(';')[0]
-                entry_sub_words = SensitiveComponent.SensEntryPoint.split_entry_name(entry_name)
-                doc.append(entry_sub_words)
+
                 '''
                 instances[counter] = {}
                 instances[counter]['doc'] = doc
                 instances[counter]['label'] = label
                 instances[counter]['entry_name'] = entry_name
                 instances[counter]['xml_path'] = xml_path
+                counter += 1
                 '''
+                views = sub_lines[len(sub_lines) - 3].replace(' ', '')
 
+                if views:
+                    views = str(views).split(',')
+                    json_file = str(xml_path).replace('py', 'java')
+                    json_file = json_file.replace('.xml', '.json')
+                    par_dir = os.path.dirname(json_file)
+                    apkname = os.path.basename(par_dir)
+                    DataFormatter.logger.debug(apkname)
+                    sens_comp = SensitiveComponent(os.path.join(par_dir, apkname + '.apk_' + os.path.basename(json_file)))
+                    print(sens_comp.componentName, sens_comp.layoutFile)
+                    sviews = {}
+                    entry_name = str(entry_name).replace(' <', '<', 1)
+                    for entry_na in sens_comp.get_entries():
+                        DataFormatter.logger.debug(entry_na)
+                    views = sens_comp.get_entry(entry_name).get_views()
+                    for view_name in views:
+                        srid = views[view_name].srid
+                        if srid in sviews:
+                            continue
+
+                        DataFormatter.logger.info(views[view_name].srid)
+                        DataFormatter.logger.info(views[view_name].srid)
+                        sviews[srid] = None #views[view_name]
+                        for node in all_views:
+
+                            node_srid = str(node.getAttribute('resource-id')).split('id/')
+                            if len(node_srid) < 2:
+                                continue
+                            node_srid = node_srid[1]
+                            if node_srid == srid:
+                                sviews[srid] = node
+                    views = sviews
                 instance = {}
-                instance['doc'] = doc
+                instance['texts'] = texts
+                instance['label'] = label
                 instance['entry_name'] = entry_name
                 instance['xml_path'] = xml_path
+                instance['view'] = views
                 instances.append(instance)
-                counter += 1
+
 
     @staticmethod
     def docs2bag(instances_dir, instances, gen_arff=False):
@@ -324,22 +358,50 @@ class DataFormatter:
             """
 
     @staticmethod
-    def instances2txtdocs(instances_dir, instances):
+    def instances2txtdocs(out_dir, instances, what=True, when=True, who=True, name=False):
+        rm_dirs = []
         for instance in instances:
             #instance = instances[i]
-            output_dir = instances_dir + '/' + str(instance['label']) + '/'
+            output_dir = out_dir + '/' + str(instance['label']) + '/'
             if not os.path.exists(output_dir):
                 os.makedirs(output_dir)
+            '''
+            elif output_dir not in rm_dirs:
+                shutil.rmtree(output_dir)
+                os.makedirs(output_dir)
+                rm_dirs.append(output_dir)
+            '''
             file_name = str(instance['entry_name']).replace('<', '')
             file_name = file_name.replace('>', '')
             file_name = file_name.replace('()', '')
             file_name = file_name.replace(': ', '_')
-            doc_file = open(output_dir + file_name + '.txt', 'w')
-            doc_file.write(str(instance['doc']))
+            if file_name.startswith(' '):
+                file_name = file_name.replace(' ', '', 1)
 
-gnd_based_dir = 'output/drebin/gnd/'
-perm_type = 'Location'
-gen_md = True
+            doc = []
+            class_name, method_name = SensitiveComponent.SensEntryPoint.split_entry_name(instance['entry_name'])
+            if what:
+                doc.append(instance['texts'])
+            if when:
+                doc.append(method_name)
+            if name:
+                if not when:
+                    doc.append(method_name)
+                doc.append(class_name)
+            if who:
+                views = instance['view']
+                for srid in views:
+                    doc.append(srid)
+                    node = views[srid]
+                    if node:
+                        doc.append(node.getAttribute('class'))
+            doc_file = open(os.path.abspath(output_dir + file_name + '.txt'), 'w', encoding='utf-8')
+            doc_file.write(str(doc))
+
+
+gnd_based_dir = 'output/gnd/' #''output/drebin/gnd/'
+perm_type = 'SEND_SMS' #Location'
+gen_md = False #True
 
 if __name__ == '__main__':
     if gen_md:
@@ -347,10 +409,47 @@ if __name__ == '__main__':
                                      num=50, perm_type='Location')  # trigger_out_dir=os.curdir + '\\test\output')
     else:
         instances = []
-        instance_dir = gnd_based_dir + '/' + perm_type
+        out_dir = gnd_based_dir + '\\comp\\' + perm_type + '\\'
+        instance_dir = gnd_based_dir + '\\' + perm_type + '\\'
+        what = True
+        when = True
+        who = False
+        name = False
+
+        if who and when and what:
+            out_dir = out_dir + 'full'
+        elif who and when:
+            out_dir = out_dir + 'who_when'
+        elif who and what:
+            out_dir = out_dir + 'who_what'
+        elif when and what:
+            out_dir = out_dir + 'when_what'
+        elif name:
+            who = False
+            when = False
+            what = False
+            out_dir = out_dir + 'name'
+        elif who:
+            out_dir = out_dir + 'who'
+        elif when:
+            out_dir = out_dir + 'when'
+        elif what:
+            out_dir = out_dir + 'what'
+        else:
+            DataFormatter.logger.error("Error Arguments!")
+            exit(1)
+
         DataFormatter.parse_labelled(instance_dir, instances)
         # json.dump(instances, open(out_dir + '/instances.json', 'w+'))
-        DataFormatter.instances2txtdocs(instance_dir, instances)
+        DataFormatter.instances2txtdocs(out_dir, instances, what=what, when=when, who=who, name=name)
+        views = []
+        for instance in instances:
+            if instance['view']:
+                DataFormatter.logger.info(instance['view'])
+                views.append(instance)
+        print(len(views))
+
+
 
     """
     [train_data_features, train_data_labels] = DataFormatter.docs2bag(instances)

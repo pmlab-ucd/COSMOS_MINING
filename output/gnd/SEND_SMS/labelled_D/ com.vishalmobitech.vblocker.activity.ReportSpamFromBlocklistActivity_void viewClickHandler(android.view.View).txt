@@ -1,1 +1,0 @@
-['Report Spam', 'Spammer name', 'Spam number', 'Scam or fraud', 'Enter message about this spammer', '<com vishal mob i tech v blocker activity Report Spam From Blocklist Activity void viewClickHandler']

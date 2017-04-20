@@ -1,1 +1,0 @@
-['Map', 'Refresh', 'Limited Time: Upgrade to our premium family tracking app for free!', 'Learn More', '<com earthquake map app ui activities Home Activity void onClick']

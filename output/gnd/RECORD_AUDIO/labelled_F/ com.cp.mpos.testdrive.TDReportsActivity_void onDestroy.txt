@@ -1,1 +1,0 @@
-['Today: 6 Transactions for $7,802.84', 'Transaction Reports', 'Transaction \nSummary', 'Sales \nOverview', 'Settlement Reports', 'Settlement', 'Funding', 'Fees', 'Chargeback', '<com cp m pos test drive T D Reports Activity void onDestroy']

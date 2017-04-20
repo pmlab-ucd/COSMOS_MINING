@@ -1,1 +1,0 @@
-['Dashboard Setup', "Choose data to display on the 'Record' screen", 'OBD channels will be offered when the device is fully connected', 'Timer:', 'Hidden', 'Basic', '+ Predict', 'Data A:', '- Tap to Select Channel -', 'Data B:', '- Tap to Select Channel -', '<com hp tuners track addict Dash Setup Activity void onResume']

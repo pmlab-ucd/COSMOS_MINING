@@ -1,1 +1,0 @@
-['Sales Overview', '\nTest Drive', 'Mon, Jun 11 - Sat, Jun 16', 'Sales Amount', '$45,747.60', 'Sat, Jun 16', '$7,802.84', 'Fri, Jun 15', '$7,020.12', 'Thu, Jun 14', '$7,749.50', 'Wed, Jun 13', '$7,653.54', 'Tue, Jun 12', '$7,718.76', 'Mon, Jun 11', '$7,802.84', '<com cp m pos test drive T D Sales Overview Activity void onResume']

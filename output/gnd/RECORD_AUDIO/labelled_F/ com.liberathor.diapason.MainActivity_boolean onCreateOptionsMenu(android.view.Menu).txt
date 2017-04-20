@@ -1,1 +1,0 @@
-['Off', 'Outdoor', 'Super ear', '<com liber a thor diapason Main Activity boolean onCreateOptionsMenu']

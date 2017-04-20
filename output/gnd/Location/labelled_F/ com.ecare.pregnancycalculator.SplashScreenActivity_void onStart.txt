@@ -1,1 +1,0 @@
-['My Pregnancy Calculator', '<com ec are pregnancy calculator Splash Screen Activity void onStart']

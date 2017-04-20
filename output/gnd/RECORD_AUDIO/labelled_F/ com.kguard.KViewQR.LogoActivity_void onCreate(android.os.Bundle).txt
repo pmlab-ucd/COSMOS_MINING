@@ -1,1 +1,0 @@
-['KViewQR', '<com k guard K View Q R Logo Activity void onCreate']

@@ -1,1 +1,0 @@
-['No connection to Streamer', 'Please make sure your Streamer is turned on, is in range, and is paired with this device.', 'Connect to Streamer', 'Demo Mode', '<com ot icon connect line activity No Connection Activity void onClick']

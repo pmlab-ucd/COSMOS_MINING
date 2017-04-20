@@ -1,1 +1,0 @@
-['DS Barometer', 'Items for sale', 'Buy', 'Purchase Barometer', '* Thanks for purchasing DS Barometer! Advertising will be removed and you will experience a full Barometer, uncluttered by ads. You will have to restart the app in order for the advertising block to take effect.', '<com app brain App Brain Activity void onPause']

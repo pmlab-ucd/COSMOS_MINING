@@ -1,1 +1,0 @@
-['Back', 'Edit POI Page', 'POI (Latitude/longitude in this Photo)', 'Latitude', '-', 'Longitude', '-', 'POI (After Update)', 'Latitude', 'Longitude', 'Auxiliary information', '<com jess ui Two Way Grid View boolean onKeyMultiple']

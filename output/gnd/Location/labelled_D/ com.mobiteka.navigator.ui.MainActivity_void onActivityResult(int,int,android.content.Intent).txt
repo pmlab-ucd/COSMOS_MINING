@@ -1,1 +1,0 @@
-['Favourite routes', 'No saved routes yet', '<com mob it eka navigator ui Main Activity void onActivityResult']

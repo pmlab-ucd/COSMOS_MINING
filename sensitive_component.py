@@ -33,7 +33,7 @@ class SensitiveComponent:
             method_name = sub_names[1]
             class_name = sub_names[0].replace(' ', '')
             class_name = SensitiveComponent.SensEntryPoint.sep_class_name(class_name)
-            return class_name + ' ' + method_name
+            return class_name, method_name
 
         @staticmethod
         def sep_class_name(class_name):

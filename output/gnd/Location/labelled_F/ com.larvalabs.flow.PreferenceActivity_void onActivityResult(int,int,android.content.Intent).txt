@@ -1,1 +1,0 @@
-['Main Settings', 'Theme', 'Material Narrow', 'Use custom wallpaper', 'OFF', 'Choose wallpaper image', 'Use custom profile', 'OFF', 'Choose profile image', 'Transparent system bars', 'OFF', 'Temperature units', 'Fahrenheit', 'Left-handed Layout', 'OFF', 'OFF', '<com larva labs flow Preference Activity void onActivityResult']

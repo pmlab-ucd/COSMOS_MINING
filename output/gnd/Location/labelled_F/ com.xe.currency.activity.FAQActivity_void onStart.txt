@@ -1,1 +1,0 @@
-[' XE Currency 4.2.3', '<com xe currency activity F A Q Activity void onStart']

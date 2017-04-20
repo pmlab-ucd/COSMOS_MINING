@@ -1,1 +1,0 @@
-['Add UPC to Item Type', '<yardi Android Work Order activity I T Add U P C List Activity void onCreate']

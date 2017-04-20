@@ -1,1 +1,0 @@
-['Screening', 'Filter setup', 'Display all devices', '<com hb view spy smart activity device Screening Device Activity void onResume']

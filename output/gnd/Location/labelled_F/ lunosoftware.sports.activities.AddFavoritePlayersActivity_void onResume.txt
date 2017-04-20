@@ -1,1 +1,0 @@
-['Add Players', 'Done', 'by name', 'by team', 'search by last name', '<lunosoftware sports activities Add Favorite Players Activity void onResume']

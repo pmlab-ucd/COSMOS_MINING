@@ -1,1 +1,0 @@
-['Login expired!', 'Your login expired. Please re-login.', 'OK', '<com tel mate Telmate Gettingout ui Photos Activity void onResume']

@@ -1,1 +1,0 @@
-['Discard', 'Done', 'Fullname', 'City where you live', 'Email', '<com tourist eye activities Signup Activity void onActivityResult']

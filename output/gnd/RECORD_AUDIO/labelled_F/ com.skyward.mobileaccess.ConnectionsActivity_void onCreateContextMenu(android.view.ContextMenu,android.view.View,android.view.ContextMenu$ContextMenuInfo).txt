@@ -1,1 +1,0 @@
-['Passcode Settings', "Would you like Skyward to require a passcode every time you open the application or only when you've been away for 10 minutes? Wait time can be adjusted from account settings.", 'Right Away', 'After 10 minutes', '<com skyward mobile access Connections Activity void onCreateContextMenu']

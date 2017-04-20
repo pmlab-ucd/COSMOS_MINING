@@ -1,1 +1,0 @@
-['Sound Analyser', 'myProject', 'Stop', 'Reset', '<com zephyr Analyser P R O ac void onClick']

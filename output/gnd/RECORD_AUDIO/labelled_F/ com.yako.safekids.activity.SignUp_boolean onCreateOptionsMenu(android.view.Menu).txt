@@ -1,1 +1,0 @@
-['Sign up', 'Full name', 'Login', 'City', 'Phone number', '+44', 'Car type', '<com yak o safe kids activity Sign Up boolean onCreateOptionsMenu']

@@ -1,1 +1,0 @@
-['reply: null', 'Send', '160/1', 'Type to compose', '<com jb go sms widget go sms widget base Write Message Activity$1 void onClick']

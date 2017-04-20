@@ -1,1 +1,0 @@
-['Tools', 'Discount \nCalculator', 'Calculator', '<com cp m pos test drive T D Tools Activity void onDestroy']

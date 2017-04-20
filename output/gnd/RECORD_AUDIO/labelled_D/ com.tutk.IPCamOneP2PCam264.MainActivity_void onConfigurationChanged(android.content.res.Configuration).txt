@@ -1,1 +1,0 @@
-['IP CAMERA ONE', 'Click here to add camera', '<com tut k I P Cam One P2 P Cam264 Main Activity void onConfigurationChanged']

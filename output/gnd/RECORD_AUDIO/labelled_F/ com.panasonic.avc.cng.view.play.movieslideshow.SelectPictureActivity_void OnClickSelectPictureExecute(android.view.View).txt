@@ -1,1 +1,0 @@
-['Title Picture', 'JPEG', 'Execute', 'Gallery', '160', '<com panasonic a vc cng view play movie slideshow Select Picture Activity void OnClickSelectPictureExecute']

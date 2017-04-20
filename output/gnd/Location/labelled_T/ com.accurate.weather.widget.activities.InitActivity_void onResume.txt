@@ -1,1 +1,0 @@
-['Edit Location', 'Enter city or zip code', 'My Location', '<com accurate weather widget activities Init Activity void onResume']

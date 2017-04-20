@@ -1,1 +1,0 @@
-['Color Rain', 'Activate', 'Feel Lucky', '<com kk keyboard e moji keyboard theme activity Main Activity void onRequestPermissionsResult']

@@ -1,1 +1,0 @@
-['MADE WITH PIXLR', 'Oops!\nNo internet connection\nPlease try again', 'Retry', '<com pix lr feeds ui Head Foot Recycler View void <init>']

@@ -1,1 +1,0 @@
-['Medevac Tool', 'Current Location:', 'GPS Info:', 'Accuracy: N/A', 'Altitude: N/A', 'Send via SMS', '<com edam toft ems tools Medevac Tool void onStart']

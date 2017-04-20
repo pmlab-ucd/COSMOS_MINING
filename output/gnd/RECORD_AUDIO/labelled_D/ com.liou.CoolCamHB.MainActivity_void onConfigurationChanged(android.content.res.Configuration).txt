@@ -1,1 +1,0 @@
-['CoolCamHB', 'Click here to add camera', '<com lio u Cool Cam H B Main Activity void onConfigurationChanged']

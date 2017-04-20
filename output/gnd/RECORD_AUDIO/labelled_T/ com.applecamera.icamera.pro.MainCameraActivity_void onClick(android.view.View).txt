@@ -1,1 +1,0 @@
-['VIDEO', 'PHOTO', 'SQUARE', '<com apple camera i camera pro Main Camera Activity void onClick']

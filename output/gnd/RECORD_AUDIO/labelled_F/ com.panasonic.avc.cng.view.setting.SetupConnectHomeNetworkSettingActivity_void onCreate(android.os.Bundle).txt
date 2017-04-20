@@ -1,1 +1,0 @@
-['Set connect. dest.', 'SSID', 'Password', 'Display password', 'The set SSID/password will be reflected when the camera is turned OFF and then back ON again, or when the Wi-Fi connection with the camera is reestablished.', 'Cancel', 'Erase', 'OK', '<com panasonic a vc cng view setting Setup Connect Home Network Setting Activity void onCreate']
