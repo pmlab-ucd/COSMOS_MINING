@@ -6,7 +6,7 @@ import os
 from subprocess import STDOUT, check_output
 import logging
 import threading
-
+import re
 
 class Dict2obj(object):
     def __init__(self, d):
@@ -92,6 +92,16 @@ class Utilities:
         Utilities.logger = logger
         return logger
 
+    @staticmethod
+    def str2words(str):
+        #print 'English Detected!'
+        str = re.sub('(http|com|net|org|/|\?|=|_|:|&|\.)', ' ', str)  # if English only
+        words = str.lower().split()
+        #words = [w for w in words if not w in stopwords.words("english")]
+        #print words
+
+        # print '/'.join(words) #  do not use print if you want to return
+        return ' '.join(words)
 
 
 

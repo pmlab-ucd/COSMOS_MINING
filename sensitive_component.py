@@ -43,13 +43,15 @@ class SensitiveComponent:
                 cap_sub_name = ' '.join(re.findall('[A-Z][^A-Z]*', sub_name))
                 if len(cap_sub_name) > 0:
                     name.append(cap_sub_name)
+                    if len(sub_name.split(cap_sub_name[0])) > 1:
+                        name.append(sub_name.split(cap_sub_name[0])[0])
                 else:
                     if len(sub_name) == len(WordSpliter.infer_spaces(sub_name).split(' ')):
                         name.append(sub_name)
                     else:
                         name.append(WordSpliter.infer_spaces(sub_name))
 
-            return ' '.join(name)
+            return ' '.join(name).lower()
 
     class SensitiveView:
         def __init__(self, view_data):
