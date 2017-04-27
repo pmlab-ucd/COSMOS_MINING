@@ -2,53 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b876ad0-1846-4c17-9912-20cfaf15dc70" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_formatter2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reorg_labelled.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Casual_50_0.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/SEND_SMS/News_Magazines_50_0.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/SEND_SMS/Tools_50_0.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Business_50_0.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Shopping_50_0.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_formatter.py" afterPath="$PROJECT_DIR$/data_formatter.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Books_Reference_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Books_Reference_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Business_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Business_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Business_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Business_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/COMICS_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/COMICS_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Communication_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Communication_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Communication_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Communication_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Communication_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Communication_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Communication_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Communication_50_3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Education_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Education_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Finance_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Finance_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Finance_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Finance_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Finance_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Finance_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Health_Fitness_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Health_Fitness_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Libraries_Demo_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Libraries_Demo_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Libraries_Demo_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Libraries_Demo_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Medical_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Medical_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Music_Audio_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Music_Audio_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Music_Audio_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Music_Audio_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Music_Audio_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Music_Audio_50_3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Music_Audio_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Music_Audio_50_4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Personalization_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Personalization_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_5.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_5.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_6.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Photography_50_6.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Productivity_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Productivity_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Productivity_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Productivity_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Productivity_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Productivity_50_3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Shopping_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Shopping_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Social_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Social_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Sports_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Sports_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Tools_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Tools_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Tools_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Tools_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Travel_Local_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Travel_Local_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Weather_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/RECORD_AUDIO/Weather_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sensitive_component.py" afterPath="$PROJECT_DIR$/sensitive_component.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils.py" afterPath="$PROJECT_DIR$/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_formatter2.py" afterPath="$PROJECT_DIR$/data_formatter2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Books_Reference_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Books_Reference_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Business_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Business_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/COMICS_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/COMICS_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Communication_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Communication_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Education_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Education_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Finance_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Finance_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Health_Fitness_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Health_Fitness_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Libraries_Demo_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Libraries_Demo_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Medical_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Medical_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Music_Audio_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Music_Audio_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/News_Magazines_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/News_Magazines_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Photography_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Photography_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Productivity_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Productivity_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Shopping_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Shopping_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Social_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Social_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Sports_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Sports_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Tools_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Tools_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Travel_Local_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Travel_Local_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Camera/Weather_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Camera/Weather_50_0.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tmp.py" afterPath="$PROJECT_DIR$/tmp.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/words-by-frequency.txt" afterPath="$PROJECT_DIR$/words-by-frequency.txt" />
     </list>
     <ignored path="COSPOS_MINGING.iws" />
@@ -62,7 +39,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1492650033881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1493242982450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$main.coverage" NAME="main Coverage Results" MODIFIED="1485851250070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$k_means.coverage" NAME="k-means Coverage Results" MODIFIED="1485041961188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$data_formatter.coverage" NAME="data_formatter Coverage Results" MODIFIED="1492817387614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -76,7 +53,7 @@
     <SUITE FILE_PATH="coverage/COSMOS_MINING$test.coverage" NAME="test Coverage Results" MODIFIED="1488238074254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$sensitive_component.coverage" NAME="sensitive_component Coverage Results" MODIFIED="1485150634815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1485851519678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$data_formatter2.coverage" NAME="data_formatter2 Coverage Results" MODIFIED="1493070390749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$data_formatter2.coverage" NAME="data_formatter2 Coverage Results" MODIFIED="1493164688964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$test.coverage" NAME="test Coverage Results" MODIFIED="1485650762434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$main.coverage" NAME="main Coverage Results" MODIFIED="1487383936983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$Unittests_in_sensitive_component_test.coverage" NAME="Unittests in sensitive_component_test Coverage Results" MODIFIED="1487201647234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -104,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data_formatter2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="data_formatter2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_formatter2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="383" column="15" lean-forward="false" selection-start-line="383" selection-start-column="15" selection-end-line="383" selection-end-column="15" />
+            <state relative-caret-position="226">
+              <caret line="397" column="14" lean-forward="false" selection-start-line="397" selection-start-column="14" selection-end-line="397" selection-end-column="14" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -116,21 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="words-by-frequency.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/words-by-frequency.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3013272">
-              <caret line="125553" column="3" lean-forward="false" selection-start-line="125553" selection-start-column="3" selection-end-line="125553" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tmp.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tmp.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tmp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            <state relative-caret-position="456">
+              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -141,7 +108,7 @@
       <file leaf-file-name="SimpleDataFormatter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SimpleDataFormatter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2688">
+            <state relative-caret-position="336">
               <caret line="112" column="88" lean-forward="false" selection-start-line="112" selection-start-column="88" selection-end-line="112" selection-end-column="88" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
@@ -188,8 +155,8 @@
       <file leaf-file-name="sensitive_component.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sensitive_component.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
+            <state relative-caret-position="260">
+              <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -218,7 +185,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>wea</find>
       <find>jumped</find>
       <find>crash</find>
       <find>weath</find>
@@ -248,6 +214,7 @@
       <find>| 41 | &lt;net.vitalad.backwardtalk.SettingsActivity: boolean onCreateOptionsMenu(android.view.Menu)&gt;; void &lt;init&gt; | ![](F:\COSMOS\output\py\Play_win8\Social\net.vitalad.backwardtalk\net.vitalad.backwardtalk.SettingsActivity.png) |  | T |</find>
       <find>record</find>
       <find>button</find>
+      <find>CN</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -276,16 +243,16 @@
         <option value="$PROJECT_DIR$/output/gnd/users/Location.md" />
         <option value="$PROJECT_DIR$/trigger_out_handler.py" />
         <option value="$PROJECT_DIR$/SimpleDataFormatter.py" />
-        <option value="$PROJECT_DIR$/tmp.py" />
-        <option value="$PROJECT_DIR$/tmp.py" />
         <option value="$PROJECT_DIR$/oversampling.py" />
         <option value="$PROJECT_DIR$/data_formatter.py" />
         <option value="$PROJECT_DIR$/utils.py" />
         <option value="$PROJECT_DIR$/utils.py" />
         <option value="$PROJECT_DIR$/sensitive_component.py" />
-        <option value="$PROJECT_DIR$/words-by-frequency.txt" />
         <option value="$PROJECT_DIR$/reorg_labelled.py" />
+        <option value="$PROJECT_DIR$/words-by-frequency.txt" />
         <option value="$PROJECT_DIR$/data_formatter2.py" />
+        <option value="$PROJECT_DIR$/tmp.py" />
+        <option value="$PROJECT_DIR$/tmp.py" />
       </list>
     </option>
   </component>
@@ -546,7 +513,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.data_formatter2">
+  <component name="RunManager" selected="Python.tmp">
     <configuration default="false" name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -844,11 +811,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.data_formatter2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.reorg_labelled" />
-        <item index="2" class="java.lang.String" itemvalue="Python.oversampling" />
-        <item index="3" class="java.lang.String" itemvalue="Python.data_formatter" />
-        <item index="4" class="java.lang.String" itemvalue="Python.tmp" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tmp" />
+        <item index="1" class="java.lang.String" itemvalue="Python.data_formatter2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.reorg_labelled" />
+        <item index="3" class="java.lang.String" itemvalue="Python.oversampling" />
+        <item index="4" class="java.lang.String" itemvalue="Python.data_formatter" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -1166,7 +1133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1492728896568</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Relabel RECORD_AUDIO">
+      <created>1493070620152</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1493070620152</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1196,7 +1170,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28954938" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2857143" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" x="202" y="796" width="1366" height="728" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25407478" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" x="202" y="796" width="1366" height="728" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32694152" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1247,7 +1221,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add event type" />
     <MESSAGE value="WordSpliter and Some results" />
     <MESSAGE value="Filter single character and some results" />
     <MESSAGE value="Some results" />
@@ -1272,7 +1245,8 @@
     <MESSAGE value="User study and Virushare" />
     <MESSAGE value="User study" />
     <MESSAGE value="Sep who, when, what" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sep who, when, what" />
+    <MESSAGE value="Relabel RECORD_AUDIO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Relabel RECORD_AUDIO" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1481,26 +1455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SimpleDataFormatter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2688">
-          <caret line="112" column="88" lean-forward="false" selection-start-line="112" selection-start-column="88" selection-end-line="112" selection-end-column="88" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tmp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="28" lean-forward="false" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/trigger_out_handler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
@@ -1509,14 +1463,6 @@
             <element signature="e#0#39#0" expanded="true" />
             <element signature="e#3039#3848#1" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sensitive_component.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="25" selection-end-line="38" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1540,14 +1486,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/words-by-frequency.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3013272">
-          <caret line="125553" column="3" lean-forward="false" selection-start-line="125553" selection-start-column="3" selection-end-line="125553" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/reorg_labelled.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="744">
@@ -1556,12 +1494,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sensitive_component.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/words-by-frequency.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="125554" column="3" lean-forward="false" selection-start-line="125554" selection-start-column="3" selection-end-line="125554" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimpleDataFormatter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="112" column="88" lean-forward="false" selection-start-line="112" selection-start-column="88" selection-end-line="112" selection-end-column="88" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data_formatter2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="383" column="15" lean-forward="false" selection-start-line="383" selection-start-column="15" selection-end-line="383" selection-end-column="15" />
+        <state relative-caret-position="226">
+          <caret line="397" column="14" lean-forward="false" selection-start-line="397" selection-start-column="14" selection-end-line="397" selection-end-column="14" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
           </folding>
         </state>
       </provider>

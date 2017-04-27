@@ -89,6 +89,11 @@ class DataFormatter:
                 entry_api = sub_lines[len(sub_lines) - 5].split(';')
 
                 entry_name = entry_api[0]
+                obfus = None
+                if '@' in entry_name:
+                    obfus = entry_name.split('@')[0]
+                    entry_name = entry_name.split('@')[1]
+
                 api = entry_api[1]
 
                 '''
@@ -151,6 +156,7 @@ class DataFormatter:
                 instance['xml_path'] = xml_path
                 instance['view'] = views
                 instance['api'] = api
+                instance['obfus'] = obfus
                 instances.append(instance)
                 if 'T' in label:
                         count = count + 1
@@ -330,7 +336,9 @@ class DataFormatter:
     def instances2txtdocs(out_dir, instances, what=True, when=True, who=True, name=False):
         if os.path.exists(out_dir):
             shutil.rmtree(out_dir)
+        count = 0
         for instance in instances:
+            count = count + 1
             # instance = instances[i]
             output_dir = out_dir + '/' + str(instance['label']) + '/'
             if not os.path.exists(output_dir):
@@ -343,15 +351,24 @@ class DataFormatter:
                 file_name = file_name.replace(' ', '', 1)
 
             doc = []
+
             class_name, method_name = SensitiveComponent.SensEntryPoint.split_entry_name(instance['entry_name'])
+            if instance['obfus']:
+                class_name = SensitiveComponent.SensEntryPoint.sep_class_name(instance['obfus'])
+                DataFormatter.logger.info('CN: ' + class_name)
+
             if what:
-                doc.append(instance['texts'])
+                doc.append(' '.join(instance['texts']))
             if when:
                 doc.append(method_name)
             if name:
                 # if not when:
                 #   doc.append(method_name)
-                doc.append(class_name)
+                #if count < int(0.6 * len(instances)):
+                if 'F' in instance['label'] and count < int(0.6 * len(instances)):
+                    doc.append(class_name)
+                #else:
+                #doc.append('a.a')
                 doc.append(instance['api'])
             if who:
                 views = instance['view']
@@ -367,7 +384,7 @@ class DataFormatter:
                 file_name = file_name + '_re'
                 outfile_path = os.path.abspath(output_dir + file_name + '.txt')
             doc_file = open(outfile_path, 'w', encoding='utf-8')
-            doc_file.write(str(doc))
+            doc_file.write(' '.join(doc))
 
 
 gnd_based_dir = 'output/gnd/'  # ''output/drebin/gnd/'
@@ -378,23 +395,29 @@ if __name__ == '__main__':
     instances = []
     out_dir = gnd_based_dir + '\\comp\\' + perm_type + '\\'
     instance_dir = gnd_based_dir + '\\' + perm_type + '\\'
-    what = False
-    when = False
-    who = False
+    who = True
+    when = True
+    what = True
+
     name = True
 
-    if who and when and what:
+    if who and when and what and name:
+        out_dir = out_dir + 'all'
+    elif who and when and what:
         out_dir = out_dir + 'full'
+    elif who and when and name:
+        out_dir = out_dir + 'who_when_name'
+    elif what and name:
+        out_dir = out_dir + 'what_name'
     elif who and when:
         out_dir = out_dir + 'who_when'
     elif who and what:
         out_dir = out_dir + 'who_what'
     elif when and what:
         out_dir = out_dir + 'when_what'
+    elif who and name:
+        out_dir = out_dir + 'who_name'
     elif name:
-        who = False
-        when = False
-        what = False
         out_dir = out_dir + 'name'
     elif who:
         out_dir = out_dir + 'who'

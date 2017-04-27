@@ -17,6 +17,6 @@ def parse_labelled(gnd_dir, instances):
 if __name__ == '__main__':
     instances = {}
     gnd_based_dir = 'output/gnd/'
-    perm_type = 'RECORD_AUDIO' #SEND_SMS'
+    perm_type = 'Camera' #SEND_SMS'
     instance_dir = gnd_based_dir + '/' + perm_type
     parse_labelled(instance_dir, instances)
