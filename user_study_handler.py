@@ -10,7 +10,9 @@ pngs = []
 '''
 To handle user study feedback
 '''
-class SimpleDataFormatter:
+
+
+class UserStudyHandler:
     TAG = 'DataFormatter'
     logger = Utilities.set_logger(TAG)
     gnd_dir = None
@@ -18,7 +20,7 @@ class SimpleDataFormatter:
     @staticmethod
     def handle_md(md_file, headers, instances):
         counter = len(instances)
-        SimpleDataFormatter.logger.info(md_file)
+        UserStudyHandler.logger.info(md_file)
         with open(md_file, 'r') as text_file:
             for line in text_file:
                 sub_lines = line.split('|')
@@ -28,7 +30,7 @@ class SimpleDataFormatter:
 
                 if line.startswith('#') or line.startswith('| Index ') or line.startswith('| --'):
                     continue
-                SimpleDataFormatter.logger.info(line)
+                UserStudyHandler.logger.info(line)
                 png_path = sub_lines[len(sub_lines) - 4].split('(')[1]
                 png_path = png_path.split(')')[0]
 
@@ -45,7 +47,7 @@ class SimpleDataFormatter:
                     act = str(header)
                     act.replace('- Copy', '')
                     if act in png_path:
-                        SimpleDataFormatter.logger.info(header)
+                        UserStudyHandler.logger.info(header)
                         found = True
                         break
                 if not found or line in md_targets:
@@ -55,10 +57,10 @@ class SimpleDataFormatter:
                 if png_path not in pngs:
                     pngs.append(png_path)
                 xml_path = png_path.split('.png')[0] + '.xml'
-                SimpleDataFormatter.logger.info(xml_path + ', ' + line)
+                UserStudyHandler.logger.info(xml_path + ', ' + line)
                 doc = []
                 DataFormatter.handle_dynamic_xml(xml_path, doc)
-                SimpleDataFormatter.logger.info(doc)
+                UserStudyHandler.logger.info(doc)
 
                 entry_name = sub_lines[len(sub_lines) - 5].split(';')[0]
                 entry_sub_words = SensitiveComponent.SensEntryPoint.split_entry_name(entry_name)
@@ -73,12 +75,12 @@ class SimpleDataFormatter:
 
     @staticmethod
     def parse_labelled(gnd_dir, headers, instances):
-        SimpleDataFormatter.gnd_dir = gnd_dir
+        UserStudyHandler.gnd_dir = gnd_dir
         for root, dirs, files in os.walk(gnd_dir):
             for file_name in files:
                 if file_name.endswith('.md'):
                     # try:
-                    SimpleDataFormatter.handle_md(os.path.join(root, file_name), headers, instances)
+                    UserStudyHandler.handle_md(os.path.join(root, file_name), headers, instances)
                     # except Exception as e:
                     #   DataFormatter.logger.error(e)
 
@@ -109,8 +111,8 @@ if __name__ == '__main__':
     gnd_based_dir = 'output/gnd/'
     perm_type = 'users'
     instance_dir = gnd_based_dir + '/' + perm_type + '/'
-    headers, users = SimpleDataFormatter.read_user_csv(instance_dir + 'Location.csv')
-    SimpleDataFormatter.parse_labelled(gnd_based_dir + '/Location/', headers, instances)
+    headers, users = UserStudyHandler.read_user_csv(instance_dir + 'Location.csv')
+    UserStudyHandler.parse_labelled(gnd_based_dir + '/Location/', headers, instances)
     # print(len(pngs))
     print(len(md_targets))
     md_file_path = instance_dir + 'Location.md'
@@ -122,7 +124,7 @@ if __name__ == '__main__':
     text_file.write("| Index | Entry Point & APIs | Screen shot | Resource id | Label |\n")
     text_file.write('| ------------- | ------------- | ------------- |-------------|-------------|\n')
     for md_target in md_targets:
-        SimpleDataFormatter.logger.debug(md_target)
+        UserStudyHandler.logger.debug(md_target)
         text_file.write(md_target)
     print(len(users))
     for user in users:
@@ -135,7 +137,7 @@ if __name__ == '__main__':
             act = str(header)
             act = act.replace(' - Copy', '')
             act = act.replace('- Copy', '')
-            SimpleDataFormatter.logger.info(act + ',' + user[header])
+            UserStudyHandler.logger.info(act + ',' + user[header])
             for instance in instances:
                 if act in instance['png_path']:
                     instance['label'] = user[header]
