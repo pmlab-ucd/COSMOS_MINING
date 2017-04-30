@@ -1,1 +1,0 @@
-['Enter URL', 'Bookmarks', 'History', '<com cy browser Main Activity void onStop']
