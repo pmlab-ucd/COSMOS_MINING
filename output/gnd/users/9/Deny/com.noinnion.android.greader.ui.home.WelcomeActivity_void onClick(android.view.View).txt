@@ -1,0 +1,1 @@
+[['com no in ni on android g reader ui home welcome activity ', 'void onClick'], 'void onClick']

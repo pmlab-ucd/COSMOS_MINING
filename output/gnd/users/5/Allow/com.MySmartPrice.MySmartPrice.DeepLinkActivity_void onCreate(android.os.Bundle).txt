@@ -1,0 +1,1 @@
+[['com my smart price  my smart price  deep link activity ', 'void onCreate'], 'void onCreate']

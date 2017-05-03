@@ -1,0 +1,1 @@
+[['com global e grow app rose gal view activity product write review activity$4 ', 'void onClick'], 'void onClick']

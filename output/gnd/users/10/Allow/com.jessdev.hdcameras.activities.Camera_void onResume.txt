@@ -1,0 +1,1 @@
+[['com jess dev hd cameras activities camera ', 'void onResume'], 'void onResume']

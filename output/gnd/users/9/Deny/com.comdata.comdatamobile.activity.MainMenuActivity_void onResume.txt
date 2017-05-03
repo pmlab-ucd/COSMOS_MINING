@@ -1,0 +1,1 @@
+[['com com data com data mobile activity main menu activity ', 'void onResume'], 'void onResume']

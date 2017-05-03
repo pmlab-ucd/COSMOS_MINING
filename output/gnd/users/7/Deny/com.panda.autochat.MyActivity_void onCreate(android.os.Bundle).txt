@@ -1,0 +1,1 @@
+[['com panda auto chat my activity ', 'void onCreate'], 'void onCreate']

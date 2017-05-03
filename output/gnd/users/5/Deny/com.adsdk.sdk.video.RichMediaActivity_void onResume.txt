@@ -1,0 +1,1 @@
+[['com ad sdk sdk video rich media activity ', 'void onResume'], 'void onResume']

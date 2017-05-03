@@ -1,0 +1,1 @@
+[['com android sears activity menu drawer activity ', 'void onDestroy'], 'void onDestroy']

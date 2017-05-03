@@ -1,0 +1,1 @@
+[['com digby android ca bela more view activity ', 'void onClick'], 'void onClick']

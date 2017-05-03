@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../COSPOS_MINING/.idea/COSMOS_MINING.iml" filepath="$PROJECT_DIR$/../COSPOS_MINING/.idea/COSMOS_MINING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/COSMOS_MINING.iml" filepath="$PROJECT_DIR$/.idea/COSMOS_MINING.iml" />
+      <module fileurl="file://C:\Users\majes\PycharmProjects\COSPOS_MINING\.idea\COSMOS_MINING.iml" filepath="C:\Users\majes\PycharmProjects\COSPOS_MINING\.idea\COSMOS_MINING.iml" />
     </modules>
   </component>
 </project>

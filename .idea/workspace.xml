@@ -1,121 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b876ad0-1846-4c17-9912-20cfaf15dc70" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/0/Allow/ activity.NewsActivity_boolean onOptionsItemSelected(android.view.MenuItem).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/0/Deny/ app.bailbooks.com.CheckInPhoto_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/0/Deny/ com.android.sears.activity.MenuDrawerActivity_void onActivityResult(int,int,android.content.Intent).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/0/Deny/ com.android.sears.activity.MenuDrawerActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/0/Deny/ com.android.sears.activity.MenuDrawerActivity_void onDestroy.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/0/Deny/ com.android.sears.activity.MenuDrawerActivity_void onPause.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/0/Deny/ com.android.sears.activity.MenuDrawerActivity_void onRequestPermissionsResult(int,java.lang.String[],int[]).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/0/Deny/ com.android.sears.activity.MenuDrawerActivity_void onResume.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/0/Deny/ com.android.sears.activity.MenuDrawerActivity_void onSaveInstanceState(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/0/Deny/ com.android.sears.activity.MenuDrawerActivity_void onStart.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/0/Deny/ com.gc.materialdesign.views.ScrollView_boolean onTouchEvent(android.view.MotionEvent).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/0/Deny/ jp.snowlife01.android.hdcamera.MainActivity2$115_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/0/Deny/ jp.snowlife01.android.hdcamera.MainActivity2$120_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/0/Deny/ jp.snowlife01.android.hdcamera.MainActivity2_boolean onCreateOptionsMenu(android.view.Menu).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/0/Deny/ jp.snowlife01.android.hdcamera.MainActivity2_void onResume.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/0/Deny/ jp.snowlife01.android.hdcamera.MainActivity2_void onSensorChanged(android.hardware.SensorEvent).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/1/Allow/ app.bailbooks.com.CheckInPhoto_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/1/Allow/ com.android.sears.activity.MenuDrawerActivity_void onActivityResult(int,int,android.content.Intent).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/1/Allow/ com.android.sears.activity.MenuDrawerActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/1/Allow/ com.android.sears.activity.MenuDrawerActivity_void onDestroy.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/1/Allow/ com.android.sears.activity.MenuDrawerActivity_void onPause.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/1/Allow/ com.android.sears.activity.MenuDrawerActivity_void onRequestPermissionsResult(int,java.lang.String[],int[]).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/1/Allow/ com.android.sears.activity.MenuDrawerActivity_void onResume.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/1/Allow/ com.android.sears.activity.MenuDrawerActivity_void onSaveInstanceState(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/1/Allow/ com.android.sears.activity.MenuDrawerActivity_void onStart.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/1/Deny/ activity.NewsActivity_boolean onOptionsItemSelected(android.view.MenuItem).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/1/Deny/ com.gc.materialdesign.views.ScrollView_boolean onTouchEvent(android.view.MotionEvent).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/1/Deny/ jp.snowlife01.android.hdcamera.MainActivity2$115_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/1/Deny/ jp.snowlife01.android.hdcamera.MainActivity2$120_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/1/Deny/ jp.snowlife01.android.hdcamera.MainActivity2_boolean onCreateOptionsMenu(android.view.Menu).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/1/Deny/ jp.snowlife01.android.hdcamera.MainActivity2_void onResume.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/1/Deny/ jp.snowlife01.android.hdcamera.MainActivity2_void onSensorChanged(android.hardware.SensorEvent).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ co.uk.alt236.android.lib.networkInfoIi.activities.MainActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ co.uk.alt236.android.lib.networkInfoIi.activities.MainActivity_void onPostCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.comdata.comdatamobile.activity.MainMenuActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.comdata.comdatamobile.activity.MainMenuActivity_void onResume.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.comdata.comdatamobile.activity.RegisterDeviceActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.dating.mechat.SignUp_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.digby.android.cabela.MoreViewActivity_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.landstar.landstarconnect.FreightBillListing$11_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.landstar.landstarconnect.FreightBillListing_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.landstar.landstarconnect.FreightBillListing_void onDestroy.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.macrovideo.v380.SmartLinkQuickWifiConfigActivity_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.mobileappsteam.weatherforecast.activities.MainActivity$3_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.mobileappsteam.weatherforecast.activities.MainActivity_void onActivityResult(int,int,android.content.Intent).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.mobileappsteam.weatherforecast.activities.MainActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.phonelocationtracker.track.MyLocationHistory_void onStart.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.phonelocationtracker.track.MyLocationHistory_void onStop.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.redcirrus.iFlyPro.activities.AirlineInfoScreen_void onStart.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.redcirrus.iFlyPro.activities.AirlineInfoScreen_void onStop.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.row52.app.activities.HomeActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ com.simplyhired.simplyandroid.SimplyHiredActivity_boolean onOptionsItemSelected(android.view.MenuItem).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ gpsfindme.benamati.it.InviaPosizioneActivity$1_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ main.java.com.iloiacono.what2wear.What2WearActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Allow/ main.java.com.iloiacono.what2wear.What2WearActivity_void onRequestPermissionsResult(int,java.lang.String[],int[]).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ activity.NewsActivity_boolean onOptionsItemSelected(android.view.MenuItem).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ app.bailbooks.com.CheckInPhoto_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ co.uk.samsnyder.papro.MainActivity_void onActivityResult(int,int,android.content.Intent).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ co.uk.samsnyder.papro.MainActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.MySmartPrice.MySmartPrice.DeepLinkActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.PriceRhythm.Pages.RatingPage_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.adsdk.sdk.video.RichMediaActivity$2_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.adsdk.sdk.video.RichMediaActivity_void finish.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.adsdk.sdk.video.RichMediaActivity_void onResume.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.adsmogo.adview.AdsMogoLayout_boolean onInterceptTouchEvent(android.view.MotionEvent).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.android.sears.activity.MenuDrawerActivity_void onActivityResult(int,int,android.content.Intent).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.android.sears.activity.MenuDrawerActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.android.sears.activity.MenuDrawerActivity_void onDestroy.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.android.sears.activity.MenuDrawerActivity_void onPause.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.android.sears.activity.MenuDrawerActivity_void onRequestPermissionsResult(int,java.lang.String[],int[]).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.android.sears.activity.MenuDrawerActivity_void onResume.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.android.sears.activity.MenuDrawerActivity_void onSaveInstanceState(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.android.sears.activity.MenuDrawerActivity_void onStart.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.cy.browser.MainActivity_void onStop.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.earthquakemap.app.ui.activities.HomeActivity_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.gc.materialdesign.views.LayoutRipple_void onDraw(android.graphics.Canvas).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.gc.materialdesign.views.ScrollView_boolean onTouchEvent(android.view.MotionEvent).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.globalegrow.app.rosegal.view.activity.product.WriteReviewActivity$2_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.globalegrow.app.rosegal.view.activity.product.WriteReviewActivity$4_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.globalegrow.app.rosegal.view.activity.product.WriteReviewActivity_boolean onKeyDown(int,android.view.KeyEvent).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.handynorth.carnegie.Main_void onResume.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.jessdev.hdcameras.activities.Camera_void onResume.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.kaname.surya.android.strangecamera.message.MessageActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.kusernames.KActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.kusernames.KActivity_void onResume.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.mercatustechnologies.android.sprouts.Main_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.mercatustechnologies.android.sprouts.StoresFragment_void getCurrentLocation(com.google.android.gms.maps.model.LatLng).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.mobileposse.client.mp5.lib.newsreader.ui.SplashActivity_void onActivityResult(int,int,android.content.Intent).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.mobileposse.client.mp5.lib.view.OnOffButton_boolean onKeyUp(int,android.view.KeyEvent).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.mobileposse.client.mp5.lib.view.OnOffButton_boolean onTouchEvent(android.view.MotionEvent).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.mobileposse.client.mp5.lib.view.screen.InfoSupportScreen_boolean onKeyDown(int,android.view.KeyEvent).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.mobileposse.client.mp5.lib.view.screen.InfoSupportScreen_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.mobileposse.client.mp5.lib.view.screen.InfoSupportScreen_void onConfigurationChanged(android.content.res.Configuration).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.msearcher.camfind.activity.VoiceActivity_void onDestroy.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.nflate.sibi.activities.DynamicLinkActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.noinnion.android.greader.ui.home.WelcomeActivity_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.panda.autochat.MyActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.qustodio.qustodioapp.ParentStatusActivity_void onPause.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.revange.map.MapActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.rockmyrun.rockmyrun.ForgotPasswordActivity_void onStop.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.seattleclouds.modules.rateandreview.a_void onClick(android.view.View).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.sentrilock.sentrismart.ChangePIN_void onResume.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.sentrilock.sentrismart.ChangePassword_void onResume.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.vaxtech.nextbus.lib.activity.RouteStopMapActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ com.versaedge.android.waits.NearMe_void onResume.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ jp.snowlife01.android.hdcamera.MainActivity2_boolean onCreateOptionsMenu(android.view.Menu).txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ jp.snowlife01.android.hdcamera.MainActivity2_void onResume.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/users/2/Deny/ net.hubalek.android.worldclock.activities.SplashActivity_void onCreate(android.os.Bundle).txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/users/Location.csv" afterPath="$PROJECT_DIR$/output/gnd/users/Location.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/users/Location.md" afterPath="$PROJECT_DIR$/output/gnd/users/Location.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sensitive_component.py" afterPath="$PROJECT_DIR$/sensitive_component.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/user_study_handler.py" afterPath="$PROJECT_DIR$/user_study_handler.py" />
-    </list>
+    <list default="true" id="6b876ad0-1846-4c17-9912-20cfaf15dc70" name="Default" comment="" />
     <ignored path="COSPOS_MINGING.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -128,26 +14,27 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/COSMOS_MINING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1493242982450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINGING$main.coverage" NAME="main Coverage Results" MODIFIED="1485851250070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINGING$k_means.coverage" NAME="k-means Coverage Results" MODIFIED="1485041961188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$data_formatter.coverage" NAME="data_formatter Coverage Results" MODIFIED="1492817387614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$word_spliter.coverage" NAME="word_spliter Coverage Results" MODIFIED="1487278204195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSPOS_MINGING$lda.coverage" NAME="lda Coverage Results" MODIFIED="1477613100242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINGING$lda.coverage" NAME="lda Coverage Results" MODIFIED="1485234377879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$sensitive_component_test.coverage" NAME="sensitive_component_test Coverage Results" MODIFIED="1487973855122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$reorg_labelled.coverage" NAME="reorg_labelled Coverage Results" MODIFIED="1492891811829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$user_study_handler.coverage" NAME="user_study_handler Coverage Results" MODIFIED="1493421369256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$SimpleDataFormatter.coverage" NAME="SimpleDataFormatter Coverage Results" MODIFIED="1492475323715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$oversampling.coverage" NAME="oversampling Coverage Results" MODIFIED="1492819467747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$test.coverage" NAME="test Coverage Results" MODIFIED="1488238074254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINGING$lda.coverage" NAME="lda Coverage Results" MODIFIED="1485234377879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$user_study_handler.coverage" NAME="user_study_handler Coverage Results" MODIFIED="1493784896924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$reorg_labelled.coverage" NAME="reorg_labelled Coverage Results" MODIFIED="1492891811829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$main.coverage" NAME="main Coverage Results" MODIFIED="1487383936983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$word_spliter.coverage" NAME="word_spliter Coverage Results" MODIFIED="1487278204195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINGING$test.coverage" NAME="test Coverage Results" MODIFIED="1485650762434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$sensitive_component.coverage" NAME="sensitive_component Coverage Results" MODIFIED="1485150634815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINGING$tmp.coverage" NAME="tmp Coverage Results" MODIFIED="1485851519678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$data_formatter2.coverage" NAME="data_formatter2 Coverage Results" MODIFIED="1493164688964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINGING$test.coverage" NAME="test Coverage Results" MODIFIED="1485650762434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINING$main.coverage" NAME="main Coverage Results" MODIFIED="1487383936983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$sensitive_component_test.coverage" NAME="sensitive_component_test Coverage Results" MODIFIED="1487973855122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$Unittests_in_sensitive_component_test.coverage" NAME="Unittests in sensitive_component_test Coverage Results" MODIFIED="1487201647234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/COSMOS_MINGING$tag_lemma.coverage" NAME="tag_lemma Coverage Results" MODIFIED="1484346575013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSPOS_MINGING$lda.coverage" NAME="lda Coverage Results" MODIFIED="1477613100242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$oversampling.coverage" NAME="oversampling Coverage Results" MODIFIED="1492819467747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$tmp2.coverage" NAME="tmp2 Coverage Results" MODIFIED="1493783874841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/COSMOS_MINING$sklearn_utils.coverage" NAME="sklearn_utils Coverage Results" MODIFIED="1488253475819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINGING$tag_lemma.coverage" NAME="tag_lemma Coverage Results" MODIFIED="1484346575013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINGING$main.coverage" NAME="main Coverage Results" MODIFIED="1485851250070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINGING$k_means.coverage" NAME="k-means Coverage Results" MODIFIED="1485041961188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/COSMOS_MINING$data_formatter.coverage" NAME="data_formatter Coverage Results" MODIFIED="1492817387614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -161,8 +48,8 @@
       <file leaf-file-name="data_formatter.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_formatter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4152">
-              <caret line="185" column="50" lean-forward="false" selection-start-line="185" selection-start-column="50" selection-end-line="185" selection-end-column="50" />
+            <state relative-caret-position="210">
+              <caret line="364" column="8" lean-forward="false" selection-start-line="364" selection-start-column="8" selection-end-line="364" selection-end-column="8" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -173,7 +60,7 @@
       <file leaf-file-name="data_formatter2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data_formatter2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10248">
+            <state relative-caret-position="284">
               <caret line="439" column="25" lean-forward="false" selection-start-line="439" selection-start-column="25" selection-end-line="439" selection-end-column="25" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -185,21 +72,31 @@
       <file leaf-file-name="tag_lemma.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tag_lemma.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1824">
+            <state relative-caret-position="2277">
               <caret line="85" column="16" lean-forward="false" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user_study_handler.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="user_study_handler.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/user_study_handler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="70" column="28" lean-forward="false" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+            <state relative-caret-position="250">
+              <caret line="179" column="23" lean-forward="false" selection-start-line="179" selection-start-column="23" selection-end-line="179" selection-end-column="23" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -207,22 +104,9 @@
       <file leaf-file-name="reorg_labelled.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reorg_labelled.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
+            <state relative-caret-position="927">
               <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trigger_out_handler.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trigger_out_handler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="864">
-              <caret line="40" column="33" lean-forward="false" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-                <element signature="e#3039#3848#1" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -230,11 +114,9 @@
       <file leaf-file-name="miner.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/miner.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="17" column="74" lean-forward="false" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -242,20 +124,30 @@
       <file leaf-file-name="sensitive_component.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sensitive_component.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
+            <state relative-caret-position="780">
               <caret line="30" column="50" lean-forward="false" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utils.py">
+      <file leaf-file-name="tmp.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tmp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2352">
-              <caret line="103" column="17" lean-forward="false" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
+            <state relative-caret-position="629">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tmp2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tmp2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="45" column="16" lean-forward="false" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
               <folding>
-                <element signature="e#18#29#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -341,6 +233,7 @@
         <option value="$PROJECT_DIR$/tmp.py" />
         <option value="$PROJECT_DIR$/sensitive_component.py" />
         <option value="$PROJECT_DIR$/user_study_handler.py" />
+        <option value="$PROJECT_DIR$/tmp2.py" />
       </list>
     </option>
   </component>
@@ -353,8 +246,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -404,10 +297,6 @@
               <option name="myItemId" value="External Libraries" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 3.6.0rc1 (C:\Users\hao\AppData\Local\Programs\Python\Python36\python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -415,15 +304,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 3.6.0rc1 (C:\Users\hao\AppData\Local\Programs\Python\Python36\python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lib" />
+              <option name="myItemId" value="COSMOS_MINING" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -433,89 +314,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 3.6.0rc1 (C:\Users\hao\AppData\Local\Programs\Python\Python36\python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shutil.py" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
               <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="&lt; Python 3.6.0rc1 (C:\Users\hao\AppData\Local\Programs\Python\Python36\python.exe) &gt;" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python36" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utils.py" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Utilities" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utils.py" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -533,25 +332,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="trigger_out_handler.py" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TriggerOutHandler" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
               <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -565,88 +346,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tag_lemma.py" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Filter" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
               <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sensitive_component.py" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SensitiveComponent" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sensitive_component.py" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SensitiveComponent" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SensEntryPoint" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="reorg_labelled.py" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="miner.py" />
               <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Miner" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
+              <option name="myItemId" value="COSMOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="COSMOS_MINING" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lda.py" />
+              <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -655,17 +374,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
+              <option name="myItemId" value="COSMOS_MINING" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="data_formatter2.py" />
               <option name="myItemType" value="com.jetbrains.python.projectView.PyFileNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DataFormatter" />
-              <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -673,7 +388,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
+              <option name="myItemId" value="COSMOS_MINING" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -685,46 +400,14 @@
               <option name="myItemType" value="com.jetbrains.python.projectView.PyElementNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="output" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSMOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="COSPOS_MINING" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="output" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gnd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="power.mode.ii" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../XML_protein35" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Python/Python36-32/python.exe" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
@@ -764,25 +447,6 @@
       <module name="COSMOS_MINING" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tmp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="oversampling" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="COSMOS_MINING" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\workspace\COSPOS_MINING\reorg_labelled.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -845,15 +509,23 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+    <configuration default="false" name="tmp2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="COSMOS_MINING" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tmp2.py" />
       <option name="PARAMETERS" value="" />
-      <module name="" />
-      <envs />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -1040,18 +712,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.tmp" />
-      <item index="1" class="java.lang.String" itemvalue="Python.oversampling" />
-      <item index="2" class="java.lang.String" itemvalue="Python.data_formatter2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.reorg_labelled" />
-      <item index="4" class="java.lang.String" itemvalue="Python.user_study_handler" />
+      <item index="1" class="java.lang.String" itemvalue="Python.data_formatter2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.reorg_labelled" />
+      <item index="3" class="java.lang.String" itemvalue="Python.user_study_handler" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tmp2" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.user_study_handler" />
-        <item index="1" class="java.lang.String" itemvalue="Python.tmp" />
-        <item index="2" class="java.lang.String" itemvalue="Python.data_formatter2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.reorg_labelled" />
-        <item index="4" class="java.lang.String" itemvalue="Python.oversampling" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tmp2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tmp" />
+        <item index="3" class="java.lang.String" itemvalue="Python.data_formatter2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.reorg_labelled" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -1411,21 +1083,20 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.123667374" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12783661" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3678647" sideWeight="0.50208336" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32459018" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" x="202" y="796" width="1366" height="728" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28954938" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32598275" sideWeight="0.49791667" order="10" side_tool="false" content_ui="tabs" x="202" y="796" width="1366" height="728" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2885246" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32694152" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39980826" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1508,20 +1179,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/output/gnd/Test/instances.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/gnd/Test/train_data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/output/gnd/Test/RandomForestModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -1620,55 +1277,12 @@
     <entry file="file://$PROJECT_DIR$/output/gnd/NFC/Libraries_Demo_50_0.md" />
     <entry file="file://$PROJECT_DIR$/output/gnd/SEND_SMS/Communication_50_1.md" />
     <entry file="file://$PROJECT_DIR$/output/gnd/SEND_SMS/Communication_50_0.md" />
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/users.md" />
     <entry file="file://$PROJECT_DIR$/output/gnd/Location/users.md" />
-    <entry file="file://$PROJECT_DIR$/output/gnd/Location/Weather_50_0.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/gnd/Location/Finance_50_1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/gnd/Location/Finance_50_2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="389">
-            <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/gnd/users/Location.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="179">
-            <caret line="1005" column="255" lean-forward="false" selection-start-line="1005" selection-start-column="190" selection-end-line="1005" selection-end-column="255" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/output/gnd/Location/Weather_50_0.md" />
+    <entry file="file://$PROJECT_DIR$/output/gnd/Location/Finance_50_1.md" />
+    <entry file="file://$PROJECT_DIR$/output/gnd/Location/Finance_50_2.md" />
+    <entry file="file://$PROJECT_DIR$/output/gnd/users/Location.md" />
     <entry file="file://$PROJECT_DIR$/output/gnd/Location/labelled_F/ bitwalking.bitwalking.events.EventSpecificActivity_void onRequestPermissionsResult(int,java.lang.String[],int[]).txt" />
     <entry file="file://$PROJECT_DIR$/output/gnd/Location/labelled_F/ carrioncastillo.puntos.animales.HomeActivity_EN_boolean onKeyDown(int,android.view.KeyEvent).txt" />
     <entry file="file://$PROJECT_DIR$/output/gnd/Location/labelled_F/ com.adsdk.sdk.video.RichMediaActivity_void onResume.txt" />
@@ -1693,16 +1307,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tmp.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/trigger_out_handler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
+        <state relative-caret-position="1080">
           <caret line="40" column="33" lean-forward="false" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -1713,7 +1320,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2352">
+        <state relative-caret-position="2940">
           <caret line="103" column="17" lean-forward="false" selection-start-line="103" selection-start-column="17" selection-end-line="103" selection-end-column="17" />
           <folding>
             <element signature="e#18#29#0" expanded="true" />
@@ -1721,19 +1328,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tag_lemma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2277">
+          <caret line="85" column="16" lean-forward="false" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/shutil.py" />
+    <entry file="file://$PROJECT_DIR$/reorg_labelled.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="927">
+          <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sensitive_component.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="30" column="50" lean-forward="false" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/miner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="17" column="74" lean-forward="false" selection-start-line="17" selection-start-column="74" selection-end-line="17" selection-end-column="74" />
+        <state relative-caret-position="119">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lda.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_formatter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="364" column="8" lean-forward="false" selection-start-line="364" selection-start-column="8" selection-end-line="364" selection-end-column="8" />
           <folding>
-            <element signature="e#0#27#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data_formatter2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10248">
+        <state relative-caret-position="284">
           <caret line="439" column="25" lean-forward="false" selection-start-line="439" selection-start-column="25" selection-end-line="439" selection-end-column="25" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -1741,54 +1405,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tag_lemma.py">
+    <entry file="file://$PROJECT_DIR$/user_study_handler.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1824">
-          <caret line="85" column="16" lean-forward="false" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/shutil.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="384" column="0" lean-forward="false" selection-start-line="384" selection-start-column="0" selection-end-line="384" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reorg_labelled.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data_formatter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4152">
-          <caret line="185" column="50" lean-forward="false" selection-start-line="185" selection-start-column="50" selection-end-line="185" selection-end-column="50" />
+        <state relative-caret-position="250">
+          <caret line="179" column="23" lean-forward="false" selection-start-line="179" selection-start-column="23" selection-end-line="179" selection-end-column="23" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sensitive_component.py">
+    <entry file="file://$PROJECT_DIR$/tmp2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="30" column="50" lean-forward="false" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user_study_handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="70" column="28" lean-forward="false" selection-start-line="70" selection-start-column="28" selection-end-line="70" selection-end-column="28" />
+        <state relative-caret-position="156">
+          <caret line="45" column="16" lean-forward="false" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
           <folding>
-            <element signature="e#0#27#0" expanded="true" />
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>

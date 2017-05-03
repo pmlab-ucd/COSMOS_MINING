@@ -1,0 +1,1 @@
+[['com cy browser main activity ', 'void onStop'], 'void onStop']

@@ -1,0 +1,1 @@
+[['com macro video v380 smart link quick wifi config activity ', 'void onClick'], 'void onClick']
