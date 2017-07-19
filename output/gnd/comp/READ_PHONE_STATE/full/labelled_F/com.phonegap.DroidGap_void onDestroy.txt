@@ -1,1 +1,0 @@
-[[], 'com phone gap droid gap ', ' java.lang.String getSubscriberId ', 'void onDestroy']

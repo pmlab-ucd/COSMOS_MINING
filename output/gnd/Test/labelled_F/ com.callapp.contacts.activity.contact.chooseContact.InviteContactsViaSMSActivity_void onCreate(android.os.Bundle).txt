@@ -1,1 +1,0 @@
-['Invite contacts', 'NEXT', 'Search a contact', 'From phone contacts', 'Select none', '<com call app contacts activity contact Contact Invite Contacts Via S M S Activity void onCreate']

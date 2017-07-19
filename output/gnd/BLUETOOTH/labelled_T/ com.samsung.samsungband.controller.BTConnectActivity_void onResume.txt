@@ -1,1 +1,0 @@
-['Settings', 'Device Settings', 'Connect Device', 'App Settings', 'Version', '1.3.7', 'Tips', 'Disable', 'Enable', 'Open Source License', '<com samsung samsung band controller B T Connect Activity void onResume']

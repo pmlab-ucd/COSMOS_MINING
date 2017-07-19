@@ -1,1 +1,0 @@
-['Settings', 'Notifications', 'Display', 'Quick Reply', 'SmartTexter', 'Signature & QuickTexts', 'Storage / Deletion', 'Text message (SMS)', 'Multimedia message (MMS)', 'Debug', '<com super text phone mm s ui Conversation List void onRequestPermissionsResult']

@@ -1,1 +1,0 @@
-[['Select Location Method', 'Select Location Method'], 'org potts software a gps 2 1 downloader locater$2 ', ' boolean isProviderEnabled ', 'void onClick', 'button3', 'android.widget.ImageButton']

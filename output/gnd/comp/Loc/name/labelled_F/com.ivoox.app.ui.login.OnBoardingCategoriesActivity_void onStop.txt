@@ -1,1 +1,0 @@
-['<com ivo ox app ui login On Boarding Categories Activity void onStop']

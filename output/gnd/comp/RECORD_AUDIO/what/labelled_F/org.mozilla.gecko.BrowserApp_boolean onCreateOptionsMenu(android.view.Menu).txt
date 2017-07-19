@@ -1,1 +1,0 @@
-about:accounts?action=signup org mozilla gecko browser app   void <init> 

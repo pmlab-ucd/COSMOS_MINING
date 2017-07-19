@@ -1,1 +1,0 @@
-['<com arrow shapes pattern lock Pattern Active void onCreate']

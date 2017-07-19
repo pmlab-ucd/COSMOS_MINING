@@ -1,1 +1,0 @@
-["<bible easy 'to' read Splash Activity void onCreate"]

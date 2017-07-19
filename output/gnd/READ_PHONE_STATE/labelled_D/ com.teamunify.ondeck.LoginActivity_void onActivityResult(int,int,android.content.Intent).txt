@@ -1,1 +1,0 @@
-['Username', 'Username', 'Password', 'Team Alias [Case Sensitive]', 'Alias', 'Select Team Country...', 'Remember Me', 'Login', 'About', 'POWERED BY:', '<com team unify on deck Login Activity void onActivityResult']

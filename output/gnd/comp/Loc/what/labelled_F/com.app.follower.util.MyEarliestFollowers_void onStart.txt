@@ -1,1 +1,0 @@
-[['OLD FRIENDS', 'List is empty.\n\n']]

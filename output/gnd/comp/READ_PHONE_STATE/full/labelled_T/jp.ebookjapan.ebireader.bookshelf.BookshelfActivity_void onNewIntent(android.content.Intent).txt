@@ -1,1 +1,0 @@
-[[], 'jp ebook japan eb i reader bookshelf bookshelf activity ', ' java.lang.String getSubscriberId ', 'void onNewIntent']

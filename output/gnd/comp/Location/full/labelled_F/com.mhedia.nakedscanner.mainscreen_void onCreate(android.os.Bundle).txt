@@ -1,1 +1,0 @@
-[[], 'com m he dia naked scanner main screen', ' void requestLocationUpdates ', 'void onCreate']

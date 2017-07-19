@@ -1,1 +1,0 @@
-['<gov pa lc b mobile My Stores Activity void onResume']

@@ -1,1 +1,0 @@
-[['Latitude', 'Longitude', 'Altitude', 'Speed', 'Visible satellites', 'Used satellites', 'Accuracy', 'Last fix time', 'Current time', 'Device time', '---', '---', '---', '---', '---', '---', '---', '---', '---', '---'], 'void onResume']

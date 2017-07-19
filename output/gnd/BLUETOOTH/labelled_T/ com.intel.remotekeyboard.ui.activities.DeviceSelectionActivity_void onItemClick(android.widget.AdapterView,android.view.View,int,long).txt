@@ -1,1 +1,0 @@
-['Intel® Remote Keyboard', 'Devices', 'Help', '<com intel remote keyboard ui activities Device Selection Activity void onItemClick']

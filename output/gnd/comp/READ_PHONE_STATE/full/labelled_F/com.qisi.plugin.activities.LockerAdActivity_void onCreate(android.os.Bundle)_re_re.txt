@@ -1,1 +1,0 @@
-[[], 'com q is i plugin activities locker ad activity ', ' java.lang.String getDeviceId ', 'void onCreate']

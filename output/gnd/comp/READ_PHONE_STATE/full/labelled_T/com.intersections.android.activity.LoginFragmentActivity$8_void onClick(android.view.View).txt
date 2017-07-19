@@ -1,1 +1,0 @@
-[[], 'com intersections android activity login fragment activity$8 ', ' java.lang.String getDeviceId ', 'void onClick']

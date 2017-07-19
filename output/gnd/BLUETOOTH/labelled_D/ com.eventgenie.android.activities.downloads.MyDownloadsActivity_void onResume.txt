@@ -1,1 +1,0 @@
-['My Downloads', 'You have not added any favourites.\n\nTo Add downloads simply press the Download button when prompted in other sections of the app.', '<com event genie android activities downloads My Downloads Activity void onResume']

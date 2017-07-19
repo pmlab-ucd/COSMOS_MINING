@@ -1,1 +1,0 @@
-[['Main Clocks', 'First screen on this application. \n- You can see all clocks which you bought. \n- Slide left or right to see other clocks.'], '<com mobile rise alarm clock Fragment Pager Support void onBackPressed']

@@ -1,1 +1,0 @@
-[[], 'sk pec coe ad hoc social network manager settings activity$1 ', ' int getScanMode ', 'void onClick']

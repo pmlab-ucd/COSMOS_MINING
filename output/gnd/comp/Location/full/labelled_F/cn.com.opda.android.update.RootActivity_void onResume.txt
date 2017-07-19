@@ -1,1 +1,0 @@
-[['返回', '获取ROOT', 'Root是Android系统中的超级管理员用户帐户，该帐户拥有整个系统中至高无上的权利，系统中的所有对象它都可以操作。只有拥有了这个权限我们才可以将原版系统刷成其它改版自制系统，修改系统文件、个性化手机等等。 \n但是为了手机的安全性和稳定性，防止用户误操作导致系统崩溃，系统默认是没有开启Root权限的，这就需要我们来进行获取。使用 卓大师（安卓版）可以一键Root，取得手机的最高控制权。', '获取ROOT'], 'cn com op da android update root activity ', ' android.location.Location getLastKnownLocation ', 'void onResume']

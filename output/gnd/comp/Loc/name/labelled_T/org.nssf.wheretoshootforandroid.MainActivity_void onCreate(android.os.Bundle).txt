@@ -1,1 +1,0 @@
-['<org nss f where to shoot for android Main Activity void onCreate']

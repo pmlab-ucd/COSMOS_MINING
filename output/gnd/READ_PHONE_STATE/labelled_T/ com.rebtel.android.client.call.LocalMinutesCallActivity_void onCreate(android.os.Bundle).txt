@@ -1,1 +1,0 @@
-['Checking your number', '<com reb tel android client call Local Minutes Call Activity void onCreate']

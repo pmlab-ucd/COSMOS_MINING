@@ -1,1 +1,0 @@
-['Apk manager', 'Long press list can see details', 'I know', 'Total: 2', 'Selected: 0', 'ShareCloud', 'Version: 4.8.9.8', '5.29MB', 'Software Data Cable', 'Version: 6.2', '6.96MB', 'Delete', 'Install', '<com lj mobile move app ui activity Apk File Activity void onPause']

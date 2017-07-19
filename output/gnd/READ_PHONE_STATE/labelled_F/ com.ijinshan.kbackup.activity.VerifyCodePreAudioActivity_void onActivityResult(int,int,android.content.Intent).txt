@@ -1,1 +1,0 @@
-['Photo sharing', 'Photo sharing', 'Share your smile to the world?', 'Yes, please', 'Later', '<com i jinsha n k backup activity Verify Code Pre Audio Activity void onActivityResult']

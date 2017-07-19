@@ -1,1 +1,0 @@
-['About', 'Version', '4.2.1', 'Copyright', 'Spok Inc.', 'Copyright Year', '2015', 'Hosted core URL', 'https://amccore1.amcomamc.com/Amcom/', '<com am com M E Client U I About Activity void onCreate']

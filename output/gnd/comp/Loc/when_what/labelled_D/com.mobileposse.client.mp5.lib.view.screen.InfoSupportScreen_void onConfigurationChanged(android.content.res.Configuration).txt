@@ -1,1 +1,0 @@
-[['Give us your feedback', 'V 5.3.0.46.2 | mobiCRM', '© 2017 all rights reserved'], '<com mobile posse client mp 5 lib view screen Info Support Screen void onConfigurationChanged']

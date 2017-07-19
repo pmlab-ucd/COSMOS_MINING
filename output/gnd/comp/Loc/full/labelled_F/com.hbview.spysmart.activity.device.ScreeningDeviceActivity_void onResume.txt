@@ -1,1 +1,0 @@
-[['Screening', 'Filter setup', 'Display all devices'], 'void onResume']

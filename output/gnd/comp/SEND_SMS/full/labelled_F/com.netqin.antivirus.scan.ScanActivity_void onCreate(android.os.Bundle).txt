@@ -1,1 +1,0 @@
-[['Fast scan', "World's leading dual-engine", 'Scanning: Photos', 'Scanning time: 00:00:02', 'Scanned items: 4', 'Threat(s) found: 0', 'Stop'], 'com net qin antivirus s can scan activity ', ' void sendMultipartTextMessage ', 'void onCreate']

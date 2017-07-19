@@ -1,1 +1,0 @@
-['MEDAL', 'SCORE', 'BEST', '0', '0', 'Replay', '<com easy x cooler master ui cg void onClick']

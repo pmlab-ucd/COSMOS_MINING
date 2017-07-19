@@ -1,1 +1,0 @@
-['Scan Ticket', '<com kr america pay t ix activities Activity Scanner void onResume']

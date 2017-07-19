@@ -1,1 +1,0 @@
-[[], 'org geometer plus android fb reader network network book info activity$1 ', ' java.lang.String getSubscriberId ', 'void onClick']

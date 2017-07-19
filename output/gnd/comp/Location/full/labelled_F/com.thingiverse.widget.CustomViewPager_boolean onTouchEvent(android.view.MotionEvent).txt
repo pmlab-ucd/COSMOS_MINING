@@ -1,1 +1,0 @@
-[['Edit My Thing', 'DESIGN', 'MADE'], 'com thing i verse widget custom view pager ', ' void requestLocationUpdates ', 'boolean onTouchEvent', 'viewPager', 'android.support.v4.view.ViewPager']

@@ -1,1 +1,0 @@
-[['Initial settings for Wi-Fi functions', 'Select the item you want to set.', 'Clock synchronization', 'Access point registration', 'Live Cast', 'Baby Monitor', 'Home Monitor', 'Finish'], 'com panasonic a vc cng view setting easy wi fi setting activity ', ' void <init> ']

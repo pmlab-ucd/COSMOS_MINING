@@ -1,1 +1,0 @@
-['<com tel mate Telmate Gettingout ui Photos Activity void onResume']

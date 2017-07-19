@@ -1,1 +1,0 @@
-[['PURCHASE OPTIONS', '7digital'], 'void onDestroy']

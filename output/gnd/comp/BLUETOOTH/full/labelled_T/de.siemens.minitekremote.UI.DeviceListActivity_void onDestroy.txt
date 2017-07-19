@@ -1,1 +1,0 @@
-[[], 'de siemens mini tek remote u i  device list activity ', ' boolean cancelDiscovery ', 'void onDestroy']

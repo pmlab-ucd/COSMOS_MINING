@@ -1,1 +1,0 @@
-[[], 'org myk los bt auto connect settings activity ', ' boolean isEnabled ', 'void onSharedPreferenceChanged']

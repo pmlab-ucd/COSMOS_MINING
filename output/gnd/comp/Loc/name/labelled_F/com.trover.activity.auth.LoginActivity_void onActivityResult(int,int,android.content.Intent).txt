@@ -1,1 +1,0 @@
-['<com tr over activity au th Login Activity void onActivityResult']

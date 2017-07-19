@@ -1,1 +1,0 @@
-[[], 'com net qin antivirus app protocol app activity ', ' void sendMultipartTextMessage ', 'void onCreate']

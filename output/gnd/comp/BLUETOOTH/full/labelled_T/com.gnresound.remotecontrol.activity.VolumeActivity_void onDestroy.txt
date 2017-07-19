@@ -1,1 +1,0 @@
-[[], 'com gn resound remote control activity volume activity ', ' boolean cancelDiscovery ', 'void onDestroy']

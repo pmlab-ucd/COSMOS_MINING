@@ -1,1 +1,0 @@
-['<com android sears activity Menu Drawer Activity void onDestroy']

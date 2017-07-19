@@ -1,1 +1,0 @@
-[[], 'com h mobile bible kjv main book activity ', ' void listen ', 'void onCreate']

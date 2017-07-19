@@ -1,1 +1,0 @@
-[[], 'com w sl no om preferences google fit preference activity ', ' java.lang.String getName ', 'void onStart']

@@ -1,1 +1,0 @@
-[[], 'com panasonic a vc cng view live view live view no connection activity ', ' void close ', 'void onActivityResult']

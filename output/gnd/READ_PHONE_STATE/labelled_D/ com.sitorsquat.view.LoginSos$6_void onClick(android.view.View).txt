@@ -1,1 +1,0 @@
-['Log in', 'Register', 'SitOrSquat Login', 'For returning users, please enter your email address and password to continue.', 'Email address', 'or log in with', 'Why do I need to log in?', '<com s it or squat view Login Sos$6 void onClick']

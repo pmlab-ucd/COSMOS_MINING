@@ -1,5 +1,0 @@
-Search by Text Tutorial Privacy Policy Terms of Service Review on Play Store Contact Us CamFindApp.com
-Version: 4.1.0 (201)
-Powered by CloudSight
-Speech recognition and/or text-to-speech (as appropriate)
-provided by Nuance Communications, Inc. Stream Favorites Capture History Settings com m searcher cam find activity main activity   void <init>  boolean onKeyDown

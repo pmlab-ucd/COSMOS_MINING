@@ -1,1 +1,0 @@
-[['Edit Profile', 'Change profile photo', 'Name', 'Where you live', 'Email (not visible to public)', 'Website', 'Tell the Trover community a bit about yourself. What do you do for fun?', 'Save'], '<com tr over activity au th Edit Profile Activity void save']

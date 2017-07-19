@@ -1,1 +1,0 @@
-[['Setup', 'Preview', 'Record', 'Sessions', 'Upgrades', 'Upgrades', "HP Tuners has made most of this app's features available to you for free. \n\nFor even more advanced capabilities, we also have some upgrade options available here:", 'Online Telemetry Streaming', 'More features coming soon...', 'Restore Purchases']]

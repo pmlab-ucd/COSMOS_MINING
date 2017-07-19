@@ -1,1 +1,0 @@
-[[], 'com kol soft baby care stroll widget dialog ', ' java.lang.String getDeviceId ', 'void onCreate']

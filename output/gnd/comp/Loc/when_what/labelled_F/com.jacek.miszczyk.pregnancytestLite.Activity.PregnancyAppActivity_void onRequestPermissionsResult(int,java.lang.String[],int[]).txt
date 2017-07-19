@@ -1,1 +1,0 @@
-[['Start test'], '<com jacek mis z c zyk Lite Activity Pregnancy App Activity void onRequestPermissionsResult']

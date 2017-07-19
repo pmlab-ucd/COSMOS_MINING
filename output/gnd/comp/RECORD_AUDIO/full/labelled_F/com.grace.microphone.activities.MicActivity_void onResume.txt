@@ -1,2 +1,0 @@
-Subscribe Subscribe to
-Voicemail to Text Cancel Confirm com grace microphone activities mic activity   void setAudioSource  void onResume

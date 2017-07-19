@@ -1,1 +1,0 @@
-['void onNewIntent', '<com vishal mob i tech v blocker defaults ms activity Sender Activity']

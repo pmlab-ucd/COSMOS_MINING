@@ -1,1 +1,0 @@
-[['Back dir', 'Done', 'Show Back dir program', 'Back dir is only supported by Alta2 and Nera2 hearing instruments']]

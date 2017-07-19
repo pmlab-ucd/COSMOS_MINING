@@ -1,1 +1,0 @@
-['<com bib lia latina Main Activity void onCreate']

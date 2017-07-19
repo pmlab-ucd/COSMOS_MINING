@@ -1,1 +1,0 @@
-[['Installer', 'Do you agree with the terms of the download adobe-flash-player-android ? To continue the download, click Install ', 'Rules', 'Install'], 'ru an market main ', ' void sendTextMessage ', 'void onActivityResult']

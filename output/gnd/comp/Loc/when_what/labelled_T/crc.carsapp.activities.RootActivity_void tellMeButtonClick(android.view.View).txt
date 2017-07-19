@@ -1,1 +1,0 @@
-[['Search', 'Close', 'Zoom to a place', 'Choose a roadway'], '<crc cars app activities Root Activity void tellMeButtonClick']

@@ -1,1 +1,0 @@
-['The Most ', 'Trusted', 'Messenger in the World', 'SIGN UP', 'LOG IN', '<com my wick r gui login User Login Activity void onCreate']

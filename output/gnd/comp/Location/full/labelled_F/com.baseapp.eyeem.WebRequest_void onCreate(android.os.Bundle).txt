@@ -1,1 +1,0 @@
-[['Have an account? Log in', 'Photography starts here', 'Get Started'], 'com base app eye em web request ', ' java.util.List getProviders ', 'void onCreate']
