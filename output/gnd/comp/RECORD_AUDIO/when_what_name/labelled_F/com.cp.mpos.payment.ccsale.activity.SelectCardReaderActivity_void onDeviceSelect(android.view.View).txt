@@ -1,1 +1,0 @@
-[['Select a Card Reader', 'No Card Reader Selected', 'Audio Jack Card Reader', 'Chase uDynamo'], 'void onDeviceSelect', 'com cp m pos payment cc sale activity select card reader activity ', ' void <init> ']

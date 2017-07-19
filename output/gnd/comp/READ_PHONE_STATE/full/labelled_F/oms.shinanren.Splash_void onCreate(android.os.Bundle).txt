@@ -1,1 +1,0 @@
-[['Start Game', 'Global Ranking', 'Options', 'Exit'], 'om s shin an ren splash ', ' java.lang.String getSubscriberId ', 'void onCreate']

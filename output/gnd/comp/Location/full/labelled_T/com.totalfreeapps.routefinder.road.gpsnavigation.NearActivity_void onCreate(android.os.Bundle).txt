@@ -1,1 +1,0 @@
-[['Enter Your Destination', 'Destination Name', 'GO'], 'com total free apps route finder road gps navigation near activity ', ' boolean isProviderEnabled ', 'void onCreate']

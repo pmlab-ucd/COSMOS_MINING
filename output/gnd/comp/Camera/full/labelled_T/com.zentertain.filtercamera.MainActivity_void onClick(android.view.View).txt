@@ -1,1 +1,0 @@
-[['Xproii', 'None', 'Front', 'Fridge', 'Texas', 'Glam', 'Xproii'], 'com z entertain filter camera main activity ', ' android.hardware.Camera open ', 'void onClick']

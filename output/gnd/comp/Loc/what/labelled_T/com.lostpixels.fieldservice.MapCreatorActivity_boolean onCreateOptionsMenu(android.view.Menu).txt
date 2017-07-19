@@ -1,1 +1,0 @@
-[['Tap to create territory borders and long press marker to move it']]

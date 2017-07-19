@@ -1,1 +1,0 @@
-[['Open Shelters', 'No Open Shelters Found.']]

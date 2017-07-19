@@ -1,1 +1,0 @@
-['Enable Accessibility', "Fundo Companion is required to send applications' notifications to your remote device. Press OK to go to the Accessibility settings to activate it.", 'Cancel', 'OK', '<com sz kc t we loop bt not if it ion main Main Activity boolean onCreateOptionsMenu']

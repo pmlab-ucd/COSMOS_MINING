@@ -1,1 +1,0 @@
-[['谷歌地图', '发彩信', '我的目前位置'], 'com gps my position page ', ' boolean isProviderEnabled ', 'void onResume']

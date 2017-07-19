@@ -1,1 +1,0 @@
-[['Quick Guide', 'Tutorial', 'FAQ', 'Support', 'About'], 'com dex com marketing android activities tablet activity ', ' void requestLocationUpdates ', 'void onStop']

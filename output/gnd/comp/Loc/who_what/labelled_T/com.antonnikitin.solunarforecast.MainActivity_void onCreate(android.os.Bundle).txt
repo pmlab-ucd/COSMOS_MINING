@@ -1,1 +1,0 @@
-[['F&H Solunar Time', 'Forecast', 'Calendar', 'Places', 'Weather']]

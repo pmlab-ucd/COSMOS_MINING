@@ -1,1 +1,0 @@
-['Watermark', '<com rc platform hd camera activity Instagram Send Activity boolean onCreateOptionsMenu']

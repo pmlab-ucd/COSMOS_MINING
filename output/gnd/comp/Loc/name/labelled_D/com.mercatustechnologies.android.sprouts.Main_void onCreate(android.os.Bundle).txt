@@ -1,1 +1,0 @@
-['<com mer catus technologies android sprouts Main void onCreate']

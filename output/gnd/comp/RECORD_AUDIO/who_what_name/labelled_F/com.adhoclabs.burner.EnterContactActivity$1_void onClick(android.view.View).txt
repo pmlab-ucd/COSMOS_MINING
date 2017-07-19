@@ -1,1 +1,0 @@
-[['Burner', 'Add a forwarding number', "You can also add phone number to your burner's contact", 'Phone Number', 'Done'], 'com ad hoc labs burner enter contact activity$1 ', ' void <init> ', 'activity_enter_contact_$_textview_done', 'android.widget.TextView']

@@ -1,1 +1,0 @@
-['<com yellow pages android gas Enter Location Activity void onCreate']

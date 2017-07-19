@@ -1,1 +1,0 @@
-[['Choose profile Photo', 'Please enter your valid mobile number', 'Mobile Number', 'Username', 'Male', 'Female', 'Register']]

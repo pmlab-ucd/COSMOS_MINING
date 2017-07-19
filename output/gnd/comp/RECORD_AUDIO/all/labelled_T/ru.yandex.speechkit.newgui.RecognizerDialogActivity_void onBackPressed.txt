@@ -1,1 +1,0 @@
-[['Voice search not available', 'Retry', 'One second...'], 'void onBackPressed', ' void cancel ']

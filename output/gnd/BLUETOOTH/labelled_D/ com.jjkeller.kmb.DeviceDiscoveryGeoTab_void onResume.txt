@@ -1,1 +1,0 @@
-['J.J. Keller Mobile', 'Perform Geotab Discovery', 'No USB accessory is currently attached.', 'Activate', 'Release', 'Cancel', '<com jj keller km b Device Discovery Geo Tab void onResume']

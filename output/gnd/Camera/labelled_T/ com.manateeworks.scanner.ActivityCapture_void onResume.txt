@@ -1,1 +1,0 @@
-['Does not scan', 'No barcode', 'Stocard', '<com manatee works scanner Activity Capture void onResume']

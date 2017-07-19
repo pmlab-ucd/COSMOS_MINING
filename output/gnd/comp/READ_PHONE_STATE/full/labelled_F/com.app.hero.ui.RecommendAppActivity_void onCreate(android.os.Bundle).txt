@@ -1,1 +1,0 @@
-[['热门软件推荐', '虚位以待，欢迎合作'], 'com app hero ui recommend app activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

@@ -1,1 +1,0 @@
-['Powerful Search', 'Search in any field of contact information', '* Add fields to search in Settings->T9 settings.\n * Long tap on # button to change search setting on runtime', '<intelgeen rocket dial pro Rocket Dial void onRestoreInstanceState']

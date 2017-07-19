@@ -1,1 +1,0 @@
-['void onClickNewRegisterButton', 'com panasonic a vc cng view setting login activity ', ' void <init> ']

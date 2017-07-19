@@ -1,1 +1,0 @@
-['360 Weather', '23:15', 'SAT 02/04', '99%', 'Swipe to unlock >', '<com mob i magic lock screen activity Mobile Charging Activity void onDestroy']

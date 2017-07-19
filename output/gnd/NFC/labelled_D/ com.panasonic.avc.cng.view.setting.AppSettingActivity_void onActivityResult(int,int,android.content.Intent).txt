@@ -1,1 +1,0 @@
-['Application function', 'Home Monitor', 'Usage conditions', '<com panasonic a vc cng view setting App Setting Activity void onActivityResult']

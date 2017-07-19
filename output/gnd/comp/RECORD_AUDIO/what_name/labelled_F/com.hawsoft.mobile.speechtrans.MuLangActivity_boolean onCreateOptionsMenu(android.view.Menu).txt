@@ -1,1 +1,0 @@
-[['Multilingual', 'Remove', '0'], 'com haw soft mobile speech trans mu lang activity ', ' void <init> ']

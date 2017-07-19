@@ -1,1 +1,0 @@
-['Register', 'Next', 'Please enter your account details.', 'First name', 'Last name', 'Email address', '<com s it or squat view Regist Activity void onCreate']

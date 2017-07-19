@@ -1,1 +1,0 @@
-['Welcome to Trace', 'Improve your performance\nand never edit a video again', 'NEXT', '<com trace up sync main tutorial Sport Tutorial Activity void onPause']

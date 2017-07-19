@@ -1,1 +1,0 @@
-[['Compass 360 Pro'], 'void onResume']

@@ -1,1 +1,0 @@
-[['免费...还没广告...这个真的有！！', '     您只需安装并至少打开一次推荐的精华软件，凑足30把钥匙，即可永久去除广告，轻松享受既免费又无广告的美好时光。', ' 免费获取钥匙 ', '您当前有钥匙：0把', '一键永久去广告'], 'cn gw system tool fast uninstall active activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

@@ -1,1 +1,0 @@
-[['经典模式', '限时', '管道模式', '狙击模式', 'Fruit Slice', 'High scores'], 'com droid hen api score client ui high scores activity ', ' boolean isProviderEnabled ', 'void onCreate']

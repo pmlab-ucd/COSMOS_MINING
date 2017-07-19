@@ -1,1 +1,0 @@
-[['Create Schedule', 'From', 'To', '23:59', '24:59', 'Repeat', 'This schedule will repeat itself for day selected', 'One Time', 'This schedule will be for one time']]

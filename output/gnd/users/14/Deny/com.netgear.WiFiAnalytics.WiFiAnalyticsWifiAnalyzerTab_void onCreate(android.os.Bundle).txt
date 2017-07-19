@@ -1,1 +1,0 @@
-[['Signal Strength', 'Connected to : ', 'moobilenetx', 'Interval:1 s', 'Scanning Time', 'com net gear wi fi analytics  wi fi analytics wifi analyzer tab ', 'void onCreate'], 'com net gear wi fi analytics  wi fi analytics wifi analyzer tab ', 'void onCreate']

@@ -1,1 +1,0 @@
-['Go Pro - Ad free', 'Pro version', 'Remove ads and get more info', 'For one-time payment', 'Buy CallApp', '<com call app contacts activity Ad Free Activity void onActivityResult']

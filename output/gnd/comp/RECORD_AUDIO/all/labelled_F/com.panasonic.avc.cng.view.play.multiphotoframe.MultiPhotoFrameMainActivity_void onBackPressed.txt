@@ -1,1 +1,0 @@
-[['Photo Collage', 'Exit'], 'void onBackPressed', ' void <init> ']

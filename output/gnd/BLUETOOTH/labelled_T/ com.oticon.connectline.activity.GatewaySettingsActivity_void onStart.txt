@@ -1,1 +1,0 @@
-['Streamer & ConnectLine', 'Done', 'Phone', 'Streamer', 'Other', '<com ot icon connect line activity Gateway Settings Activity void onStart']

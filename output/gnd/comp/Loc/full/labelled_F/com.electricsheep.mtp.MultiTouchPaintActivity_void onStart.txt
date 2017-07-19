@@ -1,1 +1,0 @@
-[['Multi Touch Paint', 'Press menu to hide Tools bar (and ads).', 'OK'], 'void onStart']

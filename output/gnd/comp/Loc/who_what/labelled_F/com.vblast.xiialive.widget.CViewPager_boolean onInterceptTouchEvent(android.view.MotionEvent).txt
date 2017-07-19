@@ -1,1 +1,0 @@
-[['TALK', 'MUSIC', 'SEARCH', 'FAVORITES', 'PLAYER', 'HISTORY', 'DIRECTORIES', 'NEW PLUG-IN', 'SETTINGS'], 'vpSwipeArea', 'android.view.View']

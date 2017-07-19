@@ -1,1 +1,0 @@
-['Tracking Schedule', 'Use Schedule', 'Weekday Start', '8', '00', 'AM', 'PM', 'Weekday Stop', 'Save', ' ', 'Cancel', '<com f mee f mee ser v Schedule Screen boolean onKeyDown']

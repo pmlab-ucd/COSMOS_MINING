@@ -1,1 +1,0 @@
-[['所有用户享受夜间2点-6点免费打国内电话 首次充值用户充100元送100元，合计5分钱/分钟\n', '正在拨号'], 'com sky call oem phone call screen activity ', ' void sendTextMessage ', 'void onCreate']

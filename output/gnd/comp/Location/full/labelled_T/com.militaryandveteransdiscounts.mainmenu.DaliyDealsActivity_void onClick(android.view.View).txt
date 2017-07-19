@@ -1,1 +1,0 @@
-[['MVDC', 'Enter your ZipCode', 'ZipCode', 'Select Category', 'Distance Near Me', '5 Miles', 'Submit', 'Invite a friend'], 'com military and veterans discounts main menu daliy deals activity ', ' java.lang.String getBestProvider ', 'void onClick']

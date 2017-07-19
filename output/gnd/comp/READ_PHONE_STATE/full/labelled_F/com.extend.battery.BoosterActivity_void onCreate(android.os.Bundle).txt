@@ -1,1 +1,0 @@
-[['Battery Overview', 'Level: 99%', '|', 'Temperature: 93°F', 'CPU Usage', 'Memory Usage', '★★★★★ Review This App ★★★★★'], 'com extend battery booster activity ', ' java.lang.String getDeviceId ', 'void onCreate']

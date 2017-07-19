@@ -1,1 +1,0 @@
-[['Statuses for all occasions', 'VKontakte', 'Log in', 'Odnoklassniki', 'Log in', 'Moi Mir', 'Log in', 'Facebook', 'Log in', 'Twitter', 'Log in'], 'void onClick', ' void <init> ']

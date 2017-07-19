@@ -1,1 +1,0 @@
-['Query/Barcode', '<com Profit Bandit main Base Activity void onResume']

@@ -1,1 +1,0 @@
-[['设置', '设置', '设置 开关', '关闭', '时尚美女设置', '更换时尚美女', '雪花大小 ', '更改雪花的大小', '雪花密度 ', '改变雪花密度', '双击切换', '已禁止双击切换背景壁纸'], 'com lh n apps fashionbeauty  setting activity ', ' java.lang.String getSubscriberId ', 'void onDestroy']

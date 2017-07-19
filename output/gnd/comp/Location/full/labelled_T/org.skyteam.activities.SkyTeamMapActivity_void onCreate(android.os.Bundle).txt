@@ -1,1 +1,0 @@
-[['Airport Finder', 'Location', 'Map', 'List'], 'org sky team activities sky team map activity ', ' boolean isProviderEnabled ', 'void onCreate']

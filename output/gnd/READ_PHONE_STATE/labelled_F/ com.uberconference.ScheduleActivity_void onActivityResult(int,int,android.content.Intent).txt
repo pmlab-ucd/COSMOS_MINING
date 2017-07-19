@@ -1,1 +1,0 @@
-['CANCEL', 'NEXT', 'Conference name (optional)', 'People to invite', 'Mon, Feb 6 2017', '1:00PM', 'FROM', 'Mon, Feb 6 2017', '2:00PM', 'TO', 'None', 'REPETITION', '<com uber conference Schedule Activity void onActivityResult']

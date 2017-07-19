@@ -1,1 +1,0 @@
-[[], 'com gps tracker track location history$1 ', ' java.lang.String getDeviceId ', 'void onClick']

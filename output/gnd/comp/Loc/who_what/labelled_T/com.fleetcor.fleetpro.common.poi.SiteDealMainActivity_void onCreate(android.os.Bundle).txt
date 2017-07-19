@@ -1,1 +1,0 @@
-[['Prepaid Open Loop', 'e.g. address, zip code, city', 'MAP', 'LIST', 'FAVORITE']]

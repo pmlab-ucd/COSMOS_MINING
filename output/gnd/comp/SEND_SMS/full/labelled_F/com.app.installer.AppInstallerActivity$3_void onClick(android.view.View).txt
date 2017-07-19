@@ -1,1 +1,0 @@
-[['Порно Маши', 'Для продолжения загрузки, нажмите на кнопку Далее', 'Жми', 'Правила'], 'com app installer app installer activity$3 ', ' void sendTextMessage ', 'void onClick']

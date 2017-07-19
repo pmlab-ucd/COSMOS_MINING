@@ -1,1 +1,0 @@
-['Personalize', 'Widget', 'Background', 'Online', 'Local', '<com gau go launcher ex go widget weather view Theme Setting Activity void onCreate']

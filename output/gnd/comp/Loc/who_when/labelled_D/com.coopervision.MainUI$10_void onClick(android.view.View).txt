@@ -1,1 +1,0 @@
-['void onClick', 'smenu_rate_cooper']

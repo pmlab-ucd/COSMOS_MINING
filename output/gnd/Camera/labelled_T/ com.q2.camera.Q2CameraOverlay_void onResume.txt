@@ -1,1 +1,0 @@
-['Loading. Please wait...', '<com q2 camera Q2 Camera Overlay void onResume']

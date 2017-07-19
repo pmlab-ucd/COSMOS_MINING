@@ -1,1 +1,0 @@
-[['Birthdays'], '<com call app contacts activity contact list Birthday Activity void onResume']

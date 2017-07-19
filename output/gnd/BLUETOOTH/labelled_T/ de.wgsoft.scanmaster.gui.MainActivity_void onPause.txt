@@ -1,1 +1,0 @@
-['OBD-II Diagnostic', 'Select ECU', 'Voltage Calibration', 'Settings', 'Rate this app', 'Help & Feedback', 'About', 'Purchase full version', '<de wg soft s can master gui Main Activity void onPause']

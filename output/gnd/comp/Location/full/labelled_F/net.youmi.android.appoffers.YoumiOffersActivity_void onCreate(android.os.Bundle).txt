@@ -1,1 +1,0 @@
-[[], 'net you mi android app offers youmi offers activity ', ' boolean isProviderEnabled ', 'void onCreate']

@@ -1,1 +1,0 @@
-[['New Record !', 'Your Name Here !', 'Retry', 'Post', 'Back'], 'om s shin an ren agile buddy activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

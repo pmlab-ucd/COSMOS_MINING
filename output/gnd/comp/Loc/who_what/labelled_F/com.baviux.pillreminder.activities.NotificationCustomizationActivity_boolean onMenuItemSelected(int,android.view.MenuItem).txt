@@ -1,1 +1,0 @@
-[['Notification', 'Repeat interval', '60 minutes', 'Notification sound', 'Choose the notification sound', 'Play sound always', 'Play sound even in silent mode', 'Vibrate always', 'Vibrate even if vibration mode is not enabled', 'Title', 'Subtitle', 'Icon']]

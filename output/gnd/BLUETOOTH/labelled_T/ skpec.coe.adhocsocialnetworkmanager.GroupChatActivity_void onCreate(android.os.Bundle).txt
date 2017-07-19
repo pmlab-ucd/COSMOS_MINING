@@ -1,1 +1,0 @@
-['Group Chat', 'Stand By Mode', 'Scan Available Devices', 'Mark the Devices to Create Group... Type message, and then click SEND button.', '---------------', '---------------', 'enter text to send', '<skpec coe ad hoc social network manager Group Chat Activity void onCreate']

@@ -1,1 +1,0 @@
-['<com soul swipe activity Main Activity void onResume']

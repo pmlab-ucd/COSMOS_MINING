@@ -1,1 +1,0 @@
-[['Post a tip! Ask a question!', 'Add photo', 'POST'], 'void onPause']

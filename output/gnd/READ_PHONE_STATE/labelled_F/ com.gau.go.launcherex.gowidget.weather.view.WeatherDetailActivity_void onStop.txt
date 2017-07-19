@@ -1,1 +1,0 @@
-['Add Location', 'Enter city or US ZIP code', 'Current location', 'Davis, California, (United States)', 'Popular Locations', 'New York, New York, (US)', 'Los Angeles, California, (US)', 'San Francisco, California, (US)', 'Chicago, Illinois, (US)', 'Honolulu, Hawaii, (US)', '<com gau go launcher ex go widget weather view Weather Detail Activity void onStop']

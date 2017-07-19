@@ -1,1 +1,0 @@
-['boolean onCreateOptionsMenu', 'com snore lab app ui remedies activity ', ' void <init> ']

@@ -1,1 +1,0 @@
-['Chic', '<com chic colorful party lig th s Main Activity void onCreate']

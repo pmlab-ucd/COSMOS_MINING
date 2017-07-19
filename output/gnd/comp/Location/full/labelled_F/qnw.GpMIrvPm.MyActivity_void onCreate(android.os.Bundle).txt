@@ -1,1 +1,0 @@
-[[], 'q nw gp m irv pm  my activity ', ' void requestLocationUpdates ', 'void onCreate']

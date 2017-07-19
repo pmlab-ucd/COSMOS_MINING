@@ -1,1 +1,0 @@
-[['Sys optimization', 'Closing running apps will release memory', 'NetQin Security Pro for Market', 'Memory used: 48.4MB', 'Terminate', 'Select all'], 'com net qin antivirus task manager task list ', ' void sendMultipartTextMessage ', 'void onClick']

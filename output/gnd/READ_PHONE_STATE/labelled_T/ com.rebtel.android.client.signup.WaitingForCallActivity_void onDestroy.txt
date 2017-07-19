@@ -1,1 +1,0 @@
-['Waiting for call', 'An automated voice will give you your Rebtel PIN', 'Your Phone Number', 'Enter PIN code', 'Next', '<com reb tel android client sign up Waiting For Call Activity void onDestroy']

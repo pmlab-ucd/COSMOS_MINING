@@ -1,1 +1,0 @@
-Audio Recorder Click on Record to start recording. Record   < c o m call dorado android ui settings activity   void setAudioSource  record android.widget.Button

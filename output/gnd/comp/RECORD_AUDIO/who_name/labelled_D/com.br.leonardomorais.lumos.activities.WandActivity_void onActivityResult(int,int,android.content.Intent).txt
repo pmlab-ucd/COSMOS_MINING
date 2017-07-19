@@ -1,1 +1,0 @@
-['<com br leonardo morais lumo s activities wand activity ', ' void <init> ']

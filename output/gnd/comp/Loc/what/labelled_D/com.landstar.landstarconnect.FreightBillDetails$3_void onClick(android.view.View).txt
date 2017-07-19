@@ -1,1 +1,0 @@
-[[' ', 'Freight Bill Details', 'Freight Bill:', 'Agent Phone:', 'Company:', 'Commodity:', 'Hazmat:', 'Tractor:', 'Trailer:', 'Contractor:', 'Operator:', 'Mobile Tracking:']]

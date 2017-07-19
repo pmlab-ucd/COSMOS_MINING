@@ -1,1 +1,0 @@
-[['Local', 'Ok'], 'void onStart', ' void <init> ']

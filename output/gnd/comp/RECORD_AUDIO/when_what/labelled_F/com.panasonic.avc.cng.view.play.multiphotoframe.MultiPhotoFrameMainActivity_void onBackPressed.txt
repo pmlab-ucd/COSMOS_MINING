@@ -1,1 +1,0 @@
-Photo Collage Exit com panasonic a vc cng view play multi photo frame multi photo frame main activity   void <init>  void onBackPressed

@@ -1,1 +1,0 @@
-[['Welcome to Funny Sayings', 'If you want to save your favorite jokes you can now enable this function for the small fee of only $1.', "Something you don't like?", 'Found a bug?', "Then don't leave negative feedback", 'Tell us how to make it better', "Don't forget to rate us", 'Jokes', 'Shop'], 'void onCreate']

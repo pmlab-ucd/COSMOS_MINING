@@ -1,1 +1,0 @@
-[['Ministry Assistant', 'Name', 'Name of publisher', 'Publisher name to be displayed when sending the report.', 'Theme', 'Light theme', 'Dark theme', 'Previous', 'Next'], 'com lost pixels field service start pause notification activity ', ' android.location.Location getLastKnownLocation ', 'void onResume']

@@ -1,1 +1,0 @@
-['Select a device to connect.', 'Scan for devices', '<com martian watches martian watch alerts Device List Activity void onCreate']

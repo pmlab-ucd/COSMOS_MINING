@@ -1,1 +1,0 @@
-[' Register For A Tournament', '  Settings  ', '<com fl w fl w Tournament Registration void onCreate']

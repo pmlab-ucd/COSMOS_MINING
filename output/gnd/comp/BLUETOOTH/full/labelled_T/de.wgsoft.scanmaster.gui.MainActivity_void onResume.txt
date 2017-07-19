@@ -1,1 +1,0 @@
-[[], 'de wg soft s can master gui main activity ', ' java.lang.String getName ', 'void onResume']

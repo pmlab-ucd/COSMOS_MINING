@@ -1,1 +1,0 @@
-[['Согласен с правилами'], 'install app main activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

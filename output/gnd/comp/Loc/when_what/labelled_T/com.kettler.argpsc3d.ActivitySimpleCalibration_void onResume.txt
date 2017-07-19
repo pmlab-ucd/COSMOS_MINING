@@ -1,1 +1,0 @@
-[['Calibration', 'To calibrate, please rotate your device around all possible axes. Begin with a few very fast rotations, then rotate slowly around all axes. \nRemember to stay away from all possibly interfering objects!', 'Done'], '<com kettle r ar gps c 3 d Activity Simple Calibration void onResume']

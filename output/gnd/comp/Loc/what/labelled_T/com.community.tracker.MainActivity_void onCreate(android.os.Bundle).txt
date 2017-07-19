@@ -1,1 +1,0 @@
-[['POKE TRACKER', 'SELECT A POKEMON TO TRACK', 'ABRA', 'TRACK!', 'Privacy Policy']]

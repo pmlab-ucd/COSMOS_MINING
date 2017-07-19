@@ -1,1 +1,0 @@
-['Identification', "We don't recognize this mobile device.", 'As a precaution, we need to verify your identity before you can access your merchant account. Please request an Identification Code to help us identify you.', 'I have an Identification Code', 'Request an Identification Code', '<com cp m pos use rau th activity Get O T P Activity void onDestroy']

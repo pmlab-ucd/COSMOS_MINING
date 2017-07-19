@@ -1,1 +1,0 @@
-['Change PIN', 'To use MetroPCS Visual Voicemail, you need to set a PIN code. To reset the PIN to the last 4 digits of your phone number, dial #793#.', 'Enter new PIN', 'Next', '<com metro pcs service v vm activity setup Create Pin Activity void onCreate']

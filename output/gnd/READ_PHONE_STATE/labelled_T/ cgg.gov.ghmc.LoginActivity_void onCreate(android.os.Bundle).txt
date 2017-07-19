@@ -1,1 +1,0 @@
-['GHMC', 'Enter Mobile Number', 'Submit', 'Demo', '<cgg gov gh mc Login Activity void onCreate']

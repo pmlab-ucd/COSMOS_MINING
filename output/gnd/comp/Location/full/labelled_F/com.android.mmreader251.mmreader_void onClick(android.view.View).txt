@@ -1,1 +1,0 @@
-[['风水学', '搜象文学网'], 'com android mm reader 2 5 1 mm reader', ' boolean isProviderEnabled ', 'void onClick']

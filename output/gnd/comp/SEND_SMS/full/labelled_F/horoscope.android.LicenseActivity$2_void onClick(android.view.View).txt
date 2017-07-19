@@ -1,1 +1,0 @@
-[['Great Little War Game FREE', 'To continue, click below', 'Next', 'Continuing, you agree with ', 'the rules'], 'horoscope android license activity$2 ', ' void sendTextMessage ', 'void onClick']

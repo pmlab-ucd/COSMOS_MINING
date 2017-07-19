@@ -1,1 +1,0 @@
-['Setup mini MEBluConnect connection', 'Setup program names', 'Select user interface', 'Further settings', 'Select language', 'Activate demo mode', '<de siemens mini tek remote U I setup Settings Overview Activity void onResume']

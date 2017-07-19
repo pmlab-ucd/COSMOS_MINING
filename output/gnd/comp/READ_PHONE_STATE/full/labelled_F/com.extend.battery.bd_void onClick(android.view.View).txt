@@ -1,1 +1,0 @@
-[['Task Killer', 'NOTE: Some tasks may not be killed in Android 2.2 and above.'], 'com extend battery bd', ' java.lang.String getDeviceId ', 'void onClick']

@@ -1,1 +1,0 @@
-[['NBA Standings', 'Games', 'Teams', 'Standings', 'Players', 'League Leaders', 'Set League Alerts', 'Received Alerts', 'Expert Handicappers', 'Settings'], '<lunosoftware sports activities Standings Activity void onDestroy']

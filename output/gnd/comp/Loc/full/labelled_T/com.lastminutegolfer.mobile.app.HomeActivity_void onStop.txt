@@ -1,1 +1,0 @@
-[['Search', 'Current Location', '30 miles', 'Sunday, Feb 5', 'Sorted by Time', 'No Results', 'Oh Bunkers! Good tee times go fast!', "Tap or swipe for tomorrow's deals!", 'For more options, expand your search or change locations.'], 'void onStop']

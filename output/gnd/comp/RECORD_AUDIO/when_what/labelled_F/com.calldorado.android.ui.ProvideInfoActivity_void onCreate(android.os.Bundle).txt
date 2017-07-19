@@ -1,5 +1,0 @@
-Free Caller ID Total Recall now has free caller ID. It will identify callers for you - even the ones not in your contact list. Caller ID will show as a pop-up after calls and you can fully adjust it to your preferences.
-
-By using this service, you agree to the EULA and Privacy Policy (includes info about cookies).
-
-If you do not agree, please disable Caller ID in the settings. EULA Privacy Policy OK com call dorado android ui provide info activity   void <init>  void onCreate

@@ -1,1 +1,0 @@
-[['Data Input', 'Enter the following information:', 'Gender', 'Male', 'Age', '0', 'Height', '0.0', 'cm', 'Or', 'feet', 'Weight', '0.0', 'kg', 'Or', 'lb', 'Back', 'Next'], 'com walk app data input activity ', ' android.location.Location getLastKnownLocation ', 'void onCreate']

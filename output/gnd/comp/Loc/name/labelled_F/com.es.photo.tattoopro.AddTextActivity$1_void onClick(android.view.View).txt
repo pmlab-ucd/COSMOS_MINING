@@ -1,1 +1,0 @@
-['<com es photo tattoo pro Add Text Activity$1 void onClick']

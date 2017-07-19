@@ -1,1 +1,0 @@
-['Login', 'Username', 'Sign in', 'Reset Password', 'Privacy Policy', '<com vau to va droid session activity Login Activity void <init>']

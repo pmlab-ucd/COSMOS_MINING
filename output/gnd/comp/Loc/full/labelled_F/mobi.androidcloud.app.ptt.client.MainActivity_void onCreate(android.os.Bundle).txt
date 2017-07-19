@@ -1,1 +1,0 @@
-[['Is your number 15306013355?', 'If this number is incorrect, you may miss TiKL calls. For solutions to incorrect numbers and other questions, please browse the FAQ (Frequently Asked Questions).', 'Dismiss', 'Browse FAQ'], 'void onCreate']

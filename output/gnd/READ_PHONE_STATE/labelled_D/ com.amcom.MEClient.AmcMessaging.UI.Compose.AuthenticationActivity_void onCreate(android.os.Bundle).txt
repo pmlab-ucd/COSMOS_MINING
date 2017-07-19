@@ -1,1 +1,0 @@
-['Directory Authentication', 'Messaging ID / Web Username', 'Authenticate', '<com am com M E Client Amc Messaging U I Compose Authentication Activity void onCreate']

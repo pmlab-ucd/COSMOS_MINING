@@ -1,1 +1,0 @@
-[['Does not scan', 'No barcode', 'Stocard'], 'com manatee works scanner activity capture ', ' android.hardware.Camera open ', 'void onResume']

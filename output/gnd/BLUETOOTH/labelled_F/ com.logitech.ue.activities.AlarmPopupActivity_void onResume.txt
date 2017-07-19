@@ -1,1 +1,0 @@
-['12', ':', '25', 'AM', 'Tap to snooze', 'Swipe to cancel', '<com logitech ue activities Alarm Popup Activity void onResume']

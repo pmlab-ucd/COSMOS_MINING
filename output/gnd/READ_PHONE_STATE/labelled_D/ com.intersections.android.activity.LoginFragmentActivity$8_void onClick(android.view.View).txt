@@ -1,1 +1,0 @@
-['User ID', 'Log In', 'Legal Terms and Privacy', 'Need help?', '<com intersections android activity Login Fragment Activity$8 void onClick']

@@ -1,1 +1,0 @@
-[['Help & Feedback', 'gReader', 'Version 4.3.1', 'Website', 'FAQ', "What's new", 'gReader is a simple, fast and intuitive feed/rss reader for Android, featuring beautiful themes, podcast support and full offline support.', 'Like', 'Getting Started', 'Learn more about how to use the app.', 'What is RSS', 'Feedback', 'Rate']]

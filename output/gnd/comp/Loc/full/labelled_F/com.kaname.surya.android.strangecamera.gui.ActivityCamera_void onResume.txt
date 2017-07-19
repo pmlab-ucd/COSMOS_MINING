@@ -1,1 +1,0 @@
-[['PENTAGON', 'PHOTO', 'GIF'], 'void onResume']

@@ -1,1 +1,0 @@
-[['Prepaid Open Loop', 'e.g. address, zip code, city', 'MAP', 'LIST', 'FAVORITE'], '<com fleet cor fleet pro common poi Site Deal Main Activity void onCreate']

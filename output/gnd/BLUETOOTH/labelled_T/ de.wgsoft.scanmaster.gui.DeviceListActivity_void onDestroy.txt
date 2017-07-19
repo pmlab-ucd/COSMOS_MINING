@@ -1,1 +1,0 @@
-['No devices have been paired', '<de wg soft s can master gui Device List Activity void onDestroy']

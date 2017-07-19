@@ -1,1 +1,0 @@
-[['Install', 'Производится установка \ufeff340_speedsense-v1'], 'com soft install main ', ' void sendTextMessage ', 'void onActivityResult']

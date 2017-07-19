@@ -1,1 +1,0 @@
-[['ISLAND GUIDES'], 'com pearson pop tropica island guides activity ', ' android.location.Location getLastKnownLocation ', 'void onResume']

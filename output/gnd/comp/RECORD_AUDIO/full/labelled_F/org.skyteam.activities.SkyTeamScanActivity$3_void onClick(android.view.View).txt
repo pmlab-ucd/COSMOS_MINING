@@ -1,1 +1,0 @@
-Scan Boarding Pass Hold the boarding pass barcode in rectangle to scan the code org sky team activities sky team scan activity$3   void <init>  void onClick

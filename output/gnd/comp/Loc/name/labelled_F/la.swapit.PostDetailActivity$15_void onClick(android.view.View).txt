@@ -1,1 +1,0 @@
-['<la swap it Post Detail Activity$15 void onClick']

@@ -1,1 +1,0 @@
-['<com device magic android x forms ui Forms List Activity boolean onCreateOptionsMenu']

@@ -1,1 +1,0 @@
-['Phone Boost', '1 item(s) selected', 'Memory Boost', '106MB Freeable', 'CPU Cooler', 'CPU 104°: Normal', 'Game Boost', 'Boost games by 30%', 'BOOST', '<com clean master ui boost Boost Main Activity void onPause']

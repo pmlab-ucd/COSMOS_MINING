@@ -1,1 +1,0 @@
-[['选圆心', '设半径', '告警号码', '半径大小'], 'com gps electronic fences ', ' void sendTextMessage ', 'void onCreate']

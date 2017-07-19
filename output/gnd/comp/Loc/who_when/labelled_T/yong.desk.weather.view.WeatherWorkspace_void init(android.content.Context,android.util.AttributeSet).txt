@@ -1,1 +1,0 @@
-['void <init>', 'workspace_weather_info']

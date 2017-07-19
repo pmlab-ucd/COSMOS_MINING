@@ -1,1 +1,0 @@
-[[], 'com cp m pos tools activity calculator activity ', ' void connect ', 'void onBackPressed']

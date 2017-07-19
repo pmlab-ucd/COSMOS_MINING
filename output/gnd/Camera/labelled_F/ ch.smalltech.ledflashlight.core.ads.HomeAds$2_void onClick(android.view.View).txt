@@ -1,1 +1,0 @@
-['Feedback', 'More Apps', 'About', 'Do you like this app ?', 'I like this app !', "There's a problem...", 'Get the PRO version!', 'Why should I get the PRO version?', 'Remove the ads', 'Support a small app developer', '<ch small tech led flashlight core ads Home Ads$2 void onClick']

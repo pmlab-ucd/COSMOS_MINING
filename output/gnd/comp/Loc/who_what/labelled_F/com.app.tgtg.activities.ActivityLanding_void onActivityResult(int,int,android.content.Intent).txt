@@ -1,1 +1,0 @@
-[['Log in', 'Create new account', 'Login via Facebook', 'Business login', 'Use as guest']]

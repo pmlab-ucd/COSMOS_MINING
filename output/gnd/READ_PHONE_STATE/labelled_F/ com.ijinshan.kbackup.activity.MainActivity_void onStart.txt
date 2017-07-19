@@ -1,1 +1,0 @@
-['google Galaxy Nexus', 'Device   784.6MB/13.3GB', 'Contacts', '2', 'SMS', '1', 'Call logs', 'Calendar', 'Add', 'BACKUP', '<com i jinsha n k backup activity Main Activity void onStart']

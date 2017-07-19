@@ -1,1 +1,0 @@
-["Let's Do It!", 'Alarm Off', 'Alarm On', 'Configurations', '<com j or li alarm lib Welcome Activity void onActivityResult']

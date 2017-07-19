@@ -1,1 +1,0 @@
-[['FlightStats Would Like to Use Your Current Location', 'Decline', 'Accept'], 'com conducive tech android traveler app home activity ', ' boolean isProviderEnabled ', 'void onResumeFragments']

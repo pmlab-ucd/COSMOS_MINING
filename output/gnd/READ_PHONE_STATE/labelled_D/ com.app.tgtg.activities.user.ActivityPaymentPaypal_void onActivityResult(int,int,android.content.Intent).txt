@@ -1,1 +1,0 @@
-['Collection time', 'Tuesday', 'Start', 'End', 'Customers who have ordered today will receive a text message informing them of the changed collection time', '<com app tg tg activities user Activity Payment Paypal void onActivityResult']

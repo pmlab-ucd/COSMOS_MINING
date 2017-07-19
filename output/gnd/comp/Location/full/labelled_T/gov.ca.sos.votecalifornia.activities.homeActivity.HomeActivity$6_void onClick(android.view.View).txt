@@ -1,1 +1,0 @@
-[['California', 'Voting Information', 'Get started by providing the address at which you are registered to vote'], 'gov ca sos vote california activities activity home home activity$6 ', ' boolean isProviderEnabled ', 'void onClick']

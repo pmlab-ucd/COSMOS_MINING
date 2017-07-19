@@ -1,1 +1,0 @@
-[['返回', '精品推荐', '正在加载推荐列表，请稍候...'], 'cn uc games dk activity login activity ', ' void sendTextMessage ', 'boolean onKeyDown']

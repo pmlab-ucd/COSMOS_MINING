@@ -1,1 +1,0 @@
-[['chat girl', 'Hi, I miss you so much, chat with me!', 'input here', 'Send', 'com panda auto chat my activity ', 'void onCreate'], 'com panda auto chat my activity ', 'void onCreate']

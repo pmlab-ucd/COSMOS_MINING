@@ -1,1 +1,0 @@
-[[], 'com gps tracker track main activity ', ' java.lang.String getDeviceId ', 'void onCreate']

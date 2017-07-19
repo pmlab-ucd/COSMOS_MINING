@@ -1,1 +1,0 @@
-[['2012经典笑话', '爆冷笑话', '男女笑话', '校园笑话', '泡妞宝典', '重口笑话', '长篇笑话', '恶搞笑话'], 'ren ren shu xiaohuadawang activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

@@ -1,1 +1,0 @@
-[['Sunrise Sunset Widget', '\nDavis, CA', 'Pacific Standard Time', 'Rise', 'Set', '7:10AM', '5:33PM', 'Jan', 'Feb', 'Mar', '03', '04', '05', '2016', '2017', '2018', 'Astronomical Twilight Begins:', '5:40AM', 'Nautical Twilight Begins:', '6:11AM', 'Civil Twilight Begins:', '6:43AM', 'Sunrise:', '7:10AM', 'Sun Transit:', '12:22PM']]

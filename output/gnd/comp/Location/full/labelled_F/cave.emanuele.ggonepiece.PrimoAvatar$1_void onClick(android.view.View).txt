@@ -1,1 +1,0 @@
-[['OP QUIZ', 'SEI MASCHIO O FEMMINA?'], 'cave emanuele g gone piece primo avatar$1 ', ' boolean isProviderEnabled ', 'void onClick', 'avatar1', 'android.widget.ImageView']

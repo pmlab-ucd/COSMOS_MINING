@@ -1,1 +1,0 @@
-[[], 'com panasonic a vc cng view common touch share next activity ', ' void close ', 'void onStart']

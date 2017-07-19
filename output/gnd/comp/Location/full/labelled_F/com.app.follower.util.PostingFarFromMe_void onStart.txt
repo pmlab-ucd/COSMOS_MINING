@@ -1,1 +1,0 @@
-[['FARTHEST', 'List is empty.\n\n'], 'com app follower util posting far from me ', ' android.location.Location getLastKnownLocation ', 'void onStart']

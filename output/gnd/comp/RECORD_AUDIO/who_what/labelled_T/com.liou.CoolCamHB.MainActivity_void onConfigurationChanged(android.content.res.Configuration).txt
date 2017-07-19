@@ -1,1 +1,0 @@
-CoolCamHB Click here to add camera   < c o m call dorado android ui settings activity   void <init> 

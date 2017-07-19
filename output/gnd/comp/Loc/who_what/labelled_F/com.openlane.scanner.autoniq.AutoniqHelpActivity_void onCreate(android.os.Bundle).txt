@@ -1,1 +1,0 @@
-[['Marketplace', 'Tips for Scanning', '1. The VIN scanner can recognize VINs that appear in a conventional 17-digit format.', '2. For successful VIN scanning, please center the VIN in the scanner window as displayed on your mobile device and hold steady.']]

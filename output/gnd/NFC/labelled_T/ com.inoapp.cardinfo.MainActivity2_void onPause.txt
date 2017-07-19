@@ -1,1 +1,0 @@
-['NFC SmartCard Info', 'Simple view', 'Advance view', 'HCE Info', 'Known AIDs', 'NFC setting', 'Preferences', 'About', 'Rate this app', '<com in o app card info Main Activity2 void onPause']

@@ -1,1 +1,0 @@
-[[], 'com sigma phone top med free top medications form ', ' java.lang.String getDeviceId ', 'void onCreate']

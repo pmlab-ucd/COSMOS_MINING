@@ -1,1 +1,0 @@
-[['Subwoofer', '* Deep Bass *', '0 %', '-', '+']]

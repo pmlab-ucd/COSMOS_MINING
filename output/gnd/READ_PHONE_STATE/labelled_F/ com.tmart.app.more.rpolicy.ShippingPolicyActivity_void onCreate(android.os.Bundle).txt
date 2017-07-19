@@ -1,1 +1,0 @@
-['Back', 'Shipping Policy', 'Shipping Policy', 'Home', 'Track Order', 'Search', 'Cart', '0', 'More', '<com t mart app more r policy Shipping Policy Activity void onCreate']

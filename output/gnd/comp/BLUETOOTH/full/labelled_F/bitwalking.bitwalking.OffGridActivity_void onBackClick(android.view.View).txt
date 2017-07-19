@@ -1,1 +1,0 @@
-[[], 'bit walking bit walking off grid activity ', ' boolean isEnabled ', 'void onBackClick']

@@ -1,1 +1,0 @@
-[['更多精彩应用'], 'cn bud ing coupon activity more activity ', ' void listen ', 'void onPause']

@@ -1,1 +1,0 @@
-[['Enter city name'], 'home solo plugin weather search activity ', ' android.location.Location getLastKnownLocation ', 'void onResume']

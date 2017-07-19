@@ -1,1 +1,0 @@
-['<jp snow life 0 1 android hd camera Main Activity2 void onResume']

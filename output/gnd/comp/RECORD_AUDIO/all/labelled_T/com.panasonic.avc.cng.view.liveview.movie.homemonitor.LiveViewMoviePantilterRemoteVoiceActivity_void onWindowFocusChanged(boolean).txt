@@ -1,1 +1,0 @@
-[['Talk', 'Exit', '0 seconds left'], 'void onWindowFocusChanged', ' void <init> ']

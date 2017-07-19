@@ -1,1 +1,0 @@
-[['无敌ROOT机', '临时 root', '永久 root', '取消 root'], 'com triangle root in seconds root ji main activity ', ' void requestLocationUpdates ', 'void onResume']

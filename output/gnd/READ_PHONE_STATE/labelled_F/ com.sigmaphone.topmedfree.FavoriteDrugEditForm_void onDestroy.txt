@@ -1,1 +1,0 @@
-['Favorites', ' Done ', 'Home', 'My Meds', 'Pill Id', 'Rx Card', 'Share', '<com sigma phone top med free Favorite Drug Edit Form void onDestroy']

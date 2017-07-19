@@ -1,1 +1,0 @@
-[['Installer', 'Do you agree with the terms of the download dead-space-v1.1.33 ? To continue the download, click Install ', 'Rules', 'Install'], 'net mb pro main ', ' void sendTextMessage ', 'void onClick']

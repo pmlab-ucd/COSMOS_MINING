@@ -1,1 +1,0 @@
-[['Web Addresses', 'Default Web Address'], 'yard i android  work order  activity web address list activity ', ' java.lang.String getBestProvider ', 'void onCreate']

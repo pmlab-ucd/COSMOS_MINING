@@ -1,1 +1,0 @@
-[['My Trips', 'Long Press Trip To Delete', 'Add Trip', 'Powered by iFly.com'], 'void onStop']

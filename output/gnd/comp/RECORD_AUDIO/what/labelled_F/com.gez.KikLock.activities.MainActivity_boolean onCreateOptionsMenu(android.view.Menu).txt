@@ -1,1 +1,0 @@
-Kik Lock com g ez kik lock  activities main activity   void <init> 

@@ -1,2 +1,0 @@
-Eliza: Hello.
-Touch the microphone to speak to me, or type at the prompt. com cc eliza main activity$4   void startListening 

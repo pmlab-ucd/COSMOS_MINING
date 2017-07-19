@@ -1,1 +1,0 @@
-[' Customers ReViews', 'By:', 'Price', 'Quality', 'Features', 'Usefulness', 'Ease Of Use', 'Home', 'Track Order', 'Search', 'Cart', '0', 'More', '<com t mart app review Review Detail Activity void onCreate']

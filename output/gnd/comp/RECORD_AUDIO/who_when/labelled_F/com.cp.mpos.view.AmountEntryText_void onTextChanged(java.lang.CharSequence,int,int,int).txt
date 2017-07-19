@@ -1,1 +1,0 @@
-void onTextChanged edit field current price android.widget.EditText edit field discount percent android.widget.EditText

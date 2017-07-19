@@ -1,1 +1,0 @@
-[['SoCalGas App would like to use your current location as the default location', "Don't allow", 'Allow']]

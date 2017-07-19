@@ -1,1 +1,0 @@
-['Setting', 'Reader settings', 'Bookshelf Setting', 'Account setting', 'Register Trunk room account information.', 'Register device', 'Set/Change device name.', 'Select Shop', 'ebiReader can read a book that was purchased at other shops. You can select the default shop.', '<jp ebook japan eb i reader pref s Prefs Main Activity void onResume']

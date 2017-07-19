@@ -1,1 +1,0 @@
-['Calorie Calculator.', 'Auto Pause Activities.', 'No ads.', 'Export your activities as GPX file.', 'Advanced Weight Log Features.', 'Set Activity Goals.', 'Detailed Pace overview.', 'Full access to all statistics.', 'Start my free trial', '<com fit app activity Go Premium Activity2 void onActivityResult']

@@ -1,1 +1,0 @@
-['PF Voicemail+', 'This service requires FREE registration.\n', 'Have Account', 'First Name', 'Last Name', 'Telephone:', '5306013355', 'Email:', 'jameshaofu@gmail.com', 'Verify Email', 'Security question answer', 'Name of your imaginary friend', '<com phone fusion voice mail plus and Voicemail Plus void onCreate']

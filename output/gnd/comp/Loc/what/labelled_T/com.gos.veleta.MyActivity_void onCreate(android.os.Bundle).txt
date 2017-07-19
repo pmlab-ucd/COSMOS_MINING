@@ -1,1 +1,0 @@
-[['Tap to get the wind direction.']]

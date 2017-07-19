@@ -1,1 +1,0 @@
-['--°', 'Verdun Sous Garonne', '28/03/2014 13:37', '14 Km/h', 'Current Condition et toi ?', 'Mon', '88°/120°', 'Mon', '88°/120°', 'Mon', '88°/120°', 'Mon', '88°/120°', 'Mon', '88°/120°', 'Mon', '88°/120°', '<com level up bright weather h void onClick']

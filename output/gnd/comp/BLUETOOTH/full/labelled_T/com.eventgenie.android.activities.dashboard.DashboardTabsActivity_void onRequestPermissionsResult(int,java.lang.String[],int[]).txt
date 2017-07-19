@@ -1,1 +1,0 @@
-[[], 'com event genie android activities dashboard dashboard tabs activity ', ' boolean isEnabled ', 'void onRequestPermissionsResult']

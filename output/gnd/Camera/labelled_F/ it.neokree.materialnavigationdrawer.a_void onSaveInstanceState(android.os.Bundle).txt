@@ -1,1 +1,0 @@
-['Device Information', '99%', 'Battery', '87.1°F', 'Temperature', 'Charging left', '0h6m', 'Extends battery life now!', '22.2%', 'CPU', '102.2°F', 'Temperature', 'Cool Down!', 'Battery', '<it neo kree material navigation drawer a void onSaveInstanceState']

@@ -1,1 +1,0 @@
-['select a device to connect', 'No devices have been paired', 'Scan for devices', '<jp us hi kaz p kg Device List Activity void onDestroy']

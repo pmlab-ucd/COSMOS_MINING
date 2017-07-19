@@ -1,1 +1,0 @@
-['<com cube arc hz d shelters fragment Shelter Details Fragment void onClick']

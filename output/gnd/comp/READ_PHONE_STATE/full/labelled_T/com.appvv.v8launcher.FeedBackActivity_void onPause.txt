@@ -1,1 +1,0 @@
-[[], 'com a ppv v v8launcher feed back activity ', ' java.lang.String getDeviceId ', 'void onPause']

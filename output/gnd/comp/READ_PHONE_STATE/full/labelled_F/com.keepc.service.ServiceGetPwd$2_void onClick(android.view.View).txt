@@ -1,1 +1,0 @@
-[['请输入您的手机号码： ', '取回密码', 'KC电话最低仅需5分钱/分钟\n 注册KC最高可免费体验40分钟\n'], 'com keep c service service get pwd$2 ', ' java.lang.String getSubscriberId ', 'void onClick']

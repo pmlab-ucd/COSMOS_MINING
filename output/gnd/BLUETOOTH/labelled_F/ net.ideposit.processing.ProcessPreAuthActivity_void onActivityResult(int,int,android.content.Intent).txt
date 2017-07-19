@@ -1,1 +1,0 @@
-['Process Pre Auth', 'Process', 'Required', 'Name:', 'Card Number:', 'Exp Date:', 'MMYY', 'Amount:', 'Order #:', '7098', '<net i deposit processing Process Pre Auth Activity void onActivityResult']

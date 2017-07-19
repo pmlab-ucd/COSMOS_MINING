@@ -1,1 +1,0 @@
-[['DroneView', 'Edit', 'Add new camera'], 'void onClick', 'object p2pwificam activity client ipcam client activity$21 ', ' void <init> ']

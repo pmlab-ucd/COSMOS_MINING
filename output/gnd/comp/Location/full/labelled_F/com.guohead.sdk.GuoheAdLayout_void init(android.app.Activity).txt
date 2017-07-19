@@ -1,1 +1,0 @@
-[['友情提示', '本程序需要安装flash palyer才能运行！', '是', '否'], 'com guo head sdk guohe ad layout ', ' android.telephony.CellLocation getCellLocation ', 'void init>']

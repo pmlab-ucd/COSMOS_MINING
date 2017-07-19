@@ -1,1 +1,0 @@
-['Set connect. dest.', 'Device ID', 'Password', 'Display password', 'If the camera to connect to is compatible with NFC, touch the NFC mark on the camera body with your smartphone.', 'If your device has a QR scanner, tap the following button.', 'QR code', 'OK', 'Cancel', '<com panasonic a vc cng view setting Remote Watch Connect Activity void onPause']

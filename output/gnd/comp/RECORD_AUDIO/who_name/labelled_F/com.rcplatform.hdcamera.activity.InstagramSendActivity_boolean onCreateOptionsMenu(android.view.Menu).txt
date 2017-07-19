@@ -1,1 +1,0 @@
-['<com rc platform hd camera activity instagram send activity ', ' void <init> ']

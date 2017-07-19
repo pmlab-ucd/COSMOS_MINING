@@ -1,1 +1,0 @@
-[['Settings', 'Units', 'Temperature units', 'Celsius', 'Show temperature only as an integer', 'Length units', 'Millimeters (mm)', 'Speed units', 'Meters per second (m/s)', 'Pressure units', 'hPa', 'Date Format', 'Custom Date Format', 'Provide the custom SimpleDateFormat string to be used', 'Display']]

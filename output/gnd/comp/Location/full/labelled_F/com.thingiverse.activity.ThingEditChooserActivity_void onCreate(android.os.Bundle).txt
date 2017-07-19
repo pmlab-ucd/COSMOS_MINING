@@ -1,1 +1,0 @@
-[['Edit My Thing', 'DESIGN', 'MADE'], 'com thing i verse activity thing edit chooser activity ', ' void requestLocationUpdates ', 'void onCreate']

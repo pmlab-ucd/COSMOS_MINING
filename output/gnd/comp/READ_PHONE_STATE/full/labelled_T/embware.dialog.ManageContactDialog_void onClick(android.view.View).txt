@@ -1,1 +1,0 @@
-[[], 'e mbw are dialog manage contact dialog ', ' void listen ', 'void onClick']

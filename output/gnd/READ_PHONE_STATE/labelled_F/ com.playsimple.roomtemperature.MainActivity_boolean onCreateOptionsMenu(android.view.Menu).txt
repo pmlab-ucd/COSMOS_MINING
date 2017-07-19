@@ -1,1 +1,0 @@
-['Room Temperature', "Sorry, your device doesn't have a temperature sensor.", '<com play simple room temperature Main Activity boolean onCreateOptionsMenu']

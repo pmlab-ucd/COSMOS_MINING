@@ -1,1 +1,0 @@
-record left button android.widget.ImageButton

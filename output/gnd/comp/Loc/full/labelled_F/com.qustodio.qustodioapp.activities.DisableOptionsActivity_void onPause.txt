@@ -1,1 +1,0 @@
-[['My trusted contacts', 'These contacts can only be modified from the Qustodio online dashboard'], 'void onPause']

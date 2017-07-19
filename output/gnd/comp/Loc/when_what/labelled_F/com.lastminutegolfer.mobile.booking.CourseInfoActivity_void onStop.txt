@@ -1,1 +1,0 @@
-[['Course Info'], '<com last minute golfer mobile booking Course Info Activity void onStop']

@@ -1,1 +1,0 @@
-[['SPEED', '0', 'mph', 'EXCESSIVE SPEED'], 'com cobra i radar screens speed alert screen ', ' android.location.Location getLastKnownLocation ', 'void onConfigurationChanged']

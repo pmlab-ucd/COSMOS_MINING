@@ -1,1 +1,0 @@
-[[], 'activity main activity ', ' java.lang.String getLine1Number ', 'void onCreate']

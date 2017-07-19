@@ -1,1 +1,0 @@
-[['Yes'], 'void onPause']

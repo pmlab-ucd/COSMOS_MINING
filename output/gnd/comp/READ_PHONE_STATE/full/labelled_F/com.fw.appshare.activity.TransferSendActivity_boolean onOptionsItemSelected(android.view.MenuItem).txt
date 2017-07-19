@@ -1,1 +1,0 @@
-[[], 'com fw a ppsh are activity transfer send activity ', ' java.lang.String getSimSerialNumber ', 'boolean onOptionsItemSelected']

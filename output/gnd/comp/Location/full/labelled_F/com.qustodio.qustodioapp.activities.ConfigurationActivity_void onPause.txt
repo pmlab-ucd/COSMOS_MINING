@@ -1,1 +1,0 @@
-[['My trusted contacts', 'These contacts can only be modified from the Qustodio online dashboard'], 'com qu s to dio qu s to dio app activities configuration activity ', ' void requestLocationUpdates ', 'void onPause']

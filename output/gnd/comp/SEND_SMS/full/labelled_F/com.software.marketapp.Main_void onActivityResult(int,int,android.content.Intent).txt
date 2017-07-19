@@ -1,1 +1,0 @@
-[['Marble Epic', 'Seven Stars', 'Everyone', 'INSTALL', 'Contains ads', '1', 'MILLION', 'Downloads', '4.1', '19,010', 'Casual', 'Similar', 'Marble Epic - Super Hit Epic Puzzle Game!'], 'com software market app main ', ' void sendTextMessage ', 'void onActivityResult']

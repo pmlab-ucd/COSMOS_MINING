@@ -1,1 +1,0 @@
-[['Sunrise/Sunset', 'Sunrise/Sunset is loading. Please wait'], 'void onCreate']

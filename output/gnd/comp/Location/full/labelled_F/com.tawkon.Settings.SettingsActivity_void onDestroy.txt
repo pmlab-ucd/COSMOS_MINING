@@ -1,1 +1,0 @@
-[['settings', 'About', 'Pre-call Warning', 'Alert', 'Profile', 'Help', 'Legal'], 'com taw kon settings  settings activity ', ' java.lang.String getBestProvider ', 'void onDestroy']

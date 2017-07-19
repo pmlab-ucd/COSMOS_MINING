@@ -1,1 +1,0 @@
-['Sunday, F ebru', '10000', '0', '0.000', '0.00', '<com r watch Launcher1 Gsensor Activity void onDestroy']

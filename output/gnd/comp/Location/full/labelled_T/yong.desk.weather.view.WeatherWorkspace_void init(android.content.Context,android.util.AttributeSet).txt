@@ -1,1 +1,0 @@
-[['City Management', 'Open Position', 'Enter a city name in English', 'Add', 'OK'], 'yong desk weather view weather workspace ', ' boolean isProviderEnabled ', 'void init>', 'workspace_weather_info']

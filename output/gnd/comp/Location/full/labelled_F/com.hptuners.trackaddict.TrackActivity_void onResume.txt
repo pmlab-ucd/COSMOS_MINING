@@ -1,1 +1,0 @@
-[['Circuit Selection', 'Set track name and start / finish coordinates', 'New', "You have no tracks set up yet. Tap the 'New' button to add one, and we'll see if we recognize anything nearby.", ' No Circuits'], 'com hp tuners track addict track activity ', ' boolean isProviderEnabled ', 'void onResume']

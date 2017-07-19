@@ -1,1 +1,0 @@
-[['KidControl', 'jameshaofu@gmail.com', 'KidControl password', 'Forgot password?', 'OK']]

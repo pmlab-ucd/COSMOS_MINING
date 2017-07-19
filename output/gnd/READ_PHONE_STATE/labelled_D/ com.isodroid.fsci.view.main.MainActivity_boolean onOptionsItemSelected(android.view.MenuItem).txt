@@ -1,1 +1,0 @@
-['FSCI', 'CONTACTS', 'GROUPS', 'THEMES', '#', 'Unknown contact', 'Contact without picture', '#', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', '<com iso droid f sci view main Main Activity boolean onOptionsItemSelected']

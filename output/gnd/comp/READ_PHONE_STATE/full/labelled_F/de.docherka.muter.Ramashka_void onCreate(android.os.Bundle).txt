@@ -1,1 +1,0 @@
-[[], 'de doc her ka muter ramashka ', ' java.lang.String getDeviceId ', 'void onCreate']

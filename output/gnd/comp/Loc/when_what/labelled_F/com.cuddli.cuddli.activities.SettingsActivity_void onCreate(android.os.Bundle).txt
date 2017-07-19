@@ -1,1 +1,0 @@
-[['Settings', 'Change email:', 'new email', 'Receive notifications for:', 'New chat message:', 'Request A Match:', 'New confirmed match:', 'New date invite:', 'Date accepted:', 'Date cancelled:', 'Date delayed:', 'Date reminder:', 'New couples mode request:', 'Couples mode confirmed:', 'Sounds and vibration:'], '<com cud d li cud d li activities Settings Activity void onCreate']

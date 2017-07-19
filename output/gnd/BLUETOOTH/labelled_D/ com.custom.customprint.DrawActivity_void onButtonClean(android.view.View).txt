@@ -1,1 +1,0 @@
-['CustomPrint', 'draw', 'start\ndrawing\nhere', 'Clean', 'Print', '<com custom custom print Draw Activity void onButtonClean']

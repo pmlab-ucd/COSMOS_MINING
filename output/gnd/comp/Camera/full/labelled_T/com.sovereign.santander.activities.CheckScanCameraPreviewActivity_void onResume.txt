@@ -1,1 +1,0 @@
-[['BACK OF CHECK', 'Take a clear, well-lit photo from above. Make sure the check fits within the four corners and is endorsed with a printed "FOR DEPOSIT ONLY"'], 'com sovereign santander activities check scan camera preview activity ', ' android.hardware.Camera open ', 'void onResume']

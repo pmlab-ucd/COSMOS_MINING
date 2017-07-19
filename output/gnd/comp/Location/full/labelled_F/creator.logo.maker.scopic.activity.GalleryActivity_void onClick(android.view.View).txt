@@ -1,1 +1,0 @@
-[['GALLERY'], 'creator logo maker sco pic activity gallery activity ', ' boolean isProviderEnabled ', 'void onClick']

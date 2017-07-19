@@ -1,1 +1,0 @@
-[[], 'com lj mobile move app ui activity move app activity ', ' java.lang.String getDeviceId ', 'void onPause']

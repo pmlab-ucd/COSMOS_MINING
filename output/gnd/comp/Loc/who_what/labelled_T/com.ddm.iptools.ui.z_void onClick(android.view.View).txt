@@ -1,1 +1,0 @@
-[['IP info', '168.150.11.109', 'Signal: 100%', 'Speed: 72 Mbps', 'City: Davis', 'Region: California', 'Country: United States', 'Coordinates (Provider):\n\tLatitude: 38.554641723633\n\tLongitude: -121.74500274658', 'SSID: moobilenetx', 'Host: campus-011-109.ucdavis.edu', 'Internal IP: 168.150.11.109']]

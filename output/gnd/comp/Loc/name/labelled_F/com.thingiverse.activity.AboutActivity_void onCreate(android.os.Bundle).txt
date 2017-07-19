@@ -1,1 +1,0 @@
-['<com thing i verse activity About Activity void onCreate']

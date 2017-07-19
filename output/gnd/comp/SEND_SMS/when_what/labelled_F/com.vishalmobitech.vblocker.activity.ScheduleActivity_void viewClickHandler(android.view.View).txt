@@ -1,1 +1,0 @@
-[['Schedule Blocking', 'Schedule Blocker', 'Add', "Tap 'Add' to add schedule for blocking."], 'void viewClickHandler']

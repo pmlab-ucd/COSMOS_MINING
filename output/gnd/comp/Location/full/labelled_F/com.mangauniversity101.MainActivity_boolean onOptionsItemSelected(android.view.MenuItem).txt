@@ -1,1 +1,0 @@
-[['Manga University 101', 'Top', 'Tutorials', 'Videos', 'Books'], 'com manga university 1 0 1 main activity ', ' boolean isProviderEnabled ', 'boolean onOptionsItemSelected']

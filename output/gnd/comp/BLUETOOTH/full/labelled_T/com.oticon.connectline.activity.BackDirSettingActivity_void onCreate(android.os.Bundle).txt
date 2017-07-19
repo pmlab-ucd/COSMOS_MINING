@@ -1,1 +1,0 @@
-[[], 'com ot icon connect line activity back dir setting activity ', ' android.bluetooth.BluetoothServerSocket listenUsingRfcommWithServiceRecord ', 'void onCreate']

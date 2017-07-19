@@ -1,1 +1,0 @@
-[['Email', 'Log in', 'Version 1.21'], 'void onStart']

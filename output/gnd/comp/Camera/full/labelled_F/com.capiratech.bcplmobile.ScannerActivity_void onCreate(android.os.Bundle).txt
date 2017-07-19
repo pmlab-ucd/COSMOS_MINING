@@ -1,1 +1,0 @@
-[['BCPL Mobile', 'Cancel'], 'com ca pirate ch bc pl mobile scanner activity ', ' android.hardware.Camera open ', 'void onCreate']

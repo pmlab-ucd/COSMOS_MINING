@@ -1,1 +1,0 @@
-['ROM Manager requires a custom recovery like ClockworkMod Recovery to install new software. The first thing we need to do is install an up to date version. We will begin that process now. You can come back to it at any time by clicking on Recovery Setup.', 'OK', '<com kou s hik dutta rom manager Rom Manager void onCreate']

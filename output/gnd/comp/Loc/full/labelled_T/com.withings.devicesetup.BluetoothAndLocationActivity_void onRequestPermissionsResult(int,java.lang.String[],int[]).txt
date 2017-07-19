@@ -1,1 +1,0 @@
-[['We need your position in order to find your Withings product.', 'We will not store your position information.', 'Learn more', 'Allow'], 'void onRequestPermissionsResult']

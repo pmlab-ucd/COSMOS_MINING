@@ -1,1 +1,0 @@
-[['Settings', 'Done', 'Gas Grade', 'Regular', 'Midgrade', 'Premium', 'Diesel', 'About Gas Guru'], 'settings_button_about', 'android.widget.Button', 'settings_button_done', 'android.widget.Button']

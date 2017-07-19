@@ -1,1 +1,0 @@
-[[' ', ' '], 'com in t sig cam dic t capture activity ', ' android.hardware.Camera open ', 'void onResume']

@@ -1,1 +1,0 @@
-['Scan Receipt', 'Scan your receipt', 'Include the retailer, qualifying products and total within the guidelines.', 'Scan', 'Cancel', '<com pg pampers gt g android Receipt Scan Camera Activity void onResume']

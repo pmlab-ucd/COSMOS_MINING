@@ -1,1 +1,0 @@
-[['Search Text'], 'com indelible activity search activity ', ' java.lang.String getBestProvider ', 'void onResume']

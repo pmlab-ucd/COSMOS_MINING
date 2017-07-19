@@ -1,1 +1,0 @@
-[['Sign Up', 'Log in', 'Sign up with email', 'Or', 'Sign up with Facebook', "By continuing, I have read, understand, and agree to SparkPeople's Terms & Conditions and Privacy Policy."], '<com spark people android tracker Spark People void onCreate']

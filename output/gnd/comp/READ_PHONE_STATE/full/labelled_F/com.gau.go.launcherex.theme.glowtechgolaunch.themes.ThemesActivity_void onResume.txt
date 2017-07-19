@@ -1,1 +1,0 @@
-[[], 'com gau go launcher ex theme glow tech go launch themes themes activity ', ' java.lang.String getDeviceId ', 'void onResume']

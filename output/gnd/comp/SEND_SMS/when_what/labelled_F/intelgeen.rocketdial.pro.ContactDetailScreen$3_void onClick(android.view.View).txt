@@ -1,1 +1,0 @@
-[['Other', 'Group', 'Select groups', 'Ringtone', 'Default Ringtone', 'HD Photo (Not Set) ', 'Set HD Contact Photo'], 'void onClick']

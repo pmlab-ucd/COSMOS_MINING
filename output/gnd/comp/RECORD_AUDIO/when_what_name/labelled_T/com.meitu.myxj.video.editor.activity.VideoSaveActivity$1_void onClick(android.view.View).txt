@@ -1,1 +1,0 @@
-[['Beautify', 'Video', 'PikaPika', 'Collage', 'Selfie'], 'void onClick', 'com me it u my xj video editor activity video save activity$1 ', ' void <init> ']

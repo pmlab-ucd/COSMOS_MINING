@@ -1,1 +1,0 @@
-[[], 'com twi cula r weekly app weekly entry activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

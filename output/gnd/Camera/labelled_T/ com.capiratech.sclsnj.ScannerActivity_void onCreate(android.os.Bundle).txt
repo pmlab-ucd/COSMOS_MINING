@@ -1,1 +1,0 @@
-['Cancel', '<com ca pirate ch scl s nj Scanner Activity void onCreate']

@@ -1,1 +1,0 @@
-[['绑定手机密宝', '快速绑定（推荐）', '如果您账号已成功认证本手机号码，请手机连接到互联网后使用此方式', '网站绑定', '请用电脑登录http://aq.sdo.com，点击“账号绑定”按钮完成操作。', '下一步'], 'com s do re put a redstone activity splash activity ', ' void sendTextMessage ', 'void onCreate']

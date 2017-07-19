@@ -1,1 +1,0 @@
-[['Accounts', 'Tap "+" to add accounts'], 'com checkbook large activity check pad ', ' android.location.Location getLastKnownLocation ', 'void onDestroy']

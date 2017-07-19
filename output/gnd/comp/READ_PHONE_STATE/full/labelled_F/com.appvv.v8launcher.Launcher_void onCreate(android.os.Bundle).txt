@@ -1,1 +1,0 @@
-[[], 'com a ppv v v8launcher launcher ', ' java.lang.String getDeviceId ', 'void onCreate']

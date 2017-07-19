@@ -1,1 +1,0 @@
-['Document Print App.', 'Local Files', 'Web Pages', 'Google Docs', 'Dropbox', 'Evernote', '<com kodak view Main Activity void onCreate']

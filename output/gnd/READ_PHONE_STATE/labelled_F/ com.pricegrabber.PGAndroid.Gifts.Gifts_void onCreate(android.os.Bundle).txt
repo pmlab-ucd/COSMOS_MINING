@@ -1,1 +1,0 @@
-['Toys', 'Video Games', 'Appliances', 'Auto Parts', '$', '$ $', '$ $ $', '$ $ $ $', 'Home', 'Favorites', 'Alerts', 'Barcode', 'Settings', '<com price grabber P G Android Gifts Gifts void onCreate']

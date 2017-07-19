@@ -1,1 +1,0 @@
-[['¡Bienvenido a CubaMessenger!', 'Accede con tu correo (o teléfono) y contraseña o crea una cuenta nueva', 'Correo o teléfono', 'Iniciar sesión', 'Crear cuenta', 'Recuperar contraseña', '¿Estás en Cuba? Cambiar app', 'Para cualquier pregunta escríbenos a info@cubamessenger.com', 'CubaMessenger.com © 2016']]

@@ -1,1 +1,0 @@
-['<com jac apps wok v Opt Out Activity void onCreate']

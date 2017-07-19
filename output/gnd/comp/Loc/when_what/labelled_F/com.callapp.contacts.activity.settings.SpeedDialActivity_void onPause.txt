@@ -1,1 +1,0 @@
-[['Speed Dial', '2', 'Tap to add number', '3', 'Tap to add number', '4', 'Tap to add number', '5', 'Tap to add number', '6', 'Tap to add number', '7', 'Tap to add number', '8', 'Tap to add number', '9', 'Tap to add number', '10', 'Tap to add number'], '<com call app contacts activity settings Speed Dial Activity void onPause']

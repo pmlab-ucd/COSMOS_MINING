@@ -1,1 +1,0 @@
-['<com panasonic a vc cng view smart operation Picmate Send Activity void onActivityResult']

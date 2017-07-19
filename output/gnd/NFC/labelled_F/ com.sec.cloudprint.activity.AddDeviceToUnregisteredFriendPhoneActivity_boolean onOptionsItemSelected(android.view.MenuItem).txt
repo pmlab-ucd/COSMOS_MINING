@@ -1,1 +1,0 @@
-['Country Code', 'Enter the name of your country.', 'Afghanistan (+93)', 'Albania (+355)', 'Algeria (+213)', 'American Samoa (+1684)', 'Andorra (+376)', '<com sec cloud print activity Add Device To Unregistered Friend Phone Activity boolean onOptionsItemSelected']

@@ -1,1 +1,0 @@
-[['Daily notifications', 'Rain or shine, get the forecast every morning and evening', '8:00', 'AM', 'Mon, 18 August', 'Yahoo Weather', '8:00 AM', '78°', 'San Francisco', 'Enable notifications', 'No, thanks'], 'com yahoo mobile client android weather ui on boarding screen activity ', ' java.util.List getProviders ', 'void onClick']

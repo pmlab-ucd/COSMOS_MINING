@@ -1,1 +1,0 @@
-['Back', 'About', 'BeautyCam', 'V 5.1.9.0 ', 'Welcome Page', 'License', 'User Agreement', 'Developed by Meitu', '©2016 Meitu, Inc.', '<com me it u my xj setting activity About Activity boolean onKeyDown']

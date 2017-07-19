@@ -1,1 +1,0 @@
-['WBR800 Demo SE', 'No devices have been paired', 'Scan for new devices', '<com gig atms io G Net Plus Lib G Net Plus Lib Bluetooth Device List void onDestroy']

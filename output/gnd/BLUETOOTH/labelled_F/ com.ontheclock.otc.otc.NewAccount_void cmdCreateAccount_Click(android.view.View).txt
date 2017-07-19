@@ -1,1 +1,0 @@
-['New Account', 'New Account', 'Enter Email Address...', 'Get Started', '<com on the clock otc otc New Account void cmdCreateAccount_Click']

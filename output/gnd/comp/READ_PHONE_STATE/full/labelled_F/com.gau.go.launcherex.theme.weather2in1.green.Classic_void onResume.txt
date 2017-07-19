@@ -1,1 +1,0 @@
-[[], 'com gau go launcher ex theme weather 2 i n 1 green classic ', ' java.lang.String getDeviceId ', 'void onResume']

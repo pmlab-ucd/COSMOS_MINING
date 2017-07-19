@@ -1,1 +1,0 @@
-['<com q is i crop image crop image view ', ' void <init> ', 'image']

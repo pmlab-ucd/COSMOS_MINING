@@ -1,1 +1,0 @@
-['Personal Chat', 'Listening...', 'Scan Available Devices', 'Click On the Device to Connect... (or) Wait a moment to other device will connect you.', '---------------', 'No Devices Paired!', '---------------', '---------------', 'enter text to send', '<skpec coe ad hoc social network manager Personal Chat Activity void onCreate']

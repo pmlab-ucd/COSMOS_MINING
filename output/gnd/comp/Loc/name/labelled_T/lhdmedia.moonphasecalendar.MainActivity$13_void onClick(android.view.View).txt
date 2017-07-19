@@ -1,1 +1,0 @@
-['<lhdmedia moon phase calendar Main Activity$13 void onClick']

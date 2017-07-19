@@ -1,1 +1,0 @@
-['<com navi time ui transfer Rail Map Activity void onWindowFocusChanged']

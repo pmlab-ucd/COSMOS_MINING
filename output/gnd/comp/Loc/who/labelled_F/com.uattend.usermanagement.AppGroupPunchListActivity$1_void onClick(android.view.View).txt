@@ -1,1 +1,0 @@
-['id_group_punch_button']

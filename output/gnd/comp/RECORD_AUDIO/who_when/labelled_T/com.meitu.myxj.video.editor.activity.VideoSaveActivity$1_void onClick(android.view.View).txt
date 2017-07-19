@@ -1,1 +1,0 @@
-void onClick rl home goto video android.widget.RelativeLayout

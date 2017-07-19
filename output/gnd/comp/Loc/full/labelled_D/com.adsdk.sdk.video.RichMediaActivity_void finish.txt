@@ -1,1 +1,0 @@
-[['Tech News', 'English', 'Italian', 'Spanish'], 'void finish']

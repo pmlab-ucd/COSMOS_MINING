@@ -1,1 +1,0 @@
-['mini MEBluConnect update required', 'mini MEBluConnect could successfully be paired.\nHowever, it seems that the mini MEBluConnect does not have a current firmware version.\nSee your hearing care professional for assistance.', 'Restart setup', '<de siemens mini tek remote U I setup Setup04 Activity Step02 void onResume']

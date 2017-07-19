@@ -1,1 +1,0 @@
-[['Locations', 'You have no locations, you can add one with below button.'], 'void onClick']

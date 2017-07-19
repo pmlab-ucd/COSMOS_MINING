@@ -1,1 +1,0 @@
-['<com vung le publisher Full Screen Ad Activity void onResume']

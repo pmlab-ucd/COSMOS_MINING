@@ -1,1 +1,0 @@
-[[], 'app controller login phone activity ', ' java.lang.String getLine1Number ', 'void onCreate']

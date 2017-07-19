@@ -1,1 +1,0 @@
-[['Create highlights', 'Execute', 'Video camera', '162'], 'com panasonic a vc cng view play highlight highlight activity ', ' void <init> ']

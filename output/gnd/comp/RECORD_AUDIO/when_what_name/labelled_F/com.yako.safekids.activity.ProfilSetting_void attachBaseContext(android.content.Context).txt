@@ -1,1 +1,0 @@
-[['Profil', 'No alerts', 'Kids number: 0', ' Informations ', '    Kids    ', 'City', 'Phone number', '+ ', 'Car type', 'Car color'], 'void attachBaseContext', 'com yak o safe kids activity profil setting ', ' void <init> ']

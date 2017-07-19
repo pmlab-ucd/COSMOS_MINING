@@ -1,1 +1,0 @@
-[['蒙奇奇动态壁纸', '设置壁纸', '排行榜', '设置签名', '设置时间', '关于'], 'com green soft meng qi qi  test activity ', ' boolean isProviderEnabled ', 'void onResume']

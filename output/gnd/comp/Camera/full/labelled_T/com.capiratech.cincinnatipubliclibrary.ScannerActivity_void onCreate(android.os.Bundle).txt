@@ -1,1 +1,0 @@
-[['Cancel'], 'com ca pirate ch cincinnati public library scanner activity ', ' android.hardware.Camera open ', 'void onCreate']

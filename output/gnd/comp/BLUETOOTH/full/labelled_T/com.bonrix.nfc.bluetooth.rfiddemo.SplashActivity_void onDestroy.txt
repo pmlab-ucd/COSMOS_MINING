@@ -1,1 +1,0 @@
-[[], 'com bon r ix nfc bluetooth rfid demo splash activity ', ' boolean disable ', 'void onDestroy']

@@ -1,1 +1,0 @@
-[['Tracker Map', '+'], 'com hunters toolkit android app ui activity tracker map activity ', ' android.location.Location getLastKnownLocation ', 'void onCreate']

@@ -1,1 +1,0 @@
-['Samsung Cloud Print', 'Please complete registration first.', 'OK', '<com sec cloud print activity Print Previewer void onCreate']

@@ -1,1 +1,0 @@
-[['三国志III', '没有设备已配对', '扫描设备'], 'com android emu snes device list activity ', ' java.util.Set getBondedDevices ', 'void onCreate']

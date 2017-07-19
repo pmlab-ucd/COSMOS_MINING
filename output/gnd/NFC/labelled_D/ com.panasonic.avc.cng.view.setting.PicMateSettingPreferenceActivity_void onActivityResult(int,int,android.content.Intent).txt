@@ -1,1 +1,0 @@
-['LUMIX CLUB settings', 'Start LUMIX CLUB function use', 'ON', 'Manage login ID', 'Regist. Web Service', '<com panasonic a vc cng view setting Pic Mate Setting Preference Activity void onActivityResult']

@@ -1,1 +1,0 @@
-['Warning', 'No Contacts found', 'Ok', '<com custom custom print Contacts Activity void onButtonPrintContacts']

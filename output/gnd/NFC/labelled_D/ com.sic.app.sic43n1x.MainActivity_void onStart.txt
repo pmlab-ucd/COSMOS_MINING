@@ -1,1 +1,0 @@
-['Read Status', 'Configuration', 'About', '<com sic app sic 4 3 n 1 x Main Activity void onStart']

@@ -1,1 +1,0 @@
-['Sign In', 'Email', 'Sign up', 'Login', '<com snr ui Upload Tab void onCreate']

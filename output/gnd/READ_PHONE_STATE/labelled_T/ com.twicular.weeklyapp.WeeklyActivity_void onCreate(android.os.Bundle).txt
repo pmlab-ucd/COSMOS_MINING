@@ -1,1 +1,0 @@
-['Tips on Finding Stores', '* Enter city & state or just zip code, then press "Search"\n* Or move map to location and press "Redo Search in This Area"\n* After search, press "Select Stores" to save stores to list', 'OK', "Don't Show Again", '<com twi cula r weekly app Weekly Activity void onCreate']

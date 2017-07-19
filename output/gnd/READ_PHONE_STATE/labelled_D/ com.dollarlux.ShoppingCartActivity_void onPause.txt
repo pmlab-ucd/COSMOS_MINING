@@ -1,1 +1,0 @@
-['Create Account', 'Sign In', 'Full Name', 'jameshaofu@gmail.com', 'By tapping to continue, I agree to', 'Privacy Policy', ' & ', 'Terms of Service', 'Create Account', 'OR', 'Join with Google', 'Join with Facebook', '<com dollar lux Shopping Cart Activity void onPause']

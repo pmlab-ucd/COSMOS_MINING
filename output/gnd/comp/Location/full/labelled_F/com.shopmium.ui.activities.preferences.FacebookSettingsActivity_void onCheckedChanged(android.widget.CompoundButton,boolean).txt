@@ -1,1 +1,0 @@
-[['Facebook Connect', 'Facebook Connect', 'OFF', 'Your account is not linked with Facebook', 'Discover what your friends buy, connect with Facebook !'], 'com shop miu m ui activities preferences facebook settings activity ', ' java.util.List getProviders ', 'void onCheckedChanged']

@@ -1,1 +1,0 @@
-['Searching camera...', 'Cancel', '<com panasonic a vc cng view camera connect Camera Connect Activity void onPause']

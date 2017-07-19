@@ -1,1 +1,0 @@
-[['Where To Shoot', 'Home', 'News', 'Safety', 'About', 'Find Near Me', 'Loading Current Postal Code...', 'Search Distance of 20 Miles', 'Enter Postal Code', 'Find By Postal Code', 'Select a State', 'Search By State'], 'void onCreate']

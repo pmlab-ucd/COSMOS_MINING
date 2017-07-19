@@ -1,1 +1,0 @@
-['<kaka wallpaper forest android Location Settings Activity void onCreate']

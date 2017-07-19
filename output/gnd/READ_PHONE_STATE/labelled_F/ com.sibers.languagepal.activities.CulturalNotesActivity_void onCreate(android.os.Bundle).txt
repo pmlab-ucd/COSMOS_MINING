@@ -1,1 +1,0 @@
-['Culture Notes', '<com sib ers language pal activities Cultural Notes Activity void onCreate']

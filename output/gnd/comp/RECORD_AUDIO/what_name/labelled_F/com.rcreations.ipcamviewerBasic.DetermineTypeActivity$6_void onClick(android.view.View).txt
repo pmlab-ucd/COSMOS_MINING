@@ -1,1 +1,0 @@
-[['Scan Camera', 'This tool will probe the given IP/Port looking for compatible camera types. Enter information then press Test. If a match is found, then select and press Add.', 'Type', 'Unknown', 'SSL', 'IP', 'Hostname or IP', 'Port', 'Port', 'User', 'Pswd', 'Cancel', 'Test', 'Add'], 'com r creations basic ipcamviewer determine type activity$6 ', ' void <init> ']

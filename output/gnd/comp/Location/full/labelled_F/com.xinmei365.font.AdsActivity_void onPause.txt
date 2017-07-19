@@ -1,1 +1,0 @@
-[['My Font', '《美文》分享精美文字图片！', '支持新浪、腾讯微博等分享', '多种字体，背景随心搭配', '支持字体管家全部字体', '美文是一款精美的图文共享软件，支持选择个性的字体和背景生成图片分享给好友！', '马上体验'], 'com x in mei 3 6 5 font ads activity ', ' android.location.Location getLastKnownLocation ', 'void onPause']

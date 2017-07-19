@@ -1,1 +1,0 @@
-[[], 'com cm cm ad sdk interstitial picks interstitial activity$a ', ' java.lang.String getSubscriberId ', 'void onClick']

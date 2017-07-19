@@ -1,1 +1,0 @@
-[[], 'com k ika battery module activity battery activity ', ' java.lang.String getDeviceId ', 'void onWindowFocusChanged']

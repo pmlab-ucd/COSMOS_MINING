@@ -1,1 +1,0 @@
-['0/120 SMS', '<com book pal comics activity Book List Activity void onSearchClicked']

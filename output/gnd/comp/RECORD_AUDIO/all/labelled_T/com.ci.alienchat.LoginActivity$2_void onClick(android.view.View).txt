@@ -1,1 +1,0 @@
-[['#Enter your nick name'], 'void onClick', ' void <init> ']

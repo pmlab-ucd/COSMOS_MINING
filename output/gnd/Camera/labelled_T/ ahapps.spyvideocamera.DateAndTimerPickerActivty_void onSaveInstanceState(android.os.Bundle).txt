@@ -1,1 +1,0 @@
-['Secret Video Camera', 'Please notice: Rebooting your device causes inactivation of the timer', 'Recording start time', '00 00 0000 00:00', 'Recording end time', '00 00 0000 00:00', 'Start', '<ahapps spy videocamera Date And Timer Picker Activty void onSaveInstanceState']

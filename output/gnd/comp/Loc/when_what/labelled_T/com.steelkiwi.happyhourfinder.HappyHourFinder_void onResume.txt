@@ -1,1 +1,0 @@
-[['HAPPY HOURS FOR:', 'SATURDAY', 'MAP', 'LIST', 'Loading happy hours..'], '<com steel kiwi happy hour finder Happy Hour Finder void onResume']

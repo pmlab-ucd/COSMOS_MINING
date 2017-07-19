@@ -1,1 +1,0 @@
-[[], 'kr co open it bp diary service my device activity c', ' boolean isEnabled ', 'void onClick']

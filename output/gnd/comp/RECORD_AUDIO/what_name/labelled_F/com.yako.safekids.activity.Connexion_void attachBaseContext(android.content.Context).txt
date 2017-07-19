@@ -1,1 +1,0 @@
-[['Login', 'Sign in', "You don't have account? sign up?"], 'com yak o safe kids activity connexion ', ' void <init> ']

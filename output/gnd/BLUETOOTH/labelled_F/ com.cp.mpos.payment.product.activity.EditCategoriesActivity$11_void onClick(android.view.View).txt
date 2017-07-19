@@ -1,1 +1,0 @@
-['Edit Category', 'Add Category', '<com cp m pos payment product activity Edit Categories Activity$11 void onClick']

@@ -1,1 +1,0 @@
-[['Laws & Regulations'], '<com hunters toolkit android app ui activity Laws And Regs Activity void onPause']

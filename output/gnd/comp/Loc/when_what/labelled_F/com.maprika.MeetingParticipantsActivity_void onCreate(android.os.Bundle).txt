@@ -1,1 +1,0 @@
-[['Select meeting participants', 'Step 2 of 4', 'Cancel', 'Next'], '<com map rika Meeting Participants Activity void onCreate']

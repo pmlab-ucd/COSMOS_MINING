@@ -1,1 +1,0 @@
-[[], 'com it online anastasia date activities anastasia date basic activity ', ' java.lang.String getDeviceId ', 'void onCreate']

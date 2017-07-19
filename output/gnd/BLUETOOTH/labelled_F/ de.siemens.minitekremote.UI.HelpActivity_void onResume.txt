@@ -1,1 +1,0 @@
-['Legal notice', 'Privacy policy', 'Terms & conditions', 'mini MEBluConnect instructions', 'mini MEBluConnect information', '<de siemens mini tek remote U I Help Activity void onResume']

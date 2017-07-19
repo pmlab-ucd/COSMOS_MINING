@@ -1,1 +1,0 @@
-[[], 'com bluff my calls app call log details ', ' java.lang.String getDeviceId ', 'void onCreate']

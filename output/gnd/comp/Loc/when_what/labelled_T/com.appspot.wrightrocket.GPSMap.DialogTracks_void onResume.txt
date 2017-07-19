@@ -1,1 +1,0 @@
-[['Tracks', 'Change Color', 'Delete Track', 'Edit Track', 'Graph Track', 'Share View', 'Tour Earth Track', 'View Land Speed', 'View Solid Color', 'View Human Speed', 'View Plane Speed'], '<com app spot wright rocket G P S Map Dialog Tracks void onResume']

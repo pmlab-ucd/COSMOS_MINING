@@ -1,1 +1,0 @@
-[['Sign In', 'Create Account', 'No Thanks', 'With a White & Yellow Pages account you will be able to write reviews and rate local businesses.\n\nWe will never share your personal information.'], 'void onCreate']

@@ -1,1 +1,0 @@
-[['返回', '精品推荐', '正在加载推荐列表，请稍候...'], 'com shand a games game plus ui mail send mails activity$1 ', ' void sendTextMessage ', 'void onClick']

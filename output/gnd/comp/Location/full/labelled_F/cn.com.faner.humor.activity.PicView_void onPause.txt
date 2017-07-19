@@ -1,1 +1,0 @@
-[['Loading...\nTouch the screen to switch images,on the left scroll up'], 'cn com fan er humor activity pic view ', ' android.location.Location getLastKnownLocation ', 'void onPause']

@@ -1,1 +1,0 @@
-['<com cud d li cud d li activities Venue Details Activity void onActivityResult']

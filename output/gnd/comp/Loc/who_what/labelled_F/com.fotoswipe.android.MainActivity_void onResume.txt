@@ -1,1 +1,0 @@
-[['Launch FotoSwipe on 2 phones...', '(iOS or Android)', 'Got it!']]

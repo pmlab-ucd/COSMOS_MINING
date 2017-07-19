@@ -1,1 +1,0 @@
-['If you experience poor compass behavior, please try to re-calibrate by moving the phone in a figure 8 motion.', "Don't show this again", 'Ok', '<com flight radar 2 4 google augmented Augmented Activity void onResume']

@@ -1,1 +1,0 @@
-[['AD', 'Envía hasta $999 por sólo 99¢', 'BillMo es una aplicación que permite enviar dinero a sus seres queridos en México a través de una tarjeta de débito.', 'Get it now!'], 'com flurry android flurry fullscreen takeover activity ', ' android.location.Location getLastKnownLocation ', 'void onCreate']

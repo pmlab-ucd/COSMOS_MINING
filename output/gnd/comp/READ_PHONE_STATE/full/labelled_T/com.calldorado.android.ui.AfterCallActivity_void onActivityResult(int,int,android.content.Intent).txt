@@ -1,1 +1,0 @@
-[[], 'com call dorado android ui after call activity ', ' java.lang.String getDeviceId ', 'void onActivityResult']

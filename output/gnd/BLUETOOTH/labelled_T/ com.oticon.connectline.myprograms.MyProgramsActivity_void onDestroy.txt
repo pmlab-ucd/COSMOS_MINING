@@ -1,1 +1,0 @@
-['Hearing Instrument Programs', 'Done', 'Programs, icons and labels will not affect your hearing instruments.', 'Default', 'Back dir', 'Hidden', '<com ot icon connect line my programs My Programs Activity void onDestroy']

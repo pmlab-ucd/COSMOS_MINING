@@ -1,1 +1,0 @@
-['Warning', 'No Sms found', 'Ok', '<com custom custom print Sms Activity void onButtonPrintSms']

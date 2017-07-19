@@ -1,1 +1,0 @@
-[['Setting Time Range', 'Type', 'Working', 'Turn on', 'Begin Time', 'End Time', 'Days'], 'com shou s huo android sms speaker set time range ', ' boolean isProviderEnabled ', 'void onPause']

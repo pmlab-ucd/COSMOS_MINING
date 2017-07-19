@@ -1,1 +1,0 @@
-['<com panasonic a vc cng view setting setup connect setting activity ', ' void <init> ']

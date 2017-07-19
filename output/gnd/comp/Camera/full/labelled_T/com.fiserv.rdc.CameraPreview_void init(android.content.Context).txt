@@ -1,1 +1,0 @@
-[['Align check to fit in the green guidelines.\nTap the screen to capture the image.', 'Cancel'], 'com f is er v rd c camera preview ', ' android.hardware.Camera open ', 'void init>', 'cameraPreview']

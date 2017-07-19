@@ -1,1 +1,0 @@
-[['about:blank'], 'com fi go future droid surfing  ui activities main activity ', ' void requestLocationUpdates ', 'void onCreate']

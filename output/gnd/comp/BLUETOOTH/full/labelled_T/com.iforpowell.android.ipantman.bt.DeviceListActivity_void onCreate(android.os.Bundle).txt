@@ -1,1 +1,0 @@
-[[], 'com i for powell android i pant man bt device list activity ', ' java.util.Set getBondedDevices ', 'void onCreate']

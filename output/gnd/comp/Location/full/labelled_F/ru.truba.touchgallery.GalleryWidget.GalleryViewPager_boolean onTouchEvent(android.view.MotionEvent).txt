@@ -1,1 +1,0 @@
-[['Username/E-mail', 'Password', 'Forgot password?', 'Sign In', "Don't have an account?", 'Sign Up', 'About MakerBot Thingiverse'], 'ru t rub a touch gallery gallery widget  gallery view pager ', ' void requestLocationUpdates ', 'boolean onTouchEvent', 'viewer']

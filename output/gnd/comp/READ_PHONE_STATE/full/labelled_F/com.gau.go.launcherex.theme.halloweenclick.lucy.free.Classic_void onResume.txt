@@ -1,1 +1,0 @@
-[[], 'com gau go launcher ex theme halloween click lucy free classic ', ' java.lang.String getDeviceId ', 'void onResume']

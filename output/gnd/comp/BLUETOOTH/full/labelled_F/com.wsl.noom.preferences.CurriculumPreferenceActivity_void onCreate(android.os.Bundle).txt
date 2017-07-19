@@ -1,1 +1,0 @@
-[[], 'com w sl no om preferences curriculum preference activity ', ' java.lang.String getName ', 'void onCreate']

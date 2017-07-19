@@ -1,1 +1,0 @@
-void init> in session footer

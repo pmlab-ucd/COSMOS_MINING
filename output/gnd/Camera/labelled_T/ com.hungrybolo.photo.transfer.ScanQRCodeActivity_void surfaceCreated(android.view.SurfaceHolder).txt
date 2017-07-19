@@ -1,1 +1,0 @@
-['Connect a device', 'Wifi: moobilenetx', 'Searching...', 'Scan QR code', '<com hungry bol o photo transfer Scan Q R Code Activity void surfaceCreated']

@@ -1,1 +1,0 @@
-[['DS Barometer', 'DS Barometer\nV.3.52', 'www.discipleskies.com', '© DS Software 2015', 'DS Apps', 'Sponsors'], 'com disciple skies android ds barometer about', ' void requestLocationUpdates ', 'void showSponsors']

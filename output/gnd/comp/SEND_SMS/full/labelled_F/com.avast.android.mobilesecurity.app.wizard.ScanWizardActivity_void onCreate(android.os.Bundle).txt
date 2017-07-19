@@ -1,1 +1,0 @@
-[['Virus Scanner', 'Scanning apps', '74%', 'Quick Reboot', '46 problems', 'Objects scanned', '34', 'Time', '0:02'], 'com avast android mobile security app wizard scan wizard activity ', ' void sendMultipartTextMessage ', 'void onCreate']

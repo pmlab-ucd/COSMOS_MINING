@@ -1,1 +1,0 @@
-[['Shopping Cart', 'QTY', 'SUBTOTAL', 'TOTAL', '0', '$0.00', '$0.00', 'CONTINUE SHOPPING', 'CHECKOUT']]

@@ -1,1 +1,0 @@
-[['Email/Account', 'Login', 'Forgot your password?', 'Sign up for Free']]

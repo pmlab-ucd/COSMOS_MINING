@@ -1,1 +1,0 @@
-['99%', 'Friday', 'January 27', '11:45', 'Slide to unlock', '<com k ika battery module activity Battery Activity$3 void onClick']

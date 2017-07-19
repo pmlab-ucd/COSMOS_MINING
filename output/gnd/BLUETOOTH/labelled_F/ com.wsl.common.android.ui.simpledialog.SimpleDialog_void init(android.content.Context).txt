@@ -1,1 +1,0 @@
-['Afternoon Snack', 'Search for your food', "Your frequently logged items will appear here after you've logged a few meals.", 'SEARCH TIP: Break items down to basic ingredients or search for a more generic name.', '<com w sl common android ui simple dialog Simple Dialog void <init>']

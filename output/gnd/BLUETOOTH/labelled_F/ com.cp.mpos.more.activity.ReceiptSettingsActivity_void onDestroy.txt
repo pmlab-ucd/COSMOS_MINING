@@ -1,1 +1,0 @@
-['Receipt Settings', 'Receive Receipts by Email', 'On', 'Email', 'Receive Receipts by Text', 'Off', 'Phone #', '(000) 000-0000', 'Std Msg&Data Rates May Apply', '<com cp m pos more activity Receipt Settings Activity void onDestroy']

@@ -1,1 +1,0 @@
-['Settings', 'Personal Center', 'Log in with Facebook', 'Junk Cleaner', 'Scan Memory', 'Low Space Notification', 'Junk Reminder', 'Set a reminder to clean junk files', 'Frequency', 'Every 3 days', 'Size', 'Over 100MB', '<com clean master ui widget F B Logout Layout void onClick']

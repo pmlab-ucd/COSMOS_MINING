@@ -1,1 +1,0 @@
-WhatsApp STT SMS & WhatsApp STT Language: العربية WhatsApp Send Reset Tap above and record the message.   < c o m call dorado android ui settings activity   void startListening  void startListen

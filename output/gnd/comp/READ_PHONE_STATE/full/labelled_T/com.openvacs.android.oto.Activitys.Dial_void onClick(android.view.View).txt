@@ -1,1 +1,0 @@
-[[], 'com open vac s android o to activitys  dial ', ' java.lang.String getDeviceId ', 'void onClick']

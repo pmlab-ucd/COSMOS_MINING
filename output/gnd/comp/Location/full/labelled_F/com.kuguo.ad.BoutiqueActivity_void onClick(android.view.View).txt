@@ -1,1 +1,0 @@
-[['APP精品推荐'], 'com ku guo ad boutique activity ', ' void requestLocationUpdates ', 'void onClick']

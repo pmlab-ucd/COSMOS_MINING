@@ -1,1 +1,0 @@
-[[], 'com my wick r gui login user login activity ', ' java.lang.String getDeviceId ', 'void onActivityResult']

@@ -1,1 +1,0 @@
-['<org ready nc mobile android Center Information void onCreate']

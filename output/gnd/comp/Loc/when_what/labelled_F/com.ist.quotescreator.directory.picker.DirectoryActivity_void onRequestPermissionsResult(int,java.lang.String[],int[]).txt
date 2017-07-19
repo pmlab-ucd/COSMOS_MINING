@@ -1,1 +1,0 @@
-[['Settings', 'DEFAULT SAVE DIRECTORY', '  /storage/emulated/0/Quotes Creator'], '<com is t quotes creator directory picker Directory Activity void onRequestPermissionsResult']

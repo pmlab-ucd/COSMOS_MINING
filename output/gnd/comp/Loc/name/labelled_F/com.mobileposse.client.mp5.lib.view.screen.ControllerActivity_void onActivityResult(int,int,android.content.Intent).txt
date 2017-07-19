@@ -1,1 +1,0 @@
-['<com mobile posse client mp 5 lib view screen Controller Activity void onActivityResult']

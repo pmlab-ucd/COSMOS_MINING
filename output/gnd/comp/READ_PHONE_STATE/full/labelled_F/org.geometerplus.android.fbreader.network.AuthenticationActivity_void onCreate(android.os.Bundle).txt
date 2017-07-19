@@ -1,1 +1,0 @@
-[['鉴定', 'Your password will be sent unencrypted', '登录', '密码', 'Ok', 'Cancel'], 'org geometer plus android fb reader network authentication activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

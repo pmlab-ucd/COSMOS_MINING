@@ -1,1 +1,0 @@
-[['请将条码置于取景框内扫描。', '返回'], 'com google zxing  demo  capture activity ', ' android.hardware.Camera open ', 'void onResume']

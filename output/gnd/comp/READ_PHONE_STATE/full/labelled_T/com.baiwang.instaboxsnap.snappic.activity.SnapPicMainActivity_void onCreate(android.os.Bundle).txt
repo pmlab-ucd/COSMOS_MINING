@@ -1,1 +1,0 @@
-[[], 'com bai wang insta box snap snap pic activity snap pic main activity ', ' java.lang.String getDeviceId ', 'void onCreate']

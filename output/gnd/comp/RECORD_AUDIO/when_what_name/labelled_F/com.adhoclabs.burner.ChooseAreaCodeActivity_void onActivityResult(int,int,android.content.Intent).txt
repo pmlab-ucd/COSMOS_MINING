@@ -1,1 +1,0 @@
-[['Choose an area code', "We're currently out of the area code", 'Search for another area code', 'Enter area code', 'Search', 'Available Numbers', 'Nearby Numbers'], 'void onActivityResult', 'com ad hoc labs burner choose area code activity ', ' void <init> ']

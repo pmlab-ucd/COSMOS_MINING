@@ -1,1 +1,0 @@
-['Join Withings', 'Create my account', 'Email', 'Password', 'I already have an account.', 'Next', '<com wi things wi scale 2 device w am ui Wam Setup Activity void onCreate']

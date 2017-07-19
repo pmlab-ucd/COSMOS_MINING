@@ -1,1 +1,0 @@
-[['London', ' 66°', '66°  |  51°', 'Scattered Clouds', 'Swipe for more Cities'], 'void onCreate']

@@ -1,1 +1,0 @@
-History Remove New Dialogue com haw soft mobile speech trans main history activity   void <init>  boolean onCreateOptionsMenu

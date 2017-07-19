@@ -1,1 +1,0 @@
-['Buy Credits', 'Select Package', 'Purchasing credits will remove all ads', 'Credit Card Details', 'Credit Card #', '01-Jan', '2016', 'CVV', 'Card Holder Details', '<app smart call global com Buy Credits void onCreate']

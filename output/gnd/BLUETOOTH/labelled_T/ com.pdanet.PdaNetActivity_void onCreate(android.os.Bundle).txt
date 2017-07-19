@@ -1,1 +1,0 @@
-['Tablet 3.1', 'Please select Configure first to setup connection with your phone.', 'Configure', 'Please enable PdaNet on your phone and connect from below.', 'Connect', 'Help', '<com pda net Pda Net Activity void onCreate']

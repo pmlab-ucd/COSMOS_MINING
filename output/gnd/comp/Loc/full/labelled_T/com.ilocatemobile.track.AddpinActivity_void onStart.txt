@@ -1,1 +1,0 @@
-[['Your invitation code please', '\xa0\xa0\xa0\xa0Your Mobile Number', 'By Clicking Continue Button below,I agree with terms and conditions of use and privacy policy of this app.', 'Continue', 'Back'], 'void onStart']

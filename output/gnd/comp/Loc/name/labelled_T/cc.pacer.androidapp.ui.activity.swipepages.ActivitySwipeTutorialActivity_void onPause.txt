@@ -1,1 +1,0 @@
-['<cc pacer android app ui activity swipe pages Activity Swipe Tutorial Activity void onPause']

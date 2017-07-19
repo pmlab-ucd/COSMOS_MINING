@@ -1,1 +1,0 @@
-['FIREARM: REMINGTON 700', 'AMMUNITION: .308 WINCHESTER', '<si mils iste mika ballistic Wpn Activity void onCreate']

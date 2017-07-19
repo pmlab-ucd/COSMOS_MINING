@@ -1,1 +1,0 @@
-[['关于'], 'com app hero ui help activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

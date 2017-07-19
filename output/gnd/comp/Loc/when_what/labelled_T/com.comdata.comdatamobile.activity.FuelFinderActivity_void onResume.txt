@@ -1,1 +1,0 @@
-[['Fuel Finder Search', 'Use My Location', 'Search By Zip', 'Zip Code:', 'SELECT FUEL TYPE', 'Truckstops', 'Diesel', 'Gasoline', 'Search'], '<com com data com data mobile activity Fuel Finder Activity void onResume']

@@ -1,1 +1,0 @@
-[['SMS Backup Chinese Version', 'Idle', 'Backup now', 'Last backup: Never', 'Settings', 'Username', 'Your Google account/e-mail address.', 'Password', 'Your Google account password.', 'Auto backup', 'Whether to automatically backup new SMS or not.', 'Advanced settings', 'Set advanced preferences.'], 'pri lg sms sync sms sync ', ' boolean isProviderEnabled ', 'void onDestroy']

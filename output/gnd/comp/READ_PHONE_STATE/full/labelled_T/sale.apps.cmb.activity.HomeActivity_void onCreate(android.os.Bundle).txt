@@ -1,1 +1,0 @@
-[[], 'sale apps cmb activity home activity ', ' java.lang.String getDeviceId ', 'void onCreate']

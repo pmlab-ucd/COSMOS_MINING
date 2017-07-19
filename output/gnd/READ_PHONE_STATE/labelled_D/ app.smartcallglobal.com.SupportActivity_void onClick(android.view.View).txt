@@ -1,1 +1,0 @@
-['Tell us what is wrong.', 'Please check FAQ/Help menu to check for common issue and easy troubleshoot.', 'Please type your issue here', 'Send', 'Cancel', '<app smart call global com Support Activity void onClick']

@@ -1,1 +1,0 @@
-[['GALLERY'], 'poster maker designer sco pic activity gallery activity ', ' boolean isProviderEnabled ', 'void onClick']

@@ -1,1 +1,0 @@
-[[], 'mp mp activity$9 ', ' java.lang.String getSubscriberId ', 'void onClick']

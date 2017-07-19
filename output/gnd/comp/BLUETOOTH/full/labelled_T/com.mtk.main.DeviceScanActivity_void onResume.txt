@@ -1,1 +1,0 @@
-[[], 'com mt k main device scan activity ', ' java.util.Set getBondedDevices ', 'void onResume']

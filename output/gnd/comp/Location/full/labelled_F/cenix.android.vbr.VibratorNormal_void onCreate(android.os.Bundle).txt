@@ -1,1 +1,0 @@
-[['License Agreement'], 'c enix android v br vibrator normal ', ' boolean isProviderEnabled ', 'void onCreate']

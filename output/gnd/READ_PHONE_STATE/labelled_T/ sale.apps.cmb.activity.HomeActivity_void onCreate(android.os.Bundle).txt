@@ -1,1 +1,0 @@
-['Spoof Call', 'your real number', 'number to display', 'number to call', 'Agree terms', 'Terms...', 'Preview', 'Spoof Call', 'Rate: 12 credits per minute', '<sale apps cmb activity Home Activity void onCreate']

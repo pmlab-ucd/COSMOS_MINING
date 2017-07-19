@@ -1,1 +1,0 @@
-[['No collages found!', 'OK'], 'void onCreate']

@@ -1,1 +1,0 @@
-#Enter your nick name com ci alien chat login activity$2   void <init>  go android.widget.ImageView

@@ -1,1 +1,0 @@
-Web access Open following address on your computer to download recordings http://192.168.0.100:17723  com nll cloud web server activity   void <init>  void onDestroy

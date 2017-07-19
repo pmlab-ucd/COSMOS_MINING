@@ -1,1 +1,0 @@
-['Back', 'Save & Share', 'Home', 'Failed to save', 'Selfie', 'Retouch', 'Makeover', 'Share for hi-def pictures', 'Instagram', 'Facebook', 'Line', 'Moments', 'Meipai', 'Recommended', '广告', '<com me it u mt business kit startup Mtb Ad Activity void onResume']

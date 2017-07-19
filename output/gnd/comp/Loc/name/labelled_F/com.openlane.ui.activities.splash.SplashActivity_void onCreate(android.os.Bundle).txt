@@ -1,1 +1,0 @@
-['<com open lane ui activities splash Splash Activity void onCreate']

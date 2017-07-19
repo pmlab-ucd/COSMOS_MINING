@@ -1,1 +1,0 @@
-['<com gc material design views Layout Ripple void onDraw']

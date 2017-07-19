@@ -1,1 +1,0 @@
-[['Cancel'], 'object p2pipcam z xing two dimension code capture activity ', ' android.hardware.Camera open ', 'void surfaceCreated']

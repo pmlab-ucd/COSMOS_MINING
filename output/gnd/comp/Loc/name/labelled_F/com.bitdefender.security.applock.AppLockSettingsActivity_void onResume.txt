@@ -1,1 +1,0 @@
-['<com bit defender security app lock App Lock Settings Activity void onResume']

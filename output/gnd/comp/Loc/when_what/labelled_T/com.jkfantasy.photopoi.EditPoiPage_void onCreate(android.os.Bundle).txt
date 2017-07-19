@@ -1,1 +1,0 @@
-[['Back', 'Edit POI Page', 'POI (Latitude/longitude in this Photo)', 'Latitude', '-', 'Longitude', '-', 'POI (After Update)', 'Latitude', 'Longitude', 'Auxiliary information'], '<com jk fantasy photo poi Edit Poi Page void onCreate']

@@ -1,1 +1,0 @@
-['Notes', 'Notes will be lost if you switch events or log out of this app. Please email your notes in order to save them permanently.', '<me double dutch ui notes New Note Activity void onCreate']

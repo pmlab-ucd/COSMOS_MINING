@@ -1,1 +1,0 @@
-[['Login', 'Email', 'Login'], 'void onCreate']

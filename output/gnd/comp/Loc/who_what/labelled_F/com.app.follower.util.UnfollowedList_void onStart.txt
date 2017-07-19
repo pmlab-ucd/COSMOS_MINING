@@ -1,1 +1,0 @@
-[['DROPPED', 'List is empty.\n\n']]

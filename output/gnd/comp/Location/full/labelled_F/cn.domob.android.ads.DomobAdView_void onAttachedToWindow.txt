@@ -1,1 +1,0 @@
-[['Superuser request:', '9', 'Root tool (3211)', 'com.ifreesoft.ifreeroot', 'Grants full access to all device features and storage, potentially dangerous', 'Ask again:', '15 minutes', 'Deny', 'Grant'], 'cn do mob android ads domob ad view ', ' java.lang.String getBestProvider ', 'void onAttachedToWindow', 'domobAd']

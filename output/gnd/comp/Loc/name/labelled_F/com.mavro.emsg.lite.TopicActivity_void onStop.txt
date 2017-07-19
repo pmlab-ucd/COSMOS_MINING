@@ -1,1 +1,0 @@
-['<com m avro e msg lite Topic Activity void onStop']

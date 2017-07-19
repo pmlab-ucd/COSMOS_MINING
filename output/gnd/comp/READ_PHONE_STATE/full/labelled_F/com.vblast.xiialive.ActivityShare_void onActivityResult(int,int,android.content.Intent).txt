@@ -1,1 +1,0 @@
-[[], 'com v blast xii alive activity share ', ' java.lang.String getDeviceId ', 'void onActivityResult']

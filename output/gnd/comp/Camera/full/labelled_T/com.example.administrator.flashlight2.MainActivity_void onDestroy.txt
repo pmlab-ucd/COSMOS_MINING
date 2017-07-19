@@ -1,1 +1,0 @@
-[['Cleaner'], 'com example administrator flashlight 2 main activity ', ' android.hardware.Camera open ', 'void onDestroy']

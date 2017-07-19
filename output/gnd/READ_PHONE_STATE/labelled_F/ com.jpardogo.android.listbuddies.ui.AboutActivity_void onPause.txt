@@ -1,1 +1,0 @@
-['my text', 'About', '<com j pardo go android list buddies ui About Activity void onPause']

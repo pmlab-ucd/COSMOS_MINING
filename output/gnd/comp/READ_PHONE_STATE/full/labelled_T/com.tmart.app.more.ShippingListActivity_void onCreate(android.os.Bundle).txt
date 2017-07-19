@@ -1,1 +1,0 @@
-[[], 'com t mart app more shipping list activity ', ' java.lang.String getDeviceId ', 'void onCreate']

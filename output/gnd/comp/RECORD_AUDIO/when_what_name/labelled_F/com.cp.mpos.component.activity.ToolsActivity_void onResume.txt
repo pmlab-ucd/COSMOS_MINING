@@ -1,1 +1,0 @@
-[['Tools', 'Discount \nCalculator', 'Calculator'], 'void onResume', 'com cp m pos component activity tools activity ', ' void <init> ']

@@ -1,1 +1,0 @@
-[['Social Media', 'Social Media', 'Share App', 'Rate App'], 'com social media speed i al app ui first activity ', ' boolean isProviderEnabled ', 'void onBackPressed']

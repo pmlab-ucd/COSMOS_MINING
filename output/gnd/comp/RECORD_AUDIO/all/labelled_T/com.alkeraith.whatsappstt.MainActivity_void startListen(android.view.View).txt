@@ -1,1 +1,0 @@
-[['WhatsApp STT', 'SMS & WhatsApp STT', 'Language:', 'العربية', 'WhatsApp', 'Send', 'Reset', 'Tap above and record the message.'], 'void startListen', ' void startListening ']

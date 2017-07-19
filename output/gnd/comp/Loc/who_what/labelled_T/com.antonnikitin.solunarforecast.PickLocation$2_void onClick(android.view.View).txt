@@ -1,1 +1,0 @@
-[['Pick Location', 'Tap on map for select location'], 'apply_loc_button_pick', 'android.widget.ImageButton']

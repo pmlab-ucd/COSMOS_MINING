@@ -1,1 +1,0 @@
-['Groups Notification Settings', 'Show Notifications', 'Play Sound', 'Vibrate', 'Phone Light', 'Alert on new posts', 'Alert on all comments', "Alert on comments on other people's posts", '<com w sl no om preferences Groups Notification Preference Activity void onCreate']

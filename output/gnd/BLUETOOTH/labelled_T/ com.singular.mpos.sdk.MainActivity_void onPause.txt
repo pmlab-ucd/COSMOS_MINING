@@ -1,1 +1,0 @@
-['MPOS-MP506', 'Bluetooth', 'Audio', 'Clear', 'Demo', 'Trade', 'Debug', 'Info', 'Version', 'Mag Card', 'Card Info', 'Cancel', '<com singular m pos sdk Main Activity void onPause']

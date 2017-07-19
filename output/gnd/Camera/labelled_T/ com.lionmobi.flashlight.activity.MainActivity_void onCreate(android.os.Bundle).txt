@@ -1,1 +1,0 @@
-['POWER', 'LIGHT', 'FLASH', "I'M LUCKY", 'CLEANER', '<com lion mob i flashlight activity Main Activity void onCreate']

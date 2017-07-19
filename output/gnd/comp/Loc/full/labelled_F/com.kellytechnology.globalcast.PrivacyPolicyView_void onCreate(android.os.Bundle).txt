@@ -1,1 +1,0 @@
-[['GlobalCast'], 'void onCreate']

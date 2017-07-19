@@ -1,1 +1,0 @@
-[['An app wants to turn on Bluetooth.', 'Deny', 'Allow'], 'com j kom j sjk gw bluetooth annuo chat ', ' android.bluetooth.BluetoothServerSocket listenUsingRfcommWithServiceRecord ', 'void onResume']

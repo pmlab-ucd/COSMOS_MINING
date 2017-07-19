@@ -1,1 +1,0 @@
-['<com android input method latin settings h list view ', ' void <init> ', 'theme', 'hor', 'list view', 'com.android.inputmethod.latin.settings.HListView']

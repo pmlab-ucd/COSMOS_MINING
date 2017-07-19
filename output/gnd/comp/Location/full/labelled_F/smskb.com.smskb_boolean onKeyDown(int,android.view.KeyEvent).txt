@@ -1,1 +1,0 @@
-[[], 'sms kb com sms kb', ' java.lang.String getBestProvider ', 'boolean onKeyDown']

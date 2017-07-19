@@ -1,1 +1,0 @@
-[['Enter city, state or zip code'], 'void onFavorriteStoreMap']

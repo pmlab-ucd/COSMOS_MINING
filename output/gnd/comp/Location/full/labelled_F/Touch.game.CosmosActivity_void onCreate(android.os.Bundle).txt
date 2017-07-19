@@ -1,1 +1,0 @@
-[[], 'touch  game cosmos activity ', ' boolean isProviderEnabled ', 'void onCreate']

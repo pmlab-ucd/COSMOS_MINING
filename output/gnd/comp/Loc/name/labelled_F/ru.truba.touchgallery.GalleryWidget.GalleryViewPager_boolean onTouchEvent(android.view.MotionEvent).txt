@@ -1,1 +1,0 @@
-['<ru t rub a touch gallery Gallery Widget Gallery View Pager boolean onTouchEvent']

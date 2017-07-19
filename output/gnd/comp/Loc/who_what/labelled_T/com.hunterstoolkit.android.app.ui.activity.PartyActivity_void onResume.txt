@@ -1,1 +1,0 @@
-[['Set Party', 'You have no friends', 'Continue to Map']]

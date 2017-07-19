@@ -1,1 +1,0 @@
-[['Davis, United States', 'January 27, 2017', 'Home', '3D View', 'Planets', '  <  ', 'January 27, 2017', '   >  ', 'Sunrise\n7:17 AM', 'Sunset\n5:24 PM', 'Day Length 10:06', 'Night Length 13:53', 'Astronomical Sunrise', '5:45 AM'], 'void onResume']

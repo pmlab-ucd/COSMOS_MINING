@@ -1,1 +1,0 @@
-['Email', 'Forgot?', 'New to Bitwalking?', 'Sign up', 'Log in', '<bitwalking bit walking Main Activity$18 void onClick']

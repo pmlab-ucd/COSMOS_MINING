@@ -1,1 +1,0 @@
-[['Or', 'Log In With ', 'ROW', '52', 'Username', 'LOG IN', 'Sign Up With ROW52', 'Forgot Password?'], 'com row 5 2 app activities check in re checkin activity ', ' boolean isProviderEnabled ', 'void onCreate']

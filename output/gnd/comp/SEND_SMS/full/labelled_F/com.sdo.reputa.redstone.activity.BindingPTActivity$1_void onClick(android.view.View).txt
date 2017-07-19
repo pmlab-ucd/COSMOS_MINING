@@ -1,1 +1,0 @@
-[['绑定手机密宝', '请输入您要绑定的盛大通行证：', '快速绑定', '请确认本机号码为您所输入盛大通行证的认证手机。如不是，请电脑登录http://aq.sdo.com完成绑定。', '上一步', '下一步'], 'com s do re put a redstone activity binding p t activity$1 ', ' void sendTextMessage ', 'void onClick']

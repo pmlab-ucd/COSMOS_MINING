@@ -1,1 +1,0 @@
-[[], 'com game fang common code activity ', ' android.location.Location getLastKnownLocation ', 'void onPause']

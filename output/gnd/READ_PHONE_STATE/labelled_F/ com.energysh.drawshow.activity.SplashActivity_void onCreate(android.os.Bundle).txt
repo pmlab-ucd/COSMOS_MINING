@@ -1,1 +1,0 @@
-['DrawShow', 'All', 'Daily update', 'Level', 'Kids', 'Animation2', 'Animation', 'Pokemon', 'VOCALOID', 'Stick drawing', 'Pony', '<com energy sh draw show activity Splash Activity void onCreate']

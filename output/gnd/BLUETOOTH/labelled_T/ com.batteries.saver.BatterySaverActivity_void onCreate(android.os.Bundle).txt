@@ -1,1 +1,0 @@
-['Battery System Setting', '98%', 'Saving Mode  ', 'Brigtness', '<com batteries saver Battery Saver Activity void onCreate']

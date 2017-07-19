@@ -1,1 +1,0 @@
-['<com rock my run rock my run Login Activity void onStop']

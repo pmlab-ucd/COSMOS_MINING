@@ -1,1 +1,0 @@
-Wi-fi Walkie Talkie com wi fi walk ie main   void <init>  void onCreate

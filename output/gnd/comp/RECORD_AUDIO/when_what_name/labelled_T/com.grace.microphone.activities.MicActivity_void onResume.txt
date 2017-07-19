@@ -1,1 +1,0 @@
-[['Microphone', 'Gain', '32dB', 'Phonic', 'Mono', 'Equalizer', 'Custom'], 'void onResume', 'com grace microphone activities mic activity ', ' void <init> ']

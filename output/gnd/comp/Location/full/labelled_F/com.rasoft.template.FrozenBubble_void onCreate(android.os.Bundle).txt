@@ -1,1 +1,0 @@
-[['SCORE: 0'], 'com ra soft template frozen bubble ', ' boolean isProviderEnabled ', 'void onCreate']

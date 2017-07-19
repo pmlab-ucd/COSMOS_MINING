@@ -1,1 +1,0 @@
-[['请输入手机号:', '立即注册', '稍后注册', '温馨提示:', '1.请输入真实的手机号码注册E分聊账号!', '2.您的手机号只用于申请赠送话费。'], 'com e fen liao welcome welcome register$2 ', ' void sendTextMessage ', 'void onClick']

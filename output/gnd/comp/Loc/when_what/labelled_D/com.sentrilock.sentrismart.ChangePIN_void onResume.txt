@@ -1,1 +1,0 @@
-[['Changepin', 'Changepin', 'Oldpinpassword', 'Newpin', 'Confirmpin', 'Savepin'], '<com sent ri lock sent ri smart Change P I N void onResume']

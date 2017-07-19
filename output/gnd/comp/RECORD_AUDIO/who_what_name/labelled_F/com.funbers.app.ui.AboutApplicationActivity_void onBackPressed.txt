@@ -1,1 +1,0 @@
-[['About application', 'About', 'Privacy policy', 'Terms of use'], 'com fun be rs app ui about application activity ', ' void <init> ']

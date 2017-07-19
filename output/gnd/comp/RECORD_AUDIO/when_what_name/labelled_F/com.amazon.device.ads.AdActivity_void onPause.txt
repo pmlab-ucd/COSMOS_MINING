@@ -1,1 +1,0 @@
-[['LOW', 'PITCH', 'HIGH', 'SLOW', 'SPEED', 'FAST', 'METAL', 'AMPLIFY', 'ECHO', 'CHORUS', 'PRESET'], 'void onPause', 'com amazon device ads ad activity ', ' void <init> ']

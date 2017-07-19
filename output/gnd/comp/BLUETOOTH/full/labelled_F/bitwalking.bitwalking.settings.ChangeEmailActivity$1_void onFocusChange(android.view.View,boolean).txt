@@ -1,1 +1,0 @@
-[[], 'bit walking bit walking settings change email activity$1 ', ' boolean isEnabled ', 'void onFocusChange']

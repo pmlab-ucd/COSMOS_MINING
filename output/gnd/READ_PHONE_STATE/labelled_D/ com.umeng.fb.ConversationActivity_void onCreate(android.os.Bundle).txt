@@ -1,1 +1,0 @@
-['Camera Translator', 'Feedback', 'Contact Info', 'I want to tell', 'Send', '<com u meng fb Conversation Activity void onCreate']

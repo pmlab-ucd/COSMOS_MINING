@@ -1,1 +1,0 @@
-['Rate application', 'Please, rate the app on PlayStore', 'Later', 'Rate Now', '<com zed True Tone Main Activity$6 void onClick']

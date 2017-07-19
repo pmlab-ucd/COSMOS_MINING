@@ -1,1 +1,0 @@
-[[], 'com t mart app review review detail activity ', ' java.lang.String getDeviceId ', 'void onCreate']

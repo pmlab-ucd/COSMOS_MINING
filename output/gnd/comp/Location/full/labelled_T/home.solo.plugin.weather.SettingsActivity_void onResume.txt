@@ -1,1 +1,0 @@
-[['Settings', 'Unit', '°F', '°C', 'AutoUpdate', 'Update time interval', '1 Hour'], 'home solo plugin weather settings activity ', ' android.location.Location getLastKnownLocation ', 'void onResume']

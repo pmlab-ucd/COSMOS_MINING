@@ -1,1 +1,0 @@
-['City:', 'City,Country', 'Temperature scales:', 'C', 'K', 'F', 'Type your city and country', 'Designs', '<com clock widget Main Activity void onBackPressed']

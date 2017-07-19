@@ -1,1 +1,0 @@
-['Sign in as GenieMobile CMS user', 'Username', 'Server', 'Production Server', 'Show Password', 'Login', '<com event genie android activities others Proofer App Selection void onResume']

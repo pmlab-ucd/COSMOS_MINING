@@ -1,1 +1,0 @@
-['Language', 'Default', 'English', 'Spanish', '<com metro pcs service v vm activity Change Language Activity void onDestroy']

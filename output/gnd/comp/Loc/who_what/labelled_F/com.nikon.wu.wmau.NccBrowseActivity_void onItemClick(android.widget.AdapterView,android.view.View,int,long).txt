@@ -1,1 +1,0 @@
-[['View photos', 'Pictures on camera', 'Pictures on smart device']]

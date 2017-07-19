@@ -1,1 +1,0 @@
-[['-Action Vibrate Effect.', '-Play Background Sounds.', '-Show Tips.', '-Power control ( weak -> strong )', '-Your Name On Show:', 'Your Name Here !', '-Your Best Record:1', 'Okay', 'Post Scores', 'Tips'], 'om s shin an ren prefs ', ' java.lang.String getSubscriberId ', 'void onClick']

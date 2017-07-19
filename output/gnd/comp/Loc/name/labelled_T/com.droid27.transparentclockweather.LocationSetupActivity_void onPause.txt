@@ -1,1 +1,0 @@
-['<com droid 2 7 transparent clock weather Location Setup Activity void onPause']

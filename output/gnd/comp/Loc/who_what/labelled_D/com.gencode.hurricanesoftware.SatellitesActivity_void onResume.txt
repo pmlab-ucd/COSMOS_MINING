@@ -1,1 +1,0 @@
-[['Current Radar', 'GOES', 'GOES Full Disk', 'Meteostat', 'Atlantic SST', 'Atlantic Floater 1', 'Atlantic Floater 2', 'Graphical Tropical Weather Outlook']]

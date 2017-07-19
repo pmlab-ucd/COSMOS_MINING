@@ -1,1 +1,0 @@
-['Nickname', 'Terms And Conditions', 'I am more than 18 years old', 'Do you have a pass?', 'ENTER TO CHAT', '<es latin chat activity Main Activity$2 void onClick']

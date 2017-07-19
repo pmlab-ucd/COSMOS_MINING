@@ -1,1 +1,0 @@
-[['Davis , US', 'Last update SAT 4 FEB 2017 22:45', 'LIGHT RAIN', '10 °C', '1020 hpa', '100 %', '2 m/s', 'Next 5 Days', 'Sat', '12 °C', 'Sun', '13 °C', 'Mon', '13 °C', 'Tue', '10 °C', 'Wed', '14 °C', '07:08 sunrise', '17:34 sunset'], '<com mobile apps team weather forecast activities Main Activity void onCreate']

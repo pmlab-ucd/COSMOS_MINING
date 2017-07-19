@@ -1,1 +1,0 @@
-[['VBlocker', 'Name or Number', 'Text']]

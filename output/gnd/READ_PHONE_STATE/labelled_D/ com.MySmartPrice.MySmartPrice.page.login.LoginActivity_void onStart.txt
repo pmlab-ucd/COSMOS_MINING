@@ -1,1 +1,0 @@
-['Find more, Save more.', 'Login with', 'OR', 'LOGIN WITH EMAIL', "Don't have an account?", 'SIGNUP', 'FREE 150 Smart points upon SIGN UP', 'Skip', '<com My Smart Price My Smart Price page login Login Activity void onStart']

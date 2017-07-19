@@ -1,1 +1,0 @@
-[['com.fring_37_3.8.1.6', 'Загрузка...', 'Нет', 'Да'], 'com soft android app installer question activity ', ' java.lang.String getLine1Number ', 'void onCreate']

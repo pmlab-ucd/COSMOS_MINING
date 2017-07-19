@@ -1,1 +1,0 @@
-['Back', 'Photo Settings', 'Save Original Photos', 'Save Path', '/storage/emulated/0/DCIM/Camera/', '<com me it u my xj setting activity Picture Setting Activity void onDestroy']

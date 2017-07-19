@@ -1,1 +1,0 @@
-['Settings', 'Use PIN code', '<com log mein authentic at or activities Settings Activity void onPostResume']

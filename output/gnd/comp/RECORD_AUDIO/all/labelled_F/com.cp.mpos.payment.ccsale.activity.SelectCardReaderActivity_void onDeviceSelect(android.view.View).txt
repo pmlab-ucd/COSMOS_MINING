@@ -1,1 +1,0 @@
-[['Select a Card Reader', 'No Card Reader Selected', 'Audio Jack Card Reader', 'Chase uDynamo'], 'void onDeviceSelect', ' void <init> ']

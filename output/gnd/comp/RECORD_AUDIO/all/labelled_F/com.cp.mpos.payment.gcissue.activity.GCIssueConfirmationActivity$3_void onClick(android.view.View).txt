@@ -1,1 +1,0 @@
-[['Confirmation', 'Amount Issued', 'Approval Code #', ' null', '$0.00', 'Send Customer Receipt', 'Email', 'Email address', 'Phone #', '(000) 000-0000', 'Done'], 'void onClick', ' void <init> ']

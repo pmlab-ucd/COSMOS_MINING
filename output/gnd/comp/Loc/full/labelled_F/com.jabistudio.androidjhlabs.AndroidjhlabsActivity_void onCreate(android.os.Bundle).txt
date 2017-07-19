@@ -1,1 +1,0 @@
-[['Color Adjustment Filters', 'Distortion and Warping Filters', 'Effects Filters', 'Blurring and Sharpening Filters', 'Edge Detection', 'Alpha Channel Filters'], 'void onCreate']

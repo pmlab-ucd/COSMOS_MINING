@@ -1,1 +1,0 @@
-[[], 'com hb view spy smart activity device manage device activity ', ' java.lang.String getDeviceId ', 'void onCreate']

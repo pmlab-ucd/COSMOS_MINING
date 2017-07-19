@@ -1,1 +1,0 @@
-['<com mob it eka navigator ui Main Activity void onRequestPermissionsResult']

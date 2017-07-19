@@ -1,1 +1,0 @@
-[['∧只看手牌∧', 'Play card(s)'], 'com android tractor r android android tractor game controller ', ' void requestLocationUpdates ', 'void onCreate']

@@ -1,1 +1,0 @@
-['Mobile number log in', 'Password was set successfully!', 'Your account:', '+ null', 'You can now log in with your mobile number', 'Confirm', '<com i jinsha n k backup activity Verify Code Activity void onActivityResult']

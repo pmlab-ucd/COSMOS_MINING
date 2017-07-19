@@ -1,1 +1,0 @@
-['Backupable', 'No contacts on the device', '<com i jinsha n k backup activity Detail Activity void onBackPressed']

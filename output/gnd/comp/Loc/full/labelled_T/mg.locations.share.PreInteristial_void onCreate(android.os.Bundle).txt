@@ -1,1 +1,0 @@
-[['Family Location Tracker', 'My phone current location', 'Street: 434 La Rue Road', 'Area: Davis, CA 95616', 'City: USA', 'Country: United States', 'OK'], 'void onCreate']

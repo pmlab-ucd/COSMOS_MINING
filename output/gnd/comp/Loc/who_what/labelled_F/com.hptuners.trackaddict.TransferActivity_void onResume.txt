@@ -1,1 +1,0 @@
-[['Send session data via WiFi to another device running this app or to a computer with RaceRender', 'Refresh', " No Devices Found on 'moobilenetx'", "Both devices must be on the same network. To send to another device running this app, ensure that it is open and on its main 'Sessions' screen. For RaceRender, go to 'File' -> 'Receive Files Over Network'."]]

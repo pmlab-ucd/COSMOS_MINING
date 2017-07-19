@@ -1,1 +1,0 @@
-[['Activate Eve, your 3D animated assistant', 'Activate the Wolfram Alpha Knowledge base', 'Disable advertisements', 'Enhance Voice Answer', '<<< swipe >>>']]

@@ -1,1 +1,0 @@
-['<com last minute golfer mobile app Home Activity void onStop']

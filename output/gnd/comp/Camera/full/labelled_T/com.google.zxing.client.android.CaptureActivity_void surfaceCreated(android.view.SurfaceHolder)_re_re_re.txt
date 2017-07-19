@@ -1,1 +1,0 @@
-[['Place a barcode inside the viewfinder rectangle to scan it.'], 'com google z xing client android capture activity ', ' android.hardware.Camera open ', 'void surfaceCreated']

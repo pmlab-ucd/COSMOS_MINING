@@ -1,1 +1,0 @@
-['Greetings', 'Default', '<com metro pcs service v vm activity Greetings Activity void onPause']

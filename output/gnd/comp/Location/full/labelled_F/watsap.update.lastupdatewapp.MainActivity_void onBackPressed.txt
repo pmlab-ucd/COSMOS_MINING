@@ -1,1 +1,0 @@
-[['Check', 'Download', 'Installed Version:', 'Oficial Version Available:'], 'wat sap update last update w app main activity ', ' boolean isProviderEnabled ', 'void onBackPressed']

@@ -1,1 +1,0 @@
-[['设置', '统计', '留言给我'], 'com gem jump puzzle  cn menu option$4 ', ' java.lang.String getDeviceId ', 'void onClick']

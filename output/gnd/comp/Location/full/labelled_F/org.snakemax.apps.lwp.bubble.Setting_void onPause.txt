@@ -1,1 +1,0 @@
-[['settings', 'basic settings', 'background', 'set the background image', 'bubble number', 'set the number of bubble display', 'bubble speed', 'set the bubble speed', 'Other', 'Feedback', 'software update'], 'org snake max apps l wp bubble setting ', ' android.location.Location getLastKnownLocation ', 'void onPause']

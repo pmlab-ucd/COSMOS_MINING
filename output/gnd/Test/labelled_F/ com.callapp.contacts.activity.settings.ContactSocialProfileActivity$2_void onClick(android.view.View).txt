@@ -1,1 +1,0 @@
-['Birthdays', '<com call app contacts activity settings Contact Social Profile Activity$2 void onClick']

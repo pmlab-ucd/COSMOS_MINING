@@ -1,1 +1,0 @@
-['Shopping List', 'Add or Search', 'My Items (0)', '<com savings android grocery activity Push Notification Receiver Activity void onStart']

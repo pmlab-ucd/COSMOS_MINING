@@ -1,1 +1,0 @@
-['<com aka soft top places main screen Main Activity void onPause']

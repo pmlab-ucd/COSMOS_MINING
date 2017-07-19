@@ -1,1 +1,0 @@
-['How to Earn Money', 'Go to Tap Cash', '<com tap cash guide Main Activity void onCreate']

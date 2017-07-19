@@ -1,1 +1,0 @@
-[['Chicken over rice', "at Shah's Halal Food Cart", '22 people', '0.3 mi', 'Beef Schwarma', "at Sam's Restaurant", '13 people', 'Scan for food in map area', 'Specials', 'Best', 'Nearby', 'Latest', 'Near '], '<com food spotting browse Browse Activity boolean onOptionsItemSelected']

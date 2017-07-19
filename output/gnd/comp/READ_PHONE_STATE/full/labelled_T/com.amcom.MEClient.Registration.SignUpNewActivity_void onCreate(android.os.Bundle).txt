@@ -1,1 +1,0 @@
-[[], 'com am com m e client  registration  sign up new activity ', ' void listen ', 'void onCreate']

@@ -1,1 +1,0 @@
-[[], 'com google ads ad activity ', ' boolean isProviderEnabled ', 'void onCompletion']

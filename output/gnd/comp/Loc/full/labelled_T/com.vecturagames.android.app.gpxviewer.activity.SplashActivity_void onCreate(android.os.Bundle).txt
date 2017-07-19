@@ -1,1 +1,0 @@
-[['Open files', 'Track/route info', 'Waypoint info', 'Switch track/route', 'Terrain map', 'Satellite map', 'Waypoints', 'Follow GPS', 'Rotate map', 'Settings', 'PRO version', 'GPX Viewer', 'Open files'], 'void onCreate']

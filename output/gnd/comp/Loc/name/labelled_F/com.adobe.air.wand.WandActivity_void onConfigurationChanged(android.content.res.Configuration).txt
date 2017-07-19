@@ -1,1 +1,0 @@
-['<com adobe air wand Wand Activity void onConfigurationChanged']

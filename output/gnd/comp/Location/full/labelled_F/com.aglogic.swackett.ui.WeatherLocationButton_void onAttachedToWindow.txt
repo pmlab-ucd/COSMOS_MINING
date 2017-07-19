@@ -1,1 +1,0 @@
-[["I'm already a swackett user", "I'm new to swackett", 'version 1.1.0'], 'com ag logic swac kett ui weather location button ', ' boolean isProviderEnabled ', 'void onAttachedToWindow', 'btnClosest', 'signUpLocation']

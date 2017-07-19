@@ -1,1 +1,0 @@
-[[], 'com kou s hik dutta rom manager rom manager ', ' java.lang.String getDeviceId ', 'boolean onCreateOptionsMenu']

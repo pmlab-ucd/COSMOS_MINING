@@ -1,1 +1,0 @@
-['Futbol en vivo', '<com on s U I Simple Scanner Activity void onResume']

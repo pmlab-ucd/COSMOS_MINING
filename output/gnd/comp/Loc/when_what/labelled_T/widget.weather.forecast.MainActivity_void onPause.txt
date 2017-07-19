@@ -1,1 +1,0 @@
-[['Edit Location', 'Enter city or zip code', 'My Location'], '<widget weather forecast Main Activity void onPause']

@@ -1,1 +1,0 @@
-['<com walk app History Activity$1 void onClick']

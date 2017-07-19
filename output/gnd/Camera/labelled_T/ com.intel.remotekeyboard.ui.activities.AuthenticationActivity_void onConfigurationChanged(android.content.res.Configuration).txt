@@ -1,1 +1,0 @@
-['Guest Computer', 'Authentication', 'Try to align the coded image shown on your PC display, as shown on the left', 'Cancel', '<com intel remote keyboard ui activities Authentication Activity void onConfigurationChanged']

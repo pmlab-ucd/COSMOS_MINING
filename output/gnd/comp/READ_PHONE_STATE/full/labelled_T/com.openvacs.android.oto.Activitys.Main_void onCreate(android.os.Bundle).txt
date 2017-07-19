@@ -1,1 +1,0 @@
-[[], 'com open vac s android o to activitys  main ', ' java.lang.String getSubscriberId ', 'void onCreate']

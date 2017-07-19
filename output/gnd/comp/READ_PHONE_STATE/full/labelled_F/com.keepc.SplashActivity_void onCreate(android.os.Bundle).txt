@@ -1,1 +1,0 @@
-[['拨打电话', '通讯录', '通话记录', '充值', '固定号码前加拨区号，国际号码前加拨00', '1', '2', '3', '4', '5', '6', '7', '8', '9', '*', '0', '#'], 'com keep c splash activity ', ' java.lang.String getLine1Number ', 'void onCreate']

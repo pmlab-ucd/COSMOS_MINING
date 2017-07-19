@@ -1,1 +1,0 @@
-[['Link to our website to backup your run data, share with friends, and view detailed stats.', 'Auto-post to timeline', 'Not currently linked', '  Sign in  ', 'Not currently linked', 'You can connect using your Facebook account, Google account or both.', 'Not now'], 'void onResume']

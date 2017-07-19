@@ -1,1 +1,0 @@
-[['绿豆省钱网络电话', '新用户领取话费', '新用户最高可免费领取100分钟话费', '老用户登录'], 'com mung bean splash activity ', ' void sendTextMessage ', 'void onCreate']

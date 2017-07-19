@@ -1,1 +1,0 @@
-['VIDEO', 'PHOTO', 'SQUARE', '<com apple camera free Main Camera Activity boolean onTouchEvent']

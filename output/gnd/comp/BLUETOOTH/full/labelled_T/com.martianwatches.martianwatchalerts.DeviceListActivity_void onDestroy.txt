@@ -1,1 +1,0 @@
-[[], 'com martian watches martian watch alerts device list activity ', ' boolean cancelDiscovery ', 'void onDestroy']

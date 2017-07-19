@@ -1,1 +1,0 @@
-['Kitties', '<com fluent mobile kittens Kittens void onCreate']

@@ -1,1 +1,0 @@
-['<com row 5 2 app activities Home Activity void onCreate']

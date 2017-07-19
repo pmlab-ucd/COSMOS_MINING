@@ -1,1 +1,0 @@
-['Uncheck to add apps to Ignore list and prevent them from closing.', 'Cool down', 'Cool down', '<com easy x cooler master ui ag void onClick']

@@ -1,1 +1,0 @@
-[['Choose Countries', 'Enter Country/Code', 'Afghanistan', '+93', 'Albania', '+355', 'Algeria', '+213', 'AmericanSamoa', '+1684', 'Andorra', '+376', 'Angola', '+244', 'Anguilla', '+1264', 'Antarctica', '+672'], 'void onCreate']

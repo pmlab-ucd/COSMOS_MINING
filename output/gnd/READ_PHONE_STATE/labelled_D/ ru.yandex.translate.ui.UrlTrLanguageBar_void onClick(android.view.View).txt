@@ -1,1 +1,0 @@
-['https://yandex.ru/search/?text=CBS', 'RU', 'EN', '<ru y and ex translate ui Url Tr Language Bar void onClick']

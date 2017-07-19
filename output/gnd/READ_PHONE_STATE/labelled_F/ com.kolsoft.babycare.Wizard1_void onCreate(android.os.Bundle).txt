@@ -1,1 +1,0 @@
-['02/04/2017', '01:36', 'date of birth', 'time of birth', "baby's name", 'Boy', 'Girl', 'Cancel', 'Save', '<com kol soft baby care Wizard1 void onCreate']

@@ -1,1 +1,0 @@
-[['返回', 'Webpage not available', '加载精品推荐列表失败，请稍候重试'], 'com shand a games game plus ui home home activity ', ' void sendTextMessage ', 'void onActivityResult']

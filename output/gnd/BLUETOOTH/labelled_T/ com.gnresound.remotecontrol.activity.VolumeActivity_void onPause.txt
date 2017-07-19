@@ -1,1 +1,0 @@
-['Welcome to Beltone SmartRemote', 'Demo mode', 'Connect now', '<com gn resound remote control activity Volume Activity void onPause']

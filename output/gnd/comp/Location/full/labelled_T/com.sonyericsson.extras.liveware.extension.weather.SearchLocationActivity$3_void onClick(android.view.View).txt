@@ -1,1 +1,0 @@
-[['Search', 'Use current location'], 'com sony ericsson extras live ware extension weather search location activity$3 ', ' boolean isProviderEnabled ', 'void onClick']

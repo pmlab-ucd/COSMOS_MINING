@@ -1,1 +1,0 @@
-['Scan the Product Barcode', '<com j pm a E B T Shopper Barcode Capture Activity void onResume']

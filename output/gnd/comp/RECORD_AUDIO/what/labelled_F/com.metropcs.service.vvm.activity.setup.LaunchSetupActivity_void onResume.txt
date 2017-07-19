@@ -1,2 +1,0 @@
-Visual Voicemail Welcome to
-MetroPCS Visual Voicemail Getting your voicemails just got a whole lot easier. Simply press play to listen to any of your messages. Of course, you can still listen to your voicemails by dialing 1-2-3 from your phone. Retry Now com metro pcs service v vm activity setup launch setup activity   void setAudioSource 

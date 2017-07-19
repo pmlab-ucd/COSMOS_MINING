@@ -1,1 +1,0 @@
-[['ATM/Branch', 'Search for', 'ATM', 'ATM for Deposit Taking', 'Shared Branches', 'Genisys Branches', 'Search Using', 'Use Current Location', 'Zip Code']]

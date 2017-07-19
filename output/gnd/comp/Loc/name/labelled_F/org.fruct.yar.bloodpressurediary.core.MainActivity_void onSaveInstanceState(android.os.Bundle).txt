@@ -1,1 +1,0 @@
-['<org fru ct yar blood pressure diary core Main Activity void onSaveInstanceState']

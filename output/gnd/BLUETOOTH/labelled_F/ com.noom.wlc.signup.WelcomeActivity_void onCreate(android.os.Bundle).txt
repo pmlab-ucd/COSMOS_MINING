@@ -1,1 +1,0 @@
-['Sign up', 'Already have an account? Login now', '<com no om w lc sign up Welcome Activity void onCreate']

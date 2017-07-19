@@ -1,1 +1,0 @@
-[[], 'bit walking bit walking complete profile activity ', ' boolean isEnabled ', 'void onSaveProfile']

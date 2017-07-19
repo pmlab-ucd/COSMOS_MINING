@@ -1,1 +1,0 @@
-[['Search maps', 'ON MAP', 'NEARBY', 'MY MAPS']]

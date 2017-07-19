@@ -1,1 +1,0 @@
-[[], 'com taw kon main activity$22 ', ' boolean isProviderEnabled ', 'void onClick', 'btn_insert_name_ok']

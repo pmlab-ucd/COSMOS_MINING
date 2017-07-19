@@ -1,1 +1,0 @@
-[[], 'com sigma phone top med free pill id search result form ', ' java.lang.String getDeviceId ', 'void onDestroy']

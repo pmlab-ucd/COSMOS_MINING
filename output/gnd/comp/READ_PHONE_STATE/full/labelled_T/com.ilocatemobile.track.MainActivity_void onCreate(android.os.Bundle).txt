@@ -1,1 +1,0 @@
-[[], 'com i locate mobile track main activity ', ' java.lang.String getDeviceId ', 'void onCreate']

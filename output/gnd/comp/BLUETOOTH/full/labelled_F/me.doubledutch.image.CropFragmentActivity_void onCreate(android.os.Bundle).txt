@@ -1,1 +1,0 @@
-[[], 'me double dutch image crop fragment activity ', ' int getState ', 'void onCreate']

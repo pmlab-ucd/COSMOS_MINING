@@ -1,1 +1,0 @@
-['Skip 2s', 'Skip 2s', '<us pingu o matrix ui activity Welcome Activity void onCreate']

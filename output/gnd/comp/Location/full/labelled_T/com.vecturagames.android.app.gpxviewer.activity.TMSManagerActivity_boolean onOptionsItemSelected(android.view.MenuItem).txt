@@ -1,1 +1,0 @@
-[['Custom online maps manager'], 'com vec tura games android app g px viewer activity t m s manager activity ', ' boolean isProviderEnabled ', 'boolean onOptionsItemSelected']

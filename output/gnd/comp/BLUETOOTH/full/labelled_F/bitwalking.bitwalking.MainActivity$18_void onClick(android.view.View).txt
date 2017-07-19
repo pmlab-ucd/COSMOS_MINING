@@ -1,1 +1,0 @@
-[[], 'bit walking bit walking main activity$18 ', ' boolean isEnabled ', 'void onClick']

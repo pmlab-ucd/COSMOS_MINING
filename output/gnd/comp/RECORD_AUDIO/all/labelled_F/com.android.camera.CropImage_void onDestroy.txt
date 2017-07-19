@@ -1,1 +1,0 @@
-[['Pin code', 'Enable pin code access', 'Every time the app launches', 'If inactive for 5 min', '*', '*', '*', '*', 'Change your pin code'], 'void onDestroy', ' void <init> ']

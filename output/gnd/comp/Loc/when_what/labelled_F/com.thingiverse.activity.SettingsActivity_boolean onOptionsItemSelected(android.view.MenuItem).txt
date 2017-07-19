@@ -1,1 +1,0 @@
-[['Settings', 'Feedback', 'What would you like to see?', 'Rate us on Google Play', 'Preferences', 'Default Explore Category', 'Featured', 'Default Collection', 'Push Notifications', 'ON', 'Photo Options', 'Save to Gallery', 'Keep a high resolution copy of your photos in your gallery.'], '<com thing i verse activity Settings Activity boolean onOptionsItemSelected']

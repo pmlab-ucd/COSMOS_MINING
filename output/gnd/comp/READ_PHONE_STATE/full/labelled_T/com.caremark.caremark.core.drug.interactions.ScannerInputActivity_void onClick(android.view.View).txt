@@ -1,1 +1,0 @@
-[[], 'com care mark care mark core drug interactions scanner input activity ', ' java.lang.String getDeviceId ', 'void onClick']

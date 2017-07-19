@@ -1,5 +1,0 @@
-TiKL - Chat List Your Chat list is empty. You have not yet used the TiKL Chat feature. Here is how to use chat, its easy:
-
- 1. Choose the person or group you want to chat with from favorites drop-down above the talking head button.
-
- 2. Press the chat button. mob i android cloud app pt t client chat activity   void setAudioSource  void onClick

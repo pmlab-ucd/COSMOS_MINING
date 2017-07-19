@@ -1,1 +1,0 @@
-['android.view.View onCreateView', 'mobile e audio logia usta wien i a ustawienia synchronizacja ', ' void <init> ']

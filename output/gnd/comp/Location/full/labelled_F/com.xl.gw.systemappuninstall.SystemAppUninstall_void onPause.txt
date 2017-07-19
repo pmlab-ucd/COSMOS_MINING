@@ -1,1 +1,0 @@
-[['手机型号：Nexus 5', '手机总内存：1.81GB', '可用内存：624MB', 'SD卡总容量：12.55GB', 'SD卡剩余容量：9.49GB', '个人应用数：10', '系统应用数：109', '个人应用', '系统应用'], 'com xl gw system app uninstall system app uninstall ', ' android.location.Location getLastKnownLocation ', 'void onPause']

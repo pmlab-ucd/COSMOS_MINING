@@ -1,1 +1,0 @@
-['<com com data com data mobile activity Have Code Activity void onCreate']

@@ -1,1 +1,0 @@
-[['Normal'], 'com wise shark software realtime real time camera preview ', ' android.location.Location getLastKnownLocation ', 'void onStop']

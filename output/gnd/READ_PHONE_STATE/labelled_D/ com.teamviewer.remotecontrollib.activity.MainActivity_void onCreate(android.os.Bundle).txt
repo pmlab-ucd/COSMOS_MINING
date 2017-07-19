@@ -1,1 +1,0 @@
-["Please enter your partner's ID in order to control the remote computer.", 'TeamViewer ID', 'Remote Control', 'Connect', 'Computers', 'Chat', 'Files', '<com team viewer remote control lib activity Main Activity void onCreate']

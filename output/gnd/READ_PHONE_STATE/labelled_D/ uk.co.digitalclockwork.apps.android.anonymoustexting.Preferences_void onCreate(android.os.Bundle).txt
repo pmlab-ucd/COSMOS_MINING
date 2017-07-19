@@ -1,1 +1,0 @@
-['Settings', 'Notifications', 'Show Notifications', 'Sound/Vibration', 'Uses your phones default ringtone and settings', 'Display', '12 Hour Time', 'Show times as AM/PM (3:45PM) instead of 24H (15:45)', 'App Information', 'Application Version', '3.1.6', 'Unique User ID', '634D7-EAA6A', '<uk co digital clockwork apps android anonymous texting Preferences void onCreate']

@@ -1,1 +1,0 @@
-['About', 'SolCalendar', 'Current version', '1.7.3', 'Latest version', '1.7.3', 'You are using the latest version', 'Visit our website', 'Terms of Use', 'Privacy Policy', 'Sol family', 'SolMail', '<net daum android sol calendar App Info Activity void onResume']

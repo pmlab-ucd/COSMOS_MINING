@@ -1,1 +1,0 @@
-[['Battery Manager', 'Battery Info', 'Li-ion (Nexus 5)', 'Health', 'Good', 'Plugged', 'USB', 'Status', 'Charging', 'Level', '99%', 'Temperature', '93°F', 'Voltage', '4.222mv', 'Info', 'Settings'], 'com extend battery battery activity ', ' android.location.Location getLastKnownLocation ', 'void onCreate']

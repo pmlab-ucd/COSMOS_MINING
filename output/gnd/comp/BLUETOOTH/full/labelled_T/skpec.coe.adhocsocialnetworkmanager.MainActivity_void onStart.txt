@@ -1,1 +1,0 @@
-[[], 'sk pec coe ad hoc social network manager main activity ', ' boolean isEnabled ', 'void onStart']

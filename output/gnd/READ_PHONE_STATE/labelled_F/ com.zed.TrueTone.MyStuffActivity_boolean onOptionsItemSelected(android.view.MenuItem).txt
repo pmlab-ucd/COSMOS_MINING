@@ -1,1 +1,0 @@
-['Please wait', 'Loading...', '<com zed True Tone My Stuff Activity boolean onOptionsItemSelected']

@@ -1,1 +1,0 @@
-[['Settings', 'Currencies on screen', '5', 'Hide rate ticker', 'Hides running ticker on main screen', 'Vibration', 'Rate providers', 'European Central Bank', 'Yahoo finance'], 'sk hal mi c calc settings activity with fragment ', ' boolean isProviderEnabled ', 'void onCreate']

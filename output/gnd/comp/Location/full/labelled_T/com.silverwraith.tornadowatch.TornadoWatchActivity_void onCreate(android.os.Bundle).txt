@@ -1,1 +1,0 @@
-[['Tornado Alert'], 'com silver wraith tornado watch tornado watch activity ', ' boolean isProviderEnabled ', 'void onCreate']

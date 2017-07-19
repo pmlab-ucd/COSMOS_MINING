@@ -1,1 +1,0 @@
-['<com gy ft android activities login Authentication Activity void onCreate']

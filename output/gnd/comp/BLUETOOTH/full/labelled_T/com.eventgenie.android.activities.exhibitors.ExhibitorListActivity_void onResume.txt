@@ -1,1 +1,0 @@
-[[], 'com event genie android activities exhibitors exhibitor list activity ', ' boolean isEnabled ', 'void onResume']

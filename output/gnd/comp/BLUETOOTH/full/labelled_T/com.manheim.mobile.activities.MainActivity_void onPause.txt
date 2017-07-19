@@ -1,1 +1,0 @@
-[[], 'com manheim mobile activities main activity ', ' boolean isEnabled ', 'void onPause']

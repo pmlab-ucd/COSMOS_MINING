@@ -1,1 +1,0 @@
-[[], 'com q is i plugin activities wallpaper activity ', ' java.lang.String getDeviceId ', 'void onResume']

@@ -1,1 +1,0 @@
-['Our Daily Bread', '<org rbc o db Reading Activity void onCreate']

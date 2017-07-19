@@ -1,1 +1,0 @@
-[['Cancel', 'Save', 'Preview'], 'com ka name surya android strange camera gui activity preview jpg ', ' android.location.Location getLastKnownLocation ', 'void onResume']

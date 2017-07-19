@@ -1,1 +1,0 @@
-['Photo', 'Video', '<com rc platform hd camera activity Main Activity void onStop']

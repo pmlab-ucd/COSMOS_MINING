@@ -1,1 +1,0 @@
-['Welcome', 'Unlock your phone and be rewarded by viewing ads and content relevant to you.', 'GET  ', '$5', '  MONTHLY CREDIT', 'Next', '<au com unlock d app Splash Activity void onResume']

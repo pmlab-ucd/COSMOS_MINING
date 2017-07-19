@@ -1,1 +1,0 @@
-['Camera Orientation Correction', 'Note: Please ensure you are in portrait mode, then tap to adjust.', 'Start adjustment', 'Off', '<com me it u my xj self ie activity Camera Adjust Activity void onCreate']

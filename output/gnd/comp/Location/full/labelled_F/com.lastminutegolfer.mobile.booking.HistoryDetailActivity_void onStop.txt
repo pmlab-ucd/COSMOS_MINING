@@ -1,1 +1,0 @@
-[['Terms and Conditions'], 'com last minute golfer mobile booking history detail activity ', ' android.location.Location getLastKnownLocation ', 'void onStop']

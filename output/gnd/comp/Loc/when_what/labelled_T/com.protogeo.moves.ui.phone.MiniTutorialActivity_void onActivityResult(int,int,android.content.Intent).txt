@@ -1,1 +1,0 @@
-[['Walk', '9,824', 'STEPS', 'Run', '0.4', 'MI', 'Cycle', '1.7', 'MI', "Moves tracks your activity as you go. It's always on, just keep your phone with you.", 'OK'], '<com proto geo moves ui phone Mini Tutorial Activity void onActivityResult']

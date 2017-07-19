@@ -1,1 +1,0 @@
-[['SMS Listen To', 'Auto reading time', 'Always reading'], 'com shou s huo android sms speaker status setting ', ' boolean isProviderEnabled ', 'void onResume']

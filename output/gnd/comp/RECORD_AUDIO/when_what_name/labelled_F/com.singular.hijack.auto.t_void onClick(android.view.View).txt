@@ -1,1 +1,0 @@
-[['SReaderAuto-4.0.4', 'SS505 sReader', 'Version', 'Swipe', 'Get'], 'void onClick', 'com singular hijack auto t', ' void <init> ']

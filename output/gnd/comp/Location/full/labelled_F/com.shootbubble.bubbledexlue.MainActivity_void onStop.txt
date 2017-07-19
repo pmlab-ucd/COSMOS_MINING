@@ -1,1 +1,0 @@
-[[], 'com shoot bubble bubble dex lu e main activity ', ' boolean isProviderEnabled ', 'void onStop']

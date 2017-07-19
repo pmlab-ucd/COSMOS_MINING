@@ -1,1 +1,0 @@
-['Junk Clean', '147', 'MB', 'Freeable', '1.96GB', '/', '5.67GB', 'System Cache', '56.3 MB', 'Google Play Store', '19.6 MB', 'Chrome', '18.4 MB', 'Xposed Installer', '4.54 MB', 'Google Play services', '2.23 MB', 'Camera', 'Clean 58.3 MB', '<batterydoctor fast charger battery saver activity Clean Junk Activity void onResume']

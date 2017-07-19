@@ -1,1 +1,0 @@
-[['Favorite Recordings', 'Nothing here yet...\nGo back to record something!', 'Tap and hold a favorite for more options!'], 'com tw is con apps robot voice favorites activity ', ' java.util.List getProviders ', 'void onCreate']

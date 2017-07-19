@@ -1,1 +1,0 @@
-['<com map rika Find Nearby Activity void onCreate']

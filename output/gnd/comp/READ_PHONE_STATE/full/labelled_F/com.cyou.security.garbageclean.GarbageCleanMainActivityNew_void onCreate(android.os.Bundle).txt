@@ -1,1 +1,0 @@
-[[], 'com c you security garbage clean garbage clean main activity new ', ' java.lang.String getDeviceId ', 'void onCreate']

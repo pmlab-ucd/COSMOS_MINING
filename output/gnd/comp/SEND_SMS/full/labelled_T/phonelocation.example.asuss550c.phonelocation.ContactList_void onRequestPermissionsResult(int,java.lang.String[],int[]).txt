@@ -1,1 +1,0 @@
-[['My Trackers', 'Add list of people Who Could Find you'], 'phone location example as uss 5 5 0 c phone location contact list ', ' void sendTextMessage ', 'void onRequestPermissionsResult']

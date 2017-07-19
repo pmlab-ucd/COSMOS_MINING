@@ -1,1 +1,0 @@
-['about:accounts?action=signup', '<org mozilla gecko Browser App void onDestroy']

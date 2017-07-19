@@ -1,1 +1,0 @@
-['Process Sale', 'Process', 'Required', 'Name:', 'Card Number:', 'Exp Date:', 'MMYY', 'Amount:', 'Order #:', '2386', '<net i deposit processing Process Sale Activity void onActivityResult']

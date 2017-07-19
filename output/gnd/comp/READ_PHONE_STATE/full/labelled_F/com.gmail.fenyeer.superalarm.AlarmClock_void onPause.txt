@@ -1,1 +1,0 @@
-[['多样闹钟', '7:00', '闹铃响了', '周一，周二，周三，周四，周五', '8:30', '闹铃响了', '每天', '9:30', '闹铃响了', '周六，周日'], 'com gmail fen yee r super alarm alarm clock ', ' java.lang.String getDeviceId ', 'void onPause']

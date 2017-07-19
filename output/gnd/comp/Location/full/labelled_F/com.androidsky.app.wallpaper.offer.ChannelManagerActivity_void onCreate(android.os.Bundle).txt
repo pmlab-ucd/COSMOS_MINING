@@ -1,1 +1,0 @@
-[['丑脸评分给力版', '当前可用总积分:%d, \n此功能需要积分:%d', '开通功能', '免费获取', '更新积分', '无法获取积分?'], 'com android sky app wallpaper offer channel manager activity ', ' java.lang.String getBestProvider ', 'void onCreate']

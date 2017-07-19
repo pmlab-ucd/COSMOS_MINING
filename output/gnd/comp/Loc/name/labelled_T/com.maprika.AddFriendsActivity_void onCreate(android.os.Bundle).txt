@@ -1,1 +1,0 @@
-['<com map rika Add Friends Activity void onCreate']

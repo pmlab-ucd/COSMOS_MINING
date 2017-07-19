@@ -1,1 +1,0 @@
-[['Manage and Restore Backups'], 'com kou s hik dutta rom manager manage backups ', ' java.lang.String getDeviceId ', 'void onCreate']

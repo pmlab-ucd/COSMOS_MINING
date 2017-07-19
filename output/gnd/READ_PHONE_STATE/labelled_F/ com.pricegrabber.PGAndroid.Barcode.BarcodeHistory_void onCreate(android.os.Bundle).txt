@@ -1,1 +1,0 @@
-['Favorites', 'Home', 'Favorites', 'Alerts', 'Barcode', 'Settings', '<com price grabber P G Android Barcode Barcode History void onCreate']

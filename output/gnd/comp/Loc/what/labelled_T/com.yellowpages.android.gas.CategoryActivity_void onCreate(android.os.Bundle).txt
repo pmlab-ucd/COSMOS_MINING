@@ -1,1 +1,0 @@
-[["See What's Nearby", 'Restaurants', 'Coffee', 'Auto Repair', 'ATM', 'Roadside Assistance']]

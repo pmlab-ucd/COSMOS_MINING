@@ -1,1 +1,0 @@
-[['Notifications', 'System Notifications', 'You do not have any notifications.'], 'void onResume', 'com cp m pos more activity system alerts activity ', ' void <init> ']

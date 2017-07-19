@@ -1,1 +1,0 @@
-[['FBReader library', 'Favorites', 'My selected books', 'Recent', 'Recently opened books', 'By author', 'Books sorted by author', 'By title', 'Books sorted by title', 'By tag', 'Books sorted by tag', 'File tree', 'Browse file system'], 'org geometer plus android fb reader library library activity ', ' boolean isProviderEnabled ', 'void onCreate']

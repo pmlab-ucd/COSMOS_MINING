@@ -1,1 +1,0 @@
-['Shipping Address', 'Billing Address', 'Home', 'Track Order', 'Search', 'Cart', '0', 'More', '<com t mart app more my account Address Book Activity void onCreate']

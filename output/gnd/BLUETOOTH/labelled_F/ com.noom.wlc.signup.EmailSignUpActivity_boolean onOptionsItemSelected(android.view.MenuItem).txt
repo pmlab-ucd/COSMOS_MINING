@@ -1,1 +1,0 @@
-['Next', 'Create your account', 'jameshaofu@gmail.com', '<com no om w lc sign up Email Sign Up Activity boolean onOptionsItemSelected']

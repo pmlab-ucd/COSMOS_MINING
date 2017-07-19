@@ -1,1 +1,0 @@
-[[], 'game render g canvas ', ' void sendTextMessage ', 'void init>']

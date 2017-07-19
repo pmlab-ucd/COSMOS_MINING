@@ -1,1 +1,0 @@
-[['Setup', 'Preview', 'Record', 'Sessions', 'Upgrades', 'Back Camera', 'Press the Record button to start recording a session'], 'com hp tuners track addict camera activity$5 ', ' android.hardware.Camera open ', 'void onClick']

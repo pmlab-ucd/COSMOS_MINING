@@ -1,1 +1,0 @@
-[['Set up reminders for your day', 'Daily Reminders', 'Repeat', '3X', 'Start reminder at', '09:00', 'End reminder at', '22:00']]

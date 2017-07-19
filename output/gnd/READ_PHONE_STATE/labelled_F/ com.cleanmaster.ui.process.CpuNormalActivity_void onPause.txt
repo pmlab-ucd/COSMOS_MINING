@@ -1,1 +1,0 @@
-['CPU Cooler', 'CPU temp. is OK', 'No abnormal app', 'A little heat while charging is normal', 'Cool while charging', 'Leave the device alone', 'More', 'FAQ', 'More about Device Cooler', 'More', 'Help Us Improve', 'Still overheating?', 'Contact', 'OK', '<com clean master ui process Cpu Normal Activity void onPause']

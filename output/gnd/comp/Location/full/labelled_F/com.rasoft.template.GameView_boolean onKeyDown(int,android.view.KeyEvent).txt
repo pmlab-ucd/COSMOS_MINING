@@ -1,1 +1,0 @@
-[['SCORE: 0'], 'com ra soft template game view ', ' boolean isProviderEnabled ', 'boolean onKeyDown', 'game']

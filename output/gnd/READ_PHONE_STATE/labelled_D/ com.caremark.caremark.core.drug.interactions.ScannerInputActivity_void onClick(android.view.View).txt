@@ -1,1 +1,0 @@
-['Check Drug Interactions', 'Sign In', 'TO SCAN, CENTER BARCODE IN THE BOX', 'OR', 'TYPE UPC HERE', 'Submit', '<com care mark care mark core drug interactions Scanner Input Activity void onClick']

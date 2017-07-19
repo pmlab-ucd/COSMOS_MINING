@@ -1,1 +1,0 @@
-['Yolo', 'Feels like: +9°', 'Wind: calm', 'Humidity: 100%', 'Pressure: 1016 hPa', 'Sunrise: 07:08', 'Sunset: 17:34', 'Report weather', '+9°', 'Sun, Today', '+13°', '+11°', 'Mon, 6 February', '+13°', '+12°', 'Tue, 7 February', '+16°', '+14°', 'Wed, 8 February', '+17°', '+13°', '<ru y and ex weather plugin ui activity Main Activity void onCreate']

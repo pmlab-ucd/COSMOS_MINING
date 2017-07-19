@@ -1,1 +1,0 @@
-['Syncing', 'How to sync?', 'Send data to another device', 'Receive data from another device', '<com siri budget demo Syncing Class$2 void onClick']

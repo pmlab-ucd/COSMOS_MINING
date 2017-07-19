@@ -1,1 +1,0 @@
-['Document Print', 'We did not find a KODAK Printer registered to your Google Account.', ' Learn how to set up your printer ', 'Refresh', '<com kodak view No Printer Activity void onCreate']

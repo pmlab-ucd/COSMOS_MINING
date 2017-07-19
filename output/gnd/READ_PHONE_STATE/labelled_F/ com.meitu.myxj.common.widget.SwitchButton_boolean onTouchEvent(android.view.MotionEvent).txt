@@ -1,1 +1,0 @@
-['Back', 'Video Settings', 'Mirror Mode', 'Save Path', '/storage/emulated/0/DCIM/Camera/', '<com me it u my xj common widget Switch Button boolean onTouchEvent']

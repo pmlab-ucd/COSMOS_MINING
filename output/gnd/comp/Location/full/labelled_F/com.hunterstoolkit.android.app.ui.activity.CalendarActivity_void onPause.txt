@@ -1,1 +1,0 @@
-[['Seasons & Bags', 'Open calendar', 'Import calendar'], 'com hunters toolkit android app ui activity calendar activity ', ' android.location.Location getLastKnownLocation ', 'void onPause']

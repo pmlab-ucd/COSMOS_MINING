@@ -1,1 +1,0 @@
-SS515SReader-1.0.4 SS515 Initial KEY Base Derivation Key(BDK):16byte 0123456789ABCDEFFEDCBA9876543210 Key Serial Number(KSN):10byte FFFF9876543210E00000 Load Initial KEY com ss515sreader g  void <init> 

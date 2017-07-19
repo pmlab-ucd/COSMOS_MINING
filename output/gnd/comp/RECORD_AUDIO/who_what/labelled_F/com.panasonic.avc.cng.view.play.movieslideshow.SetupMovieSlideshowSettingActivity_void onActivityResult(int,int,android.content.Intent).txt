@@ -1,2 +1,0 @@
-Creating highlights The app can automatically select highlights from the scenes you have recorded, and save them with added effects.
-You can change the effects by modifying the settings. Set Scene selection com panasonic a vc cng view play movie slideshow setup movie slideshow setting activity   void <init> 

@@ -1,1 +1,0 @@
-[['Dollar General', 'SOCIAL', 'ALERTS', 'SCAN QR CODE', 'PRIVACY POLICY'], '<com dollar general android more More Activity void onCreateContextMenu']

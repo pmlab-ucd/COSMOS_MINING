@@ -1,1 +1,0 @@
-['void onPause', 'com amazon device ads ad activity ', ' void <init> ']

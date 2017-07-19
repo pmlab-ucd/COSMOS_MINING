@@ -1,1 +1,0 @@
-[[], 'com in o app card info main activity2 ', ' void enableForegroundDispatch ', 'void onPause']

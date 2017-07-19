@@ -1,1 +1,0 @@
-[['Uninstall Master'], 'com droid ware uninstall master activity um activity base ', ' boolean isProviderEnabled ', 'void onResume']

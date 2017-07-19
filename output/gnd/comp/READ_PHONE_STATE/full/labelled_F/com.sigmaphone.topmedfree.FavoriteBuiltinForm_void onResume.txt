@@ -1,1 +1,0 @@
-[[], 'com sigma phone top med free favorite builtin form ', ' java.lang.String getDeviceId ', 'void onResume']

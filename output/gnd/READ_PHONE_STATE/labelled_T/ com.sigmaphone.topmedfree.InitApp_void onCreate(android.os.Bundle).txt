@@ -1,1 +1,0 @@
-['New users:', 'Existing users:', ' Register Now ', '     Sign In     ', 'An iPharmacy account is required to use this software. Registration is free and it only takes a minute. \n\nYou must be connected to the internet to register or sign in.', '  Register Later  ', '<com sigma phone top med free Init App void onCreate']

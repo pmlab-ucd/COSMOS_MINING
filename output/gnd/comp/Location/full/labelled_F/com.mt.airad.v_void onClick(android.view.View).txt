@@ -1,1 +1,0 @@
-[['汉字检索', '点此弹出键盘输入汉字'], 'com mt air ad v', ' void requestLocationUpdates ', 'void onClick']

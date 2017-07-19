@@ -1,1 +1,0 @@
-['Synchronize clock', 'Battery options', 'Thumbnails', 'Embed location data', 'Image size', 'App auto launch', 'Wireless Mobile Adapter settings', 'Language', '<com nikon wu wma u Ncc Setting Menu Activity void onPause']

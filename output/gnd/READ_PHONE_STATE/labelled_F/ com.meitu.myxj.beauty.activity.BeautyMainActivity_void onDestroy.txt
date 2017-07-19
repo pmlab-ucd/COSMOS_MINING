@@ -1,1 +1,0 @@
-['Beautify', 'Video', 'PikaPika', 'Collage', 'Selfie', '<com me it u my xj beauty activity Beauty Main Activity void onDestroy']

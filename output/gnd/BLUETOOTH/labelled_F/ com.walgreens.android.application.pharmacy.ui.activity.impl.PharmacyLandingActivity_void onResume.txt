@@ -1,1 +1,0 @@
-['Prescriptions & Health', 'Refill Prescriptions', 'Refill from Account', 'Refill by Scan', 'Refill for Family', 'Transfer\nRx', 'Rx Status & History', 'Pill Reminder', 'Contact Lenses', 'Health Services & Info', '<com walgreens android application pharmacy ui activity i mpl Pharmacy Landing Activity void onResume']

@@ -1,1 +1,0 @@
-['Barcode Scanner', '1. Scan Barcode', 'The scanner may not work on some phones. Enter bar code if the scanner does not work.', 'Scan', '2. Enter NDC Code', 'Label code', '-', 'Product code', '-', 'XX', '0597', '-', '0039', '-', 'NN', 'Search', 'Home', 'My Meds', 'Pill Id', 'Rx Card', 'Share', '<com sigma phone top med free Barcode Scanner Form$1 void onClick']

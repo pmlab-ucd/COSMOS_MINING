@@ -1,1 +1,0 @@
-['Wallpapers', 'Live Wallpapers', 'Ringtones', 'Notifications', 'Games', 'Icons', 'beta', 'Lists', 'Download History', '<net z edge android activity Controller Activity void onStop']

@@ -1,1 +1,0 @@
-Talk Exit 0 seconds left   < c o m call dorado android ui settings activity   void <init>  void onWindowFocusChanged

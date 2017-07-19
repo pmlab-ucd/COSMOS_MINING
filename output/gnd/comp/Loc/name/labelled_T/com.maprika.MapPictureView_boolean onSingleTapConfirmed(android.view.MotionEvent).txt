@@ -1,1 +1,0 @@
-['<com map rika Map Picture View boolean onSingleTapConfirmed']

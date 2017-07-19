@@ -1,1 +1,0 @@
-[['User Guide'], 'void onClick', 'sort_all']

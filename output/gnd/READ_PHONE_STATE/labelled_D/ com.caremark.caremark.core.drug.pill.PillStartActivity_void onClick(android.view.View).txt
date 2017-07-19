@@ -1,1 +1,0 @@
-['Identify Pills', 'Sign In', 'MARKING/IMPRINT', 'Enter marking or imprint on the pill', 'COLOR (OPTIONAL)', 'SHAPE (OPTIONAL)', 'Identify Pill', '<com care mark care mark core drug pill Pill Start Activity void onClick']

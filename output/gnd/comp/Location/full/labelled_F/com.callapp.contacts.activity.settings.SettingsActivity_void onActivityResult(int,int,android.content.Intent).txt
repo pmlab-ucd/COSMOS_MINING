@@ -1,1 +1,0 @@
-[['Settings', 'Turn on to get info & pictures', 'Facebook', 'OFF', 'Google+', 'OFF', 'Twitter', 'OFF', 'LinkedIn', 'OFF', 'Instagram', 'OFF', 'Foursquare', 'OFF', 'Pinterest', 'OFF', 'Xing', 'OFF'], 'com call app contacts activity settings settings activity ', ' android.location.Location getLastKnownLocation ', 'void onActivityResult']

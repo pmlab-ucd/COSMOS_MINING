@@ -1,1 +1,0 @@
-['Create a QualityTime Profile', 'Let\'s create your first QualityTime profile. This profile is used to customize the "Take a Break" feature to minimize your phone distraction allowing you to focus on your own quality time.', 'Next', '<com zero desktop app detox quality time for self ui settings self locks Profile Settings Activity void onRequestPermissionsResult']

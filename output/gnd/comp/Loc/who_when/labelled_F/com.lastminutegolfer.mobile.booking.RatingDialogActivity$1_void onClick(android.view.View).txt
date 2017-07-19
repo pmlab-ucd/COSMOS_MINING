@@ -1,1 +1,0 @@
-['void onClick', 'rateYesButton', 'android.widget.Button']

@@ -1,1 +1,0 @@
-[['UU提示', '修改密码请先登录!', '确定'], 'com u u call service service update pwd$1 ', ' void sendTextMessage ', 'void onClick']

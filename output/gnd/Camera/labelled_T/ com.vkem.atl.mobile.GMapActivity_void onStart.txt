@@ -1,1 +1,0 @@
-['News', 'Capture and upload images', 'Okay', '<com v k em atl mobile G Map Activity void onStart']

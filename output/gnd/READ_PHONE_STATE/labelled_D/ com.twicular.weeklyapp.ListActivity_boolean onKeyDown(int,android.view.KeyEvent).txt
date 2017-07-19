@@ -1,1 +1,0 @@
-['My Shopping List', 'All Stores', '<com twi cula r weekly app List Activity boolean onKeyDown']

@@ -1,1 +1,0 @@
-[['MouseWait', 'No Fastpass', '01', '00', 'AM', 'Submit Fast Pass']]

@@ -1,1 +1,0 @@
-[['Plan to configure', 'Please enter the name and password of the device router', '( Warm tips: Please use mobile phone to configure in 3 meters )', 'moobilenetx', 'WIFI password', 'Next step', 'AP quick configuration', 'com macro video v380 smart link quick wifi config activity ', 'void onClick'], 'com macro video v380 smart link quick wifi config activity ', 'void onClick']

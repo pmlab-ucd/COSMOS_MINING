@@ -1,1 +1,0 @@
-[['Gallery', 'No media found.'], 'boolean onCreateOptionsMenu', ' void <init> ']

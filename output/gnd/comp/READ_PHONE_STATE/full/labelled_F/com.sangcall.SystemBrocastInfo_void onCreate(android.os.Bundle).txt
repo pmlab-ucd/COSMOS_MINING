@@ -1,1 +1,0 @@
-[['3G电话'], 'com sang call system brocast info ', ' java.lang.String getSubscriberId ', 'void onCreate']

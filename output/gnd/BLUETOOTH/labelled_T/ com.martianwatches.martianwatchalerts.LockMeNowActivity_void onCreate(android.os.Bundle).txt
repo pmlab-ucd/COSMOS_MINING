@@ -1,1 +1,0 @@
-['Lock', 'Click to set a new password', 'Set new password', 'Click to enable Martian Notifier to lock the phone screen when away from your phone', 'Activate lock', "To deactivate lock: disable the Martian Notifier app in your phone's Settings>Security>Device administrators", '<com martian watches martian watch alerts Lock Me Now Activity void onCreate']

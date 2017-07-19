@@ -1,1 +1,0 @@
-Geotagging Geotagging off Time sync Start geotagging Batch send Send over NFC com panasonic a vc cng view geo tag geo tag activity   void <init>  boolean onPrepareOptionsMenu

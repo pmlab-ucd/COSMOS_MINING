@@ -1,1 +1,0 @@
-['Save to', 'File name:', 'The voicemail will be saved as an AMR file.', 'Save in Directory:', '/storage/emulated/0', '<com metro pcs service v vm activity Copy To Activity void onResume']

@@ -1,1 +1,0 @@
-[['Privacy Policy & Advertising Terms', 'Close', 'Ok'], 'com gau go launcher ex theme pi zero example classic', ' boolean isProviderEnabled ', 'void onResume']

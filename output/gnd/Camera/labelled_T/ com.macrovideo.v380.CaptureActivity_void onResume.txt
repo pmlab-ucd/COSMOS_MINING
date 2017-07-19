@@ -1,1 +1,0 @@
-['Scan QR code', '<com macro video v380 Capture Activity void onResume']

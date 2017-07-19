@@ -1,1 +1,0 @@
-[['PLZ/Ort eingeben', 'Bitte geben Sie mindestens drei Zeichen des gesuchten Ortes / der gesuchten Postleitzahl ein.'], 'void onResume']

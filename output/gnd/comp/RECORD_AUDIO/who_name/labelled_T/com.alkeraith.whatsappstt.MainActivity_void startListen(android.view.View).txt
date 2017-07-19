@@ -1,1 +1,0 @@
-['<com al kerait h what s apps tt main activity ', ' void startListening ', 'image view 1', 'android.widget.ImageView']

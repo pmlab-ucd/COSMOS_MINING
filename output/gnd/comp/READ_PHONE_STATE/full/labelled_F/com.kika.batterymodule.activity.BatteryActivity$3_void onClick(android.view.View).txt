@@ -1,1 +1,0 @@
-[[], 'com k ika battery module activity battery activity$3 ', ' java.lang.String getDeviceId ', 'void onClick']

@@ -1,1 +1,0 @@
-[['Loading...\nTouch the screen to switch images,on the left scroll up'], 'cn com fan er humor activity pic view$6 ', ' void requestLocationUpdates ', 'void onClick']

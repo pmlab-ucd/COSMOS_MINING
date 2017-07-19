@@ -1,1 +1,0 @@
-[['Cooking Papa Burger', 'Recommended Games'], 'com cool games main activity ', ' void requestLocationUpdates ', 'void onCreate']

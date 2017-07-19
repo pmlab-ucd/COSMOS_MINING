@@ -1,1 +1,0 @@
-[[], 'com care atc patient portal education education activity ', ' java.lang.String getDeviceId ', 'void onCreate']

@@ -1,1 +1,0 @@
-['WBR800 Demo SE', 'Main', 'Settings', 'Tag Demo', 'Inventory Demo', '<com gig atms W B R800 Demo S E Main Activity void onCreate']

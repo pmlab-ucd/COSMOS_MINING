@@ -1,1 +1,0 @@
-[['Input phone number', '+44', 'Input phone number', 'I have read user agreement'], 'com s nda you ni modules chat play image view ', ' java.lang.String getSubscriberId ', 'void onClick']

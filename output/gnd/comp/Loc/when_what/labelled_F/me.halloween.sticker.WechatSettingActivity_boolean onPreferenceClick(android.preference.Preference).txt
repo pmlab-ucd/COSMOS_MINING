@@ -1,1 +1,0 @@
-[['Enable/Disable sharing Link', 'Disable link while sharing stickers', 'Sticky', 'Whatsapp', 'Other Setting', 'Give us feedback', 'Show your love'], '<me halloween sticker Wechat Setting Activity boolean onPreferenceClick']

@@ -1,1 +1,0 @@
-[[], 'com cp m pos test drive t d c c enter card activity ', ' void connect ', 'void onDestroy']

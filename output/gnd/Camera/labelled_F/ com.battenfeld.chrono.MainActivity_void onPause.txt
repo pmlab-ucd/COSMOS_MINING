@@ -1,1 +1,0 @@
-['Connection Error Encountered', 'Unplug cable from chronometer and Android device.\nConnect cable to Android device.\nConnect cable to chronometer.', 'OK', '<com bat te nfeld chrono Main Activity void onPause']

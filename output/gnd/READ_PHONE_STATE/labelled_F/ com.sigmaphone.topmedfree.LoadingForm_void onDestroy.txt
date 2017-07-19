@@ -1,1 +1,0 @@
-['My Meds Reminder', 'Discount Card', 'Pill Identifier', 'Drug Search', 'Pharmacies', 'Berkeley Wellness', 'Recalls & Alerts', 'Compare Rx Price', 'Settings', 'Welcome to iPharmacy!', '<com sigma phone top med free Loading Form void onDestroy']

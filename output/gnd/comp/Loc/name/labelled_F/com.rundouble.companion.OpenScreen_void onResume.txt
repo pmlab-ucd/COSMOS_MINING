@@ -1,1 +1,0 @@
-['<com run double companion Open Screen void onResume']

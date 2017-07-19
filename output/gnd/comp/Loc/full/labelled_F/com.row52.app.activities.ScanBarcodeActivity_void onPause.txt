@@ -1,1 +1,0 @@
-[['Scan Barcode', 'SCAN', 'Or', 'Enter Barcode', 'SUBMIT'], 'void onPause']

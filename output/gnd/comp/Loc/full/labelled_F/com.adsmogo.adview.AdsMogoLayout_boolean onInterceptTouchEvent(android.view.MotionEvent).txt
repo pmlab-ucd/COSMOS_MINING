@@ -1,1 +1,0 @@
-[['chat girl', 'Hi, I miss you so much, chat with me!', 'input here', 'Send'], 'boolean onInterceptTouchEvent', 'adsMogoView']

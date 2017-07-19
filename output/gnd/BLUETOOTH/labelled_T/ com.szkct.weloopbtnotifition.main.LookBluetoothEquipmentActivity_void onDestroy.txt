@@ -1,1 +1,0 @@
-['Binding device', 'Search for Bluetooth peripherals', '(Turn on the Bluetooth mobile phone and Bluetooth device peripherals)', 'Start Search', '<com sz kc t we loop bt not if it ion main Look Bluetooth Equipment Activity void onDestroy']

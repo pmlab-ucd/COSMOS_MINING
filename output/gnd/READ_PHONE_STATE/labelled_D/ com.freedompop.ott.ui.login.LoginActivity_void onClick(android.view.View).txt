@@ -1,1 +1,0 @@
-['Log In', 'Forgot Password', 'Email', 'Next', '<com freedom pop ott ui login Login Activity void onClick']

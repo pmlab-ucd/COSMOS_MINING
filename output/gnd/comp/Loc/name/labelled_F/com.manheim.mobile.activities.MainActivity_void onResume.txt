@@ -1,1 +1,0 @@
-['<com manheim mobile activities Main Activity void onResume']

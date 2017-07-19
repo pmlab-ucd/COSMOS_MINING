@@ -1,1 +1,0 @@
-['<com juri us pre g calc Settings Activity void onCreate']

@@ -1,1 +1,0 @@
-['<it dove con vie ne android Settings Location Activity void onClick']

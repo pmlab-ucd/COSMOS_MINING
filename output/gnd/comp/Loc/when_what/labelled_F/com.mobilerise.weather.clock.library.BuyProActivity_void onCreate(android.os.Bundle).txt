@@ -1,1 +1,0 @@
-[['Buy Pro', 'In Pro version;\n\n - No advertisement\n - Widget customization will be unlocked', 'Cancel', 'Buy'], '<com mobile rise weather clock library Buy Pro Activity void onCreate']

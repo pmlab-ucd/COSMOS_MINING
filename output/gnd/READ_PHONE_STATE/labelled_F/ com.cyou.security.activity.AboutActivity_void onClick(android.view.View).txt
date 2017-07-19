@@ -1,1 +1,0 @@
-['About Us', 'V2.6.rel.049', 'Software License', 'Privacy Agreement', '© 2014 CY Security INC. All rights reserved', '<com c you security activity About Activity void onClick']

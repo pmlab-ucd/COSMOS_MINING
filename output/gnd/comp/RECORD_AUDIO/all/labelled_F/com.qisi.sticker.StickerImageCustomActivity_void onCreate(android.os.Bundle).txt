@@ -1,1 +1,0 @@
-[['tag', 'remove', 'share'], 'void onCreate', ' void <init> ']

@@ -1,1 +1,0 @@
-['<com sherpa share workers Update Category Activity void onClick']

@@ -1,1 +1,0 @@
-['Settings', 'Animation settings', 'Dynamic effect of wallpaper', 'Live wallpaper settings', 'Set as desktop wallpaper', 'After rebooting phone, desktop wallpaper will change back to system default wallpaper if the application installed on SD card.', '<com go weather ex setting Animation And Wallpaper Settings Activity void onBackPressed']

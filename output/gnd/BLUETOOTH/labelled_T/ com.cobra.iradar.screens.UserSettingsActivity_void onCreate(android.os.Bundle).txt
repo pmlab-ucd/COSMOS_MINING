@@ -1,1 +1,0 @@
-['Alert Audio', 'Auto', 'Phone', 'Disable Auto-Lock', 'ON', 'Alert Sharing', 'ON', 'Background Activity', 'ON', 'Local Notifications', 'ON', 'Audio Alerts', 'ON', '<com cobra i radar screens User Settings Activity void onCreate']

@@ -1,1 +1,0 @@
-['News Categories', ' Cancel ', 'Featured Headlines\n\t\t\t', 'Abortion News\n\t\t\t', 'Acid Reflux / GERD News\n\t\t\t', 'ADHD News\n\t\t\t', 'Aid / Disasters News\n\t\t\t', 'Alcohol / Addiction / Illegal Drugs News\n\t\t\t', 'Allergy News\n\t\t\t', "Alzheimer's / Dementia News\n\t\t\t", '<com sigma phone top med free News Category Form void onItemClick']

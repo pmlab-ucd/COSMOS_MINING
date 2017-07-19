@@ -1,1 +1,0 @@
-['Here you can create a schedule for the service year.\nLong press to copy and duplicate.', '<com lost pixels field service Ministry Schedule Activity void onCreate']

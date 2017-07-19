@@ -1,1 +1,0 @@
-[['歌曲分类', '请输入歌曲名或歌手', '男歌手', '女歌手', '组合', '入门歌曲', '歌曲索引'], 'com app hero ui all song list activity ', ' boolean isProviderEnabled ', 'void onCreate']

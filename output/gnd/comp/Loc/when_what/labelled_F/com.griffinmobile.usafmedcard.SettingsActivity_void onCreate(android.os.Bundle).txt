@@ -1,1 +1,0 @@
-[['Settings', 'General', 'App Settings', 'Access permissions and other details', 'Admin Access', 'Pharmacy personal only', 'App Information', 'Software Licensing', 'Build version', 'v1.4.4'], '<com griffin mobile usaf med card Settings Activity void onCreate']

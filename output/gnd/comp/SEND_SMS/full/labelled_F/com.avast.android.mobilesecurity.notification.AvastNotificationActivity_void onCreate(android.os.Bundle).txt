@@ -1,1 +1,0 @@
-[['Notification Manager', 'Clear', 'avast! Mobile Security', 'avast! is protecting you...'], 'com avast android mobile security notification avast notification activity ', ' void sendMultipartTextMessage ', 'void onCreate']

@@ -1,1 +1,0 @@
-['Mobile Student Discounts', 'RoverTown is only for actively enrolled college students. Enter your .edu email address to continue to your discounts.', 'Your .edu email address', 'SIGN UP', 'Trouble signing up? Tap here.', '<com rover rover town Activity Login Sign Up Activity void onBackPressed']

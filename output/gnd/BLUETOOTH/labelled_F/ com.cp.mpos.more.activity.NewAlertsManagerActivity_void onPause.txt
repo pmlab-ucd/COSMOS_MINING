@@ -1,1 +1,0 @@
-['Alerts Manager', 'Monetary Total', 'Off', 'Targeted Amount', '$0.00', '# of Transactions', 'Off', '# of Transactions', '0', 'Credit Card Sales', 'Off', '# of Transactions', '0', 'Credit Card Refunds', 'Off', '# of Transactions', '0', '<com cp m pos more activity New Alerts Manager Activity void onPause']

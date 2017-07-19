@@ -1,1 +1,0 @@
-[['Add friends', 'NEARBY', 'CONTACTS', 'SEARCH', 'No users found', 'Tell a friend about Maprika'], 'boolean onOptionsItemSelected']

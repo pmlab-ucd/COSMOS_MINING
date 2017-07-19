@@ -1,1 +1,0 @@
-['My Contacts', 'Step 1:', 'Please enter your phone number', '+1', 'Phone number', 'Back', 'Next', 'By pressing next you agree to our', 'terms of service', '<app controller Login Phone Activity void onCreate']

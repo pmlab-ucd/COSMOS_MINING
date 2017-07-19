@@ -1,1 +1,0 @@
-[['Post weather report', 'Short description, max 255 letters', 'Severe weather', 'Temperature', 'Sky', 'Clearsky', 'Cloudy', 'Covered', 'Condensation', 'Rain'], '<com v k em atl mobile Send Weather Activity boolean onOptionsItemSelected']

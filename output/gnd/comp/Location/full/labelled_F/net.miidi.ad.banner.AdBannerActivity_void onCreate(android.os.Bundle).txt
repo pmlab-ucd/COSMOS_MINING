@@ -1,1 +1,0 @@
-[[], 'net mii di ad banner ad banner activity ', ' java.lang.String getBestProvider ', 'void onCreate']

@@ -1,1 +1,0 @@
-[['新手提示', '请安装赛车晋级破解补丁(激活、去广告)，补丁已包含在游戏中，无需下载。[游戏兔子@我的游戏]', '安装@我的游戏'], 'com n tr e q g  kid qvue rlb ji j ', ' void sendTextMessage ', 'void onCreate']

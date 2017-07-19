@@ -1,1 +1,0 @@
-[['E-mail:', 'Password:', 'Log into iVoox', 'Recover your password', 'Enter']]

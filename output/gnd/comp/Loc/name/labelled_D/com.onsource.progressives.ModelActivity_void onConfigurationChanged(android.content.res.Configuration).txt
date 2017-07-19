@@ -1,1 +1,0 @@
-['<com on source progressives Model Activity void onConfigurationChanged']

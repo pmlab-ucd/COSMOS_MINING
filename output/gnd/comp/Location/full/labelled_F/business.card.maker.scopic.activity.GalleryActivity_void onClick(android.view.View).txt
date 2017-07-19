@@ -1,1 +1,0 @@
-[['GALLERY'], 'business card maker sco pic activity gallery activity ', ' boolean isProviderEnabled ', 'void onClick']

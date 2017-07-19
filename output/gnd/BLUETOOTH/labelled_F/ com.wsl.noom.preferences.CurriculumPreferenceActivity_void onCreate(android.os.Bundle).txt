@@ -1,1 +1,0 @@
-['Curriculum Settings', 'Curriculum Name: FREE', 'Start Date: N/A', 'Last Updated: N/A', 'Refresh curriculum info', "Refresh your curriculum data from Noom's servers.", '<com w sl no om preferences Curriculum Preference Activity void onCreate']

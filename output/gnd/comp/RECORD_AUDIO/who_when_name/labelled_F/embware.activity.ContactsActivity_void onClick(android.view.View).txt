@@ -1,1 +1,0 @@
-['void onClick', 'e mbw are activity contacts activity ', ' void <init> ']

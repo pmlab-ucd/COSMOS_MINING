@@ -1,1 +1,0 @@
-[['ALMOST DONE.', 'FINAL STEPS', 'Enable Barcode Scanner', 'Enable Notifications', 'Allow Address Book'], 'com buy c ott android activities permission activity$1 ', ' boolean isProviderEnabled ', 'void onClick']

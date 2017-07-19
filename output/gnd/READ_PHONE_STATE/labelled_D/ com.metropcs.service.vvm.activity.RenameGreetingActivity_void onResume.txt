@@ -1,1 +1,0 @@
-['Rename Greeting', "Enter your greeting's new name", 'Cancel', 'Save', '<com metro pcs service v vm activity Rename Greeting Activity void onResume']

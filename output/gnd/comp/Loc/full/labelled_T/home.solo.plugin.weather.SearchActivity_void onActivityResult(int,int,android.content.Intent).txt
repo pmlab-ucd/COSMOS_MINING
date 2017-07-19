@@ -1,1 +1,0 @@
-[['Enter city name'], 'void onActivityResult']

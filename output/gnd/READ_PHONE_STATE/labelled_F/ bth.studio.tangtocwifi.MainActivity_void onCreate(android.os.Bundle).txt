@@ -1,1 +1,0 @@
-['Wifi Booster', ' \tSSID: "moobilenetx"', ' BSSID: 6c:f3:7f:ab:bb:f2\n Wifi Level: 4/5 ', '+2796 Recommend this on Google', 'Automatically reconnect', 'Keep Wifi connection', 'Automatically refresh Wifi', '3G', 'Ping', 'Booster', '<bth studio tang to cw if i Main Activity void onCreate']

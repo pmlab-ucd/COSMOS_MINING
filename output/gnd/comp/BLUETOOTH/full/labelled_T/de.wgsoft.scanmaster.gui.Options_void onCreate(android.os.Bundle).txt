@@ -1,1 +1,0 @@
-[[], 'de wg soft s can master gui options ', ' int getState ', 'void onCreate']

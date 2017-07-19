@@ -1,1 +1,0 @@
-[['Talking News', 'To get the best graphics quality for your Nexus 5, you must download 15 MB of game data to your SD card before you can use this app.', 'Download', 'Not now'], 'com outfit 7 talking news main ', ' java.lang.String getBestProvider ', 'void onCreate']

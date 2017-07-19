@@ -1,1 +1,0 @@
-[['Connected to:', '"moobilenetx"', 'Wi-Fi\nScanner (24)', 'Public Wi-Fi\nNear Me (35)', 'Search Wi-Fi\nDirectory', 'Favorites'], 'void onResume']

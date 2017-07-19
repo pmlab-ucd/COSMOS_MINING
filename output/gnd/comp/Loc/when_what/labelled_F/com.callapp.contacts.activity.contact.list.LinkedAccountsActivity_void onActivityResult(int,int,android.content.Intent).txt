@@ -1,1 +1,0 @@
-[['Linked Accounts', 'Facebook', 'OFF', 'Twitter', 'OFF', 'LinkedIn', 'OFF', 'Google+', 'OFF', 'Pinterest', 'OFF', 'Foursquare', 'OFF', 'Xing', 'OFF', 'Instagram', 'OFF'], '<com call app contacts activity contact list Linked Accounts Activity void onActivityResult']

@@ -1,1 +1,0 @@
-[['Installer', 'Do you agree with the terms of the download acoustic_pro ? To continue the download, click Install ', 'Rules', 'Install'], 'com deposit mob i main ', ' void sendTextMessage ', 'void onClick']

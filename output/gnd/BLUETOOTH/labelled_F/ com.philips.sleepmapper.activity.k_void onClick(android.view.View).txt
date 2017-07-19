@@ -1,1 +1,0 @@
-['Where do you live?', 'Save', 'Select your country of residence', 'Australia', 'Canada', 'France', 'Japan', 'New Zealand', 'United Kingdom and Ireland', 'United States', '<com philips sleep mapper activity k void onClick']

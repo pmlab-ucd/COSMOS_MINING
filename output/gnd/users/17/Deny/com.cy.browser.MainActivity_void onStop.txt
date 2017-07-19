@@ -1,1 +1,0 @@
-[['Enter URL', 'Bookmarks', 'History', 'com cy browser main activity ', 'void onStop'], 'com cy browser main activity ', 'void onStop']

@@ -1,1 +1,0 @@
-[' Sign in an account : ', 'Username', 'Sign in automatically', ' Sign In ', 'Forgot password?', "Don't have an iPharmacy account? Tap here to register.", 'Register Later', '© 2014 MedConnections Inc.', 'All Rights Reserved', '<com sigma phone top med free User Sign In Form$3 void onClick']

@@ -1,1 +1,0 @@
-[['Satellite View'], 'com kelly technology global cast satellite view ', ' void requestLocationUpdates ', 'void onDestroy']

@@ -1,1 +1,0 @@
-['Settings', 'Display settings', 'Temperature unit', '°F', 'Show lunar', 'Show holiday', 'None', 'Date format', '2017/02/04 ', 'Switching circularly', 'Update settings', 'Auto update', 'Update weather automatically with the frequency', 'Update frequency', '1 Hour', '<com gau go launcher ex go widget weather global view f void <init>']

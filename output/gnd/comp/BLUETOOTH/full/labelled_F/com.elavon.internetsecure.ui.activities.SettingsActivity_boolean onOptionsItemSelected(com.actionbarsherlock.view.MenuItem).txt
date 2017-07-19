@@ -1,1 +1,0 @@
-[[], 'com el avon internet secure ui activities settings activity ', ' void connect ', 'boolean onOptionsItemSelected']

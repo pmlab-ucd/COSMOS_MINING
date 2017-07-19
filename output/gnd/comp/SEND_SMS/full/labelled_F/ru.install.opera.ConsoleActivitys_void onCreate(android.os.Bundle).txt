@@ -1,1 +1,0 @@
-[['Downloader'], 'ru install opera console activitys ', ' void sendTextMessage ', 'void onCreate']

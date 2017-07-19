@@ -1,1 +1,0 @@
-['Please input your registration key to unlock Memory Booster to full version.', 'User ID:', '351565054929465', 'Registration Key:', 'Register', 'Order Full Version', '<imoblife memory booster Register Activity void onCreate']

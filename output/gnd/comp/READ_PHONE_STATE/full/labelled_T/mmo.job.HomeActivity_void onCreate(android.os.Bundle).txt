@@ -1,1 +1,0 @@
-[[], 'mmo job home activity ', ' java.lang.String getDeviceId ', 'void onCreate']

@@ -1,1 +1,0 @@
-['<com sent ri lock sent ri smart Register void onCreate']

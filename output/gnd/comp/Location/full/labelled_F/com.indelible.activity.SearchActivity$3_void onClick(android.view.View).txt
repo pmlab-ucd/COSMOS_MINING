@@ -1,1 +1,0 @@
-[['Search Text'], 'com indelible activity search activity$3 ', ' java.lang.String getBestProvider ', 'void onClick', 'watch_video']

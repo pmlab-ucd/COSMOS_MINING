@@ -1,1 +1,0 @@
-[['Latitude :', '38.5599597', 'Longitude :', '-121.7663961', 'Country :', 'United States', 'City :', 'Davis', 'Postal Code :', 'Address Line :', '1432 Drake Drive Davis, CA 95616 USA']]

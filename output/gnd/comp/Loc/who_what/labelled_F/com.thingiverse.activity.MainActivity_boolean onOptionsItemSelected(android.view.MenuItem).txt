@@ -1,1 +1,0 @@
-[['Push Notifications', 'New in Thingiverse 1.4, Push Notifications sent directly to your Android device. To enable, you will need to sign out and then log back in.', 'OK']]

@@ -1,1 +1,0 @@
-['Dosage', '1', 'pcs', 'at', 'morning', 'Everyday', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun', 'OK', '<com clu s or ice Dose Activity void onCreate']

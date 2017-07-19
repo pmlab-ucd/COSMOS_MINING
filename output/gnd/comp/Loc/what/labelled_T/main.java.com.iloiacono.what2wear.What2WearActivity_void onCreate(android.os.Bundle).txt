@@ -1,1 +1,0 @@
-[['What 2 Wear?', 'WEATHER', 'CLOSET', 'Davis, US', 'Actual conditions', '11°', 'Few clouds', 'Real feel', '11.3°C', 'H: 87%', 'W: 13.0Km/h', 'Cold', 'Forecasts', 'Today', '12°', '9°', 'Light rain', 'Tomorrow', '13°', '9°', 'Heavy intensity rain', 'Next Days', 'Click to get details', 'Refresh', 'Hour by Hour', 'Exit']]

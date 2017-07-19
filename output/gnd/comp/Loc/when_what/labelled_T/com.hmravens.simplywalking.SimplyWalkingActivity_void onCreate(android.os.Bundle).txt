@@ -1,1 +1,0 @@
-[['Simply Walking', 'Start', '0\xa0seconds\xa0', 'Elapsed Time', '0\xa0miles\xa00\xa0kilometers', 'Distance', '0\xa0mph\xa0\xa0\xa00\xa0km/h\xa0\xa0\xa0', 'Speed/Pace', '0\xa0steps\xa0\xa00\xa0calories\xa0', 'Feedback/Help'], '<com hm ravens simply walking Simply Walking Activity void onCreate']

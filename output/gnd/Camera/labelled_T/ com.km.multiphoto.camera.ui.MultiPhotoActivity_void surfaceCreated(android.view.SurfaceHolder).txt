@@ -1,1 +1,0 @@
-['Choose how many photos you would like to take !', '2 Photos', '3 Photos', '4 Photos', '<com km multi photo camera ui Multi Photo Activity void surfaceCreated']

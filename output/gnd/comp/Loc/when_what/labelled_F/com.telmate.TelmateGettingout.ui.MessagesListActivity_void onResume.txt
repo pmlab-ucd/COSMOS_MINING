@@ -1,1 +1,0 @@
-[['Login', 'Deposit Funds'], '<com tel mate Telmate Gettingout ui Messages List Activity void onResume']

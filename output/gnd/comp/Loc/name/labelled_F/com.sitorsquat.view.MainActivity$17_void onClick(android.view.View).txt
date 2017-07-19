@@ -1,1 +1,0 @@
-['<com s it or squat view Main Activity$17 void onClick']

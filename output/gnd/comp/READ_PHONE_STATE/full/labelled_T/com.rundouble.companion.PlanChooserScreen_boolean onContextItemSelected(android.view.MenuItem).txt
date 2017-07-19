@@ -1,1 +1,0 @@
-[[], 'com run double companion plan chooser screen ', ' java.lang.String getDeviceId ', 'boolean onContextItemSelected']

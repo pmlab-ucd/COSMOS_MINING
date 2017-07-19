@@ -1,1 +1,0 @@
-['Choose a country', 'Search', 'Afghanistan', '+93', 'Albania', '+355', 'Algeria', '+213', 'American Samoa', '+1', 'Andorra', '+376', 'Angola', '+244', 'Anguilla', '+1', 'Antigua and Barbuda', 'Antigua & Barbuda', '+1', 'Argentina', '+54', '<com imo android imo im av ui A V Activity void onDeclineButtonClick']

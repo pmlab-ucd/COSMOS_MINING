@@ -1,1 +1,0 @@
-['Make a Call', 'SMS', 'Photo', 'Name', 'Private Number', 'Number', '212-000-2668', 'Voice', 'Select phone', 'Default', 'More setting', 'default ringtone (themos), incoming', 'Save', 'Private Browser Downloader', 'Download videos and photos to the password protected folder.', 'INSTALL NOW', '<com popular app fake call Fake Call Activity void onCreate']

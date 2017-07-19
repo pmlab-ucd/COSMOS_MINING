@@ -1,1 +1,0 @@
-['<object p2pwificam activity client event detail activity ', ' void <init> ']

@@ -1,1 +1,0 @@
-['P   R   O   F   I   L   E', 'to start operating your account\nplease complete your profile', 'First name', 'Last name', 'Birthday', '(DD-MM-YYYY)', 'Country', 'SAVE', '<bitwalking bit walking Complete Profile Activity void onSaveProfile']

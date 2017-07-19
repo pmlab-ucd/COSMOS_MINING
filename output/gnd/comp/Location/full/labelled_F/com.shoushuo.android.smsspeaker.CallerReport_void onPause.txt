@@ -1,1 +1,0 @@
-[['Caller reporting settings', 'Caller reporting text', 'Caller reporting text setting', 'Action when ringer silent', 'Still working when ringer is silent', 'Action when media silent', 'Still working when media have no volume'], 'com shou s huo android sms speaker caller report ', ' boolean isProviderEnabled ', 'void onPause']

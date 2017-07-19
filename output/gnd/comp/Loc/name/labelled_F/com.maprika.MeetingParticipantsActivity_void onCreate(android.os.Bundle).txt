@@ -1,1 +1,0 @@
-['<com map rika Meeting Participants Activity void onCreate']

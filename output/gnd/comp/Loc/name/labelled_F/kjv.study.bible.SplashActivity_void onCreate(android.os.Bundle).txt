@@ -1,1 +1,0 @@
-['<kjv study bible Splash Activity void onCreate']

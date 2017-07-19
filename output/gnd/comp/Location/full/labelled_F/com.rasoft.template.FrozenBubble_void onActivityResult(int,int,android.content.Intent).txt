@@ -1,1 +1,0 @@
-[['SCORE: 0', '  50'], 'com ra soft template frozen bubble ', ' boolean isProviderEnabled ', 'void onActivityResult']

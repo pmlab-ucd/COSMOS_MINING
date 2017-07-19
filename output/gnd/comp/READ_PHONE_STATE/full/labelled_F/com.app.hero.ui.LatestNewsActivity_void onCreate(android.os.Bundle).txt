@@ -1,1 +1,0 @@
-[['最新动态'], 'com app hero ui latest news activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

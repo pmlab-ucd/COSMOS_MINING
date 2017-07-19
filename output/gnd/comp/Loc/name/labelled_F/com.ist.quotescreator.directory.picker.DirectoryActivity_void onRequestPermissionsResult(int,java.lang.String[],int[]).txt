@@ -1,1 +1,0 @@
-['<com is t quotes creator directory picker Directory Activity void onRequestPermissionsResult']

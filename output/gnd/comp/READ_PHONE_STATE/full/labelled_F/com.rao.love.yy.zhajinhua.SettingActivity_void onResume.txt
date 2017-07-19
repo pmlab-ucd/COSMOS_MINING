@@ -1,1 +1,0 @@
-[['ZhaJinHua', 'Media Setting', 'Background Music', 'On', 'Game Music', 'On', 'Data Setting', 'Get Money', 'Get Now'], 'com rao love yy zha j in hua setting activity ', ' java.lang.String getDeviceId ', 'void onResume']

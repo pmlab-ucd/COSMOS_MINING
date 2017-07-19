@@ -1,1 +1,0 @@
-['J.J. Keller Mobile', 'EOBR Configuration', 'Unit Number:', 'Engine Data Bus:', 'Auto-Detect Databus', 'OK', 'Cancel', '<com jj keller km b Eobr Config boolean onKeyDown']

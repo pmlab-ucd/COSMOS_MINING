@@ -1,1 +1,0 @@
-[['CoolCamHB', 'Click here to add camera'], 'com lio u cool cam h b  main activity ', ' void <init> ']

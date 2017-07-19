@@ -1,1 +1,0 @@
-[[], 'com panasonic a vc cng view setting remote watch connect activity ', ' void close ', 'void onResume']

@@ -1,1 +1,0 @@
-[['Company ID', 'Your company administrator will provide \nyou with this number'], 'com u attend reports app admin add punch activity$6 ', ' boolean isProviderEnabled ', 'void onClick', 'id_add_punch_button']

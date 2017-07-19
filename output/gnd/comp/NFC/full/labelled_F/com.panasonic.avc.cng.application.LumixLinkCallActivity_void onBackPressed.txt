@@ -1,1 +1,0 @@
-[[], 'com panasonic a vc cng application lumix link call activity ', ' void close ', 'void onBackPressed']

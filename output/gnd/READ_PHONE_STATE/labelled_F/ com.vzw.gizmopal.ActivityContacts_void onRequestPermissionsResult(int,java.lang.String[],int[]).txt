@@ -1,1 +1,0 @@
-['Help', 'GizmoPal', 'GizmoPal 2', 'GizmoGadget', '<com v zw gizmo pal Activity Contacts void onRequestPermissionsResult']

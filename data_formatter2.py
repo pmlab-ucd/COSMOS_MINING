@@ -70,7 +70,7 @@ class DataFormatter:
                 elif 'F' in sub_lines[len(sub_lines) - 2]:
                     label = 'labelled_F'
                 elif 'D' in sub_lines[len(sub_lines) - 2]:
-                    label = 'labelled_D'
+                    label = 'labelled_T'
                     if not label_D:
                         continue
                 else:
@@ -359,6 +359,8 @@ class DataFormatter:
 
             if what:
                 doc.append(' '.join(instance['texts']))
+                doc.append(class_name)
+                doc.append(instance['api'])
             if when:
                 doc.append(method_name)
             if name:
@@ -395,11 +397,11 @@ if __name__ == '__main__':
     instances = []
     out_dir = gnd_based_dir + '\\comp\\' + perm_type + '\\'
     instance_dir = gnd_based_dir + '\\' + perm_type + '\\'
-    who = True
+    who = False
     when = True
     what = True
 
-    name = True
+    name = False
 
     if who and when and what and name:
         out_dir = out_dir + 'all'

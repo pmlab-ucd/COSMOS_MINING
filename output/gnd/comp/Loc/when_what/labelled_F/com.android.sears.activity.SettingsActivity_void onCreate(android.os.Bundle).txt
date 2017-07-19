@@ -1,1 +1,0 @@
-[['Version Number: 11.1\nVersion Code: 199', 'Visitor Id: 2C4CE36605033BCB-60001180A0004536', 'Current Swordfish Environment: ', 'https://m.sears.com/', 'Ex: 10.98.3.15:3000', 'Automation', 'Off', 'InStoreMode', 'Off', 'Production', 'Alpha'], '<com android sears activity Settings Activity void onCreate']

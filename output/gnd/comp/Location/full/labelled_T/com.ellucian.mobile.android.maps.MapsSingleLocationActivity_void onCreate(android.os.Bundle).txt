@@ -1,1 +1,0 @@
-[['UL Lafayette'], 'com el lucian mobile android maps maps single location activity ', ' void requestLocationUpdates ', 'void onCreate']

@@ -1,1 +1,0 @@
-['Settings', 'My Device', 'Name      :', 'Galaxy Nexus', 'Address  :', '70:F9:27:60:42:43', 'Power Saving Mechanism', 'Status    :', 'Disabled!', 'Turn On', 'Turn Off', '<skpec coe ad hoc social network manager Settings Activity$1 void onClick']

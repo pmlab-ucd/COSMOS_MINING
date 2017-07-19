@@ -1,1 +1,0 @@
-[['DAY'], 'com snr ui maps tab ', ' void requestLocationUpdates ', 'void onCreate']

@@ -1,1 +1,0 @@
-['My Weather Reporter', '23:09', 'Saturday, Feb 04', '23.9', 'Sunny', 'beijing', 'Today', 'Nice and warm with intervals of clouds and sunshine', 'Slide to Unlock >>', '<com commerce notification main core Handle Notificaion Click Activity void onCreate']

@@ -1,1 +1,0 @@
-[['Chic'], 'com chic colorful party lig th s main activity ', ' android.hardware.Camera open ', 'void onCreate']

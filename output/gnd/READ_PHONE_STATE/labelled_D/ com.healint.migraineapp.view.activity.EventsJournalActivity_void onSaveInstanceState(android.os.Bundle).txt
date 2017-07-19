@@ -1,1 +1,0 @@
-['My Records', 'MIGRAINE', 'SLEEP', 'No migraines recorded yet!', '<com he a lint migraine app view activity Events Journal Activity void onSaveInstanceState']

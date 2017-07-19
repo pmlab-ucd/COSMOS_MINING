@@ -1,1 +1,0 @@
-[['SHOUTBOX', 'Send'], 'com ad mob android ads ad view ', ' void requestLocationUpdates ', 'void init>', 'adView', 'android.widget.RelativeLayout']

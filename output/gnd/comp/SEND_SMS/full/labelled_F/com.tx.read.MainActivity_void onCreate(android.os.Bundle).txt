@@ -1,1 +1,0 @@
-[[], 'com tx read main activity ', ' void sendTextMessage ', 'void onCreate']

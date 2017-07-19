@@ -1,1 +1,0 @@
-[['Airport Status', 'USA only', 'Update Time: February 04, 2017 09:23:45 AM', 'Arrival Departure Delays', 'No current Arrival Departure Delays', 'Airport Ground Delays', 'No current Airport Ground Delays', 'Airport Ground Stop Delays', 'No current Airport Ground Stop Delays', 'Airport Closures', 'No current Airport Closure', 'Report Error']]

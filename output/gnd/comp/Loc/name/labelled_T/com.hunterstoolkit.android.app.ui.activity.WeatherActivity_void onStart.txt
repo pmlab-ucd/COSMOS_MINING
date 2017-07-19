@@ -1,1 +1,0 @@
-['<com hunters toolkit android app ui activity Weather Activity void onStart']

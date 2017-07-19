@@ -1,1 +1,0 @@
-[[], 'com tech cat mobile and rome dia main ', ' java.lang.String getBestProvider ', 'void onStart']

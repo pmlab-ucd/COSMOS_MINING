@@ -1,1 +1,0 @@
-['Conversations', 'chompSMS Team', '5:59 PM', 'Welcome to chompSMS!\n\nTip: Long hold on a conversation (in the conversation list) or long hold on a bubble to access extra features and customization options.', '<com p1 chomps ms activities Main Activity void onResume']

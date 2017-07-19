@@ -1,1 +1,0 @@
-[['CHOOSE LOCATION', '* Hold and move pin to change location.']]

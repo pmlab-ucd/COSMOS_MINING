@@ -1,1 +1,0 @@
-['MEMORY CONTENT', 'STATUS', 'TEMPER CHECK', 'Memory Content (Hex)', '<com sic app sic 4 3 n 1 x status Status Activity void onCreate']

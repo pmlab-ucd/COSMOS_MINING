@@ -1,1 +1,0 @@
-[['您还未设置账号，先设置账号后方可使用', 'KC号或手机号:', '密码:', '保存设置', '欢迎使用KC电话,新用户注册最高赠送40分钟免费试用', '立即注册'], 'com keep c service service rebind$3 ', ' java.lang.String getSubscriberId ', 'void onClick']

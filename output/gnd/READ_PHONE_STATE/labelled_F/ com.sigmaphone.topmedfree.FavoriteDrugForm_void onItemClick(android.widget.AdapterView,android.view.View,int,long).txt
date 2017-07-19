@@ -1,1 +1,0 @@
-['My Medications', 'Add', '<com sigma phone top med free Favorite Drug Form void onItemClick']

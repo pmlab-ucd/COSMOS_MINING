@@ -1,1 +1,0 @@
-['void onRestoreInstanceState', 'main_activity_slidingmenu']

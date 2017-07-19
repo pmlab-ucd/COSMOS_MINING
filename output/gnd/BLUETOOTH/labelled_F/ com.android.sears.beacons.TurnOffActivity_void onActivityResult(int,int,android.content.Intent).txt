@@ -1,1 +1,0 @@
-['In-Store Alerts', 'Turn OFF In-Store Alerts?', 'In-store Alerts turn off automatically when you leave the store.', 'Use of your in-store locations helps us send you the deals you want, when you want them, the next time you shop here.', 'Turn Off', 'Leave On', '<com android sears beacons Turn Off Activity void onActivityResult']

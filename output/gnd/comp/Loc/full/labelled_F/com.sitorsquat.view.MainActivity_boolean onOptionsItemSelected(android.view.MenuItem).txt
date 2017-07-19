@@ -1,1 +1,0 @@
-[['SitOrSquat', 'Nearby Locations', 'Search for a location', 'Buehler Alumni and Visito', 'Mrak Hall Dr, Davis, CA 95616, USA', '0.2 miles away'], 'boolean onOptionsItemSelected']

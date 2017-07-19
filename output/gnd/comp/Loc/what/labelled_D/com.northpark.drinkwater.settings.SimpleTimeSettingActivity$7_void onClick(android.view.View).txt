@@ -1,1 +1,0 @@
-[['Reminder start & end', 'Set reminder', 'Start', '10:00 AM', 'End', '09:00 PM', 'ADVANCED SETTING']]

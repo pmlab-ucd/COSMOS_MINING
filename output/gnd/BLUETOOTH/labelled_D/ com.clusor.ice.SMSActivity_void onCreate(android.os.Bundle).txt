@@ -1,1 +1,0 @@
-['No contacts!', 'Cannot send alert message. No phone numbers found.', 'OK', '<com clu s or ice S M S Activity void onCreate']

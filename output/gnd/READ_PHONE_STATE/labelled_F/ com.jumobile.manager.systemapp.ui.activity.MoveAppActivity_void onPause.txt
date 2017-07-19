@@ -1,1 +1,0 @@
-['Move to sdcard', 'No need to move.', 'Sdcard share the same disk with os.', '<com ju mobile manager system app ui activity Move App Activity void onPause']

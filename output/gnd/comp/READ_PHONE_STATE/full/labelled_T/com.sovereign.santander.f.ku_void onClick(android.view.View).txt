@@ -1,1 +1,0 @@
-[[], 'com sovereign santander f ku', ' java.lang.String getDeviceId ', 'void onClick']

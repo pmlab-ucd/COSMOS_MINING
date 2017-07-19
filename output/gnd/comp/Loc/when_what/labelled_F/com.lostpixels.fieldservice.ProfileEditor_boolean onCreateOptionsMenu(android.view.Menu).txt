@@ -1,1 +1,0 @@
-[['Edit profile', 'Tap to change background or profile image.', 'Name of the publisher', 'Name of the publisher', 'Profile', 'Publisher', 'Month this service year to apply the profile to', 'February', 'Theme', 'Light theme', 'Dark theme', 'Color theme'], '<com lost pixels field service Profile Editor boolean onCreateOptionsMenu']

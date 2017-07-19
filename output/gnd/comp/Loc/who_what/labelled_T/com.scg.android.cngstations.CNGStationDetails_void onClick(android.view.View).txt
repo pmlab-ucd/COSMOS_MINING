@@ -1,1 +1,0 @@
-[['CNG Station', 'null - 0.0 mi.', 'Address:', 'null\nnull', '»', 'Phone:', 'Hours:', 'Accepts:', 'Get Directions', '»']]

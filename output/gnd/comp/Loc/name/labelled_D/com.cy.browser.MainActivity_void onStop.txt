@@ -1,1 +1,0 @@
-['<com cy browser Main Activity void onStop']

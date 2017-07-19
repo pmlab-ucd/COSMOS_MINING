@@ -1,1 +1,0 @@
-['Login Token', 'With login token, you can set up the app without using the FollowMee user name and password.', 'Click here for more details ', ' ', 'Token Code', 'Apply', ' ', 'Cancel', '<com f mee f mee ser v Setting Package Screen void onCreate']

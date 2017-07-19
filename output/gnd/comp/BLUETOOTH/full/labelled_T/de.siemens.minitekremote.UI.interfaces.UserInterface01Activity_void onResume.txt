@@ -1,1 +1,0 @@
-[[], 'de siemens mini tek remote u i  interfaces user interface01 activity ', ' boolean isEnabled ', 'void onResume']

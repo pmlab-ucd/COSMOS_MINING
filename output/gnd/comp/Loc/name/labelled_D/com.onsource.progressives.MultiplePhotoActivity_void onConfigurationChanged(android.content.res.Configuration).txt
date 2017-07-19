@@ -1,1 +1,0 @@
-['<com on source progressives Multiple Photo Activity void onConfigurationChanged']

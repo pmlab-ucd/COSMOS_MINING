@@ -1,1 +1,0 @@
-[[], 'com panasonic a vc cng view common l', ' void close ', 'void onClick']

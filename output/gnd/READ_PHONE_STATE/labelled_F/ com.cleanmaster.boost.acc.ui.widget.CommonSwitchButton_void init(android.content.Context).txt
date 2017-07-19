@@ -1,1 +1,0 @@
-['CM Low Power Mode', 'Low Power Mode', 'Device is charging', 'Low Power Mode history', 'Protect the environment with Clean Master\r\nPower saving achievements will show up here!', '<com clean master boost acc ui widget Common Switch Button void <init>']

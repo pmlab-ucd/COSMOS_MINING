@@ -1,1 +1,0 @@
-[['02:16', 'AM', 'Friday , Jan 2017'], 'com arrow shapes pattern lock pattern active ', ' boolean isProviderEnabled ', 'void onCreate']

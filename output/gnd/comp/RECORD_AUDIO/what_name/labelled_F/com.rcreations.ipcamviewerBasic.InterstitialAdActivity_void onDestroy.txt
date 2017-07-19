@@ -1,1 +1,0 @@
-[['Upgrade NOW!', 'Upgrade to Unlimited Cameras and no ADs, click Menu.', 'OK'], 'com r creations basic ipcamviewer interstitial ad activity ', ' void <init> ']

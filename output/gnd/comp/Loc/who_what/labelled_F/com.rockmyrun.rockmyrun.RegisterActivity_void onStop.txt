@@ -1,1 +1,0 @@
-[['Register', 'WELCOME TO THE RUNROCKER FAMILY!', 'Sign in', 'Sign up with Partner Apps', 'First Name', 'Username']]

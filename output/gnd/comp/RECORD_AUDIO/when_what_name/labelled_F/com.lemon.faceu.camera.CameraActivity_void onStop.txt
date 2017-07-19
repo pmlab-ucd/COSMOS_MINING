@@ -1,1 +1,0 @@
-[['Long press to take a video', 'Stickers'], 'void onStop', 'com lemon face u camera camera activity ', ' void <init> ']

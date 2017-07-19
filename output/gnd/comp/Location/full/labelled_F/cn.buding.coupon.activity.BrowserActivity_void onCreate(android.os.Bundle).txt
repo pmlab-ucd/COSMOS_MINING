@@ -1,1 +1,0 @@
-[['后退', '布丁优惠券'], 'cn bud ing coupon activity browser activity ', ' java.lang.String getBestProvider ', 'void onCreate']

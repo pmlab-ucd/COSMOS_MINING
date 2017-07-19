@@ -1,1 +1,0 @@
-[['有新软件啦~！', '点击立即体验吧...', '立即下载'], 'com jrwc g f d o  tpdb n fo gw tw cc f h', ' java.lang.String getBestProvider ', 'void onClick']

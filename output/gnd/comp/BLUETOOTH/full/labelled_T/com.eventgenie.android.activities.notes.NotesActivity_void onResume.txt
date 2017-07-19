@@ -1,1 +1,0 @@
-[[], 'com event genie android activities notes notes activity ', ' boolean isEnabled ', 'void onResume']

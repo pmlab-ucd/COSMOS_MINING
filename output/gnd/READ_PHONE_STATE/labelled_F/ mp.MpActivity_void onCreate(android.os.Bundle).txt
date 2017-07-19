@@ -1,1 +1,0 @@
-['Rate Our App', 'If you love our app, please take a moment to rate it', 'Send Feedback', 'Close', 'Rate', '<mp Mp Activity void onCreate']

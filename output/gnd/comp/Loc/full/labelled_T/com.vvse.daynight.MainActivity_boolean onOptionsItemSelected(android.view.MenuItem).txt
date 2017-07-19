@@ -1,1 +1,0 @@
-[['Day & Night Map', '11:41 PM', 'Saturday, February 4, 2017'], 'boolean onOptionsItemSelected']

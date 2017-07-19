@@ -1,1 +1,0 @@
-[['Hello User! Welcome back.', 'You have no appointments for next couple of hours.']]

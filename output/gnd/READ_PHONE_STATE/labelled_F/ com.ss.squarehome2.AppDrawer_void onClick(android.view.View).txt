@@ -1,1 +1,0 @@
-['Welcome!', 'Pinch in to show menu.', '<com ss square home 2 App Drawer void onClick']

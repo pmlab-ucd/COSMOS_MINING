@@ -1,1 +1,0 @@
-[[], 'com gau go launcher ex go widget weather view setting21 activity ', ' void listen ', 'void onCreate']

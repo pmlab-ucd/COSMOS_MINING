@@ -1,1 +1,0 @@
-[['Handy GPS - satellites'], 'void onCreate']

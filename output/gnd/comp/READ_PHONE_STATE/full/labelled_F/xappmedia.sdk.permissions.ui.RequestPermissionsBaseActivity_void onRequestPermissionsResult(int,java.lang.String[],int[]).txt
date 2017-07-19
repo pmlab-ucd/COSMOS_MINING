@@ -1,1 +1,0 @@
-[[], 'x app media sdk permissions ui request permissions base activity ', ' java.lang.String getDeviceId ', 'void onRequestPermissionsResult']

@@ -1,1 +1,0 @@
-['Settings', 'Display settings', 'Temperature unit', '°F', 'Date format', '2017/02/04 ', 'Switching circularly', 'Enable switching cities circularly in GO Widget', 'Update settings', 'Auto update', 'Update weather automatically with the frequency', 'Update frequency', '1 Hour', '<com gau go launcher ex go widget weather view Setting41 Activity void onCreate']

@@ -1,1 +1,0 @@
-['Enter Email', 'Email', 'Continue', 'Privacy Policy', 'Email Support', '<me double dutch Link Handler Activity void onCreate']

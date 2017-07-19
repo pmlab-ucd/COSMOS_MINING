@@ -1,1 +1,0 @@
-['Recipe Ingredients', 'Add', '<com cap iga mi out of milk activity Detailed Recipe Activity boolean onOptionsItemSelected']

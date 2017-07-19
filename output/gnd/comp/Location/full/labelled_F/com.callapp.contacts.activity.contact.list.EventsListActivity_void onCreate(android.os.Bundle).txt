@@ -1,1 +1,0 @@
-[['Call reminders', 'Call reminders will appear here', "To add a call reminder, tap on '+'"], 'com call app contacts activity contact list events list activity ', ' android.location.Location getLastKnownLocation ', 'void onCreate']

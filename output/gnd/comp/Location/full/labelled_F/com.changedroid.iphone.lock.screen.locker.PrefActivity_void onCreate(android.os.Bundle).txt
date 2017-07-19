@@ -1,1 +1,0 @@
-[['License Agreement'], 'com change droid iphone lock screen locker pref activity ', ' boolean isProviderEnabled ', 'void onCreate']

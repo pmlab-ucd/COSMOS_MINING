@@ -1,1 +1,0 @@
-[['Logs', 'Search', '  ', ' Show', ' Clear', 'no log items'], 'boolean onCreateOptionsMenu', ' void <init> ']

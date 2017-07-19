@@ -1,1 +1,0 @@
-[['Application', 'Adore Me', 'Android Pay', 'BusyBox Free', 'Calculator', 'Calendar', 'Camera', 'Chrome', 'Clock', 'CoachUp'], '<com ss square home 2 Pick Application Activity void onAttachedToWindow']

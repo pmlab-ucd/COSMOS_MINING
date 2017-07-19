@@ -1,1 +1,0 @@
-[['Churches', 'NEARBY', 'FAVORITES', 'SEARCH'], 'com push control z give li fy ui activity generic churches map activity ', ' boolean isProviderEnabled ', 'boolean onOptionsItemSelected']

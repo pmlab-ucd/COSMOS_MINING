@@ -1,1 +1,0 @@
-['Back', 'My Account', 'My Order List', 'My Ticker', 'My Points', 'Notification Set', 'Shipping Address', 'Billing Address', 'Log Out', 'Home', 'Track Order', 'Search', 'Cart', '0', 'More', '<com t mart app more My Account Activity void onCreate']

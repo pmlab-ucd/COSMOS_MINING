@@ -1,1 +1,0 @@
-['Flash Off', 'Digimarc Tutorial', '<com gz scanner client android Capture Activity void surfaceCreated']

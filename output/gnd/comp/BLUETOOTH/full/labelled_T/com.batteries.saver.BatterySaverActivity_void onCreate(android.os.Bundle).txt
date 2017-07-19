@@ -1,1 +1,0 @@
-[[], 'com batteries saver battery saver activity ', ' int getState ', 'void onCreate']

@@ -1,1 +1,0 @@
-[['Open Garden WiFi Tether', 'Access-Control is disabled.', 'Enable', 'Connected/Authorized Clients:'], 'og android tether access control activity ', ' android.location.Location getLastKnownLocation ', 'void onStop']

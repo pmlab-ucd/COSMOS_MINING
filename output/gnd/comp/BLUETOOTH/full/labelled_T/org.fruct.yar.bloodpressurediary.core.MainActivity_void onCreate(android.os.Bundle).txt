@@ -1,1 +1,0 @@
-[[], 'org fru ct yar blood pressure diary core main activity ', ' boolean isDiscovering ', 'void onCreate']

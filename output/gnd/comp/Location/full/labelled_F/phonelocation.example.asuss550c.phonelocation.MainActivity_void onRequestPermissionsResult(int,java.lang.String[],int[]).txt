@@ -1,1 +1,0 @@
-[['Enter your phone number', '15306013355', 'Next'], 'phone location example as uss 5 5 0 c phone location main activity ', ' boolean isProviderEnabled ', 'void onRequestPermissionsResult']

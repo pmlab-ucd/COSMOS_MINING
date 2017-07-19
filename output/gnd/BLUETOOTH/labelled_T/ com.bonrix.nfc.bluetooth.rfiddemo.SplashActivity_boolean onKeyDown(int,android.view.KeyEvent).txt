@@ -1,1 +1,0 @@
-['RFID Reader With Bluetooth Function \n Model No: KTX280B \n REV: 1.0 \n \n', 'We are trying to Connect...', 'Who we are?', '<com bon r ix nfc bluetooth rfid demo Splash Activity boolean onKeyDown']

@@ -1,1 +1,0 @@
-[[], 'com q is i plugin activities splash activity ', ' java.lang.String getDeviceId ', 'void finish']

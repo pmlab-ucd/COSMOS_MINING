@@ -1,1 +1,0 @@
-['Align the QR code within the frame to scan', 'Scan QR Code', '<com fw a ppsh are activity Transfer Send Activity boolean onOptionsItemSelected']

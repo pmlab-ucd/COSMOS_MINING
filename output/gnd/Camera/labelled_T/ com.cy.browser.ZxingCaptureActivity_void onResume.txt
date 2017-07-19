@@ -1,1 +1,0 @@
-['QrCode', '<com cy browser Zxing Capture Activity void onResume']

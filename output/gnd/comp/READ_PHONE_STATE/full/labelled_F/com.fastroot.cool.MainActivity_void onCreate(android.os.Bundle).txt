@@ -1,1 +1,0 @@
-[['永久获取ROOT权限', '永久获取ROOT权限', '\n\n', '临时root', '永久root', '取消root'], 'com fast root cool main activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

@@ -1,1 +1,0 @@
-['<it dove con vie ne android alerts activity ', ' void <init> ', 'microphone', 'image', 'android.widget.ImageView']

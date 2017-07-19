@@ -1,1 +1,0 @@
-['Instant. Camera. Offline.', 'Waygo translates foreign text instantly', 'using your camera without an internet connection.', 'Skip', 'Next', '<com way go app way go Splash Screen void onCreate']

@@ -1,1 +1,0 @@
-[['Ahora puedes buscar las palabras que quieras en toda la biblia'], 'void onDestroy']

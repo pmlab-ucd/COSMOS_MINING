@@ -1,1 +1,0 @@
-[['Today - 10:00', 'd', 'q', 'D', 'a', 'Swipe right and left to go back or forward by one day', 'Touch near right edge to hide/show color map scale', 'OK', 'Swipe right and left to go back or forward by 3 hours'], 'void onResume']

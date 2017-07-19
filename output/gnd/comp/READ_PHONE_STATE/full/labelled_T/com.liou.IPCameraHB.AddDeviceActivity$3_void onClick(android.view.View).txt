@@ -1,1 +1,0 @@
-[[], 'com lio u i p camera h b  add device activity$3 ', ' java.lang.String getDeviceId ', 'void onClick']

@@ -1,1 +1,0 @@
-[[], 'com foto able cn locker reminder select app activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

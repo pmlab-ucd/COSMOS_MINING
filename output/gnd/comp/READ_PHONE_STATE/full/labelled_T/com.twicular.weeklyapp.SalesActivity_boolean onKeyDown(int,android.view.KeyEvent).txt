@@ -1,1 +1,0 @@
-[[], 'com twi cula r weekly app sales activity ', ' java.lang.String getSubscriberId ', 'boolean onKeyDown']

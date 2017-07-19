@@ -1,1 +1,0 @@
-[['KViewQR'], 'com k guard k view q r  logo activity ', ' void <init> ']

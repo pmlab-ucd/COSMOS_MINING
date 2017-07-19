@@ -1,1 +1,0 @@
-[[], 'com custom custom print main activity ', ' android.bluetooth.BluetoothSocket createInsecureRfcommSocketToServiceRecord ', 'void onSelectMenuSMARTCONFIG']

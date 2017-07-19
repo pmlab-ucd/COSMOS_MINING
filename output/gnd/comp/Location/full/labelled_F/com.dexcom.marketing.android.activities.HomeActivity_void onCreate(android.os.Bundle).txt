@@ -1,1 +1,0 @@
-[['FAQ', 'Tutorial', 'Support', 'Quick Guide', 'About', 'Reorder', 'Safety Statement'], 'com dex com marketing android activities home activity ', ' void requestLocationUpdates ', 'void onCreate']

@@ -1,1 +1,0 @@
-[['Welcome to tawkon!\nYou made the right call …'], 'com view pager indicator circle page indicator ', ' java.lang.String getBestProvider ', 'void onDraw', 'indicator']

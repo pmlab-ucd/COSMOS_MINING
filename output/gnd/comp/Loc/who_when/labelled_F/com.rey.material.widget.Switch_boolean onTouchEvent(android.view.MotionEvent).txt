@@ -1,1 +1,0 @@
-['boolean onTouchEvent', 'switch_on_off']

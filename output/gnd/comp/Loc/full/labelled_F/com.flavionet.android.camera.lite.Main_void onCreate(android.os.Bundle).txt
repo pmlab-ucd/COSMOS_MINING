@@ -1,1 +1,0 @@
-[['Welcome to Camera FV-5!', 'Please take a moment to read this introductory pages to acquaint yourself with the camera user interface. Swipe this page to read more...', 'Close', 'Next'], 'void onCreate']

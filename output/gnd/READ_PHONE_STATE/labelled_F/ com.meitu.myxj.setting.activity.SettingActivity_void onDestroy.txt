@@ -1,1 +1,0 @@
-['Settings', 'General', 'Camera Settings', 'Photo Settings', 'Image Quality', 'Standard', 'Video Settings', 'Language', 'Default (Phone language)', 'Clear Cache', '0.0 KB', 'Others', 'Check for Updates', 'Feedback', 'About', '<com me it u my xj setting activity Setting Activity void onDestroy']

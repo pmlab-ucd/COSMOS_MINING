@@ -1,1 +1,0 @@
-['Back', 'Safe Shopping Guarantee', 'About Us', 'Home', 'Track Order', 'Search', 'Cart', '0', 'More', '<com t mart app more r policy Safe Shop Activity void onCreate']

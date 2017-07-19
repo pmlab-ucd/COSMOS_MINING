@@ -1,1 +1,0 @@
-['Icon Key', 'CARFAX® Accidents', 'No Accident/No Damage', 'Accident/Damage', 'Major Damage', 'Minor Damage', 'Accident/No Damage', 'Not Available', 'CARFAX® Service Records', 'Service Records', 'Regular Oil Changes', 'Not Available', 'CARFAX® Number of Owners', 'CARFAX 1-Owner', '<com vau to va droid activity Icon Key Activity void <init>']

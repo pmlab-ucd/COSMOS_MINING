@@ -1,1 +1,0 @@
-[['Your one stop shop for news and weather, anytime, anywhere!'], 'net solo mob android news hog rss activity$7 ', ' android.location.Location getLastKnownLocation ', 'void onClick', 'ibRefresh']

@@ -1,1 +1,0 @@
-[[], 'ru y and ex weather plugin ui activity main activity ', ' boolean isDiscovering ', 'void onCreate']

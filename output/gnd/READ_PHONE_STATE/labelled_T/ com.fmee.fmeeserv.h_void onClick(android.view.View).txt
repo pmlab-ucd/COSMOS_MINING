@@ -1,1 +1,0 @@
-['App Usage', 'Do you want to convert your device into a dedicated vehicle tracking device? This option requires connecting the device to the car charger all the time.', 'Tracking Cell Phone', 'Vehicle Tracking Device', 'What is Vehicle Tracking Device?', 'Save', ' ', 'Cancel', '<com f mee f mee ser v h void onClick']

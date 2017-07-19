@@ -1,1 +1,0 @@
-[['Message to developer', 'App Version : 3.9.1(arm)\nOS : Android-API19\ndevice : Nexus 4', 'Enter text', 'Send anonymous message.\nPlease use email instead if you need reply.', 'com ka name surya android strange camera message message activity ', 'void onCreate'], 'com ka name surya android strange camera message message activity ', 'void onCreate']

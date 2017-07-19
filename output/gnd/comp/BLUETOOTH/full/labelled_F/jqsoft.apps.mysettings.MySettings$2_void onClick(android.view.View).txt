@@ -1,1 +1,0 @@
-[['Ringer Mode', 'Auto', 'Unlock Pattern', 'Wi-Fi', 'GPS Location', 'Bluetooth', 'Auto Sync', 'Auto Rotate', 'Never', 'Airplane Mode', 'Cell Location', 'Network Mode', '9,717MB / 12,853MB', '9,717MB / 12,853MB', '98%'], 'j q soft apps my settings my settings$2 ', ' boolean disable ', 'void onClick']

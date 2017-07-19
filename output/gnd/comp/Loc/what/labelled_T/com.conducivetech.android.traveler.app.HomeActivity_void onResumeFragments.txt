@@ -1,1 +1,0 @@
-[['FlightStats Would Like to Use Your Current Location', 'Decline', 'Accept']]

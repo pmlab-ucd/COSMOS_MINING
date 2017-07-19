@@ -1,1 +1,0 @@
-[[], 'com g it hub native handler native crash activity ', ' java.lang.String getAddress ', 'void onCreate']

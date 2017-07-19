@@ -1,1 +1,0 @@
-['Transaction Settings', 'Reference Number', 'OFF', 'OPTIONAL', 'REQUIRED', 'CVD Options', 'AVS Zip/Postal Code Options', 'OFF', 'OPTIONAL', 'REQUIRED', 'Prompt for street address', 'Prompt for Last 4', '<com cp m pos more activity Transaction Settings Activity void onResume']

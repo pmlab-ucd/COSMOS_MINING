@@ -1,1 +1,0 @@
-[['Edit/Delete Med', 'Medication Name', 'Enter drug name here', 'Dosage', 'Enter dosage here', 'Instructions', 'Enter Dr instructions here', 'Non-Prescription', 'Set Reminder', 'Cancel', 'Save', 'Remember to Save! To Delete, click the App Bar Trash Can icon.']]

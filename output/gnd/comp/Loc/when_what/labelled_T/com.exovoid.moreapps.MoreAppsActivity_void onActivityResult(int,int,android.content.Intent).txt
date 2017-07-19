@@ -1,1 +1,0 @@
-[['Weather XL', 'Settings', 'Feedback', 'More Apps', 'About', 'Current location', 'Readability', 'Darker Animations', 'Sound Effects', 'Sound FX', 'Celsius / Fahrenheit', '°C', '°F'], '<com ex ovoid more apps More Apps Activity void onActivityResult']

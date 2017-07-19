@@ -1,1 +1,0 @@
-['Phone +', 'Thank you for your installation, we hope you enjoy the app.', '<v d d answer call Main Fr Activity void onCreate']

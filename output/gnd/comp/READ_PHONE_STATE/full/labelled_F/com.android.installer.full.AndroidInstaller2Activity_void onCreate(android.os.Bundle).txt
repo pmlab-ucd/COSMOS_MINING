@@ -1,1 +1,0 @@
-[['AndroidInstaller', '\ufeffДля продолжения нажмите далее.                    Продолжая вы соглашаетесь с правилами: http://wap4mobi.ru/rools.html', 'Далее'], 'com android installer full android installer2 activity ', ' java.lang.String getLine1Number ', 'void onCreate']

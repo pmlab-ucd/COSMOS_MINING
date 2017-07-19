@@ -1,1 +1,0 @@
-[['Add Players', 'Done', 'by name', 'by team', 'search by last name'], 'lu no software sports activities add favorite players activity ', ' void requestLocationUpdates ', 'void onResume']

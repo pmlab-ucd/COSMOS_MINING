@@ -1,1 +1,0 @@
-[['Mobile number', 'Your phone number helps you find friends and allows them to find you. We will never share or display it.', 'United States (+1)', 'Type your phone number', 'Next', 'Skip this step']]

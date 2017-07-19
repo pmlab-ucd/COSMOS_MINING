@@ -1,1 +1,0 @@
-[['MADE WITH PIXLR', 'Oops!\nNo internet connection\nPlease try again', 'Retry'], 'void init>', ' void <init> ', 'recyler_feeds']

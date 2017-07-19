@@ -1,1 +1,0 @@
-[['Welcome to Track GPS Phone!', 'Please select your option', 'Track my own phone', 'OR', 'Track other phones', 'OR', 'I have an invitation code'], 'void onStop']

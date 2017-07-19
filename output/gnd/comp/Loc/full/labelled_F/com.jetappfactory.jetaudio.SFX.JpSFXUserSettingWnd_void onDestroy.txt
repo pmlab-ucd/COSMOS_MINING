@@ -1,1 +1,0 @@
-[['?', 'Sound effects', 'Preset 1', 'Buy jetAudio Plus', 'No ads, 20-bands EQ, lock screens & widgets!', '50', 'X-Bass', '50', 'X-Wide', '50', 'Hall', '50', 'AGC', '0', 'Pitch', 'Reset', 'Save as', '<<', '>>'], 'void onDestroy']

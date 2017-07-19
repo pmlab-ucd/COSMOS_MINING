@@ -1,1 +1,0 @@
-[['Add apps, shortcuts and widgets to your Home screens'], 'kr co core technology clock widget free weather widget configure$7 ', ' boolean isProviderEnabled ', 'void onClick']

@@ -1,1 +1,0 @@
-[['Nikon SpotOn', 'Get lat-Lon', 'No Provider', 'No Provider'], 'com nikon spot on get lat lon ', ' java.lang.String getBestProvider ', 'void onCreate']

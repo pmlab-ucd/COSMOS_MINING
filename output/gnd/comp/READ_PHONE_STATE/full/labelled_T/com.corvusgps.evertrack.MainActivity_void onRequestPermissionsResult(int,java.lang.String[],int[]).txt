@@ -1,1 +1,0 @@
-[[], 'com corvus gps ever track main activity ', ' java.lang.String getDeviceId ', 'void onRequestPermissionsResult']

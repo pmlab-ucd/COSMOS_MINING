@@ -1,1 +1,0 @@
-[['Fun Photo Montage', 'Create great montages', 'SKIP'], 'com one gravity rt editor media choose media chooser activity ', ' boolean isProviderEnabled ', 'void onCreate']

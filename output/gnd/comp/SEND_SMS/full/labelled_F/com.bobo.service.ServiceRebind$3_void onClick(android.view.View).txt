@@ -1,1 +1,0 @@
-[['拨拨网络电话', '原手机号: null \n>>>>>>我还没有验证码', '新手机号: ', '拨拨密码: ', '获取验证码', '\n\n>>>>>>已收到验证码\n请在下方输入收到的验证码: '], 'com bobo service service rebind$3 ', ' void sendTextMessage ', 'void onClick']

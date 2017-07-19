@@ -1,1 +1,0 @@
-[[], 'com popular app fake call setting activity ', ' void listen ', 'void onResume']

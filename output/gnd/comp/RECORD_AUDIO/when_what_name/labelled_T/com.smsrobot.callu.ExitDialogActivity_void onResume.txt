@@ -1,1 +1,0 @@
-[['Exit the app?', 'Cancel', 'OK'], 'void onResume', 'com sms robot call u exit dialog activity ', ' void <init> ']

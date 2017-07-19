@@ -1,1 +1,0 @@
-['Music Ringtones', 'Would you like to create ringtones of YOUR favorite songs?', 'No Thanks', 'Yes', '<com mob gen color text Splash Activity void onCreate']

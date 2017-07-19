@@ -1,1 +1,0 @@
-[['Cancel'], 'void onClick', 'com s coo mpa ads lib full screen offer activity$1 ', ' void <init> ']

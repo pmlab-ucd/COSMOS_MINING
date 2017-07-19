@@ -1,1 +1,0 @@
-['<com map rika Server Maps Activity void onCreate']

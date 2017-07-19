@@ -1,1 +1,0 @@
-['Customer Service', 'Customer Service', 'Contact Ingo', 'Call', 'Available 7:00AM to Midnight EDT', '(229) 276-3990', 'Email', 'Response within 24 hours', 'help@ingomoney.com', 'A service of First Century Bank, N.A. and Ingo Money, Inc.', '<com c hex ar in go android ui activity Success Activity void onResume']

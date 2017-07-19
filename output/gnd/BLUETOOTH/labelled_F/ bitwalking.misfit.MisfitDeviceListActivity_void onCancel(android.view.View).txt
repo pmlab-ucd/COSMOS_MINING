@@ -1,1 +1,0 @@
-['S   e   l   e   c   t   e       m   i   s   f   i   t       d   e   v   i   c   e', '<bitwalking misfit Misfit Device List Activity void onCancel']

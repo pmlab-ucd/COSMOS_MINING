@@ -1,1 +1,0 @@
-[[], 'com grey stripe android sdk ad view ', ' boolean isProviderEnabled ', 'void onPause']

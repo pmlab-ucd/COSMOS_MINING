@@ -1,1 +1,0 @@
-Power OFF Turn OFF the connected device? Power OFF Cancel com panasonic a vc cng view setting camera power off activity   void <init>  void onDestroy

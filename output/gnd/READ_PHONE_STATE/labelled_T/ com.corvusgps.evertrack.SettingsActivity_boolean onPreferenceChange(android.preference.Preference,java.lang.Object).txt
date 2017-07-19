@@ -1,1 +1,0 @@
-['Main Screen', 'Visible Modules', 'Select which modules are visible on the main screen.', 'Location Update', 'Battery Saving mode', 'Location update interval: 00:10:00', 'Security', 'Password', 'Select a password to lock settings menu.', 'Lock Settings', 'Set up a password for settings menu.', 'Other', '<com corvus gps ever track Settings Activity boolean onPreferenceChange']

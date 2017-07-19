@@ -1,1 +1,0 @@
-['<embware activity contacts activity ', ' void <init> ', 'image view home', 'android.widget.ImageView']

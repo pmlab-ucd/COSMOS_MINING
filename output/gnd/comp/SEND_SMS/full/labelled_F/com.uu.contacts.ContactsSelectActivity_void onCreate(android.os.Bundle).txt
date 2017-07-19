@@ -1,1 +1,0 @@
-[['UU提示', '每日签到请先登录!', '确定'], 'com uu contacts contacts select activity ', ' void sendTextMessage ', 'void onCreate']

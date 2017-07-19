@@ -1,1 +1,0 @@
-[['Game Information', 'Game Information', 'Yes', 'Not show again'], 'com rao love yy zha j in hua splash activity ', ' void listen ', 'void onCreate']

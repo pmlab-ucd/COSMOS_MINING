@@ -1,1 +1,0 @@
-['Back', 'Flip', 'Gallery', 'Face', '<com Camera Activity Camera Preview Test Activity void onResume']

@@ -1,1 +1,0 @@
-[['Remove Qustodio', 'By proceeding, this device will be eliminated from Qustodio and all protection features will be disabled immediately.', 'Remove now'], 'void onPause']

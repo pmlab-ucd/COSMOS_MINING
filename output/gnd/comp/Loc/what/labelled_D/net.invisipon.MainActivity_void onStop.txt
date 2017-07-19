@@ -1,1 +1,0 @@
-[['Invisipon', 'COUPONS', 'SHOPPING', 'LOCATE', 'CHECKOUT', 'MORE']]

@@ -1,1 +1,0 @@
-[[], 'com manheim mobile manual vin entry  manual entry activity ', ' boolean isEnabled ', 'void onPause']

@@ -1,1 +1,0 @@
-['Sign in', 'Email', 'Sign in', '<com pli cker s client android Scan Activity void onResume']

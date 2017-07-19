@@ -1,1 +1,0 @@
-[['From Bruno Mars to Rihanna', 'Play the hottest songs effortlessly on the #1 piano app!'], 'void tapPlayPause']

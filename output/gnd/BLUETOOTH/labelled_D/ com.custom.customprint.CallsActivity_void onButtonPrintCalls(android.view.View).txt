@@ -1,1 +1,0 @@
-['Warning', 'Call Log Empty', 'Ok', '<com custom custom print Calls Activity void onButtonPrintCalls']

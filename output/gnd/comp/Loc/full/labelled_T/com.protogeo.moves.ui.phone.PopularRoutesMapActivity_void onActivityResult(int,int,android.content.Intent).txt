@@ -1,1 +1,0 @@
-[['Walk', 'Run', 'Cycle', 'Popular Routes'], 'void onActivityResult']

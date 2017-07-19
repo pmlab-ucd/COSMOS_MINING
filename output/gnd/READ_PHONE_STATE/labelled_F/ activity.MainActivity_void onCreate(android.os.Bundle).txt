@@ -1,1 +1,0 @@
-['Welcome to Fight Score', 'Before we start, please enter your displayable username. You can change this later.', 'Enter', '<activity Main Activity void onCreate']

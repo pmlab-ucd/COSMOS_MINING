@@ -1,1 +1,0 @@
-[['苍井空', '下载图片', '左右滑动切换图片，点击下载图片可将图片保存到本地'], 'com zhuang av guess new game ', ' boolean isProviderEnabled ', 'void onResume']

@@ -1,1 +1,0 @@
-[['Maprika', 'Nearby users', 'No users found', 'Refresh'], 'com map rika find nearby activity ', ' android.location.Location getLastKnownLocation ', 'void onCreate']

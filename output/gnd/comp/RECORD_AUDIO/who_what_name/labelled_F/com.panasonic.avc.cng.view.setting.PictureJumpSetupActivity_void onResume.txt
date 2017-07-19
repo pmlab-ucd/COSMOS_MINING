@@ -1,1 +1,0 @@
-[['Please wait...'], 'com panasonic a vc cng view setting picture jump setup activity ', ' void <init> ']
