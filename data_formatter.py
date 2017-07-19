@@ -115,16 +115,22 @@ class DataFormatter:
             for line in text_file:
                 sub_lines = line.split('|')
 
+                if line.startswith('#') or 'Index' in line or '------' in line:
+                    continue
+
                 if 'T' in sub_lines[len(sub_lines) - 2]:
                     label = 'labelled_T'
                 elif 'F' in sub_lines[len(sub_lines) - 2]:
                     label = 'labelled_F'
                 elif 'D' in sub_lines[len(sub_lines) - 2]:
                     label = 'labelled_D'
+                    continue
+                    #label = 'labelled_T'
+                elif 'Virus' in str(md_file):
+                    label = 'labelled_F'
                 else:
                     continue
-                if line.startswith('#'):
-                    continue
+
                 DataFormatter.logger.info(sub_lines)
                 xml_path = sub_lines[len(sub_lines) - 4].split('(')[1]
                 xml_path = xml_path.split('.png')[0] + '.xml'
@@ -133,7 +139,10 @@ class DataFormatter:
                 all_views = DataFormatter.handle_dynamic_xml(xml_path, texts)
 
                 DataFormatter.logger.info(texts)
-
+                json_file = str(xml_path).replace('py', 'java', 1)
+                json_file = json_file.replace('.xml', '.json')
+                par_dir = os.path.dirname(json_file)
+                apkname = os.path.basename(par_dir)
                 entry_api = sub_lines[len(sub_lines) - 5].split(';')
 
                 entry_name = entry_api[0]
@@ -151,12 +160,12 @@ class DataFormatter:
 
                 if views:
                     views = str(views).split(',')
-                    json_file = str(xml_path).replace('py', 'java', 1)
-                    json_file = json_file.replace('.xml', '.json')
-                    par_dir = os.path.dirname(json_file)
-                    apkname = os.path.basename(par_dir)
+
+
                     DataFormatter.logger.debug(apkname)
                     sens_comp = SensitiveComponent(os.path.join(par_dir, apkname + '.apk_' + os.path.basename(json_file)))
+                    if not sens_comp or not sens_comp.layoutFile:
+                        return
                     print(sens_comp.componentName, sens_comp.layoutFile)
                     sviews = {}
                     entry_name = str(entry_name).replace(' <', '<', 1)
@@ -187,6 +196,7 @@ class DataFormatter:
                 instance['xml_path'] = xml_path
                 instance['view'] = views
                 instance['api'] = api
+                instance['apk'] = apkname
                 instances.append(instance)
 
 
@@ -365,8 +375,10 @@ class DataFormatter:
     def instances2txtdocs(out_dir, instances, what=True, when=True, who=True, name=False):
         if os.path.exists(out_dir):
             shutil.rmtree(out_dir)
+        count = 0
         for instance in instances:
             #instance = instances[i]
+            count = count + 1
             output_dir = out_dir + '/' + str(instance['label']) + '/'
             if not os.path.exists(output_dir):
                 os.makedirs(output_dir)
@@ -381,12 +393,16 @@ class DataFormatter:
             class_name, method_name = SensitiveComponent.SensEntryPoint.split_entry_name(instance['entry_name'])
             if what:
                 doc.append(instance['texts'])
+                doc.append(class_name)
+                doc.append(instance['api'])
             if when:
                 doc.append(method_name)
             if name:
                 #if not when:
                  #   doc.append(method_name)
-                doc.append(class_name)
+                #doc.append(class_name)
+                #if 'F' in instance['label'] and count < int(0.7 * len(instances)):
+                 #   doc.append(class_name)
                 doc.append(instance['api'])
             if who:
                 views = instance['view']
@@ -404,34 +420,43 @@ class DataFormatter:
 
 
 gnd_based_dir = 'output/gnd/' #''output/drebin/gnd/'
-perm_type = 'RECORD_AUDIO' #SEND_SMS' #Location'
-gen_md = False #True
+perm_type = 'Location' #SEND_SMS' #' #READ_PHONE_STATE' #' #NFC' #BLUETOOTH' #' #RECORD_AUDIO' #Location' #BLUETOOTH' #SEND_SMS' #RECORD_AUDIO' #Camera' #READ_PHONE_STATE'
+gen_md = False
 
 if __name__ == '__main__':
     if gen_md:
         DataFormatter.combining_data(trigger_out_dir='D:\COSMOS\output\\', super_out_dir='Drebin',
-                                     num=50, perm_type='Location')  # trigger_out_dir=os.curdir + '\\test\output')
+                                     num=50, perm_type=perm_type)  # trigger_out_dir=os.curdir + '\\test\output')
     else:
         instances = []
-        out_dir = gnd_based_dir + '\\comp\\' + perm_type + '\\'
+        out_dir = gnd_based_dir + 'comp\\' + perm_type + '\\'
         instance_dir = gnd_based_dir + '\\' + perm_type + '\\'
-        what = False
-        when = False
-        who = False
-        name = True
+        what = True
+        when = True
+        who = True
+        name = False
 
-        if who and when and what:
+        if who and when and what and name:
+            out_dir = out_dir + 'all'
+        elif who and when and what:
             out_dir = out_dir + 'full'
+        elif who and when and name:
+            out_dir = out_dir + 'who_when_name'
+        elif what and who and name:
+            out_dir = out_dir + 'who_what_name'
+        elif when and what and name:
+            out_dir = out_dir + 'when_what_name'
+        elif what and name:
+            out_dir = out_dir + 'what_name'
         elif who and when:
             out_dir = out_dir + 'who_when'
         elif who and what:
             out_dir = out_dir + 'who_what'
         elif when and what:
             out_dir = out_dir + 'when_what'
+        elif who and name:
+            out_dir = out_dir + 'who_name'
         elif name:
-            who = False
-            when = False
-            what = False
             out_dir = out_dir + 'name'
         elif who:
             out_dir = out_dir + 'who'
@@ -446,12 +471,19 @@ if __name__ == '__main__':
         DataFormatter.parse_labelled(instance_dir, instances)
         # json.dump(instances, open(out_dir + '/instances.json', 'w+'))
         DataFormatter.instances2txtdocs(out_dir, instances, what=what, when=when, who=who, name=name)
+
+
+
         views = []
+        apks = []
         for instance in instances:
             if instance['view']:
                 DataFormatter.logger.info(instance['view'])
                 views.append(instance)
+            if instance['apk'] not in apks:
+                apks.append(instance['apk'])
         print(len(views))
+        print('Stat:' + str(len(instances)) + ', ' + str(len(apks)))
 
 
 

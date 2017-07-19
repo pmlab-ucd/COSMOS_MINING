@@ -60,6 +60,7 @@ class UserStudyHandler:
                 class_name, method_name = SensitiveComponent.SensEntryPoint.extract_class_method(entry_name)
                 if class_name in examined:
                     continue
+                    #pass
                 else:
                     examined.append(class_name)
                 md_targets.append(line)

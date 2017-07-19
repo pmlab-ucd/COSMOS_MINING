@@ -3,6 +3,7 @@ import utils
 from pprint import pprint
 import re
 from word_spliter import WordSpliter
+import os.path
 
 """
 A class to represent a sensitive component
@@ -68,6 +69,9 @@ class SensitiveComponent:
             self.xmlFile = view.xmlFile
 
     def __init__(self, json_file):
+        if not os.path.exists(json_file):
+            self.layoutFile = None
+            return
         with open(json_file) as data_file:
             # Parse JSON into an object with attributes corresponding to dict keys.
             data = json.load(data_file)
