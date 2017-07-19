@@ -1,0 +1,1 @@
+[['Please Support'], 'install_button']

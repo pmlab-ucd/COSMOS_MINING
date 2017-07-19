@@ -1,0 +1,1 @@
+[['PLZ/Ort eingeben', 'Bitte geben Sie mindestens drei Zeichen des gesuchten Ortes / der gesuchten Postleitzahl ein.'], '<com telekom wetter info ui activities Search Activity void onItemClick']

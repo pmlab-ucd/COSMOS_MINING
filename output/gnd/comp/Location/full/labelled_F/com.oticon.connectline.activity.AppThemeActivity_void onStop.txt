@@ -1,0 +1,1 @@
+[['App Appearance', 'Done', 'App Color', 'High Contrast'], 'com ot icon connect line activity app theme activity ', ' android.location.Location getLastKnownLocation ', 'void onStop']

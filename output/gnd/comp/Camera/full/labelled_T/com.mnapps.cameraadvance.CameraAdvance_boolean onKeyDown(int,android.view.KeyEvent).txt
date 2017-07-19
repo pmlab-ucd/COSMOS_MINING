@@ -1,0 +1,1 @@
+[['版本 1.9.2', '说明: \n- 你可以长按相机按钮以选择照片. \n- 从个人设置中可以选择照片保存路径. \n- 在个人设置中可以调节缩放与音量设置. \n- 也可使用OSD菜单直方图. \n- 使用从 OSD 菜单中的斐波纳契螺旋网格或放置照片. \n\n更新日志: \n- 你可以随意选择图片的保存位置 \n- 整合了Android图片库 \n- 长按焦距将不集中在第一张照片上 \n- 错误修复', '确定'], 'com mn apps camera advance camera advance ', ' android.hardware.Camera open ', 'boolean onKeyDown']

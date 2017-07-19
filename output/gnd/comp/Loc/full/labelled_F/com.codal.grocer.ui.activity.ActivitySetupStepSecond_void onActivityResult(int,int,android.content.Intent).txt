@@ -1,0 +1,1 @@
+[['Account Setup', "We'll personalize coupons, recipes and announcements that are the most relevant to you!", '(Step 2)    ', 'WHAT MEAT DO YOU BUY?', 'Chicken', 'Beef', 'Seafood', 'Vegetarian', 'Next Question'], 'void onActivityResult']

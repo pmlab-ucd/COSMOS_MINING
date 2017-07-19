@@ -1,0 +1,1 @@
+['<com mob i systems ms dic t viewer main activity ', ' void <init> ']

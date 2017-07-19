@@ -1,0 +1,1 @@
+[['新浪微博分享', '您可以对下面的信息进行编辑', '(还可以输入43个字)', '我在玩超in的移动卡拉OK应用#K歌达人herook# android版,大家快来一起K歌吧！', '分享到新浪微博', '关注k歌达人官方微博'], 'com app hero ui share weibo activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

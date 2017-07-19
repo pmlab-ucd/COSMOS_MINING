@@ -1,0 +1,1 @@
+[[], 'de siemens mini tek remote u i  setup setup02 activity ', ' java.util.Set getBondedDevices ', 'android.app.Dialog onCreateDialog']

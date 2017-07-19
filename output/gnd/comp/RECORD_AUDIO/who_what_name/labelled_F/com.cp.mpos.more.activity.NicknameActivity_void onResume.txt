@@ -1,0 +1,1 @@
+[['Nickname', 'Name', 'Nickname will appear only within this application on this device.'], 'com cp m pos more activity nickname activity ', ' void <init> ']

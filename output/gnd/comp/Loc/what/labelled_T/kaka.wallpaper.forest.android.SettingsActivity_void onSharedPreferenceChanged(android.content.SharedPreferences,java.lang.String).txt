@@ -1,0 +1,1 @@
+[['Version 1.10.10', 'Graphics', 'Color settings', 'Multisampling', 'Gets rid of those jagged edges, but might impact performance. Not all devices support this.', 'Layers', "Manage the different layers' visibility", '3D parallax effect', 'Shift layers by tilting your device', 'Other', 'Weather settings']]

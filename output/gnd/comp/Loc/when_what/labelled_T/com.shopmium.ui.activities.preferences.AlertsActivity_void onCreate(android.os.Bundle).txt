@@ -1,0 +1,1 @@
+[['Alerts', 'Location-based Alerts', 'ON', 'Receive a notification when you are near an offer (no more than 3 notifications per week)'], '<com shop miu m ui activities preferences Alerts Activity void onCreate']

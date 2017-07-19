@@ -1,0 +1,1 @@
+[['NCAA Basketball', 'Games', 'Teams', 'Standings', 'Set League Alerts', 'Received Alerts', 'Expert Handicappers', 'Settings'], 'lu no software sports activities n c a a teams activity ', ' void requestLocationUpdates ', 'void onDestroy']

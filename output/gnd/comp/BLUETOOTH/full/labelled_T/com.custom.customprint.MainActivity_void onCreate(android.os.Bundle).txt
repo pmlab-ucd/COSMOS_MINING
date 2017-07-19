@@ -1,0 +1,1 @@
+[[], 'com custom custom print main activity ', ' java.lang.String getName ', 'void onCreate']

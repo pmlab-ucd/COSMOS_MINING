@@ -1,0 +1,1 @@
+[['<', 'Use this one', '>'], 'void onCreate', 'de siemens mini tek remote u i  setup choose interface activity ', ' void <init> ']

@@ -1,0 +1,1 @@
+[[], 'com intel remote keyboard ui activities device selection activity ', ' java.lang.String getName ', 'void onItemClick']

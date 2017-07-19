@@ -1,0 +1,1 @@
+[['Sign Up', 'Login', 'United States', '(+1)', '15306013355', 'jameshaofu@gmail.com', '(Optional, we never spam)', 'Next', 'OR', 'Connect', '(Connect with FB to find friends quickly, no posting without your permission)'], 'void onCreate', ' void <init> ']

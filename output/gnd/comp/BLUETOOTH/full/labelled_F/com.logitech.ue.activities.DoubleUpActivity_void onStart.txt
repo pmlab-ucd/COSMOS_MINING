@@ -1,0 +1,1 @@
+[[], 'com logitech ue activities double up activity ', ' android.bluetooth.BluetoothSocket createInsecureRfcommSocketToServiceRecord ', 'void onStart']

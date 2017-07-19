@@ -1,0 +1,1 @@
+[[], 'com run double companion plan chooser screen ', ' java.lang.String getDeviceId ', 'void onListItemClick']

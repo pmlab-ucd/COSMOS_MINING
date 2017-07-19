@@ -1,0 +1,1 @@
+[['Nuevo usuario', '+1 530-601-3355', 'Correo electrónico', 'Crear cuenta', '¿Ya eres usuario? Inicia sesión', 'CubaMessenger.com © 2016'], 'void onRequestPermissionsResult']

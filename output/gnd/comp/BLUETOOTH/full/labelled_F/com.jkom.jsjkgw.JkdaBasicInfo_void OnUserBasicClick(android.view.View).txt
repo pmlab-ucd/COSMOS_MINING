@@ -1,0 +1,1 @@
+[['健康顾问', '电话:', '性别:', '男', '生日:', '1990-01-01', '身高:', 'cm', '体重:', 'kg', '创建'], 'com j kom j sjk gw jkda basic info ', ' boolean startDiscovery ', 'void OnUserBasicClick']

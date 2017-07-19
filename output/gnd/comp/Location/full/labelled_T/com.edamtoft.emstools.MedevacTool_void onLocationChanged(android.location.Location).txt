@@ -1,0 +1,1 @@
+[['Medevac Tool', 'Current Location:', 'GPS Info:', 'Accuracy: N/A', 'Altitude: N/A', 'Send via SMS'], 'com edam toft ems tools medevac tool ', ' android.location.Location getLastKnownLocation ', 'void onLocationChanged']

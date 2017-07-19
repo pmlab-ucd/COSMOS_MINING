@@ -1,0 +1,1 @@
+['void onClick', 'id_add_benefit_punch_button']

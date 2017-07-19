@@ -1,0 +1,1 @@
+[['Flash Setting', 'Notification', 'Incoming call', 'Incoming Text', 'Phone Status', 'Silent', 'Vibrate', 'Ring'], 'com loftking  color flash alerts  flash setting ', ' android.hardware.Camera open ', 'void onCreate']

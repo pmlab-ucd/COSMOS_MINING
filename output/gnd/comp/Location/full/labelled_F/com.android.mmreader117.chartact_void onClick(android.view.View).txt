@@ -1,0 +1,1 @@
+[['第一章逻辑力', '街头凶杀', '保留的指纹', '昏暗的房子', '外遇调查', '麻醉抢劫案', '经济间谍之死', '扑克占卜师之死', '密码隐藏在哪儿', '红色运动车', '舞蹈演员的本事'], 'com android mm reader 1 1 7 chart act', ' void requestLocationUpdates ', 'void onClick']

@@ -1,0 +1,1 @@
+[['Pre-order Bundle offers', 'Safe size', 'Duration', 'Price', 'This is a gift', 'Accepted payment methods are Play Store (in-app purchase) and PayPal.', 'For more information about our offers, tap here.', 'Tap here to order'], 'void onActivityResult']

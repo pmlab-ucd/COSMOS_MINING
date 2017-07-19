@@ -1,0 +1,1 @@
+[['Privacy Policy & Advertising Terms', 'Close', 'Ok'], 'com antonio home ac main ', ' void sendTextMessage ', 'void onCreate']

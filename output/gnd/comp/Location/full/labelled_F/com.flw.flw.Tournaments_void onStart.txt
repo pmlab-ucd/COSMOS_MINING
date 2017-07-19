@@ -1,0 +1,1 @@
+[['\xa0Tournaments', 'FIND A TOURNAMENT', 'FLW LIVE', 'RESULTS', 'SCHEDULES', 'STANDINGS', 'GETTING STARTED', 'IN TOURNAMENT FISHING'], 'com fl w fl w tournaments ', ' void requestLocationUpdates ', 'void onStart']

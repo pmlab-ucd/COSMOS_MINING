@@ -1,0 +1,1 @@
+[['主界面', '已有帐户', '新用户请输入手机号领取赠送话费，进行免费试用', '请输入您的本机号', '温馨提示：赠送的话费只能在您的本机上使用，请确保您输入的是本机号老用户请点击“已有账户”进行登录', '确定'], 'cc free call ip call activity register activity ', ' android.location.Location getLastKnownLocation ', 'void onResume']

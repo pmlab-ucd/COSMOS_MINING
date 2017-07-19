@@ -1,0 +1,1 @@
+[['Select Country', 'Select the country you want to be redirected to', 'USA', 'OK'], 'it dove con vie ne android main activity ', ' boolean isProviderEnabled ', 'void onResume']

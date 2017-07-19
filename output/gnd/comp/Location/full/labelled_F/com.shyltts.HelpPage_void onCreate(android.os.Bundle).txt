@@ -1,0 +1,1 @@
+[['帮助', '来了短信可以自动读出来;\n来了电话可以将号码读出来;\n当然晚上不想打扰,可以设置时间段不读;\n可以摇晃手机立即终止读;\n程序运行时在状态栏有显示,点击可以打开程序主界面;\n本软件完全免费,若有语音方面版权异议,请发邮件到SYL330046@hotmail.com;', ' 返 回 '], 'com shy lt ts help page ', ' android.telephony.CellLocation getCellLocation ', 'void onCreate']

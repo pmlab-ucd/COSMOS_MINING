@@ -1,0 +1,1 @@
+['<com the fashion camera Main Activity void onResume']

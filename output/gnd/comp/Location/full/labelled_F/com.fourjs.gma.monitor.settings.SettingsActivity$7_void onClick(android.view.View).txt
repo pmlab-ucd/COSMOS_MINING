@@ -1,0 +1,1 @@
+[['Settings', 'Advanced', 'Debug service', 'OFF', 'FGL service (fglserver, fgldb)', 'OFF', 'Clear cookies', 'Security', 'Manage allowed certificates'], 'com four js gma monitor settings settings activity$7 ', ' boolean isProviderEnabled ', 'void onClick']

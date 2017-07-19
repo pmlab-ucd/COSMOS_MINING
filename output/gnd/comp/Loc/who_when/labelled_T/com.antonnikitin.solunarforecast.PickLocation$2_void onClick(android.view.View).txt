@@ -1,0 +1,1 @@
+['void onClick', 'apply_loc_button_pick', 'android.widget.ImageButton']

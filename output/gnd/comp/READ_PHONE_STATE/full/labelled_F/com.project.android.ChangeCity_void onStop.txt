@@ -1,0 +1,1 @@
+[[], 'com project android change city ', ' java.lang.String getDeviceId ', 'void onStop']

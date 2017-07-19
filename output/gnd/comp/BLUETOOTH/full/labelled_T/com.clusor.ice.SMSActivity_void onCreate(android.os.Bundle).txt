@@ -1,0 +1,1 @@
+[[], 'com clu s or ice s m s activity ', ' android.bluetooth.BluetoothServerSocket listenUsingRfcommWithServiceRecord ', 'void onCreate']

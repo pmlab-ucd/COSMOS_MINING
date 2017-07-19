@@ -1,0 +1,1 @@
+[['4', 'February', 'Jumada I', '8', 'Fajr Prayer: 05:37 AM', 'Wake Up! Fajr prayer is near', '6:51 AM', 'Snooze', 'Stop'], 'void onResume']

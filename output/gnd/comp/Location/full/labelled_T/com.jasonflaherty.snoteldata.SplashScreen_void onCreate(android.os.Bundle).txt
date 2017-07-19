@@ -1,0 +1,1 @@
+[['Mapping SnoTel Locations'], 'com jason flaherty s not el data splash screen ', ' boolean isProviderEnabled ', 'void onCreate']

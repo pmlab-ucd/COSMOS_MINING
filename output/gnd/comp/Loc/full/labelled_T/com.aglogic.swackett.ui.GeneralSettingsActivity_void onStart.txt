@@ -1,0 +1,1 @@
+[['general settings', 'Default Settings', 'Show Temps In', 'Language', 'Favor', 'Preferred Menu Style', 'Temperature Ranges', 'Hot', 'Warm', 'Cool', 'Between Warm and Cold'], 'void onStart']

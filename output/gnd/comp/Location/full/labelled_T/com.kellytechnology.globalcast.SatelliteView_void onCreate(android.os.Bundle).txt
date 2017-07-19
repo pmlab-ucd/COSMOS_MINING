@@ -1,0 +1,1 @@
+[['Satellite View'], 'com kelly technology global cast satellite view ', ' android.location.Location getLastKnownLocation ', 'void onCreate']

@@ -1,0 +1,1 @@
+[['GPlaceS', 'RADIUS ', 'establishment'], 'void GPSauto']

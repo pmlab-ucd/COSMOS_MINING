@@ -1,0 +1,1 @@
+[['找回密码', '请输入您的密保手机号： ', '取回密码', '请输入您注册/绑定的手机号，系统将把密码以短信方式发送到该手机上，请妥善保管。'], 'com u u call service service get pwd$2 ', ' void sendTextMessage ', 'void onClick']

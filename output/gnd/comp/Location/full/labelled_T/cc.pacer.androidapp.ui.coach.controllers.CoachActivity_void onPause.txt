@@ -1,0 +1,1 @@
+[['My Coach'], 'cc pacer android app ui coach controllers coach activity ', ' boolean isProviderEnabled ', 'void onPause']

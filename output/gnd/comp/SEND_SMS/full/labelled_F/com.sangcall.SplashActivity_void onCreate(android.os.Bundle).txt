@@ -1,0 +1,1 @@
+[['3G网络电话', '新用户注册', '新用户注册成功即可获得最高100分钟话费', '老用户登录'], 'com sang call splash activity ', ' void sendTextMessage ', 'void onCreate']

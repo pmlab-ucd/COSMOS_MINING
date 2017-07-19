@@ -1,0 +1,1 @@
+Off Outdoor Super ear com liber a thor diapason main activity   void <init>  void onProgressChanged

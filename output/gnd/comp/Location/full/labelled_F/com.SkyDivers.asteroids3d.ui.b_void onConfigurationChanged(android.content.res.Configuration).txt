@@ -1,0 +1,1 @@
+[['Gallery', 'Crematoria', 'SET LIVE WALLPAPER'], 'com sky divers  asteroids 3 d ui b', ' boolean isProviderEnabled ', 'void onConfigurationChanged']

@@ -1,0 +1,1 @@
+[['Odometer', 'HELP', 'Tap here to take\n the photo', 'VEHICLE-ODOMETER', "Sit in the driver's seat and take a close-up photo of the odometer reading.", 'BACK', 'NEXT']]

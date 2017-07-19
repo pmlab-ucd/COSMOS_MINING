@@ -1,0 +1,1 @@
+[['Rate Qustodio', 'If you like Qustodio please rate us on Google Play. Thanks for your support!', "Don't ask again", 'Not now', 'Rate now', 'com qu s to dio qu s to dio app parent status activity ', 'void onPause'], 'com qu s to dio qu s to dio app parent status activity ', 'void onPause']

@@ -1,0 +1,1 @@
+Stop Wi-Fi Transfer Access your recordings on this device from your computer 1. Make sure your computer is connected to "moobilenetx" 2. Open your browser (Chrome, Firefox, Internet Explorer, Safari, etc.) 3. Enter http://168.150.103.77:7112 yuk u per ekam mp 3 ac wifi server activity   void <init>  void onCreate

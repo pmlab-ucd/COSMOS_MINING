@@ -1,0 +1,1 @@
+[[], 'com bom gar thins cc android ui camera activity ', ' void listen ', 'void onPause']

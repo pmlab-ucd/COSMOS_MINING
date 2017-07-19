@@ -1,0 +1,1 @@
+[['Firewall', 'Enable Firewall', 'This feature requires root access', 'Block All Apps', '3G', 'Android System WebView', '3G', 'Android Work Assistant', '3G', 'App Manager', '3G', 'avast! Mobile Security', '3G', 'Bluetooth Share', '3G', 'Calendar Storage'], 'com avast android mobile security app firewall firewall activity ', ' void sendMultipartTextMessage ', 'void onCreate']

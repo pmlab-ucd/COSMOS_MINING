@@ -1,0 +1,1 @@
+[['Sears', 'Place a barcode inside the viewfinder rectangle to scan it.'], 'com android sears activity layaway scan activity ', ' boolean isProviderEnabled ', 'void onResume']

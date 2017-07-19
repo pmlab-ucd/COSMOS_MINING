@@ -1,0 +1,1 @@
+[['Settings', 'Speed alert', 'Planing alert', 'Alert popup on exit', 'Max Speed', '130', 'Max Temperature', '40'], 'com yak o safe kids activity setting ', ' void <init> ']

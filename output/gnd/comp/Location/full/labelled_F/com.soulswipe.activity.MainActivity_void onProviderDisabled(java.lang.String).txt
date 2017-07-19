@@ -1,0 +1,1 @@
+[['Sign in with Facebook', 'Black Dating, Done Right', 'Terms of Use'], 'com soul swipe activity main activity ', ' boolean isProviderEnabled ', 'void onProviderDisabled']

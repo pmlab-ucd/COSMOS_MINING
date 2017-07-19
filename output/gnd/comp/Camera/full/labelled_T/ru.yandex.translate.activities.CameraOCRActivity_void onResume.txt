@@ -1,0 +1,1 @@
+[['English', 'Russian'], 'ru y and ex translate activities camera o c r activity ', ' android.hardware.Camera open ', 'void onResume']

@@ -1,0 +1,1 @@
+['<com yellow pages android gas log Log Click Listener void onClick']

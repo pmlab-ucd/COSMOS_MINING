@@ -1,0 +1,1 @@
+[['Laws & Regulations'], 'com hunters toolkit android app ui activity laws and regs activity ', ' android.location.Location getLastKnownLocation ', 'void onPause']

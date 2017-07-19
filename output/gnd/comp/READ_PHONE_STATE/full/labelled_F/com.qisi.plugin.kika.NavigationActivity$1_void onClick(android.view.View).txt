@@ -1,0 +1,1 @@
+[[], 'com q is i plugin k ika navigation activity$1 ', ' java.lang.String getDeviceId ', 'void onClick']

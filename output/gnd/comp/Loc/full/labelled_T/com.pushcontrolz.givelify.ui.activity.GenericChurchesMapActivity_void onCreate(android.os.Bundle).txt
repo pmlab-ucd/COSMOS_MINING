@@ -1,0 +1,1 @@
+[['Churches', 'NEARBY', 'FAVORITES', 'SEARCH'], 'void onCreate']

@@ -1,0 +1,1 @@
+[['纠错', '商家不接受该优惠券', '优惠券已过期', '优惠信息有错误', '当前时段不能使用', '优惠信息不完整', '其他'], 'cn bud ing coupon activity coupon mistake activity ', ' void listen ', 'void onClick']

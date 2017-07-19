@@ -1,0 +1,1 @@
+[['Invite contacts', 'NEXT', 'Search a contact', 'From phone contacts', 'Select none'], 'com call app contacts activity contact contact choose invite contacts via s m s activity ', ' android.location.Location getLastKnownLocation ', 'void onCreate']

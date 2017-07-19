@@ -1,0 +1,1 @@
+[['History', 'Remove', 'New Dialogue'], 'boolean onCreateOptionsMenu', ' void <init> ']

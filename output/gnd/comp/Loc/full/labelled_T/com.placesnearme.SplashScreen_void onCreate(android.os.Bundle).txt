@@ -1,0 +1,1 @@
+[['PlacesNearMe', 'Favorite', 'Recent', 'Categories', 'ATM', 'Accountant', 'Airport', 'Attractions', 'Bakery', 'Bank', 'Bar', 'Beauty Parlour', 'Bike Store'], 'void onCreate']

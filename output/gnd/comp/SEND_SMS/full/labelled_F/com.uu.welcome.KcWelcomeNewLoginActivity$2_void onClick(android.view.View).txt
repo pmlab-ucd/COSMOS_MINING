@@ -1,0 +1,1 @@
+[['登录', '手机号/账号', '登录', '忘记密码?'], 'com uu welcome kc welcome new login activity$2 ', ' void sendTextMessage ', 'void onClick']

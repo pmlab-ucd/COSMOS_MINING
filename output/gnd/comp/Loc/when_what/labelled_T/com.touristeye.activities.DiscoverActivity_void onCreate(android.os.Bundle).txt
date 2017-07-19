@@ -1,0 +1,1 @@
+[['Are you going to travel?', 'Plan your trip in seconds to download all the places and get offline maps!', 'Plan your Trip', 'Not now'], '<com tourist eye activities Discover Activity void onCreate']

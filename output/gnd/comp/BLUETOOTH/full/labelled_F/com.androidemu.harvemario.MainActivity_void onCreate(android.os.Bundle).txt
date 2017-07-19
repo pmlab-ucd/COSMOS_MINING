@@ -1,0 +1,1 @@
+[['新版提示', '有新版本(4.22),是否下载?', '下载', '下次再说'], 'com android emu har ve mario main activity ', ' android.bluetooth.BluetoothSocket createRfcommSocketToServiceRecord ', 'void onCreate']

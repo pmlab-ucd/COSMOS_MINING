@@ -1,0 +1,1 @@
+[['快手看片', '视频快手家族', '1/1个应用', '快手下载', '固件要求:4.0', '点击安装'], 'com k and ian ks family k s family list activity ', ' java.lang.String getBestProvider ', 'boolean onOptionsItemSelected']

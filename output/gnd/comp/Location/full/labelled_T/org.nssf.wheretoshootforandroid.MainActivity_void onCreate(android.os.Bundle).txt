@@ -1,0 +1,1 @@
+[['Where To Shoot', 'Home', 'News', 'Safety', 'About', 'Find Near Me', 'Loading Current Postal Code...', 'Search Distance of 20 Miles', 'Enter Postal Code', 'Find By Postal Code', 'Select a State', 'Search By State'], 'org nss f where to shoot for android main activity ', ' boolean isProviderEnabled ', 'void onCreate']

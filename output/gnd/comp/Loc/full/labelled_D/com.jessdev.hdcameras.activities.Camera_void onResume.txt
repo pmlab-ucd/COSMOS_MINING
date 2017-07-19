@@ -1,0 +1,1 @@
+[['Dear user, please consider to rate this application with stars and share it pressing g +1 button in the Google Play market. Thank you!', 'Rate', 'Remind later', 'Cancel'], 'void onResume']

@@ -1,0 +1,1 @@
+[['返回', '下载管理', '亲，暂时没有下载内容哦', '仅在WIFI环境下下载'], 'com s nda recommend ui download activity ', ' java.lang.String getBestProvider ', 'void onCreate']

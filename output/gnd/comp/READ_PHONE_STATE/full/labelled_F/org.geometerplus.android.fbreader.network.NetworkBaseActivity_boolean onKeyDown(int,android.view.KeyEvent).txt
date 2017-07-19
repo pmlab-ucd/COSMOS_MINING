@@ -1,0 +1,1 @@
+[['FBReader network library'], 'org geometer plus android fb reader network network base activity ', ' java.lang.String getSubscriberId ', 'boolean onKeyDown']

@@ -1,0 +1,1 @@
+[['Exchange of adjacent images, so that the same three pictures In a vertical or horizontal line, the picture disappears.', '确定'], 'com mj match i i match ', ' void requestLocationUpdates ', 'void onCreate']

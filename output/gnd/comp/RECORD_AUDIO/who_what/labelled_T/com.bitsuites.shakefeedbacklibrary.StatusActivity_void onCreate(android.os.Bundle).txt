@@ -1,0 +1,1 @@
+Wi-fi Walkie Talkie com bit suites shake feedback library status activity   void <init>  microphone image android.widget.ImageView

@@ -1,0 +1,1 @@
+[[], 'com finger 2 f i n g e r games common activity f2 f game activity ', ' boolean isProviderEnabled ', 'org.anddev.andengine.engine.Engine onLoadEngine']

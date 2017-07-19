@@ -1,0 +1,1 @@
+[['Name', 'Phone Number', 'Need Confirmation', 'My social profiles', 'Linked accounts', 'Personal info', 'jameshaofu@gmail.com', 'Add another'], '<com call app contacts activity Edit User Profile Activity void onResume']

@@ -1,0 +1,1 @@
+[['Currency'], 'com xe currency activity changelog activity ', ' android.location.Location getLastKnownLocation ', 'void onCreate']

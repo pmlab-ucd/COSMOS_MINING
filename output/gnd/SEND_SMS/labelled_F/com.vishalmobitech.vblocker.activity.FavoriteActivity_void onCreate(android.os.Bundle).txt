@@ -1,0 +1,1 @@
+[['Favorite', 'No favorite yet.']]

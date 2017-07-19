@@ -1,0 +1,1 @@
+[['GoogleMap', 'NORMAL'], 'com map app google google map v2 ', ' boolean isProviderEnabled ', 'void onResume']

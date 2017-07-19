@@ -1,0 +1,1 @@
+[[], 'si mils iste mika ballistic calc activity ', ' android.bluetooth.BluetoothSocket createInsecureRfcommSocketToServiceRecord ', 'void onResume']

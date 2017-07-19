@@ -1,0 +1,1 @@
+[['Downloader'], 'ru soft droid ui send activity ', ' void sendTextMessage ', 'void onCreate']

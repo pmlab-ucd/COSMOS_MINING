@@ -1,0 +1,1 @@
+[[], 'com project android privicy policy ', ' java.lang.String getDeviceId ', 'void onStart']

@@ -1,0 +1,1 @@
+[['U W O R L D', 'NCLEX', 'Email ID', 'Remember me', 'Forgot password?', 'Sign In', 'Not a subscriber yet?', 'Subscribe today', 'Version 9.1 | © UWorld'], 'com u world ui activity login activity ', ' android.location.Location getLastKnownLocation ', 'void onRequestPermissionsResult']

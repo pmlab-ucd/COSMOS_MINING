@@ -1,0 +1,1 @@
+[['Account Setup', 'Rx Insurance', 'Would you like to see prices with your pharmacy insurance applied?', "I don't have insurance", "I'll do it later", 'Sure']]

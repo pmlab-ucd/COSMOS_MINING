@@ -1,0 +1,1 @@
+[[], 'com l wp main activity ', ' java.lang.String getDeviceId ', 'void onStop']

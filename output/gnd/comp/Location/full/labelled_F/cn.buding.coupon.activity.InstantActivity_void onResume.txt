@@ -1,0 +1,1 @@
+[[], 'cn bud ing coupon activity instant activity ', ' java.lang.String getBestProvider ', 'void onResume']

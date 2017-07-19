@@ -1,0 +1,1 @@
+[['13abc Radar', 'Choose Color', 'No Location Selected', 'Choose Location', 'Add Widget'], 'com baron services mobile met widget config activity$3 ', ' android.location.Location getLastKnownLocation ', 'void onClick', 'add_widget_button', 'android.widget.Button']

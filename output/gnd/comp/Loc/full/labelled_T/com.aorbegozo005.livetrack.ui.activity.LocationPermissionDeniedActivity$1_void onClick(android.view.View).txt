@@ -1,0 +1,1 @@
+[['Location permission is needed to track your position', 'Exit', 'Grant'], 'void onClick', 'settings_button_layout']

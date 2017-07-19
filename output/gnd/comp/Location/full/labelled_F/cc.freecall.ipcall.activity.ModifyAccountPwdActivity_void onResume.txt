@@ -1,0 +1,1 @@
+[['修改密码', '原密码:', '密码长度为6–12位数字', '新密码:', '密码长度为6–12位数字', '新密码:', '密码长度为6–12位数字', '提交', '返回'], 'cc free call ip call activity modify account pwd activity ', ' android.location.Location getLastKnownLocation ', 'void onResume']

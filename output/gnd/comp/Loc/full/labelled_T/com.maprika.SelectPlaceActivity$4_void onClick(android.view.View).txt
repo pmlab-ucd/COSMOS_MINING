@@ -1,0 +1,1 @@
+[['Select location', 'Cancel', 'Next'], 'void onClick', 'location', 'android.widget.ImageButton']

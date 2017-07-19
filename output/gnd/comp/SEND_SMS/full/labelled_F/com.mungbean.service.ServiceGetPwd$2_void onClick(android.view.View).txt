@@ -1,0 +1,1 @@
+[['取回密码', '请输入您的手机号码： ', '取回密码', '绿豆省钱电话首次注册成功最高赠送60分钟免费通话，国内长途低至3分'], 'com mung bean service service get pwd$2 ', ' void sendTextMessage ', 'void onClick']

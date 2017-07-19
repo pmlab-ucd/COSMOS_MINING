@@ -1,0 +1,1 @@
+[['City Management', 'Open Position', 'Enter a city name in English', 'Add', 'OK'], 'boolean onTouchEvent', 'workspace_weather_info']

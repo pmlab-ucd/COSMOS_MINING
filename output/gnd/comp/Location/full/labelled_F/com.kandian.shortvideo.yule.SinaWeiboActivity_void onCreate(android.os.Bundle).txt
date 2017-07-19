@@ -1,0 +1,1 @@
+[['快手八卦娱乐', '收看', '下载', '连播', '获取数据中', '加载中……', '娱乐短片', '话题', '我的视频', '微博社区'], 'com k and ian short video yule sina weibo activity ', ' java.lang.String getBestProvider ', 'void onCreate']

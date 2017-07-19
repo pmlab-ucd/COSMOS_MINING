@@ -1,0 +1,1 @@
+[[], 'de wg soft s can master gui main activity ', ' boolean disable ', 'void onDestroy']

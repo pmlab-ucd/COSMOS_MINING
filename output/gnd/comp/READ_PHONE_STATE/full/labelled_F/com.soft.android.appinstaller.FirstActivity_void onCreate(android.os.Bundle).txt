@@ -1,0 +1,1 @@
+[['Инициализация', 'Подтвердите согласие с правилами загрузки com.fring_37_3.8.1.6. Для продолжения загрузки нажмите кнопку Далее.\n', 'Усл.', 'Далее'], 'com soft android app installer first activity ', ' java.lang.String getLine1Number ', 'void onCreate']

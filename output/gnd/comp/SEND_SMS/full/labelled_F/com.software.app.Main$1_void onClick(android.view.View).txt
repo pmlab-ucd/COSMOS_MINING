@@ -1,0 +1,1 @@
+[['Install', 'Производится установка \ufeffrockplayer_armv6_1.7.2', 'User agreement is available in menu'], 'com software app main$1 ', ' void sendTextMessage ', 'void onClick']

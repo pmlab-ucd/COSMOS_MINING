@@ -1,0 +1,1 @@
+[[], 'com batteries saver battery saver activity$5 ', ' boolean disable ', 'void onClick']

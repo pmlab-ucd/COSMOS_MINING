@@ -1,0 +1,1 @@
+[['Storm-Alert', '<< Zur App', 'Neu laden', 'zurück'], 'com v k em atl mobile community activity ', ' android.hardware.Camera open ', 'void onDestroy']

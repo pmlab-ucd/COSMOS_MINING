@@ -1,0 +1,1 @@
+[['酷果应用列表', '对不起，暂时无法加载该页面，请重试。', '重试', '取消'], 'com ku guo open ads u', ' void requestLocationUpdates ', 'void onClick']

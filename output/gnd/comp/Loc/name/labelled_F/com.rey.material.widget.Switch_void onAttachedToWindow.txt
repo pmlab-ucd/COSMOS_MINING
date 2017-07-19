@@ -1,0 +1,1 @@
+['<com rey material widget Switch void onAttachedToWindow']

@@ -1,0 +1,1 @@
+[['Set Trusted Number', 'Choose a friend to be notified if your SIM card is replaced. This is the only number that can send the WIPE command by SMS.', 'Phone number (with country code)', 'Save number'], '<com bit defender security anti theft Base Antitheft Activity void onResume']

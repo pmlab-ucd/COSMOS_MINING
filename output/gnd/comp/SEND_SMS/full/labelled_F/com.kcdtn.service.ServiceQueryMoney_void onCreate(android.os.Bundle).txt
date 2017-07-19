@@ -1,0 +1,1 @@
+[['KC提示', '查询余额请先登录!', '确定'], 'com k cdt n service service query money ', ' void sendTextMessage ', 'void onCreate']

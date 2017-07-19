@@ -1,0 +1,1 @@
+[['DIY Wedding Planner'], 'com on s u i barcode simple scanner activity ', ' android.hardware.Camera open ', 'void onResume']

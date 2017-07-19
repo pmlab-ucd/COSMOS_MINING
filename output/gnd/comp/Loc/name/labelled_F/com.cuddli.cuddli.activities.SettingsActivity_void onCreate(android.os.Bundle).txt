@@ -1,0 +1,1 @@
+['<com cud d li cud d li activities Settings Activity void onCreate']

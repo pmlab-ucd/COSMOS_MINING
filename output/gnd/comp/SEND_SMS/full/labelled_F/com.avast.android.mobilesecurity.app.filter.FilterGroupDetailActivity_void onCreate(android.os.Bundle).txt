@@ -1,0 +1,1 @@
+[['Family', 'Log', 'Block incoming', 'SMS', 'Call', 'Block outgoing', 'Call', 'Su', 'Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'From', '4:00', 'To', '4:00', 'Group members', '(0)'], 'com avast android mobile security app filter filter group detail activity ', ' void sendMultipartTextMessage ', 'void onCreate']

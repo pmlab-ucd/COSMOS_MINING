@@ -1,0 +1,1 @@
+[[], 'com cp m pos more activity receipt settings activity ', ' android.bluetooth.BluetoothSocket createRfcommSocketToServiceRecord ', 'void onPause']

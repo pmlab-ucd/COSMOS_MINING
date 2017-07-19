@@ -1,0 +1,1 @@
+[[], 'com trial pay android offerwall activity ', ' java.lang.String getDeviceId ', 'void onCreate']

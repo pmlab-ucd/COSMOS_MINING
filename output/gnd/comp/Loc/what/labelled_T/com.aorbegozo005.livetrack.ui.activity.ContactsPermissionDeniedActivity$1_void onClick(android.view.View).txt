@@ -1,0 +1,1 @@
+[['Live Tracking needs to access your accounts to Sign In using your Google account.', 'To do this contacts permission is required but Live Tracking will NEVER read your contacts.', 'More info', 'Grant']]

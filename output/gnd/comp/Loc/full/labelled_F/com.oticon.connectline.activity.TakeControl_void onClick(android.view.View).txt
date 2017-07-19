@@ -1,0 +1,1 @@
+[['Another device has control of the Streamer', 'Take Control', 'Continue in Demo Mode'], 'void onClick']

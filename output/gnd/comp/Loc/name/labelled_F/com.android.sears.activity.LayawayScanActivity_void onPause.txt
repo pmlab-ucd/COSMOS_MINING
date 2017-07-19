@@ -1,0 +1,1 @@
+['<com android sears activity Layaway Scan Activity void onPause']

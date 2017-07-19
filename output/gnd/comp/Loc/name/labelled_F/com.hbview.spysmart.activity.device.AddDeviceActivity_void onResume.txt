@@ -1,0 +1,1 @@
+['<com hb view spy smart activity device Add Device Activity void onResume']

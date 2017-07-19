@@ -1,0 +1,1 @@
+[['In notification panel', 'Search widget', 'Show widget', 'Dark background', 'Location', 'Current location', 'Other']]

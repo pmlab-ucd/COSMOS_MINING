@@ -1,0 +1,1 @@
+[['Personal', 'Business', 'Swipe to delete', 'Commute', 'Errands/Shopping', 'Medical', 'Travel', 'Moving', 'Dining/Meal', 'Entertainment', 'Other', 'Add'], 'void onClick']

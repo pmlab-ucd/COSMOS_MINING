@@ -1,0 +1,1 @@
+[['Input phone number', '+44', 'Input phone number', 'I have read user agreement'], 'com s nda you ni activities chat activity ', ' java.lang.String getSubscriberId ', 'boolean onOptionsItemSelected']

@@ -1,0 +1,1 @@
+[['Settings', 'Select change speed', 'Choose speed change value'], 'com no ci to noc it olive bob marley live wallpaper settings ', ' java.lang.String getDeviceId ', 'void onCreate']

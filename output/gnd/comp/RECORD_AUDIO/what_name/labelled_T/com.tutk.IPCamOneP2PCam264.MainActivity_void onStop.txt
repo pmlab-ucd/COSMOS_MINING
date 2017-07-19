@@ -1,0 +1,1 @@
+[['IP CAMERA ONE', 'Click here to add camera'], 'com tut k i p cam one p2 p cam264  main activity ', ' void <init> ']

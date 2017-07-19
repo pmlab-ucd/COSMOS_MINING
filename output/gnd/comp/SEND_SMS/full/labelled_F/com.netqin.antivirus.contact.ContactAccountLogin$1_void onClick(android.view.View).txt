@@ -1,0 +1,1 @@
+[['NetQin Mobile Security', 'User name', 'Please enter email address', 'Password', 'Forget password', 'Create account', 'Login', 'Cancel'], 'com net qin antivirus contact contact account login$1 ', ' void sendMultipartTextMessage ', 'void onClick']

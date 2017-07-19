@@ -1,0 +1,1 @@
+[['Preparing charts, please wait.'], 'org j tb cs droid tab widget activity ', ' java.util.List getProviders ', 'boolean onOptionsItemSelected']

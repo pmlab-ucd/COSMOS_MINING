@@ -1,0 +1,1 @@
+[['UU提示', '提交反馈请先登录!', '确定', '取消'], 'com u u call service service feed back$1 ', ' void sendTextMessage ', 'void onClick']

@@ -1,0 +1,1 @@
+Logs Search     Show  Clear no log items e mbw are activity blocked activity   void <init>  boolean onCreateOptionsMenu

@@ -1,0 +1,1 @@
+['<object p2pwificam activity client add camera activity ', ' void <init> ']

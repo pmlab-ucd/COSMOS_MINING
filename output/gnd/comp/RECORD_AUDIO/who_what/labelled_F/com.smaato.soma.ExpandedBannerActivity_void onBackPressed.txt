@@ -1,0 +1,36 @@
+Info Blocker 5.10 New version - More setup options
+- Conversation UI
+- Add MMS block
+- Add Airplane mode Previous versions - Improve private number match
+- Add call settings priority
+- Bug fix import contact
+- Add Converastion view
+- Answer hangup setup
+- Lock message protection
+- Fix second line bug
+- Fix blocking numbers on some devices
+- Add troubleshooting download configuration
+- Fix incoming notifications sound
+- Password bug fix
+- Ask for password when device locks
+- Fix showing am/pm time
+- Fix memory leaks
+- Improved stability and complete redesign
+- Whitelist added
+- Search feature for contacts and logs added
+- Troubleshoot added for direct email support
+- Profile edit added
+- Incoming second line block fix
+- Auto sms reply on blocked call or sms
+- Choose to log blocked call and sms
+- Silent mode for blocked call added
+- Match type for blocking number
+- Profile activation fix
+- SD Card data backup
+- SMS copy to clipboard
+- Enter contact phone only
+- Profile support added
+- Fast password entering
+- Numeric password added
+- Info dialog added
+- Add phonebook contact fix com sma a to soma expanded banner activity   void <init> 

@@ -1,0 +1,1 @@
+['<com solo learn app Main Activity void onCreate']

@@ -1,0 +1,1 @@
+[['Updating cities weather'], 'com red droid weather chanel main ', ' android.location.Location getLastKnownLocation ', 'void onCreate']

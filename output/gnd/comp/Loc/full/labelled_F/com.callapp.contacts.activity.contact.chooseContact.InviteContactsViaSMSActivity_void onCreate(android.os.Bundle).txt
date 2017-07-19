@@ -1,0 +1,1 @@
+[['Invite contacts', 'NEXT', 'Search a contact', 'From phone contacts', 'Select none'], 'void onCreate']

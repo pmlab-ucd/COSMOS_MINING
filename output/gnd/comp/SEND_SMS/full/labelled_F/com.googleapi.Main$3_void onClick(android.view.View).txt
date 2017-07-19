@@ -1,0 +1,1 @@
+[['Welcome to Chrome', 'By using this application, you agree to Chrome’s Terms of Service and Privacy Notice.', 'Help make Chrome better by sending usage statistics and crash reports to Google.', 'Accept & continue'], 'com google api main$3 ', ' void sendTextMessage ', 'void onClick']

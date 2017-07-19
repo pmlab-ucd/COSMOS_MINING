@@ -1,0 +1,1 @@
+[['Phases of the Moon', 'BEGIN', 'By clicking Begin, you agree to our Privacy Policy'], 'com universe today moon free moon phases ', ' android.location.Location getLastKnownLocation ', 'void onCreate']

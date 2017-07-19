@@ -1,0 +1,1 @@
+['void onClick', 'add_widget_button', 'android.widget.Button']

@@ -1,0 +1,1 @@
+['<com mobile apps team weather forecast activities Main Activity$3 void onClick']

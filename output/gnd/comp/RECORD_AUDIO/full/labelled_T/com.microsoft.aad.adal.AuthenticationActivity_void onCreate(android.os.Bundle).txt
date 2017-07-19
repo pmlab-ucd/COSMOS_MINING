@@ -1,0 +1,3 @@
+Call Recording - Strategy Voice Call (Android) Attempts to record the call from the telephony source Voice Call (Native) Attempts to record the call from the telephony source Voice Call (Legacy) Attempts to record the call from the telephony source
+
+ - Limited to AMR audio format Microphone Records the call from the Mic Root Records the call from the hardware   < c o m call dorado android ui settings activity   void <init>  void onCreate

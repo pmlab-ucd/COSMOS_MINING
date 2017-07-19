@@ -1,0 +1,1 @@
+[['UU电话', '请先登录后再执行此操作!', '确定'], 'com uu service about display caller number activity ', ' void sendTextMessage ', 'void onCreate']

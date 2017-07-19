@@ -1,0 +1,1 @@
+[[], 'com sigma phone top med free favorite drug form ', ' java.lang.String getDeviceId ', 'void onDestroy']

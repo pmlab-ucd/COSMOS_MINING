@@ -1,0 +1,1 @@
+[[], 'de siemens mini tek remote u i  find mini tek activity ', ' boolean startDiscovery ', 'void onCreate']

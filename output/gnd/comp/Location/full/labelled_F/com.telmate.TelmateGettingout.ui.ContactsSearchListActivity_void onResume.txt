@@ -1,0 +1,1 @@
+[['Login', 'Deposit Funds'], 'com tel mate telmate gettingout  ui contacts search list activity ', ' boolean isProviderEnabled ', 'void onResume']

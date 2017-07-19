@@ -1,0 +1,1 @@
+[['AIR Gamepad', 'Use this device as a Wireless Gamepad', 'PIN : 2K9C2RD', "Enter this PIN in the desktop game and press 'Connect'"], 'com adobe air wand wand activity ', ' boolean isProviderEnabled ', 'void onConfigurationChanged']

@@ -1,0 +1,1 @@
+[['Pick Location', 'Tap on map for select location'], 'void onClick', 'apply_loc_button_pick', 'android.widget.ImageButton']

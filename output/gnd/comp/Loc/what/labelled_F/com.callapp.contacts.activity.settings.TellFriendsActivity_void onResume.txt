@@ -1,0 +1,1 @@
+[['Add birthdays, info & pictures', 'Get more info & pictures by inviting some friends', 'From Facebook', 'From email contacts', 'From phone contacts', 'From other networks']]

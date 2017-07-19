@@ -1,0 +1,1 @@
+[['绿豆省钱提示', '每日签到请先登录!', '确定'], 'com mung bean service service sign in$1 ', ' void sendTextMessage ', 'void onClick']

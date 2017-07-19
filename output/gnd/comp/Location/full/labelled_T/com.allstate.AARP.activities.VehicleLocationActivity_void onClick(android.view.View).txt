@@ -1,0 +1,1 @@
+[['My Vehicle Location', 'Choose how to set your vehicle location:', 'Use GPS', 'OR', 'Street Address', 'City', 'State', 'ZIP', 'USA', 'Use Address'], 'com allstate a a r p  activities vehicle location activity ', ' boolean isProviderEnabled ', 'void onClick']

@@ -1,0 +1,1 @@
+[['Youni uninstall survey', 'Not sure what Youni is', 'Program unstable', 'Operation inconvenience', 'Too few functions', 'Interface unfriendly', 'Large memory occupation', 'Flow consuming', 'Other', 'Confirm', 'Cancel'], 'com s nda you ni activities uninstall warning activity ', ' java.lang.String getDeviceId ', 'void onClick']

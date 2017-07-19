@@ -1,0 +1,1 @@
+[['Loading Center Location'], 'com f xo pol android activity delivery activity ', ' boolean isProviderEnabled ', 'void onCreate']

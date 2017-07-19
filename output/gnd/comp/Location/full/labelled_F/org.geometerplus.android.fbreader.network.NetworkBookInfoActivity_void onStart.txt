@@ -1,0 +1,1 @@
+[['FBReader problem', 'FBReader can not load native library. May be it is not properly installed. If the problem persists please try to reinstall FBReader.', 'Ok'], 'org geometer plus android fb reader network network book info activity ', ' void requestLocationUpdates ', 'void onStart']

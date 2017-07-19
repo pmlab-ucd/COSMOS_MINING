@@ -1,0 +1,1 @@
+[['Welcome\nto your\nnew\nphone', 'Get Started'], '<com larva labs flow Intro Activity void onSaveInstanceState']

@@ -1,0 +1,1 @@
+[['TALK', 'MUSIC', 'SEARCH', 'FAVORITES', 'PLAYER', 'HISTORY', 'DIRECTORIES', 'NEW PLUG-IN', 'SETTINGS'], 'com v blast xii alive widget c view pager ', ' void requestSingleUpdate ', 'boolean onInterceptTouchEvent', 'vpSwipeArea', 'android.view.View']

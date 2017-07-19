@@ -1,0 +1,1 @@
+[[], 'com rc platform apps app list r c app list activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

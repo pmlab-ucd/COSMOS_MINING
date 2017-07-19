@@ -1,0 +1,1 @@
+[['一、宽广仁厚待世人', '二、圆融淡泊致中庸', '三、该方则方学对抗', '四、学习内在的修炼', '五、志存高远严律己', '六、逆境处世亦乐观', '七、敢于创新而革故'], 'com android mm reader 8 1 9 chart act', ' void requestLocationUpdates ', 'boolean onOptionsItemSelected']

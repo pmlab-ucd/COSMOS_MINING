@@ -1,0 +1,1 @@
+[['ITW Balance Checker for EBT/SNAP', 'ITW Balance Checker for EBT/SNAP', 'Please enter your Illinois Link website login info and create a quick login PIN#', 'SSN (no spaces or dashes)', 'DOB', 'Feb', '05', '2017', 'Card Number OR Card PIN (no spaces)', 'Continue', 'Quit', 'Note: YOU MUST USE THE LOGIN FROM YOUR Illinois Link WEB ACCOUNT to view your info with this app.']]

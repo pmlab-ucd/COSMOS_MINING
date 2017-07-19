@@ -1,0 +1,1 @@
+[['Sky电话', '请先登录后再执行此操作!', '确定'], 'com sky call oem service about display caller number activity ', ' void sendTextMessage ', 'void onCreate']

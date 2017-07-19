@@ -1,0 +1,1 @@
+[['快手八卦娱乐', '收看', '下载', '连播', '获取数据中', '网络有问题，点刷新重新获得结果。', '更多', '娱乐短片', '话题', '我的视频', '微博社区'], 'com k and ian short video yule keyword detail activity ', ' java.lang.String getBestProvider ', 'void onResume']

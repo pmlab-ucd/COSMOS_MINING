@@ -1,0 +1,1 @@
+[['Cancel', 'Portrait', 'Upload', 'Click below buttons to select your portrait from camera or an existing photo'], 'com wi yun game crop image ', ' boolean isProviderEnabled ', 'void onCreate']

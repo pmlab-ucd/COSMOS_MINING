@@ -1,0 +1,1 @@
+[['Custom Apps', 'Browser', 'Calculator', 'Calendar', 'Clock', 'Contacts', 'Currents', 'Dialer'], 'void onCreate']

@@ -1,0 +1,1 @@
+[[], 'com app hero ui main activity ', ' java.lang.String getSubscriberId ', 'void onStart']

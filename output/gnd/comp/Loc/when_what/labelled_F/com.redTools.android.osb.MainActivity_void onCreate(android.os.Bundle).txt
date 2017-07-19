@@ -1,0 +1,1 @@
+[['Information', 'Hello,\nThis is the first set up.\n- Please power on your gps before continue.\n- Please power on your internet connection before continue.\nThanks.', 'Close', 'Continue'], '<com Tools android osb Main Activity void onCreate']

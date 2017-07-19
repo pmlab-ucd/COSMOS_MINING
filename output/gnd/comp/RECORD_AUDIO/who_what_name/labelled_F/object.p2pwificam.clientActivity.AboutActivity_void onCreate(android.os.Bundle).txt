@@ -1,0 +1,1 @@
+[['About Us', 'Software Name', 'DroneView', 'Version Number', '2.14', 'cleaning storage', 'Exit'], 'object p2pwificam activity client about activity ', ' void <init> ']

@@ -1,0 +1,1 @@
+[['  账号名称：', '  用户名：', '  密码：', '保存', '取消'], 'com hail y account recorder add account activity ', ' java.lang.String getDeviceId ', 'void onCreate']

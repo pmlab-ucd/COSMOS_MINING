@@ -1,0 +1,1 @@
+[['Detail'], 'ok_button']

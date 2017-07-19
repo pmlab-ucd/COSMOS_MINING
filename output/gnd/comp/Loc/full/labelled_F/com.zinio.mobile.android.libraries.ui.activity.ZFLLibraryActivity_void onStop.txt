@@ -1,0 +1,1 @@
+[['Welcome to Zinio for Libraries', 'To access your magazines, log in using your library account.', 'Log In', 'Version 1.0.6.20160104'], 'void onStop']

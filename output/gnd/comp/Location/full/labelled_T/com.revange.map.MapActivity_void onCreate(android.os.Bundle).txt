@@ -1,0 +1,1 @@
+[['434 La Rue Road\nDavis, CA 95616\n', 'Enter Destination', 'Normal', 'Satellite', 'Hybrid', 'Terrain'], 'com revan ge map map activity ', ' boolean isProviderEnabled ', 'void onCreate']

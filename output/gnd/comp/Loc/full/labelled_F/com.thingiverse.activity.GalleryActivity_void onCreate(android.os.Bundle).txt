@@ -1,0 +1,1 @@
+[['Username/E-mail', 'Password', 'Forgot password?', 'Sign In', "Don't have an account?", 'Sign Up', 'About MakerBot Thingiverse'], 'void onCreate']

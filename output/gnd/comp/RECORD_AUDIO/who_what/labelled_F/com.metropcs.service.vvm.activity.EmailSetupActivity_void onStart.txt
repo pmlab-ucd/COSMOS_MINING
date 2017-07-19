@@ -1,0 +1,1 @@
+Voicemail to Email Settings Receive your voicemails as text and audio files (English and Spanish supported) as an email at up to two addresses Email Address 1 Email Address 2 Cancel Turn on com metro pcs service v vm activity email setup activity   void setAudioSource 

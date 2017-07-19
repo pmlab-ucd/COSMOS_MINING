@@ -1,0 +1,1 @@
+[['理想伴侣搜索系统', '您的性别:', '男', '女', '系统信息', '请对准面部中心。\n\n点击“扫描”开始。', '扫       描'], 'com iw z pm hm camera activity$5 ', ' android.hardware.Camera open ', 'void onClick']

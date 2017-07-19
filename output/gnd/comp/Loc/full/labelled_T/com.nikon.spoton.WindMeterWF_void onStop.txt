@@ -1,0 +1,1 @@
+[['WEATHERFLOW', 'WIND METER DETECTED', 'Wind Speed (Mph):', '0', 'Wind Direction (Degrees):', '0', 'START READING', 'STOP READING', 'APPLY', 'EXIT'], 'void onStop']

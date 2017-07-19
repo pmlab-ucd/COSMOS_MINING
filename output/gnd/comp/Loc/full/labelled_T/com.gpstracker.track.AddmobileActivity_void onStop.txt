@@ -1,0 +1,1 @@
+[['Add Mobile to Locate', 'Please enter details of the person you want to track.', '\xa0\xa0\xa0\xa0His/Her Name', '\xa0\xa0\xa0\xa0His/Her Mobile Number', 'Continue', 'Please Note: You can track your own location by clicking on My button on top left side of the main screen. Click History to view your past locations.'], 'void onStop']

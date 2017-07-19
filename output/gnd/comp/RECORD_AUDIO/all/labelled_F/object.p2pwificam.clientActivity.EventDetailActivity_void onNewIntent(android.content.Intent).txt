@@ -1,0 +1,1 @@
+[['Activity (0)', 'No Alarm Logs'], 'void onNewIntent', ' void <init> ']

@@ -1,0 +1,1 @@
+['void onClick', 'shareButton', 'android.widget.Button']

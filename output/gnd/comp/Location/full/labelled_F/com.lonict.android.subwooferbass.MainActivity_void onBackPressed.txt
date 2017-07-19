@@ -1,0 +1,1 @@
+[['Subwoofer', '* Deep Bass *', '0 %', '-', '+'], 'com lon ict android subwoofer bass main activity ', ' boolean isProviderEnabled ', 'void onBackPressed']

@@ -1,0 +1,1 @@
+[['Would you be kind enough to leave a positive review? It really motivates us.', 'Leave a review on Google Play', 'Remind me later', 'NEVER ask again', "There's a problem..."], 'ch small tech common review popup review popup activity ', ' android.hardware.Camera open ', 'boolean onSupportNavigateUp']

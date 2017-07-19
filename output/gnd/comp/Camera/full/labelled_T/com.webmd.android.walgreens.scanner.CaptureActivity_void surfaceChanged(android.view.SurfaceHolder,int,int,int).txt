@@ -1,0 +1,1 @@
+[['by', 'Refill to Walgreens', 'Center the barcode in the viewfinder.', 'Allow camera to focus for quicker scans.', 'Enter Prescription Number'], 'com web md android walgreens scanner capture activity ', ' android.hardware.Camera open ', 'void surfaceChanged']

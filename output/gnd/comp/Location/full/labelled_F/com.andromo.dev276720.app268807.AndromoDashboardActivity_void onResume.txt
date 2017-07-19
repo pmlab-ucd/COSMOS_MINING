@@ -1,0 +1,1 @@
+[['Perfumes Duty Free', 'Duty free perfume', 'All Beauty'], 'com and romo dev 2 7 6 7 2 0 app 2 6 8 8 0 7 andromo dashboard activity ', ' java.lang.String getBestProvider ', 'void onResume']

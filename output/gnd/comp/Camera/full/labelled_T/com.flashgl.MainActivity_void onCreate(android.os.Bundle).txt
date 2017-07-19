@@ -1,0 +1,1 @@
+[['99%', '30C'], 'com flash gl main activity ', ' android.hardware.Camera open ', 'void onCreate']

@@ -1,0 +1,1 @@
+[['Welcome to Maprika!', "tap the '+' icon above to select a map"], 'com map rika map view activity$10 ', ' android.location.Location getLastKnownLocation ', 'void onClick']

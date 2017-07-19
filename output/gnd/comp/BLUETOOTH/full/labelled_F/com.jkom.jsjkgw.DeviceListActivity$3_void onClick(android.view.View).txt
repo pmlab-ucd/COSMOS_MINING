@@ -1,0 +1,1 @@
+[['健康顾问', '扫描设备', '没有设备配对成功', '扫描设备'], 'com j kom j sjk gw device list activity$3 ', ' boolean startDiscovery ', 'void onClick', 'button_scan', 'android.widget.Button']

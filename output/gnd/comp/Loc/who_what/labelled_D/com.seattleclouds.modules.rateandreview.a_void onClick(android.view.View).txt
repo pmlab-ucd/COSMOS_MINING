@@ -1,0 +1,1 @@
+[['Your rating:', 'hate it', 'Your comment / review:', 'Submit']]

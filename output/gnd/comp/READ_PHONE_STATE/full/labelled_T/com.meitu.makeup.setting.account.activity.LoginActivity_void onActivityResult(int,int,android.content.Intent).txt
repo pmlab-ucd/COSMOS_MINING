@@ -1,0 +1,1 @@
+[[], 'com me it u makeup setting account activity login activity ', ' java.lang.String getDeviceId ', 'void onActivityResult']

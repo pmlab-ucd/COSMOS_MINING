@@ -1,0 +1,1 @@
+[[], 'com ihs charging screen activity charging screen activity ', ' void listen ', 'void onCreate']

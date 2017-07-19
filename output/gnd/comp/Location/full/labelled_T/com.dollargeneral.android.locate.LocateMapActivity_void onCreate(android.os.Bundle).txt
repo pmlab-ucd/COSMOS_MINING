@@ -1,0 +1,1 @@
+[['Enter city, state or zip code'], 'com dollar general android locate locate map activity ', ' java.lang.String getBestProvider ', 'void onCreate']

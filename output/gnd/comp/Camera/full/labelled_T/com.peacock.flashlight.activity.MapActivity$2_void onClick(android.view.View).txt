@@ -1,0 +1,1 @@
+[['ON', 'Locate'], 'com peacock flashlight activity map activity$2 ', ' android.hardware.Camera open ', 'void onClick']

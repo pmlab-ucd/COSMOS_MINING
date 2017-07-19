@@ -1,0 +1,1 @@
+[[], 'com game visa 8 car main activity ', ' boolean isProviderEnabled ', 'void onCreate']

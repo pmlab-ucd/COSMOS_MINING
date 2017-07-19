@@ -1,0 +1,1 @@
+[[], 'com t mart app under price arrange activity ', ' java.lang.String getDeviceId ', 'void onCreate']

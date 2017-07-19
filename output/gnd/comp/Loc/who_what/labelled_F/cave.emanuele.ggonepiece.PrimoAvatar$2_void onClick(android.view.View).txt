@@ -1,0 +1,1 @@
+[['OP QUIZ', 'SEI MASCHIO O FEMMINA?'], 'avatar2', 'android.widget.ImageView']

@@ -60,6 +60,7 @@ class UserStudyHandler:
                 class_name, method_name = SensitiveComponent.SensEntryPoint.extract_class_method(entry_name)
                 if class_name in examined:
                     continue
+                    #pass
                 else:
                     examined.append(class_name)
                 md_targets.append(line)
@@ -158,6 +159,8 @@ if __name__ == '__main__':
                 pass
             else:
                 continue
+            if 'Copy' in str(header):
+                continue
             act = str(header)
             act = act.replace(' - Copy', '')
             act = act.replace('- Copy', '')
@@ -169,7 +172,7 @@ if __name__ == '__main__':
         outdir = instance_dir + '/' + str(users.index(user)) + '/'
         if os.path.exists(outdir):
             shutil.rmtree(outdir)
-        DataFormatter.instances2txtdocs(outdir, new_instances, who=False)
+        DataFormatter.instances2txtdocs(outdir, new_instances, what=True, when=True, who=False)
 
     '''
     for png in pngs:

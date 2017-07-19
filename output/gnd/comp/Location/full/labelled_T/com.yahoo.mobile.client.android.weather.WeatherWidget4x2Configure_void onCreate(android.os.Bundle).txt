@@ -1,0 +1,1 @@
+[['Davis', '1:02 AM', 'Cloudy', '49°', 'Widget Settings', 'Show Flickr photo', 'Show Max/Min temperature', 'Location', 'Current Location', 'Create Widget'], 'com yahoo mobile client android weather weather widget4x2 configure ', ' java.util.List getProviders ', 'void onCreate']

@@ -1,0 +1,1 @@
+[['Practical Encyclopedia of Boating', '1 day(s) left of trial period.', '$18.99\nFULL LICENSE', 'Redeem code', 'Benefits of the full license', 'Unlimited access', 'Work offline', 'No ads'], 'void onPause', 'com mob i systems ms dic t viewer main activity ', ' void <init> ']

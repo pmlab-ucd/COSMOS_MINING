@@ -1,0 +1,1 @@
+[[], 'com qi x in y tu jump p main a$2 ', ' android.location.Location getLastKnownLocation ', 'void onClick', 'nextb']

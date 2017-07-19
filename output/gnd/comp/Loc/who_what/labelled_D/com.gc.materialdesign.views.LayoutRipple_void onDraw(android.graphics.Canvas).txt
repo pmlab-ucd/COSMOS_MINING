@@ -1,0 +1,1 @@
+[['Please review our app!', 'How do you find our app? Your feedback helps us plan future updates. We would definitely appreciate your cooperation. Thank you.', 'Never', 'Review', 'Later'], 'button1', 'android.widget.LinearLayout', 'button3', 'android.widget.LinearLayout', 'button2', 'android.widget.LinearLayout']

@@ -1,0 +1,1 @@
+[['DOUBLE UP', 'EQ', 'ALARM', 'MORE'], 'com logitech ue activities home activity ', ' android.location.Location getLastKnownLocation ', 'void onStop']

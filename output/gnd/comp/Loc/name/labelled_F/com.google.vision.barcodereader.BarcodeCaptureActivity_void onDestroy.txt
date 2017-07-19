@@ -1,0 +1,1 @@
+['<com google vision barcode reader Barcode Capture Activity void onDestroy']

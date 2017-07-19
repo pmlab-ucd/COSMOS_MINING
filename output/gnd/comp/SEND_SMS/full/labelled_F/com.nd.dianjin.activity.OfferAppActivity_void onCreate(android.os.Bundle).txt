@@ -1,0 +1,1 @@
+[['精品软件推荐', '返回'], 'com nd dian j in activity offer app activity ', ' void sendTextMessage ', 'void onCreate']

@@ -1,0 +1,1 @@
+[['Ahora puedes buscar las palabras que quieras en toda la biblia'], 'com bib lia latina read ', ' android.location.Location getLastKnownLocation ', 'void onDestroy']

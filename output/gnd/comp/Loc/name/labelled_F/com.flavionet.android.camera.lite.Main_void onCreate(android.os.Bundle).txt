@@ -1,0 +1,1 @@
+['<com flavio net android camera lite Main void onCreate']

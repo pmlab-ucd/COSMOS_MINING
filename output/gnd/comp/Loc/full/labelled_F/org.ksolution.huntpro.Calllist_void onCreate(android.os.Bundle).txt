@@ -1,0 +1,1 @@
+[['Hunt Pro - Calls and Solunar Calendar', 'Calls', 'Solunar', 'Settings', 'Info', 'Unlock All Calls', 'DUCK  ', 'GOOSE   ', 'BIRDS   ', 'DEER   ', 'ELK   ', 'PREDATOR   ', 'SPECIALTY   '], 'void onCreate']

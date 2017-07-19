@@ -1,0 +1,1 @@
+[['Version 1.10.10', 'Uncheck then "manual" boxes to use local weather data fetched from the weather providers', 'Weather provider', 'Update interval', 'When online weather is enabled.', 'Weather conditions', 'Wind', 'None', 'Rain', 'None', 'Snow'], '<kaka wallpaper forest android Weather Settings Activity boolean onOptionsItemSelected']

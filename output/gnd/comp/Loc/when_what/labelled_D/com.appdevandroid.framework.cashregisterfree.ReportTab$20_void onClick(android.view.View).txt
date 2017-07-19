@@ -1,0 +1,1 @@
+[['Report', 'Name : ', 'Location: ', 'Price: ', 'Tax (%): ', '0', 'Purchase price: ', 'Purchase date: ', 'Product code: ', 'Types: ', 'Quantity: ', '0', 'Check in-out entries', 'Check in-out entries', 'Description', 'Description : '], '<com app dev android framework cash register free Report Tab$20 void onClick']

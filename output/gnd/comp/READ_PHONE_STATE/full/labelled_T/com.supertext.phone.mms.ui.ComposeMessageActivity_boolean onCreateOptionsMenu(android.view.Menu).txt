@@ -1,0 +1,1 @@
+[[], 'com super text phone mm s ui compose message activity ', ' java.lang.String getLine1Number ', 'boolean onCreateOptionsMenu']

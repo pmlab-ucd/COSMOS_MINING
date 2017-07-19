@@ -1,0 +1,1 @@
+[['Tap one image to edit', 'Tap to add a photo', 'Shape', 'Frame']]

@@ -1,0 +1,1 @@
+[['取消', '新增标签', '保存', '标签名称:', '请输入标签的名称'], 'com s nda i note activity view tag edit activity ', ' void sendTextMessage ', 'void onCreate']

@@ -1,0 +1,1 @@
+[['Uninstall Master', 'Current coins:0金币', 'You only need to download the recommended software, earn more than 15 coins, you can get ad-free version, thank you for your support!', 'Download recommended software'], 'com droid ware uninstall master activity um remove a d activity ', ' boolean isProviderEnabled ', 'void onResume']

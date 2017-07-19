@@ -1,0 +1,1 @@
+[['My Moon Phase', 'SAT', 'Feb 4', 'SUN', 'Feb 5', 'MON', 'Feb 6', 'First Quarter (63%)', 'Fetching your current location to forecast weather conditions...', '-', '-', '-', '-', 'More Information'], 'com j ruston apps my moon phase controllers main activity ', ' boolean isProviderEnabled ', 'boolean onOptionsItemSelected']

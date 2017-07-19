@@ -1,0 +1,1 @@
+[['News', 'activity news activity ', 'boolean onOptionsItemSelected'], 'activity news activity ', 'boolean onOptionsItemSelected']

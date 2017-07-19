@@ -1,0 +1,1 @@
+[['Split & Delete'], 'void onActivityResult', ' void <init> ']

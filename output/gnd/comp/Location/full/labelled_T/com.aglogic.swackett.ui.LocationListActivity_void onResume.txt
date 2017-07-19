@@ -1,0 +1,1 @@
+[['locations', 'Create'], 'com ag logic swac kett ui location list activity ', ' android.location.Location getLastKnownLocation ', 'void onResume']

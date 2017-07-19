@@ -1,0 +1,1 @@
+['<com teaching strategies gold gold camera activity$7 ', ' void setAudioSource ', 'mode', 'icon', 'audio', 'android.widget.ImageButton']

@@ -1,0 +1,1 @@
+[['Loading, please wait ...'], 'amplified bible app splash activity ', ' android.location.Location getLastKnownLocation ', 'void onCreate']

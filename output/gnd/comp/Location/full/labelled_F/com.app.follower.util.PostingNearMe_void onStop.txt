@@ -1,0 +1,1 @@
+[['NEAREST', 'List is empty.\n\n'], 'com app follower util posting near me ', ' android.location.Location getLastKnownLocation ', 'void onStop']

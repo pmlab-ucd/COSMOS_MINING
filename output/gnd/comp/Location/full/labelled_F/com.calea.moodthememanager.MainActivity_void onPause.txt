@@ -1,0 +1,1 @@
+[['Themes', 'Purchased', 'Free !', 'New!', 'Halloween', 'Preview', 'Free !', 'New!', 'This Is Halloween', 'Preview', 'Download mood messenger'], 'com cale a mood theme manager main activity ', ' void requestLocationUpdates ', 'void onPause']

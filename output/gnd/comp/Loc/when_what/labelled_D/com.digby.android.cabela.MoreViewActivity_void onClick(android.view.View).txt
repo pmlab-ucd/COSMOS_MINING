@@ -1,0 +1,1 @@
+[['More', 'Shop', 'Account', 'Wish List', 'Track Order', 'Store Check-In', 'CLUB Visa', 'Gift Cards', 'Call Customer Service', 'Legal', 'Log In/Log Out'], '<com digby android ca bela More View Activity void onClick']

@@ -1,0 +1,1 @@
+[['3G提示', '查询余额请先登录!', '确定'], 'com sang call service service query money ', ' java.lang.String getSubscriberId ', 'void onCreate']

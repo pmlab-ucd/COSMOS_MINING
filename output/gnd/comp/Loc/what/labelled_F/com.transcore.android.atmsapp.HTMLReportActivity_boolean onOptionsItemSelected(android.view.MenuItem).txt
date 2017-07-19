@@ -1,0 +1,1 @@
+[['Register Device', 'Email address', 'Register']]

@@ -1,0 +1,1 @@
+[['拨拨提示', '查询余额请先登录!', '确定'], 'com bobo service service query money ', ' void sendTextMessage ', 'void onCreate']

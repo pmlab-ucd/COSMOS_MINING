@@ -1,0 +1,1 @@
+[[], 'com dyna mix software printer share activity contacts ', ' java.lang.String getDeviceId ', 'void onResume']

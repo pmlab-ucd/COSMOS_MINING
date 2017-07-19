@@ -1,0 +1,1 @@
+[['ALMOST DONE.', 'FINAL STEPS', 'Enable Barcode Scanner', 'Enable Notifications', 'Allow Address Book']]

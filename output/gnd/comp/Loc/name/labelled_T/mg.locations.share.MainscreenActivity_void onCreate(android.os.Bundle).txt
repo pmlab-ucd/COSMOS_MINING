@@ -1,0 +1,1 @@
+['<mg locations share Mainscreen Activity void onCreate']

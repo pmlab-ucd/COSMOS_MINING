@@ -1,0 +1,1 @@
+['<com device magic android x forms ui Sign Up Request Activity$1 void onClick']

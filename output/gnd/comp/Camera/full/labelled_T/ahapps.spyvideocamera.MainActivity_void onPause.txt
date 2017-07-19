@@ -1,0 +1,1 @@
+[['Secret Video Camera', 'Start', 'Stop', 'Resume preview', 'Timer', 'Videos'], 'ah apps spy videocamera main activity ', ' android.hardware.Camera open ', 'void onPause']

@@ -1,0 +1,1 @@
+[[], 'com indelible splash screen ', ' java.lang.String getBestProvider ', 'void onCreate']

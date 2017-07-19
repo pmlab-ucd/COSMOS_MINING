@@ -1,0 +1,1 @@
+[['The barcode you scanned is not in our database. If you would like to request that the scanned medication be added to our database, please submit the following information:', 'NDC Number:', 'Drug Trade or\nGeneric Name:', 'Manufacturer:', 'Concentration\nor strength:', '10 mg/mL or 100 mg']]

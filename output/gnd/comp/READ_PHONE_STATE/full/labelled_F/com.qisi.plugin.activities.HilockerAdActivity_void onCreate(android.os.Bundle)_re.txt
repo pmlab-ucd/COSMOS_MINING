@@ -1,0 +1,1 @@
+[[], 'com q is i plugin activities hilocker ad activity ', ' java.lang.String getDeviceId ', 'void onCreate']

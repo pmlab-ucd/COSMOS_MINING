@@ -1,0 +1,1 @@
+[['Cover Model', 'Do you want to be our cover model?\n\n Share photos with our hashtag #BestMeSelfie on Instagram or email to us.\n Email: bestmeselfie@gmail.com\n Demand:\n 1、color photo with good quality and great light\n 2、the sender must be in the photo\n \n What we like?\n -Creative\n -Smile\n -Emoji-grid photo\n'], 'boolean onCreateOptionsMenu', ' void <init> ']

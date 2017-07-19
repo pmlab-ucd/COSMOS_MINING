@@ -1,0 +1,1 @@
+[['Setup', 'Preview', 'Record', 'Sessions', 'Upgrades', 'Back Camera', 'Press the Record button to start recording a session'], 'void onResume']

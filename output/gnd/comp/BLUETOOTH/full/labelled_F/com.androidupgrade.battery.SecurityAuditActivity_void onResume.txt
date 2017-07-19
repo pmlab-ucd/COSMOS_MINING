@@ -1,0 +1,1 @@
+[['Security Audit', 'List of apps that require special permissions. Tap the categories of permissions to filter the list or any app to see more info.', 'BusyBox Free', 'HD Camera', 'Xposed Installer', 'RoverTown', 'Open Camera', 'RoseWholesale', 'TestThread'], 'com android upgrade battery security audit activity ', ' java.lang.String getAddress ', 'void onResume']

@@ -1,0 +1,1 @@
+[['TiKL - Chat List', 'Your Chat list is empty. You have not yet used the TiKL Chat feature. Here is how to use chat, its easy:\n\n 1. Choose the person or group you want to chat with from favorites drop-down above the talking head button.\n\n 2. Press the chat button.'], 'void onClick', 'mob i android cloud app pt t client chat activity ', ' void setAudioSource ']

@@ -1,0 +1,1 @@
+[['产品信息', '\t2011版新个税四金计算器。\n\t2011年9月1日起，新个税起征点调整为 3500.00 元，实行7级新税率。\n\t本软件兼容Android2.1、2.2、2.3。', '版本信息', '\tVersion: A2.1.0.1122', '\tCopyright © aimob', '联系方式', '\t广告招租: 23201068@qq.com', '\t官方微博: http://weibo.com/aimob', '用户反馈', '\t若您有什么好的建议，请与我们联系，或者您可以访问我们的微博进行留言。', '其他简介'], 'g calculator in stax instax calculator about ', ' boolean isProviderEnabled ', 'void onCreate']

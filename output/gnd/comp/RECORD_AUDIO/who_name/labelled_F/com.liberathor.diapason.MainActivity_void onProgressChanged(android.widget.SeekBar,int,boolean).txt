@@ -1,0 +1,1 @@
+['<com liber a thor diapason main activity ', ' void <init> ']

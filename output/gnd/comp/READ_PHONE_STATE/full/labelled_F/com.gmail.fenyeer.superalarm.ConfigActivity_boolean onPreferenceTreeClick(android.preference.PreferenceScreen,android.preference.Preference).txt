@@ -1,0 +1,1 @@
+[['多样闹钟', '您的昵称', '大懒猪', '隐藏广告(需要400积分)', '未激活', '摇动模式摇动次数?', '3次', '闹钟声响', '显示闹钟任务栏图标?', '显示', '闹钟持续时间', '永远', '选择要显示卡通形象'], 'com gmail fen yee r super alarm config activity ', ' java.lang.String getDeviceId ', 'boolean onPreferenceTreeClick']

@@ -1,0 +1,1 @@
+[['Wind', 'mph', 'Gust', 'mph', 'mph', 'kn', '1.00', '0.87', 'mph', 'kn', 'Get current speed'], 'com logic net speed wind main activity ', ' boolean isProviderEnabled ', 'void onCreate']

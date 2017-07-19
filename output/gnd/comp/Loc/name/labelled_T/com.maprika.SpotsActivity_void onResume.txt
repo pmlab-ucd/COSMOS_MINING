@@ -1,0 +1,1 @@
+['<com map rika Spots Activity void onResume']

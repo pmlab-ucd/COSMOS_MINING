@@ -1,0 +1,1 @@
+[['Type here', 'Abdominal Pain', 'Anorexia', 'Breast Discharge', 'Chest Pain', 'Confusion', 'Constipation', 'Cough', 'Diarrhea', 'Dyspepsia ( Indigestion )', 'Dysphagia'], 'void showSpinner']

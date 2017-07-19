@@ -1,0 +1,1 @@
+[[], 'com cobra i radar screens user settings activity ', ' java.lang.String getName ', 'void onCreate']

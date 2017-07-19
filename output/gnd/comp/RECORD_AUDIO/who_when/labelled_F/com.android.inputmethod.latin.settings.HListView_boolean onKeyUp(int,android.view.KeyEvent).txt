@@ -1,0 +1,1 @@
+boolean onKeyUp theme hor list view com.android.inputmethod.latin.settings.HListView

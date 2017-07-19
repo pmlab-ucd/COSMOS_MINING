@@ -1,0 +1,1 @@
+[['Photo'], 'com iconic deus my used car screens main activity ', ' android.hardware.Camera open ', 'void onResume']

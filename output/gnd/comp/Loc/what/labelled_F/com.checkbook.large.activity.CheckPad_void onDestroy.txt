@@ -1,0 +1,1 @@
+[['Accounts', 'Tap "+" to add accounts']]

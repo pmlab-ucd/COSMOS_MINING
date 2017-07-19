@@ -1,0 +1,1 @@
+[[], 'com sigma phone top med free news category form$1 ', ' java.lang.String getDeviceId ', 'void onClick']

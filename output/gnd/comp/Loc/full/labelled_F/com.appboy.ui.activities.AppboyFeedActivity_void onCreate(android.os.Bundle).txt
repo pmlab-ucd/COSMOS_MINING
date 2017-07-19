@@ -1,0 +1,1 @@
+[['Shopmium', 'We have no updates.\nPlease check again later.'], 'void onCreate']

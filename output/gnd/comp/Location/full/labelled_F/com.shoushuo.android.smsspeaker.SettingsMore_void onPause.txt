@@ -1,0 +1,1 @@
+[['SMS Listen To', 'Notification without widget', 'Always shown when service on', 'Notification with widget', 'Notify when service on'], 'com shou s huo android sms speaker settings more ', ' boolean isProviderEnabled ', 'void onPause']

@@ -1,0 +1,1 @@
+[['Battery Overview', 'Level: 98%', '|', 'Temperature: 96°F', 'CPU Usage', 'Memory Usage', '★★★★★ Review This App ★★★★★'], 'com android doctor battery app booster activity ', ' boolean isEnabled ', 'void onClick']

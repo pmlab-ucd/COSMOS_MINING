@@ -1,0 +1,1 @@
+[['返回', '下载管理', '暂时没有下载内容', '仅在WIFI环境下下载'], 'com s nda recommend ui download activity ', ' void sendTextMessage ', 'boolean onContextItemSelected']

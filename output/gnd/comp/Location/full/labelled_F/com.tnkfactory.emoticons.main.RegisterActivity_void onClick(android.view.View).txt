@@ -1,0 +1,1 @@
+[['Title', 'Copy', 'Add to Favorites', 'Share'], 'com t nk factory emoticons main register activity ', ' void requestLocationUpdates ', 'void onClick']

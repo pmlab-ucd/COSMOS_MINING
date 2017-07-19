@@ -1,0 +1,1 @@
+[['Beautify', 'Video', 'PikaPika', 'Collage', 'Selfie'], 'void onClick', ' void <init> ']

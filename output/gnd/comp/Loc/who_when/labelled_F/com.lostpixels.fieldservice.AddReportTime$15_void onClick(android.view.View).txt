@@ -1,0 +1,1 @@
+['void onClick', 'brosminus', 'android.widget.ImageView']

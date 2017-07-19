@@ -1,0 +1,1 @@
+[['请将手机摆放至水平方向!'], 'com ad mogo ad mogo layout ', ' void sendTextMessage ', 'boolean onInterceptTouchEvent', 'admogo_layout']

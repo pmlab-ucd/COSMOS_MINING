@@ -1,0 +1,1 @@
+[['Create an Account', 'First Name', 'Last Name', 'Email', 'Next >'], 'com legend hope social sign up activityfinish ', ' boolean isProviderEnabled ', 'void onCreate']

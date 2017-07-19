@@ -1,0 +1,1 @@
+[['Select a photo from', 'Camera', 'Albums', 'Cancel']]

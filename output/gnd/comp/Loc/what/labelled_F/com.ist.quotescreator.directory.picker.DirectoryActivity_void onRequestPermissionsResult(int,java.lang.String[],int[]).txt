@@ -1,0 +1,1 @@
+[['Settings', 'DEFAULT SAVE DIRECTORY', '  /storage/emulated/0/Quotes Creator']]

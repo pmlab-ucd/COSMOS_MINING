@@ -1,0 +1,1 @@
+[['Taxbot', 'Trips to Classify', 'Automatically Track your Trips', 'Expense', 'Income', '$0.00', 'Total Deductions', 'Home', 'Trips', 'Expenses', 'Income', 'More']]

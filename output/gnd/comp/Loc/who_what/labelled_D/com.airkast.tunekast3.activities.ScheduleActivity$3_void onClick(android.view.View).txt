@@ -1,0 +1,1 @@
+[['Crash Data', 'The app found information about previous crashes. Would you like to send this data to the developer?', 'Send', 'Always send', 'Dismiss']]

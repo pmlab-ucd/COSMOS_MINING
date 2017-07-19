@@ -1,0 +1,1 @@
+[[], 'com bon r ix nfc bluetooth rfid demo splash activity ', ' java.util.Set getBondedDevices ', 'void onResume']

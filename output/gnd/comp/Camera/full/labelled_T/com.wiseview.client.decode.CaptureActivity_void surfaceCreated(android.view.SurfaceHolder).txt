@@ -1,0 +1,1 @@
+[['Place a barcode inside the viewfinder rectangle to scan it.'], 'com wise view client decode capture activity ', ' android.hardware.Camera open ', 'void surfaceCreated']

@@ -1,0 +1,1 @@
+[['NBA Teams', 'Games', 'Teams', 'Standings', 'Players', 'League Leaders', 'Set League Alerts', 'Received Alerts', 'Expert Handicappers', 'Settings'], 'lu no software sports activities teams activity ', ' void requestLocationUpdates ', 'void onCreate']

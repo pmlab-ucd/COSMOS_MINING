@@ -1,0 +1,1 @@
+[['Local', 'Ok'], 'com s elva raj two way android ui local activity ', ' void <init> ']

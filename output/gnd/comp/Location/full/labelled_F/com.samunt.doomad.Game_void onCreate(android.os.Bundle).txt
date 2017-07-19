@@ -1,0 +1,1 @@
+[['Privacy Policy & Advertising Terms', 'Close', 'Ok'], 'com sam unt doom ad game ', ' java.lang.String getBestProvider ', 'void onCreate']

@@ -1,0 +1,1 @@
+[['Wind turbines - weather'], 'com creative work l wp wind turbines open g p s options activity ', ' boolean isProviderEnabled ', 'void onCreate']

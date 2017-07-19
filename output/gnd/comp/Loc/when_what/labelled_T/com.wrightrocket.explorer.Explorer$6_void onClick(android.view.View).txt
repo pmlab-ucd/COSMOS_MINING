@@ -1,0 +1,1 @@
+[['GPS Map', 'Select Directory', 'Sort', 'Alpha', 'Asc', 'Refresh', 'Go', '/storage/emulated/0/', 'Up', 'Home', 'Path: /mnt/', '..  (Processed: 6/6 files)', 'Found: 0 matching files', 'sdcard', '2/4/17 04:59:06'], '<com wright rocket explorer Explorer$6 void onClick']

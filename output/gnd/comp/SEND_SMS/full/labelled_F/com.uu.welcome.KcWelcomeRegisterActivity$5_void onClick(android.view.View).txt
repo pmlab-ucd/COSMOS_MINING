@@ -1,0 +1,1 @@
+[['注册', '登录', '请输入11位手机号', '请输入真实的手机号码注册，注册成功即有机会获得最高100分钟通话奖励，并可用UU拨打电话', '注册'], 'com uu welcome kc welcome register activity$5 ', ' void sendTextMessage ', 'void onClick']

@@ -1,0 +1,1 @@
+[['FBReader network library'], 'org geometer plus android fb reader network network top level activity ', ' boolean isProviderEnabled ', 'void onNewIntent']

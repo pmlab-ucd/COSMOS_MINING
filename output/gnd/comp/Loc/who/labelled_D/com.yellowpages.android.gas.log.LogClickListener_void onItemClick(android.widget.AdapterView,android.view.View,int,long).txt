@@ -1,0 +1,1 @@
+['settings_button_about', 'settings_button_done']

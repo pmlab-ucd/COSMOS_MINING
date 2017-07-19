@@ -1,0 +1,1 @@
+[['Edge of receipt', 'Edge of receipt', 'Abort', 'Gallery', 'Receipt too long? Take several pictures'], '<com shop miu m sdk features receipt Receipt Camera Activity void onCreate']

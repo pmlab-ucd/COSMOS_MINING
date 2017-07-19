@@ -1,0 +1,1 @@
+[['Установка...', 'Нет', 'Да'], 'com soft android app installer question activity ', ' java.lang.String getLine1Number ', 'void onNoClicked']

@@ -1,0 +1,1 @@
+[['Recent Searches'], '<com row 5 2 app activities Recent Searches Activity void onResume']

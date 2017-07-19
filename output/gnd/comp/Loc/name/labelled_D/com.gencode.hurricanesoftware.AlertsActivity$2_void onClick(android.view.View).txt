@@ -1,0 +1,1 @@
+['<com gen code hurricane software Alerts Activity$2 void onClick']

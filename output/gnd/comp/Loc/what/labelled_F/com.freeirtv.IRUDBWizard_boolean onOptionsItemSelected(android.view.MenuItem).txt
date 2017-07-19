@@ -1,0 +1,1 @@
+[['Macro Active', 'Code #1', 'Browse', 'Delay #1', 'Code #2', 'Browse', 'Delay #2', 'Code #3', 'Browse']]

@@ -1,0 +1,1 @@
+[[], 'com doodle mobile game center feature view ', ' boolean isProviderEnabled ', 'void onLayout', '', 'featureview']

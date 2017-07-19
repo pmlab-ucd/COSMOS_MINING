@@ -1,0 +1,1 @@
+[['Welcome to tawkon!\nYou made the right call …'], 'com taw kon tawkon alert activity ', ' boolean isProviderEnabled ', 'void onPause']

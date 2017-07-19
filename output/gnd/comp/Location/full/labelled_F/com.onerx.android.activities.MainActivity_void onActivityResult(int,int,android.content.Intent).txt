@@ -1,0 +1,1 @@
+[['Home', 'Sign In', 'Search Meds or Conditions', 'Home', 'Search', 'My Meds', 'My Pharmacies'], 'com one r x android activities main activity ', ' android.location.Location getLastKnownLocation ', 'void onActivityResult']

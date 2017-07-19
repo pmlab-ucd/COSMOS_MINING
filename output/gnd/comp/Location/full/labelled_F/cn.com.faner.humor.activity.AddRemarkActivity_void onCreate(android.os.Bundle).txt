@@ -1,0 +1,1 @@
+[['Click Star Rating', 'Comment', 'Cancel', 'Submit comments'], 'cn com fan er humor activity add remark activity ', ' void requestLocationUpdates ', 'void onCreate']

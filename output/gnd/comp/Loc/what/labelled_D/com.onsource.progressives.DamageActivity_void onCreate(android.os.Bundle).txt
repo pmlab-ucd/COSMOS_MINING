@@ -1,0 +1,1 @@
+[['Damages', 'HELP', 'Take an overview photo showing the damage of the vehicle. Then, take multiple photos showing each damaged part from different angles. You can add up to 10 photos.', 'Tap here to take\n the photo', 'DAMAGE1', 'BACK', 'NEXT']]

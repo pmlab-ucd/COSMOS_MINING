@@ -1,0 +1,1 @@
+['<mobi android cloud app pt t client Main Activity void onCreate']

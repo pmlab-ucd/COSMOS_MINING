@@ -1,0 +1,1 @@
+[['Reading sender only', 'Read sender only', 'Only read the sender without content', 'Text mode', 'Default', 'Text before sender', 'Text after sender', '来自[Sender]的短信'], 'com shou s huo android sms speaker sender text setting ', ' boolean isProviderEnabled ', 'void onPause']

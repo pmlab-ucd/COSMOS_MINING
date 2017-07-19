@@ -1,0 +1,1 @@
+[['Alerts', 'Entry', 'Call To Post', 'At The Gate', 'Result', 'Replay', 'Chart', 'Workout'], 'com horserace snow android alerts activity ', ' boolean isProviderEnabled ', 'void onCreate']

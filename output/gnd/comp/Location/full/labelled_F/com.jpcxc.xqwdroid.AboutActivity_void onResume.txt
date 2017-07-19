@@ -1,0 +1,1 @@
+[['象棋小巫师 2.26', '象棋小巫师Android版是由象棋百科全书网委托jpcxc工作室(jpcxc@126.com)开发的手机象棋游戏，与象棋巫师一样有着超群的棋艺。欢迎登录 www.xqbase.com 免费下载象棋巫师、象棋小巫师iPhone版和其它象棋资源。如有任何问题、意见和建议，请通过下面的反馈功能或是发邮件与我们取得联系，我们将尽快答复。', 'www.xqbase.com', '© 2012 象棋百科全书网', '发送反馈'], 'com j pc xc x q w droid about activity ', ' android.location.Location getLastKnownLocation ', 'void onResume']

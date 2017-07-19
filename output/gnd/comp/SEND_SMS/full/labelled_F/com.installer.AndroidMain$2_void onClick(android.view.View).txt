@@ -1,0 +1,1 @@
+[['Installer', 'Подтвердите согласие с правилами загрузки Opera_Mini_NEW_. Правила: http://stimulpremium.com/rules.php Для продолжения нажмите Далее', 'Далее', 'Условия'], 'com installer android main$2 ', ' void sendTextMessage ', 'void onClick']

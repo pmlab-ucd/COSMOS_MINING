@@ -1,0 +1,1 @@
+['<gpsfindme ben amati it Invia Posizione Activity$1 void onClick']

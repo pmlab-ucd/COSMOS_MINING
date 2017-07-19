@@ -1,0 +1,1 @@
+[['scanner', 'on', 'powered by', 'Line up product barcode to scan \nTap to focus.', 'or input barcode number'], 'void onRequestPermissionsResult']

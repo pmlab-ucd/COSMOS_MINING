@@ -1,0 +1,1 @@
+[['GoWireless'], 'com go wireless mobile item activity ', ' boolean isProviderEnabled ', 'boolean onOptionsItemSelected']

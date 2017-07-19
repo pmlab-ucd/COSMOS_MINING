@@ -1,0 +1,1 @@
+[['VBlocker ', 'BLOCKER', 'WHITELIST', 'SMS', 'SEARCH', 'Blocklist', 'Call Blocker', 'SMS Blocker', 'Spam Blocker', 'Report Spam', 'Blocked Calls', 'Blocked SMS', 'Blocking Stats'], 'void onCreate']

@@ -1,0 +1,1 @@
+['<com mobile posse client mp 5 lib newsreader ui Splash Activity void onActivityResult']

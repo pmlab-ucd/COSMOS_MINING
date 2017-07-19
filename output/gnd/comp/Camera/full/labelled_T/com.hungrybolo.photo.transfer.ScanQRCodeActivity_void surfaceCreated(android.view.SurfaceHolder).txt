@@ -1,0 +1,1 @@
+[['Connect a device', 'Wifi: moobilenetx', 'Searching...', 'Scan QR code'], 'com hungry bol o photo transfer scan q r code activity ', ' android.hardware.Camera open ', 'void surfaceCreated']

@@ -1,0 +1,1 @@
+[['休闲模式', '挑战模式', '死亡模式', '声音设置', '游戏帮助', '退出游戏'], 'com google ads ad activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

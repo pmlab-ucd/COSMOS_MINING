@@ -1,0 +1,1 @@
+[['error loading picks', 'Retry'], 'void onDestroy']

@@ -1,0 +1,1 @@
+[[], 'com iso droid f sci view main contact detail contact detail activity ', ' java.lang.String getDeviceId ', 'void onActivityResult']

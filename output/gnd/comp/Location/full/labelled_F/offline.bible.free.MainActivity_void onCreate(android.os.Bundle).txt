@@ -1,0 +1,1 @@
+[['Loading, please wait ...'], 'offline bible free main activity ', ' android.location.Location getLastKnownLocation ', 'void onCreate']

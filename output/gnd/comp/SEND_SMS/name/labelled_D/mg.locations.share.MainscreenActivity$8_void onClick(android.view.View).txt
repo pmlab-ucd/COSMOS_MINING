@@ -1,0 +1,1 @@
+['void onClick', '<mg locations share Mainscreen Activity$8']

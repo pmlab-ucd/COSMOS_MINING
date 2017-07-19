@@ -1,0 +1,1 @@
+[[], 'com land star land star connect phone number registration ', ' java.lang.String getDeviceId ', 'void onCreate']

@@ -1,0 +1,1 @@
+[['Dictionary En-Ar', 'English -> Arabic', 'Type Here'], 'com dictionnaire to papp english arabic dictionary activity main activity ', ' boolean isProviderEnabled ', 'boolean onOptionsItemSelected']

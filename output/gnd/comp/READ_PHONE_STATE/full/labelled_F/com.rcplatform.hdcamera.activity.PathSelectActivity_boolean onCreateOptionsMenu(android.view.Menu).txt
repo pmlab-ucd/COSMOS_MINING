@@ -1,0 +1,1 @@
+[[], 'com rc platform hd camera activity path select activity ', ' java.lang.String getSubscriberId ', 'boolean onCreateOptionsMenu']

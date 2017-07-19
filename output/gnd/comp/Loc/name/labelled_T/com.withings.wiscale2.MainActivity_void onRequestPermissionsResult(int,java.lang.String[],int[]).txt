@@ -1,0 +1,1 @@
+['<com wi things wi scale 2 Main Activity void onRequestPermissionsResult']

@@ -1,0 +1,1 @@
+[['Deduct time (schools etc)', 'Deduct time for schools', 'Deduct time (schools etc)', 'Nothing to display', 'OK'], 'com lost pixels field service deduct time dlg$3 ', ' android.location.Location getLastKnownLocation ', 'void onClick', 'buttonDeductTime', 'android.widget.LinearLayout']

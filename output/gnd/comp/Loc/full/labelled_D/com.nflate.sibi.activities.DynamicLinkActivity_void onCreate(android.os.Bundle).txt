@@ -1,0 +1,1 @@
+[['Find It', 'Just In', 'Hot Items', 'Recent Views', 'Shop by Photo', 'Shop by Color', 'Web Search', 'Say It', 'Recent Searches'], 'void onCreate']

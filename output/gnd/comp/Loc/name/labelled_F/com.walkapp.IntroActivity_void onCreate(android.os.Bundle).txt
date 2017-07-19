@@ -1,0 +1,1 @@
+['<com walk app Intro Activity void onCreate']

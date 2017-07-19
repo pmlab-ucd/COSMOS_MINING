@@ -1,0 +1,1 @@
+[['EQUALIZER', 'Custom', 'The Standard', 'Bass Jump'], 'com logitech ue activities e q activity ', ' android.location.Location getLastKnownLocation ', 'void onStop']

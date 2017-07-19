@@ -1,0 +1,1 @@
+[['设置账号', 'Sky号或手机号:', '密码:', '保存设置', 'sky手机网络电话最低5分钱/分钟，夜间2点-6点免费打电话。', '立即注册'], 'com sky call oem recharge recharge alipay$1 ', ' void sendTextMessage ', 'void onClick']

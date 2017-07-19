@@ -1,0 +1,1 @@
+[['Shopping list', 'There is nothing here yet...\n\nNew items can be created using the plus or microphone button.'], 'void onConfigurationChanged']

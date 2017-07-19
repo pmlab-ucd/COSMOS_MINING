@@ -1,0 +1,1 @@
+[['Nikon SpotOn', 'Get lat-Lon', 'No Provider', 'No Provider']]

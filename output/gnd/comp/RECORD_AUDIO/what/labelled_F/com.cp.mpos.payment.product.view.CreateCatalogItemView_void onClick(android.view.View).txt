@@ -1,0 +1,2 @@
+Categories +Misc There are no items in the product catalog.
+ You can add Miscellaneous items. Continue com cp m pos payment product view create catalog item view   void <init> 

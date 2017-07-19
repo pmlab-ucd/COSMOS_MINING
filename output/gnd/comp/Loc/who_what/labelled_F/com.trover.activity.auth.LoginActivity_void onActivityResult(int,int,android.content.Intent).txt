@@ -1,0 +1,1 @@
+[['Login', 'Email', 'Forgot your password?', 'Log in']]

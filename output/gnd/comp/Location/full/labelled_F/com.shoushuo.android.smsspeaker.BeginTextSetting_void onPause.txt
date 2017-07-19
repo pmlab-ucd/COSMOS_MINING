@@ -1,0 +1,1 @@
+[['Beginning text', 'Beginning text mode', 'Default', 'Text before sender', 'Text after sender', 'Option of received message', 'Without beginning text', '[Sender]说'], 'com shou s huo android sms speaker begin text setting ', ' boolean isProviderEnabled ', 'void onPause']

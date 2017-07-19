@@ -1,0 +1,1 @@
+[['金刚经', '搜象文学网'], 'com android mm reader 2 6 2 mm reader', ' boolean isProviderEnabled ', 'void onClick']

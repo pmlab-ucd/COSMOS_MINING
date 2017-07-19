@@ -1,0 +1,1 @@
+[['Settings', 'General', 'Smoke action', 'Long tap', 'Active smoking time period', '12h', 'Notifications', 'Notification', 'ON', 'Wearable notification', 'ON', 'Notification options', 'Motivation', 'Motivation tips', 'Get motivated with motivation tips', 'ON', 'Motivation tips frequency'], '<com motive bite smoke free activities Settings Activity void onCreate']

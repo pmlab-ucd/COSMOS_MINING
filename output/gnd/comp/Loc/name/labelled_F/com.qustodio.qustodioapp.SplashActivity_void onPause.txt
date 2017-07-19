@@ -1,0 +1,1 @@
+['<com qu s to dio qu s to dio app Splash Activity void onPause']

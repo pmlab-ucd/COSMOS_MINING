@@ -1,0 +1,1 @@
+[['Scan Barcode', 'SCAN', 'Or', 'Enter Barcode', 'SUBMIT'], 'com row 5 2 app activities scan barcode activity ', ' android.location.Location getLastKnownLocation ', 'void onResume']

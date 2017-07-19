@@ -1,0 +1,1 @@
+[[], 'com j pardo go android list buddies ui main activity ', ' java.lang.String getDeviceId ', 'void onPause']

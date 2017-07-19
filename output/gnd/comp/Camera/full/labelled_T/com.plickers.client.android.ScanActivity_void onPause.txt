@@ -1,0 +1,1 @@
+[['Sign in', 'Email', 'Sign in'], 'com pli cker s client android scan activity ', ' android.hardware.Camera open ', 'void onPause']

@@ -1,0 +1,1 @@
+[[], 'com kol soft baby care both chart ', ' java.lang.String getDeviceId ', 'void onCreate']

@@ -1,0 +1,1 @@
+[['Kik Lock'], 'void onCreate', 'com baidu mob ads app activity ', ' void <init> ']

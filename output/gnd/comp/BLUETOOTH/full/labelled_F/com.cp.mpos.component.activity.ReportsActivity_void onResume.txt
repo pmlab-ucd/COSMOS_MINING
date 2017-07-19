@@ -1,0 +1,1 @@
+[[], 'com cp m pos component activity reports activity ', ' void connect ', 'void onResume']

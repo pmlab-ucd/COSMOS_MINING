@@ -1,0 +1,1 @@
+[['UU提示', '绑定手机请先登录！', '确定'], 'com u u call service service rebind$3 ', ' void sendTextMessage ', 'void onClick']

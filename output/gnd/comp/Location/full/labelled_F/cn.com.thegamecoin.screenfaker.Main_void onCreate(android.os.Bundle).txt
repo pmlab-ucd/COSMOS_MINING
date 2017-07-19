@@ -1,0 +1,1 @@
+[[], 'cn com the game coin screen faker main ', ' void requestLocationUpdates ', 'void onCreate']

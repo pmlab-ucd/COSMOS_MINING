@@ -1,0 +1,1 @@
+[['Error occurred while downloading the ROM list! Please contact the developer of this ROM.', 'OK'], 'com kou s hik dutta rom manager rom list ', ' java.lang.String getDeviceId ', 'void onCreate']

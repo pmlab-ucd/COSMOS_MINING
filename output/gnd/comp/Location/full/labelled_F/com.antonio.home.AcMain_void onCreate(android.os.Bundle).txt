@@ -1,0 +1,1 @@
+[['Privacy Policy & Advertising Terms', 'Close', 'Ok'], 'com antonio home ac main ', ' boolean isProviderEnabled ', 'void onCreate']

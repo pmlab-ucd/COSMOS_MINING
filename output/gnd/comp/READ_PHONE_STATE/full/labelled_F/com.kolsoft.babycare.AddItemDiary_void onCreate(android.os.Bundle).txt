@@ -1,0 +1,1 @@
+[[], 'com kol soft baby care add item diary ', ' java.lang.String getDeviceId ', 'void onCreate']

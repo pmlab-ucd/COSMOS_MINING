@@ -1,0 +1,1 @@
+[['Error', 'Failed to load categories, please try again later', 'OK'], '<cnt void onClick']

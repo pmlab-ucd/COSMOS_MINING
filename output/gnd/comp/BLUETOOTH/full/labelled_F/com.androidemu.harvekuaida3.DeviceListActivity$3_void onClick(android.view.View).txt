@@ -1,0 +1,1 @@
+[['\xa0快打旋风3清晰智能版\xa0', '未配对设备', '扫描设备'], 'com android emu har veku aida 3 device list activity$3 ', ' boolean cancelDiscovery ', 'void onClick', 'button_scan']

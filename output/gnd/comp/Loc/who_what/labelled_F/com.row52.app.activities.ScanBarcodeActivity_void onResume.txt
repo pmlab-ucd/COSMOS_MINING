@@ -1,0 +1,1 @@
+[['Scan Barcode', 'SCAN', 'Or', 'Enter Barcode', 'SUBMIT']]

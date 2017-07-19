@@ -1,0 +1,1 @@
+[['error loading picks', 'Retry'], '<lunosoftware sports activities Picks Activity void onDestroy']

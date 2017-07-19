@@ -1,0 +1,1 @@
+[['VIDEO', 'PHOTO', 'SQUARE'], 'com apple camera i camera pro main camera activity ', ' void setAudioSource ']

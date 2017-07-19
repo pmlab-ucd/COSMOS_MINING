@@ -1,0 +1,1 @@
+[['Expert Handicappers', 'Games', 'Teams', 'Standings', 'Set League Alerts', 'Received Alerts', 'Expert Handicappers', 'Settings'], 'lu no software sports activities touts activity ', ' void requestLocationUpdates ', 'void onCreate']

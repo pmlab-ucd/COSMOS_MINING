@@ -1,0 +1,1 @@
+[['App Appearance', 'Done', 'App Color', 'High Contrast']]

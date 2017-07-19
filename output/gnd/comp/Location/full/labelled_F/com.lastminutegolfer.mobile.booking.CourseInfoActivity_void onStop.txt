@@ -1,0 +1,1 @@
+[['Course Info'], 'com last minute golfer mobile booking course info activity ', ' android.location.Location getLastKnownLocation ', 'void onStop']

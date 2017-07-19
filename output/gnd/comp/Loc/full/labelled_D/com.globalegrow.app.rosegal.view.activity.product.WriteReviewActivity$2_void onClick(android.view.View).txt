@@ -1,0 +1,1 @@
+[['Review', 'Upload', '* Rating:', '* Name:', '* Title:', '* Content'], 'void onClick']

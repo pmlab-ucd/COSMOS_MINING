@@ -1,0 +1,1 @@
+[['Settings', '60 ', '6.4k', 'Protect Screen', 'Protect screen when using night mode and full screen clocks.(On Amoled screens Recomended)', 'Fahrenheit / Celsius', 'Fahrenheit (For All Application)', 'ON', 'Refresh Time (Weather)', '30 Min.', '1 Hour', '2 Hours', 'Snooze duration'], '<com mobile rise alarm clock Settings Fragment Activity void onCreate']

@@ -1,0 +1,1 @@
+['<com walk app Data Input Activity void onActivityResult']

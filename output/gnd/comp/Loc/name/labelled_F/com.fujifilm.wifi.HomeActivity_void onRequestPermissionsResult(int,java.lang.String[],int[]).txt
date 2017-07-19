@@ -1,0 +1,1 @@
+['<com fuji film wi fi Home Activity void onRequestPermissionsResult']

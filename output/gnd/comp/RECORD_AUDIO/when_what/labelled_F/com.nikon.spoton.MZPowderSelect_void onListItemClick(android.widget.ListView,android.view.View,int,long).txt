@@ -1,0 +1,1 @@
+MuzzleLoader Bullet Only You selected a Muzzleloader Bullet Only. Select powder charge for this bullet to get approximate velocity based on a 26 inch barrel OK com nikon spot on m z powder select   void <init>  void onListItemClick

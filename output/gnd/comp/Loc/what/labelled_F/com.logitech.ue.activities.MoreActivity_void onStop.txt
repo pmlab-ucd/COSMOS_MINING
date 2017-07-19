@@ -1,0 +1,1 @@
+[['MORE', 'Settings', 'How To', 'Support', 'About']]

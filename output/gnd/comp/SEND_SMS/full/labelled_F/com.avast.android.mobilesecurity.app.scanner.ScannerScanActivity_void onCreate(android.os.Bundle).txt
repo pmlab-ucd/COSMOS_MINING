@@ -1,0 +1,1 @@
+[['Virus Scanner', 'Cancel', 'Scanning apps', '87%', 'Google Play Games', '0 problems', 'Objects scanned', '40', 'Time', '0:02'], 'com avast android mobile security app scanner scanner scan activity ', ' void sendMultipartTextMessage ', 'void onCreate']

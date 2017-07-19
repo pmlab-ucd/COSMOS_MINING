@@ -1,0 +1,1 @@
+[['APP精品推荐'], 'com ku ttl ad boutique activity ', ' java.lang.String getSubscriberId ', 'void onClick']

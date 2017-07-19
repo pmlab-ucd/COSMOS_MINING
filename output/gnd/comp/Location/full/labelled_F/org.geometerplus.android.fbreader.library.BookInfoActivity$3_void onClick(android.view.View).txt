@@ -1,0 +1,1 @@
+[['Read', 'Edit', 'Reload'], 'org geometer plus android fb reader library book info activity$3 ', ' boolean isProviderEnabled ', 'void onClick']

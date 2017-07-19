@@ -1,0 +1,1 @@
+['void onCreate', 'com s coo mpa ads lib full screen offer activity ', ' void <init> ']

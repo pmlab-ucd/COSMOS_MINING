@@ -1,0 +1,1 @@
+[['00:00:00'], 'boolean onCreateOptionsMenu', 'cafe ad riel android audio recorder audio recorder activity ', ' void <init> ']

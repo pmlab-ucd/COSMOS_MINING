@@ -1,0 +1,1 @@
+[['Location permission is needed to track your position', 'Exit', 'Grant'], 'settings_button_layout']

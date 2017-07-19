@@ -1,0 +1,1 @@
+[['Privacy Policy & Advertising Terms', 'Cancel', 'Ok'], 'st gps map current location activity ', ' boolean isProviderEnabled ', 'boolean onCreateOptionsMenu']

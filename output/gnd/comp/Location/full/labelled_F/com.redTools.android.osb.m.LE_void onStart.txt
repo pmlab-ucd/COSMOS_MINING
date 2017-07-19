@@ -1,0 +1,1 @@
+[['Information', 'Wait loading the list.\nWhen the list appears, select the one closest to your location and more similar in altitude.\nThanks.', 'Close', "Don't show again"], 'com tools red android osb m l e ', ' boolean isProviderEnabled ', 'void onStart']

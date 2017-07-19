@@ -1,0 +1,1 @@
+[['Left Rear Corner', 'HELP', 'Tap here to take\n the photo', 'VEHICLE-LEFT REAR CORNER', 'Walk clockwise around the vehicle. Take a photo of the left rear corner of your vehicle. Be sure the entire vehicle is visible in the camera display.', 'BACK', 'NEXT'], 'void onCreate']

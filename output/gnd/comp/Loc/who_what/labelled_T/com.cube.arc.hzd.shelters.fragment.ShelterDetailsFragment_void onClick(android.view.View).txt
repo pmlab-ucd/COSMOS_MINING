@@ -1,0 +1,1 @@
+[['Monitored people', 'No people monitored', 'Add people to your monitored locations! People can be added in the places tab.', 'Got it!']]

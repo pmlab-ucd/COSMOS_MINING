@@ -1,0 +1,1 @@
+[['主界面', '注册领话费', '手机号/ID:', '输入手机号/畅呼ID', '密码:', '输入密码', '忘记密码', '确定'], 'cc free call ip call activity login activity$5 ', ' android.location.Location getLastKnownLocation ', 'void onClick']

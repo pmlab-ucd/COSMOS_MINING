@@ -1,0 +1,1 @@
+[['Creating highlights', 'The app can automatically select highlights from the scenes you have recorded, and save them with added effects.\nYou can change the effects by modifying the settings.', 'Set', 'Scene selection'], 'void onActivityResult', ' void <init> ']

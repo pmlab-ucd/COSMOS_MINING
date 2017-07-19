@@ -1,0 +1,1 @@
+[[], 'com finger soft camera main activity ', ' boolean isProviderEnabled ', 'void onCreate']

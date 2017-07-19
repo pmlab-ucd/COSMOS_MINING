@@ -1,0 +1,1 @@
+[['Locate Demo', 'Network connection is required to locate your phone, continue?', 'OK', 'Cancel'], 'com net qin antivirus anti lost anti lost my location ', ' void requestLocationUpdates ', 'void onCreate']

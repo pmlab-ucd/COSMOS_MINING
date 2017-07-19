@@ -1,0 +1,1 @@
+[[], 'com lbe security ui splash activity ', ' boolean isEnabled ', 'void onResume']

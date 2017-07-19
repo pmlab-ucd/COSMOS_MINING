@@ -1,0 +1,1 @@
+[[], 'com rc platform font photo activity photo picker activity ', ' java.lang.String getDeviceId ', 'void onCreate']

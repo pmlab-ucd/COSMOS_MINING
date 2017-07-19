@@ -1,0 +1,1 @@
+[[], 'com shoot bubble bubble dex lu e shoot bubble activity ', ' boolean isProviderEnabled ', 'void onCreate']

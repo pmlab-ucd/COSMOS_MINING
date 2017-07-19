@@ -1,0 +1,1 @@
+[['Ringtones XL'], 'com ray g bling s quote detail ', ' boolean isProviderEnabled ', 'void onResume']

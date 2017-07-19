@@ -1,0 +1,1 @@
+[['E分聊提示', '设置密保手机请先登录！', '确定'], 'com e fen liao service service rebind$2 ', ' void sendTextMessage ', 'void onClick']

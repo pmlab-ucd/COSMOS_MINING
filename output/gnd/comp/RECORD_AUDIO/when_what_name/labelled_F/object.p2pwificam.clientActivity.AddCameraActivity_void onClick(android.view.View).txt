@@ -1,0 +1,1 @@
+[['Add Camera', 'Done', 'Device Name', 'Device ID', 'User', 'Password', 'Scan ID', 'Lan Search'], 'void onClick', 'object p2pwificam activity client add camera activity ', ' void <init> ']

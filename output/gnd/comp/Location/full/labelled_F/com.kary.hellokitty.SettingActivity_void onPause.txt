@@ -1,0 +1,1 @@
+[['hello kitty动态壁纸设置', '基本设置', '开启基本设置', '已开启', '自动切换壁纸', '已开启自动切换壁纸', '开启雪花飘落', '已开启雪花飘落效果', '效果设置', '开启效果设置', '已关闭', '飘落雪花样式设置', '选择飘落雪花样式', '默认壁纸设置', '选择雪花壁纸', '点击炫彩效果', '已关闭点击炫彩效果', '双击切换图片', '已禁止双击切换壁纸'], 'com kary hello kitty setting activity ', ' android.location.Location getLastKnownLocation ', 'void onPause']

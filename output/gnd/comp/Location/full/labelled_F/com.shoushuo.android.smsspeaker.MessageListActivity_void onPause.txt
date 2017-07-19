@@ -1,0 +1,1 @@
+[['SMS Listen To', 'Select a SMS message'], 'com shou s huo android sms speaker message list activity ', ' boolean isProviderEnabled ', 'void onPause']

@@ -1,0 +1,1 @@
+[[], 'com sam soft facade ad push activity ', ' boolean isProviderEnabled ', 'void onCreate']

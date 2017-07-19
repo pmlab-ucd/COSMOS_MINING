@@ -1,0 +1,1 @@
+[['汉字检索', '点此弹出键盘输入汉字'], 'com l tz dic t characters dic t j characters dict main ', ' void requestLocationUpdates ', 'void onCreate']

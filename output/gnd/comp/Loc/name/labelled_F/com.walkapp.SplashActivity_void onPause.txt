@@ -1,0 +1,1 @@
+['<com walk app Splash Activity void onPause']

@@ -1,0 +1,1 @@
+[['CoolCamHB', 'Click here to add camera'], 'void onConfigurationChanged', ' void <init> ']

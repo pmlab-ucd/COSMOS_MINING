@@ -1,0 +1,1 @@
+[['Other', 'Group', 'Select groups', 'Ringtone', 'Default Ringtone', 'HD Photo (Not Set) ', 'Set HD Contact Photo'], 'intel gee n rocket dial pro contact detail screen$4 ', ' void sendMultipartTextMessage ', 'void onClick']

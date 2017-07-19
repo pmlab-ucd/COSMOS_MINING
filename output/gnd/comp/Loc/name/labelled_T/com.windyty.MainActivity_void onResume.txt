@@ -1,0 +1,1 @@
+['<com windy ty Main Activity void onResume']

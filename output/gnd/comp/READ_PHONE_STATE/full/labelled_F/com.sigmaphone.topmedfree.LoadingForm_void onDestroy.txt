@@ -1,0 +1,1 @@
+[[], 'com sigma phone top med free loading form ', ' java.lang.String getDeviceId ', 'void onDestroy']

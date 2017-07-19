@@ -1,0 +1,1 @@
+[['Loading...'], '<com web md web mdr x prescription details Prescription Details Activity void onRequestPermissionsResult']

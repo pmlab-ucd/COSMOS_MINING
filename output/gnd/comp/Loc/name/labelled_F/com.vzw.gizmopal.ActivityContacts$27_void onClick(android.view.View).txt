@@ -1,0 +1,1 @@
+['<com v zw gizmo pal Activity Contacts$27 void onClick']

@@ -1,0 +1,1 @@
+[['Welcome to Chrome', 'By using this application, you agree to Chrome’s Terms of Service and Privacy Notice.', 'Help make Chrome better by sending usage statistics and crash reports to Google.', 'Accept & continue'], 'com qi hoo 3 6 0 mobile safe opt i switcher switcher activity ', ' int getState ', 'void onCreate']

@@ -1,0 +1,1 @@
+[['Swapit Statistics', 'Tue, 07 February 2017'], 'la swap it post detail activity$15 ', ' boolean isProviderEnabled ', 'void onClick', 'date_container']

@@ -1,0 +1,1 @@
+[['无聊纸牌', '猜猜紅心A是哪一張', '重新玩一次'], 'cn s s app joy terry game test', ' android.telephony.CellLocation getCellLocation ', 'void onResume']

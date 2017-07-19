@@ -1,0 +1,1 @@
+[['Settings', 'Color blind mode'], 'void onCreate']

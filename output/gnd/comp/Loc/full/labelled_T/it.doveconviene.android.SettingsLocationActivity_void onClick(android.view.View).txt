@@ -1,0 +1,1 @@
+[['Location settings', 'Localization', 'Please enter the name of the city you wish to see offers or click on the button to automatically localize', 'Current Location', 'Use current localization'], 'void onClick']

@@ -1,0 +1,1 @@
+Hi, GPaddy Vault found a new APP  installed, tap to lock it. Lock com g paddy app lock ui activity tips lock activity$3   void <init> 

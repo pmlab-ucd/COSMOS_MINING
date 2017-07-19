@@ -1,0 +1,1 @@
+[['Timer', 'Hours', 'Min', 'When timer ends', 'Stop playback', 'Close', 'Start']]

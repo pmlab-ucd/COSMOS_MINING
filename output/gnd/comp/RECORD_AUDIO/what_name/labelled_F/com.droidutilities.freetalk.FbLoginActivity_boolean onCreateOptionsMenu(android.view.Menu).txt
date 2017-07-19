@@ -1,0 +1,1 @@
+[['Login', "you'll need to login to fb with FreeTalk to see your Facebook friends. this is a one time process", 'Continue'], 'com droid utilities free talk fb login activity ', ' void <init> ']

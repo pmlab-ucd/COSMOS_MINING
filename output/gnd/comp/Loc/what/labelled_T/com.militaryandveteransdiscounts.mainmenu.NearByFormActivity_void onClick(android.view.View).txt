@@ -1,0 +1,1 @@
+[['MVDC', 'Enter your ZipCode', 'ZipCode', 'Submit', 'Invite a friend']]

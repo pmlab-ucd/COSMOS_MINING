@@ -1,0 +1,1 @@
+[['Game Information', 'Game Information', 'Yes', 'Not show again'], 'com rao love yy zha j in hua menu activity$2 ', ' boolean isProviderEnabled ', 'void onClick']

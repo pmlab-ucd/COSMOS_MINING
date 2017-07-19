@@ -1,0 +1,1 @@
+[['Sign In', 'Email', 'Sign up', 'Login'], 'com snr ui upload tab ', ' android.hardware.Camera open ', 'void onCreate']

@@ -1,0 +1,1 @@
+[['Game Instructions:', "-> TOUCH and SLIDE your banana to move it anywhere!\n -> Dont let the Angry Monkey snatch your banana!\n -> Watch out for Angry Monkey's Super Moves!!!", 'OK'], 'com t gb kingkong activities splash ', ' void requestLocationUpdates ', 'void onClick']

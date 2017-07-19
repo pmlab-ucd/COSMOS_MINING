@@ -1,0 +1,1 @@
+[['About Us', 'Software Name', 'DroneView', 'Version Number', '2.14', 'cleaning storage', 'Exit'], 'void onCreate', ' void <init> ']

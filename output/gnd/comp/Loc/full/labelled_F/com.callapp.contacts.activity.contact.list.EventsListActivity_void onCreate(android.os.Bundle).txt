@@ -1,0 +1,1 @@
+[['Call reminders', 'Call reminders will appear here', "To add a call reminder, tap on '+'"], 'void onCreate']

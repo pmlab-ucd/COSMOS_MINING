@@ -1,0 +1,1 @@
+[['CHECK-IN PROCESS', 'Step 1', 'Take your picture.', 'Take Picture', 'Cancel Check-in', 'app bail books com check in photo ', 'void onCreate'], 'app bail books com check in photo ', 'void onCreate']

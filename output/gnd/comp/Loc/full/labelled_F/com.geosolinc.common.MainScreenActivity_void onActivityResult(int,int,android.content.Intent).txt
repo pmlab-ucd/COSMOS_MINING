@@ -1,0 +1,1 @@
+[['Username', 'Login', 'Need help?', 'Skip Login'], 'void onActivityResult']

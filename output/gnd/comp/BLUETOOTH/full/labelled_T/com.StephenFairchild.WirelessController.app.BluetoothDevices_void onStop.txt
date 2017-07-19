@@ -1,0 +1,1 @@
+[[], 'com stephen fairchild  wireless controller  app bluetooth devices ', ' boolean cancelDiscovery ', 'void onStop']

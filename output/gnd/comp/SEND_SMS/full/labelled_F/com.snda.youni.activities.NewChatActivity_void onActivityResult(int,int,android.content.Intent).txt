@@ -1,0 +1,1 @@
+[['Change Skin', '天蓝', '粉红', 'Download'], 'com s nda you ni activities new chat activity ', ' void sendTextMessage ', 'void onActivityResult']

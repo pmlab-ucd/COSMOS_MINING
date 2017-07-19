@@ -1,0 +1,1 @@
+[[], 'bit walking misfit misfit device list activity ', ' boolean isEnabled ', 'void onSaveDevice']

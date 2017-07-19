@@ -1,0 +1,1 @@
+['void onClick', 'hoursclock', 'android.widget.ImageView']

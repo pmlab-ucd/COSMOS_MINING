@@ -1,0 +1,1 @@
+[['愚公移山', '两个瞎子', '稚童辩日', '东施效颦', '谁杀陈陀', '得过且过', '南辕北辙', '囫囵吞枣', '长安的肉', '唇亡齿寒', '刻舟求剑'], 'com android mm reader 9 2 0 chart act', ' void listen ', 'boolean onOptionsItemSelected']

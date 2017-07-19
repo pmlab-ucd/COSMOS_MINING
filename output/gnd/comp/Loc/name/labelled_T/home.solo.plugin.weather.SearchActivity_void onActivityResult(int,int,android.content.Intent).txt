@@ -1,0 +1,1 @@
+['<home solo plugin weather Search Activity void onActivityResult']

@@ -1,0 +1,1 @@
+[['Name', 'Phone Number', 'Need Confirmation', 'My social profiles', 'Linked accounts', 'Personal info', 'jameshaofu@gmail.com', 'Add another'], 'void onResume']

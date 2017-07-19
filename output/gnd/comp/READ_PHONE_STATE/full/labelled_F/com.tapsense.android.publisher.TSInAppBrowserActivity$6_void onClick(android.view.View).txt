@@ -1,0 +1,1 @@
+[[], 'com tap sense android publisher t s in app browser activity$6 ', ' void listen ', 'void onClick']

@@ -1,0 +1,1 @@
+[[], 'com lp p wallpaper settings ', ' java.lang.String getDeviceId ', 'void onBackPressed']

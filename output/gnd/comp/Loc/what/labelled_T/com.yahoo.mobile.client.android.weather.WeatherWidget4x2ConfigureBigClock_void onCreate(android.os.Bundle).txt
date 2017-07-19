@@ -1,0 +1,1 @@
+[['1:00', 'Sunday, February 5', 'Davis', 'Cloudy', '49°', 'Widget Settings', 'Show Flickr photo', 'Location', 'Current Location', 'Create Widget']]

@@ -1,0 +1,1 @@
+[['切换城市', '输入城市名或首字母查找', 'GPS定位', '正在定位', '热门城市', '北京', '上海', '广州', '深圳', '天津', '南京', '杭州', '济南', '重庆'], 'cn bud ing coupon activity switch city activity ', ' java.lang.String getBestProvider ', 'void onCreate']

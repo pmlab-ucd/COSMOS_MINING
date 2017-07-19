@@ -1,0 +1,1 @@
+[['Edit My Thing', 'DESIGN', 'MADE'], '<com thing i verse widget Custom View Pager boolean onTouchEvent']

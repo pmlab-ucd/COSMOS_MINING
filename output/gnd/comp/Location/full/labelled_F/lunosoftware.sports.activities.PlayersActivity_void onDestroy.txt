@@ -1,0 +1,1 @@
+[['NBA Players', 'Games', 'Teams', 'Standings', 'Players', 'League Leaders', 'Set League Alerts', 'Received Alerts', 'Expert Handicappers', 'Settings'], 'lu no software sports activities players activity ', ' void requestLocationUpdates ', 'void onDestroy']

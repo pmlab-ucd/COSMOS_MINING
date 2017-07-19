@@ -1,0 +1,1 @@
+[['Review this app', 'mPoints', 'IF YOU LIKE THIS APP, YOU MAY LIKE', 'Giftcard Slots', 'Get mPOINTS playing Slots!', 'History Events', 'Past events with their dates', 'Bible Quotes', 'Quotes from the Bible', 'Mindful Quotes', 'Mindfulness inspiration'], 'com h rd ui more activity ', ' android.location.Location getLastKnownLocation ', 'void onResume']

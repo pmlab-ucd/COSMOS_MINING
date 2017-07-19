@@ -1,0 +1,1 @@
+['<com macro video v380 Smart Link Quick Wifi Config Activity void onClick']

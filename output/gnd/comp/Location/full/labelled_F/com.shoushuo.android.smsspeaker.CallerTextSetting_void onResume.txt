@@ -1,0 +1,1 @@
+[['Caller reporting text', 'Call text mode', 'Default', 'Text before caller', 'Text after caller', 'Repetition', 'Once', '[Caller]来电'], 'com shou s huo android sms speaker caller text setting ', ' boolean isProviderEnabled ', 'void onResume']

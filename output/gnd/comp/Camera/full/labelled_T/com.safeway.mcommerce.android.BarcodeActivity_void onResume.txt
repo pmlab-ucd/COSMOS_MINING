@@ -1,0 +1,1 @@
+[['Cancel', 'Light', 'History'], 'com safeway m commerce android barcode activity ', ' android.hardware.Camera open ', 'void onResume']

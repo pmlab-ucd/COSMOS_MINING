@@ -1,0 +1,1 @@
+[['Edit nickname', 'Default', 'Save'], 'void onActivityResult']

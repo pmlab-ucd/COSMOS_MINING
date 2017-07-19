@@ -1,0 +1,1 @@
+[['领取话费', '登录', '请输入11位手机号', '请输入真实的手机号码领取体验话费，最高可免费领取100分钟通话奖励，领取话费后您即可使用SKY拨打电话。', '免费领取话费'], 'com sky call oem welcome kc welcome new register activity$5 ', ' void sendTextMessage ', 'void onClick']

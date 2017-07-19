@@ -1,0 +1,1 @@
+[['CHOOSE LOCATION', '* Hold and move pin to change location.'], 'com project dialog map activity ', ' boolean isProviderEnabled ', 'void onCreate']

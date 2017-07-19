@@ -1,0 +1,1 @@
+[['All Places', 'Tap on map for select location', 'No saved locations'], 'apply_loc_button', 'android.widget.ImageButton']

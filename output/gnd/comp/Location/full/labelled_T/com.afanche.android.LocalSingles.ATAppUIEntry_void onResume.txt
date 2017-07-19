@@ -1,0 +1,1 @@
+[['Local Singles', 'Search', 'Profile', 'Mail', 'Find you the right date! ', 'Looking For : ', 'Unknown', 'Age :  between ', '25', ' and ', '35', '    Search    '], 'com a fan che android local singles  a t app u i entry ', ' void requestLocationUpdates ', 'void onResume']

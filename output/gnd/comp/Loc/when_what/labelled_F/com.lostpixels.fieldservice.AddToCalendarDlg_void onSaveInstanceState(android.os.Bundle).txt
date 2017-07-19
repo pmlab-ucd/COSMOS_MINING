@@ -1,0 +1,1 @@
+[['Ministry Assistant', 'TODAY AT A GLANCE', 'No ministry cards to display right now\nSwipe to open the menu'], '<com lost pixels field service Add To Calendar Dlg void onSaveInstanceState']

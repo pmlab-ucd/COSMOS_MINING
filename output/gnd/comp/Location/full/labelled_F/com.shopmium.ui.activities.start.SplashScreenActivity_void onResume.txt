@@ -1,0 +1,1 @@
+[['get cash back on your shopping', 'Register', 'Log In'], 'com shop miu m ui activities start splash screen activity ', ' java.util.List getProviders ', 'void onResume']

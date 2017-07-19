@@ -1,0 +1,1 @@
+[['SuiConFo'], 'com magic sms own magic s m s activity ', ' void sendTextMessage ', 'void onCreate']

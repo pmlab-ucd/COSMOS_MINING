@@ -1,0 +1,1 @@
+[['EQUALIZER', 'Custom', 'The Standard', 'Bass Jump'], 'void onStop']

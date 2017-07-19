@@ -1,0 +1,1 @@
+[['Type here', 'Abdominal Pain', 'Anorexia', 'Breast Discharge', 'Chest Pain', 'Confusion', 'Constipation', 'Cough', 'Diarrhea', 'Dyspepsia ( Indigestion )', 'Dysphagia'], 'com wisdom differential diagnosis free symptoms ', ' boolean isProviderEnabled ', 'boolean onOptionsItemSelected']

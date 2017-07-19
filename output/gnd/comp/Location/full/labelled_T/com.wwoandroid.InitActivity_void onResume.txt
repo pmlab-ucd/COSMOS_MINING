@@ -1,0 +1,1 @@
+[['Initializing...'], 'com ww o android init activity ', ' java.util.List getProviders ', 'void onResume']

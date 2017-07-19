@@ -1,0 +1,1 @@
+['<com map rika Map View Activity$7 void onClick']

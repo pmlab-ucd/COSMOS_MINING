@@ -1,0 +1,1 @@
+[['SMS Listen To', 'Message is being spoken...\nTouch screen to stop.'], 'com shou s huo android sms speaker message speaking ', ' boolean isProviderEnabled ', 'void onResume']

@@ -1,0 +1,1 @@
+[['no people ask question', 'Stranger Chat', 'Questions', 'Disconnect', 'Connect success', 'hi', 'Ask', 'Send'], 'com ming tian photo camera chat activity$12 ', ' boolean isProviderEnabled ', 'void onClick', 'BtnOK']

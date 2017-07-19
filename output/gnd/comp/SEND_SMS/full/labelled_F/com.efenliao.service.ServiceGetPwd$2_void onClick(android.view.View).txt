@@ -1,0 +1,1 @@
+[['取回密码', '请输入您的手机号： ', '取回密码', 'E分聊国内长途低至5分钱/分钟,\n注册最高赠送60分钟,VIP用户夜间免费打电话'], 'com e fen liao service service get pwd$2 ', ' void sendTextMessage ', 'void onClick']

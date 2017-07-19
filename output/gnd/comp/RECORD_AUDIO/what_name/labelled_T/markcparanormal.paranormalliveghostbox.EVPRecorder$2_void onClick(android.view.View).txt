@@ -1,0 +1,1 @@
+[['EVP Recorder', 'Do not press back when recording. Files are saved to paranormal live ghost box folder, in your device storage', 'Record', 'Stop'], 'mark c paranormal paranormal live ghost box e v p recorder$2 ', ' void <init> ']

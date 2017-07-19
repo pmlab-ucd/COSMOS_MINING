@@ -1,0 +1,1 @@
+[['Strobe Light'], 'com crazy s of tech crazy flashlight flash light ', ' android.hardware.Camera open ', 'void onCreate']

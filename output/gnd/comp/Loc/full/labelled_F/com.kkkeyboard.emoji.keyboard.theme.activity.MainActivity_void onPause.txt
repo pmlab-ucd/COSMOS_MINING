@@ -1,0 +1,1 @@
+[['Pink Glitter', 'Activate', 'More Themes'], 'void onPause']

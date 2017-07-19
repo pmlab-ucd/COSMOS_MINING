@@ -1,0 +1,1 @@
+[['Or', 'Log In With ', 'ROW', '52', 'Username'], 'com row 5 2 app activities favorites activity ', ' android.location.Location getLastKnownLocation ', 'void onResume']

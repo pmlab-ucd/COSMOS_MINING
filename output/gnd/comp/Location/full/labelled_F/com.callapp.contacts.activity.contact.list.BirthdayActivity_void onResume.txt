@@ -1,0 +1,1 @@
+[['Birthdays'], 'com call app contacts activity contact list birthday activity ', ' android.location.Location getLastKnownLocation ', 'void onResume']

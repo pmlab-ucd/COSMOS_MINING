@@ -1,0 +1,1 @@
+[['add custom catalog', '目录网址', '*', '例如: http://m.gutenberg.org/', 'Ok', 'Cancel'], 'org geometer plus android fb reader network add custom catalog activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

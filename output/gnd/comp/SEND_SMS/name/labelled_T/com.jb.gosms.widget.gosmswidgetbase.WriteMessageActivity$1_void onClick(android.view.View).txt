@@ -1,0 +1,1 @@
+['void onClick', '<com jb go sms widget go sms widget base Write Message Activity$1']

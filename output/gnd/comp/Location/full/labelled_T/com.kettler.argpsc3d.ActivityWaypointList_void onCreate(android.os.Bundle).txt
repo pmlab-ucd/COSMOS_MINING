@@ -1,0 +1,1 @@
+[['Waypoints', 'Manage your waypoints'], 'com kettle r ar gps c 3 d activity waypoint list ', ' android.location.Location getLastKnownLocation ', 'void onCreate']

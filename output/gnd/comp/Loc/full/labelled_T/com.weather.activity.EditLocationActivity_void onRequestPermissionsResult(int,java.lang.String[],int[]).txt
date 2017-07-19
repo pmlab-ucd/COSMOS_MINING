@@ -1,0 +1,1 @@
+[['    Add City', ' Current Location', 'OFF', 'My Locations'], 'void onRequestPermissionsResult']

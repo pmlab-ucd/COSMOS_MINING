@@ -1,0 +1,1 @@
+[['设置帐号', '您还未设置账号，先设置账号后方可使用', '3G号或手机号:', '密码:', '保存设置', '3G电话首次注册成功最高赠送60分钟免费通话，国内长途低至3分', '立即注册'], 'com sang call recharge recharge all$1 ', ' void sendTextMessage ', 'void onClick']

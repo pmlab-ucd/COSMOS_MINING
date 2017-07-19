@@ -1,0 +1,1 @@
+[[], 'com project android change state ', ' java.lang.String getDeviceId ', 'void onStop']

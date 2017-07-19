@@ -1,0 +1,1 @@
+[['Fishing Knots Lite', 'Disable Ads', 'Settings', 'Language', 'Supported languages', 'Rate & review', 'Share', 'OTHER APPS', 'mp-fish.com', 'Fishing journal'], 'void onCreate']

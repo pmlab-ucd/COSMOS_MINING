@@ -1,0 +1,1 @@
+[['返回', '加载失败', '立即刷新'], 'com s nda recommend ui html app detail activity ', ' void sendTextMessage ', 'void onCreate']

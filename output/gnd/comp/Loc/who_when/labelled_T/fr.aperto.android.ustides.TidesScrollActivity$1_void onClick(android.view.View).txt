@@ -1,0 +1,1 @@
+['void onClick', 'locationsButton', 'android.widget.ImageButton']

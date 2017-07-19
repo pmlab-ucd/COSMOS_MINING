@@ -1,0 +1,1 @@
+[['Thing Posted!', 'Thing Posted!', 'Your thing has been posted to Thingiverse. Take a moment to share it across your networks!', 'Share with Friends', 'Continue']]

@@ -1,0 +1,1 @@
+[['VBlocker ', 'Blocklist', 'Calls', 'Sms', "Tap 'Add' to add numbers for blocking.", 'Add'], 'void onActivityResult']

@@ -1,0 +1,1 @@
+tag remove share com q is i sticker sticker image custom activity   void <init>  void onCreate

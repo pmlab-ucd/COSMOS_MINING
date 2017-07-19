@@ -1,0 +1,1 @@
+[[], 'com u uc un ad sdk offer activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

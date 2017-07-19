@@ -1,0 +1,1 @@
+[[], 'qi yi nong zhuang com shand ian zha nji splash1 ', ' boolean isProviderEnabled ', 'void onCreate']

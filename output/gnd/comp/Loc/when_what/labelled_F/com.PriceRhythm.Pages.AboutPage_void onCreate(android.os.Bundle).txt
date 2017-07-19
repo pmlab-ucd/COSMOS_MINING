@@ -1,0 +1,1 @@
+[['ABOUT', 'View introduction video', 'Visit our site', 'Contact us', 'Our Facebook page', 'Terms of service', 'Version: 5_0', 'Barcode decoding powered by ZXing & ScandIt', 'Icons provided by TheNounProject.com'], '<com Price Rhythm Pages About Page void onCreate']

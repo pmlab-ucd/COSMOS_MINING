@@ -1,0 +1,1 @@
+[["Who's Calling?", '"Who\'s Calling? PRO" is not limited in the number of active apps.', '"Who\'s Calling? PRO" is free of ads.', '"Who\'s Calling? PRO" grants you access to the hands-free mode.', 'PRO (purchase)', 'PRO (sponsored)'], 'de ph l who s calling billing activity go pro ', ' android.location.Location getLastKnownLocation ', 'void onActivityResult']

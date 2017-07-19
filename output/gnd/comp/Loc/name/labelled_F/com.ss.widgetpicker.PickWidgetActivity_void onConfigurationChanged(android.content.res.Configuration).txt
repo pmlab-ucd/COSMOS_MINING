@@ -1,0 +1,1 @@
+['<com ss widget picker Pick Widget Activity void onConfigurationChanged']

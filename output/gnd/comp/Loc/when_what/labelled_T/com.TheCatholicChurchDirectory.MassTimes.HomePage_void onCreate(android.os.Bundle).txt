@@ -1,0 +1,1 @@
+[['Nearby Churches', 'Search by Address', 'Browse Directory', 'Quick Search', 'Bookmarked Churches', 'Bookmarked Businesses', 'Businesses', 'Readings', 'Saints', 'Videos', 'More'], '<com The Catholic Church Directory Mass Times Home Page void onCreate']

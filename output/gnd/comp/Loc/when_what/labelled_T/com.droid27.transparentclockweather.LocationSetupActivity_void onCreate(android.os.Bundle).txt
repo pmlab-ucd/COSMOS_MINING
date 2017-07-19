@@ -1,0 +1,1 @@
+[['Found location:', 'Your location is Davis, California. Do you want to use it?', 'No', 'Yes'], '<com droid 2 7 transparent clock weather Location Setup Activity void onCreate']

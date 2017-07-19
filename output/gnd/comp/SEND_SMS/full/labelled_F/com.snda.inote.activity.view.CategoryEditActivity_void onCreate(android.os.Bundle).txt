@@ -1,0 +1,1 @@
+[['取消', '新增分类', '保存', '分类名称:', '请输入分类的名称', '分类类型:', '私人笔记'], 'com s nda i note activity view category edit activity ', ' void sendTextMessage ', 'void onCreate']

@@ -1,0 +1,1 @@
+[['My places', "No places added to your list so far.\nTo add a place tap 'plus' button at top right, or long press on any place on map on the main screen.", 'Show my places on map'], 'boolean onSingleTapConfirmed', 'onlineview']

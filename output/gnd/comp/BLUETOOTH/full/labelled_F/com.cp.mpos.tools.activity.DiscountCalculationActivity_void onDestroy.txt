@@ -1,0 +1,1 @@
+[[], 'com cp m pos tools activity discount calculation activity ', ' void connect ', 'void onDestroy']

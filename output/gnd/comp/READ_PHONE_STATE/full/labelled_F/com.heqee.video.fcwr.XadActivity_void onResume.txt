@@ -1,0 +1,1 @@
+[['去广告', '免费赚积分', '正在读取...', '提示：只要您的积分达到200积分就可以去掉应用里的所有广告。赶快去免费赚取积分吧。\n      达到200后如果还有广告请重新运行本应用。'], 'com he qe e video fcw r xad activity ', ' void listen ', 'void onResume']

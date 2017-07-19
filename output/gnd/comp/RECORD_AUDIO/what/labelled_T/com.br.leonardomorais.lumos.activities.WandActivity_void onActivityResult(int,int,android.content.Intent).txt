@@ -1,0 +1,4 @@
+Ways to use the app Say "Lumos" to turn the light on 
+ and "Nox" to turn it off Shake the smartphone to turn 
+ the light on and off Tap the screen and hold it 
+ to turn on the light Got it   < c o m call dorado android ui settings activity   void <init> 

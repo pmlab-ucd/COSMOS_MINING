@@ -1,0 +1,1 @@
+[['Near Me', '7185.05 miles', 'The End Zone', '7185.05 miles from your current location', '<1 min by car', '7185.05 miles', 'Magical Moments', '7185.05 miles from your current location', '<1 min by car']]

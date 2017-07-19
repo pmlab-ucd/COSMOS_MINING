@@ -1,0 +1,1 @@
+Set connect. dest. 1 2 3 com panasonic a vc cng view setting setup connect setting activity   void <init>  void onCreate

@@ -1,0 +1,1 @@
+[['Welcome to ilocateMobile!', 'jameshaofu@gmail.com', 'Log In', 'Forgot password?'], 'void onStop']

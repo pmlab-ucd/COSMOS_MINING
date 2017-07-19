@@ -1,0 +1,1 @@
+[['Username', 'Login', 'Need help?', 'Skip Login'], '<com geo sol inc common Main Screen Activity void onResume']

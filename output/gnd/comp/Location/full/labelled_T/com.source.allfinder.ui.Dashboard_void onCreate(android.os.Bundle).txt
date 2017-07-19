@@ -1,0 +1,1 @@
+[['Around You', 'RESTAURANT', 'HOSPITAL', 'MOVIE', 'SHOPPING', 'ATM', 'MORE', 'ROUTE FINDER', 'SHARE ME', 'SELECT CITY', '(Current Location)', 'Have Feedback/Issue ?', 'Set Radius'], 'com source all finder ui dashboard ', ' boolean isProviderEnabled ', 'void onCreate']

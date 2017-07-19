@@ -1,0 +1,1 @@
+[['MADE WITH PIXLR', 'Oops!\nNo internet connection\nPlease try again', 'Retry'], 'com pix lr feeds ui head foot recycler view ', ' void <init> ', 'recyler_feeds']

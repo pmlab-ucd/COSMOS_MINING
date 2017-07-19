@@ -1,0 +1,1 @@
+[['Find Location', 'Lat', 'Lon', 'GPS', 'info', 'Add Location', 'Get Weather Forecast'], 'void onStart']

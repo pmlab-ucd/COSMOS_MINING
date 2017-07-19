@@ -1,0 +1,1 @@
+[['Local Weather', '58°F', 'Davis, CA', 'Small Craft Advisory', 'Saturday', '60', '47', ' ', 'Sunday', '59', '51', ' ', 'Monday', '55', '46', ' ', 'Tuesday', '58', '55', ' ', 'Wednesday', '61', '55', ' ']]

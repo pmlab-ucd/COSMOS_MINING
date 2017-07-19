@@ -1,0 +1,1 @@
+[['Bubble', 'Start', 'Setting'], 'com ra soft bubble main activity ', ' boolean isProviderEnabled ', 'void onCreate']

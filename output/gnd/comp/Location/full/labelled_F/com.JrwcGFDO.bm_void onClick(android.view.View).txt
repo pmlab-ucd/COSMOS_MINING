@@ -1,0 +1,1 @@
+[['软件详情页', '无相关结果'], 'com jrwc g f d o  bm', ' java.lang.String getBestProvider ', 'void onClick']

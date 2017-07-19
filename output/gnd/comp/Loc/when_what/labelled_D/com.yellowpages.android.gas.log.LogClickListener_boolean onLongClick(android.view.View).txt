@@ -1,0 +1,1 @@
+[['Settings', 'Done', 'Gas Grade', 'Regular', 'Midgrade', 'Premium', 'Diesel', 'About Gas Guru'], '<com yellow pages android gas log Log Click Listener boolean onLongClick']

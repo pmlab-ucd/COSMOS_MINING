@@ -1,0 +1,1 @@
+[['6/15'], 'hr pod la nica slider', ' void requestLocationUpdates ', 'void onStart']

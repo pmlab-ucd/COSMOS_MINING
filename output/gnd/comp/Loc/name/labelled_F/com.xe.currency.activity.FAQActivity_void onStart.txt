@@ -1,0 +1,1 @@
+['<com xe currency activity F A Q Activity void onStart']

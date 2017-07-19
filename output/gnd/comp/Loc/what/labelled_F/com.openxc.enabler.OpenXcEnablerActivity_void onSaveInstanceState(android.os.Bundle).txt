@@ -1,0 +1,1 @@
+[['OpenXC Enabler', 'Settings', 'Status', 'Dashboard', 'Active Connections', 'None', 'Messages Received', '0', 'VI Version', 'VI Device ID', 'Search for Bluetooth VI']]

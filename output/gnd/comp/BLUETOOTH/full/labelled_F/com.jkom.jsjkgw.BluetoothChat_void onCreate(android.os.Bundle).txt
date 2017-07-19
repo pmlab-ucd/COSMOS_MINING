@@ -1,0 +1,1 @@
+[['An app wants to turn on Bluetooth.', 'Deny', 'Allow'], 'com j kom j sjk gw bluetooth chat ', ' java.util.Set getBondedDevices ', 'void onCreate']

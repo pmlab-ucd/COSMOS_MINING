@@ -1,0 +1,1 @@
+[['Create account', 'Continue with Facebook', "This doesn't let the app post to Facebook.", 'OR', 'Sign up with email'], '<com proto geo moves ui phone Create Account Selector Activity void onActivityResult']

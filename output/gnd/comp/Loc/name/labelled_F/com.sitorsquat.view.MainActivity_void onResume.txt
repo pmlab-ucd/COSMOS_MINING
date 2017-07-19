@@ -1,0 +1,1 @@
+['<com s it or squat view Main Activity void onResume']

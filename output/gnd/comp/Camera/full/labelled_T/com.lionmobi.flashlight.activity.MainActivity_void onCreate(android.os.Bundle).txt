@@ -1,0 +1,1 @@
+[['POWER', 'LIGHT', 'FLASH', "I'M LUCKY", 'CLEANER'], 'com lion mob i flashlight activity main activity ', ' android.hardware.Camera open ', 'void onCreate']

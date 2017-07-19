@@ -1,0 +1,1 @@
+[['FAVORITE', 'List is empty.\n\n'], 'com app follower util resent favorite user ', ' android.location.Location getLastKnownLocation ', 'void onStart']

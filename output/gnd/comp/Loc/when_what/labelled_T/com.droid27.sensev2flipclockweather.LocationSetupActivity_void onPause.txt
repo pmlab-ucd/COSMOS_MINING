@@ -1,0 +1,1 @@
+[['Select location', 'Found location:', 'Davis, California', 'Tap here to retry...', 'Enter location:'], '<com droid 2 7 sense v 2 f l i p c l o c k w e a t h e r Location Setup Activity void onPause']

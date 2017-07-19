@@ -1,0 +1,1 @@
+[[], 'com run double companion about activity ', ' java.lang.String getDeviceId ', 'void onCreate']

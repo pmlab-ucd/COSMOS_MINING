@@ -1,0 +1,1 @@
+['void onClick', 'com jb go keyboard theme t me flowers kb d vero base activate activity$1 ', ' void <init> ', 'activate_button']

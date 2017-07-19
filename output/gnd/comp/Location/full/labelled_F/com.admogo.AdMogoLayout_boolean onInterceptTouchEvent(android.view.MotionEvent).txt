@@ -1,0 +1,1 @@
+[['Enter the text to translate', 'Translate From', 'English', 'Translate To', 'Chinese', 'OK', 'Swap languages', 'The translation will appear here'], 'com ad mogo ad mogo layout ', ' void requestLocationUpdates ', 'boolean onInterceptTouchEvent', 'mogo_layout_imageview']

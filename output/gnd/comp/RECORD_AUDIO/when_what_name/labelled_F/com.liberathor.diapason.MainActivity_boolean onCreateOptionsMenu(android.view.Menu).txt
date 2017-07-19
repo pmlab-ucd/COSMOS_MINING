@@ -1,0 +1,1 @@
+[['Off', 'Outdoor', 'Super ear'], 'boolean onCreateOptionsMenu', 'com liber a thor diapason main activity ', ' void <init> ']

@@ -1,0 +1,1 @@
+[['Scan Your Tickets', 'Place a barcode inside the viewfinder to scan it', 'Done Scanning'], 'com experience android integration z xing capture activity ', ' android.hardware.Camera open ', 'void onResume']

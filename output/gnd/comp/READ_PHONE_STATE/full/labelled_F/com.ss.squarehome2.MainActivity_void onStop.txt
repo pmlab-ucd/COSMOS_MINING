@@ -1,0 +1,1 @@
+[[], 'com ss square home 2 main activity ', ' android.telephony.CellLocation getCellLocation ', 'void onStop']

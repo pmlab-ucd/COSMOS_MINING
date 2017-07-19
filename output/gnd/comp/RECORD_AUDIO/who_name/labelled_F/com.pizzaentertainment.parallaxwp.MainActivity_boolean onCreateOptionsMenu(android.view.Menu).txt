@@ -1,0 +1,1 @@
+['<com pizza entertainment parallax wp main activity ', ' void <init> ']

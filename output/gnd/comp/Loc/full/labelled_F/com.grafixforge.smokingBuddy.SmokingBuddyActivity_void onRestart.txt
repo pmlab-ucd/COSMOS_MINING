@@ -1,0 +1,1 @@
+[['Email:', 'Password:', 'Login', 'Sign Up', 'SmokingBuddy', 'App.com', 'Your Preferences', 'Brand: ', 'Basic Blue Pack(Ultra Lights)', 'Range: ', '1', ' miles', 'Find Cheapest Price'], 'void onRestart']

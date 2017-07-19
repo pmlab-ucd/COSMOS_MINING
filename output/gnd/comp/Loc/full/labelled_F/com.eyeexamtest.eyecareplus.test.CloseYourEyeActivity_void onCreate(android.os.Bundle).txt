@@ -1,0 +1,1 @@
+[['close your right eye', 'ready'], 'void onCreate']

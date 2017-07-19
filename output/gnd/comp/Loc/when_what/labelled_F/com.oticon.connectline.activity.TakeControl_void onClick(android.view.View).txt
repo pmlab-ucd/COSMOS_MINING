@@ -1,0 +1,1 @@
+[['Another device has control of the Streamer', 'Take Control', 'Continue in Demo Mode'], '<com ot icon connect line activity Take Control void onClick']

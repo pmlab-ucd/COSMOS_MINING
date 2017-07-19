@@ -1,0 +1,1 @@
+[['Review this app', 'mPoints', 'IF YOU LIKE THIS APP, YOU MAY LIKE', 'Giftcard Slots', 'Get mPOINTS playing Slots!', 'Did you know?', "interesting facts you didn't know", 'History Events', 'Past events with their dates', 'Bible Quotes', 'Quotes from the Bible'], 'void onResume']

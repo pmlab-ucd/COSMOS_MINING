@@ -1,0 +1,1 @@
+[['Make a plan', 'Outside home meeting point', 'Add a home meeting point', 'The first meeting point for your family should be right outside your home.', 'Outside neighborhood meeting point', 'Add an outside meeting point', 'The second meeting point for your family should be right outside your neighborhood, in case you cannot return home.', 'Evacuation Point', 'Enter location']]

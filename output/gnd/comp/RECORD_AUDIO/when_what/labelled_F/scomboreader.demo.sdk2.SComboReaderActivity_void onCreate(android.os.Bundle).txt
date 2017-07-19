@@ -1,0 +1,2 @@
+SComboReaderII Initial Clear Msg Exit Get Ver Battery Get UID Sleep Timer: Set (00) Non-encryption Select >>>>>>APP initialized. 
+Request AudioFocus: true Library version: SComboReaderII_Lib_V1.7 Phone model: Nexus 5 Card Reader Function Set key Function s combo reader demo sdk 2 s combo reader activity   void <init>  void onCreate

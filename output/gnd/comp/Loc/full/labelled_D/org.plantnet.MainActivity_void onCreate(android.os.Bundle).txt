@@ -1,0 +1,1 @@
+[['Western Europe', 'Projects', 'News', 'Explorer', 'My observations', 'No data available'], 'void onCreate']

@@ -1,0 +1,1 @@
+[['找回密码', '请输入您的手机号:', '请正确填写与帐户注册的手机号码，密码将发送到注册的手机号码上.', '提交', '返回'], 'cc free call ip call activity forget pwd activity ', ' android.location.Location getLastKnownLocation ', 'void onPause']

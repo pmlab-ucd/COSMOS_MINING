@@ -1,0 +1,1 @@
+[['Rate & Review', 'Please rate the application and/or provide some feedback. We would like to know what you like about the application and what we can improve on.', 'Rating', 'Feedback & Review', '(Optional)'], 'com android upgrade battery rating activity ', ' java.lang.String getAddress ', 'void onClick']

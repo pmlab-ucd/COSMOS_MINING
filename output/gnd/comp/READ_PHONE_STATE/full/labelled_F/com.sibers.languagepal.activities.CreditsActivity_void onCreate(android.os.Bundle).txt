@@ -1,0 +1,1 @@
+[[], 'com sib ers language pal activities credits activity ', ' java.lang.String getDeviceId ', 'void onCreate']

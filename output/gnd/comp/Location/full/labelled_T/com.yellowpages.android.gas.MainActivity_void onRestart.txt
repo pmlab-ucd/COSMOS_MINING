@@ -1,0 +1,1 @@
+[['BEST NEARBY', '2.359', 'Regular gas near 434 La Rue Road, Davis, California', 'BEST = top 20% | GOOD = top 50%'], 'com yellow pages android gas main activity ', ' boolean isProviderEnabled ', 'void onRestart']

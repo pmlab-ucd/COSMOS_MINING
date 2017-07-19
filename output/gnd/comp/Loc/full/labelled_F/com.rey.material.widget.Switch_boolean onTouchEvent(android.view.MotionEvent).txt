@@ -1,0 +1,1 @@
+[['Alert', 'No Referrer Code Available!!', 'OK'], 'boolean onTouchEvent', 'switch_on_off']

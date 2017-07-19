@@ -1,0 +1,1 @@
+['<com android camera Crop Image$2 void onClick']

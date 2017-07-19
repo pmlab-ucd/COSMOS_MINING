@@ -1,0 +1,1 @@
+[[], 'com www hz wb b main activity ', ' android.location.Location getLastKnownLocation ', 'void onPause']

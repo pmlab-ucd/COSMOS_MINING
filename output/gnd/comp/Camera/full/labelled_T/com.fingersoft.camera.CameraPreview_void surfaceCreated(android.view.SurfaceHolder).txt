@@ -1,0 +1,1 @@
+[[], 'com finger soft camera camera preview ', ' android.hardware.Camera open ', 'void surfaceCreated']

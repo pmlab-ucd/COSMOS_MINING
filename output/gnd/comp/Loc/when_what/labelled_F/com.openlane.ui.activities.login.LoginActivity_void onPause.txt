@@ -1,0 +1,1 @@
+[['Username', 'Login', 'Forgot your Username or Password?', 'For questions or concerns, please contact Customer Connection: 1-888-526-7326', 'Version 1.9'], '<com open lane ui activities login Login Activity void onPause']

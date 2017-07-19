@@ -1,0 +1,1 @@
+[['Username:', 'Password:', 'Sign In', 'Forgot Username', 'Forgot Password'], 'com com data com data mobile activity login activity ', ' java.lang.String getBestProvider ', 'void onDestroy']

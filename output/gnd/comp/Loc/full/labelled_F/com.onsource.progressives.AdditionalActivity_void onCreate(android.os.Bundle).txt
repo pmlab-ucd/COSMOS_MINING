@@ -1,0 +1,1 @@
+[['Additional Photos', 'HELP', 'PHOTO1', "Add up to 10 additional photos that you think will help our estimators. If you don't have additional photos to add, tap 'next'.", 'BACK', 'NEXT'], 'void onCreate']

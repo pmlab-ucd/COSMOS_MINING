@@ -1,0 +1,1 @@
+[['Search by Voice', 'Speak your search query now.\nRecording will finish when\nsilence is detected'], 'void onDestroy']

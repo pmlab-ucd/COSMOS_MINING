@@ -1,0 +1,1 @@
+[['NW 299°', 'Morse', 'Color'], 'com peacock flashlight activity main activity$4 ', ' android.hardware.Camera open ', 'void onClick']

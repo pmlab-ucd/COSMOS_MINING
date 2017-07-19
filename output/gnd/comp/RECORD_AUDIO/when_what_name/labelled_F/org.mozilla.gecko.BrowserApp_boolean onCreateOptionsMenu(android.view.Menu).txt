@@ -1,0 +1,1 @@
+[['about:accounts?action=signup'], 'boolean onCreateOptionsMenu', 'org mozilla gecko browser app ', ' void <init> ']

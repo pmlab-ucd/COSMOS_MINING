@@ -1,0 +1,1 @@
+[['map'], 'com tr over activity discovery detail activity ', ' android.location.Location getLastKnownLocation ', 'void onActivityResult']

@@ -1,0 +1,1 @@
+[[], 'com q is i plugin activities main activity ', ' java.lang.String getDeviceId ', 'void onResume']

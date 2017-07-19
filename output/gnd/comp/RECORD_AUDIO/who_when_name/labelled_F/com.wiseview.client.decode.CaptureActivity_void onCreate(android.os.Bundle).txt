@@ -1,0 +1,1 @@
+['void onCreate', 'com wise view client decode capture activity ', ' void <init> ']

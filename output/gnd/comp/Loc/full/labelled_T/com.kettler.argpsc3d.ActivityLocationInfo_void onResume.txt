@@ -1,0 +1,1 @@
+[['Latitude', '38:32.08475', 'Longitude', '-121:45.1523', 'Altitude', '---', 'Accuracy', '20m', 'Velocity', '---', 'Heading', '---', 'Pitch', '---', 'Roll', '---', 'Magnetic Field Strength', '---'], 'void onResume']

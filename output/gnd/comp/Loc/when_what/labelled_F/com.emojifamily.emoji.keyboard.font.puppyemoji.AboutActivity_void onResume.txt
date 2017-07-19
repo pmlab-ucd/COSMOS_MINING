@@ -1,0 +1,1 @@
+[['About', 'Puppy Emoji', 'v1.0.1', 'Update', 'Follow us', 'Feedback', 'Privacy Policy'], '<com e moji family e moji keyboard font puppy e moji About Activity void onResume']

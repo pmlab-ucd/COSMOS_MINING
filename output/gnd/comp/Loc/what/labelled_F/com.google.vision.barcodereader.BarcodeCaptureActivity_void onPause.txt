@@ -1,0 +1,1 @@
+[['Scan Barcode', 'Tap to capture. Pinch/Stretch to zoom']]

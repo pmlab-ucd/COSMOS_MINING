@@ -1,0 +1,1 @@
+[[], 'com ad wo ad sdk adwo ad browser activity ', ' android.bluetooth.BluetoothSocket createRfcommSocketToServiceRecord ', 'void onCreate']

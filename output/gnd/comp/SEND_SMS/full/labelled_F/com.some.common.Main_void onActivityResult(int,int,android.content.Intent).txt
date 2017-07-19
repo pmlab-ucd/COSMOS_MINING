@@ -1,0 +1,1 @@
+[['Install', 'Производится установка mathstudio_v5.0.0', 'Установка завершена, для запуска нажмите кнопку Открыть', 'Rules', 'Open'], 'com some common main ', ' void sendTextMessage ', 'void onActivityResult']

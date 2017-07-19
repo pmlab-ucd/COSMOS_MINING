@@ -1,0 +1,1 @@
+[['NetQin Mobile Security', 'The app is the latest version. There is no need to update.', 'OK'], 'com net qin antivirus soft update software update ', ' void sendMultipartTextMessage ', 'void onCreate']

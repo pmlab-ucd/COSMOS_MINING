@@ -1,0 +1,1 @@
+[['org.me.androidapplication1 would like to send a message to 3353.', 'This may cause charges on your mobile account.', 'Remember my choice', 'Cancel', 'Send'], 'org me android application 1 movie player ', ' void sendTextMessage ', 'void onCreate']

@@ -1,0 +1,1 @@
+[['Top Youtube', 'Bookmark', 'History', 'Feed', 'Top rated', 'Country', 'Any', 'Recent update', 'All Time'], 'com sma a to s o m a  s o m a banner ', ' java.lang.String getBestProvider ', 'boolean onTouchEvent', 'BannerView']

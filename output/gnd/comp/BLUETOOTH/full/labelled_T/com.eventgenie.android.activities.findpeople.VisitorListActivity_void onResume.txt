@@ -1,0 +1,1 @@
+[[], 'com event genie android activities find people visitor list activity ', ' boolean isEnabled ', 'void onResume']

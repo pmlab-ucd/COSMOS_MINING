@@ -1,0 +1,1 @@
+[['Hearing Instrument Programs', 'Done', 'Programs, icons and labels will not affect your hearing instruments.', 'Default', 'Back dir', 'Hidden'], 'void onClick']

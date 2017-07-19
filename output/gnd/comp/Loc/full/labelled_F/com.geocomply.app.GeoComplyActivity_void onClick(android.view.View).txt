@@ -1,0 +1,1 @@
+[['SafeLotto Demo', 'SAFE\nLOTTO', 'PLAY SAFE', '- WITH US -', 'username'], 'void onClick']

@@ -1,0 +1,1 @@
+[['Normal Lab Values (Simple)', 'ARTERIAL VALUES', 'CARDIAC MARKERS', 'CEREBRAL SPINAL FLUID', 'COAGULATION', 'ENDOCRINE VALUES', 'GENERAL CHEMISTRY', 'HEMATOLOGY VALUES', 'HEMODYNAMIC PARAMETERS', 'LIPID PANEL (ADULT)', 'NEUROLOGICAL VALUES'], 'boolean onCreateOptionsMenu', 'com normal lab values simple main activity ', ' void <init> ']

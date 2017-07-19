@@ -1,0 +1,1 @@
+[['Edit nickname', 'Default', 'Save'], 'org fru ct yar blood pressure diary core main activity ', ' android.location.Location getLastKnownLocation ', 'void onResume']

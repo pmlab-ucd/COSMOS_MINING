@@ -1,0 +1,1 @@
+[['新游戏', '服务器地址', 'localhost', '游戏名称', 'defaultGameId', '建立新游戏', '读取进度', '玩家编号首选', '0', '玩家总数', '4', '牌数量', '2', '电脑玩家数', '3', 'OK'], 'com android tractor r android tractor ', ' void requestLocationUpdates ', 'void onResume']

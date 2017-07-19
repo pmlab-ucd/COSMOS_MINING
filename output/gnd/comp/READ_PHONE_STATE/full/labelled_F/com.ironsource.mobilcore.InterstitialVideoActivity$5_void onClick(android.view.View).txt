@@ -1,0 +1,1 @@
+[[], 'com iron source mobil core interstitial video activity$5 ', ' java.lang.String getDeviceId ', 'void onClick']

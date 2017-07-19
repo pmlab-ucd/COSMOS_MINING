@@ -1,0 +1,1 @@
+[[], 'com gn resound remote control activity settings activity ', ' java.util.Set getBondedDevices ', 'void onResume']

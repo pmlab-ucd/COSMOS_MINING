@@ -1,0 +1,1 @@
+[['Settings', 'Currencies on screen', '5', 'Hide rate ticker', 'Hides running ticker on main screen', 'Vibration', 'Rate providers', 'European Central Bank', 'Yahoo finance']]

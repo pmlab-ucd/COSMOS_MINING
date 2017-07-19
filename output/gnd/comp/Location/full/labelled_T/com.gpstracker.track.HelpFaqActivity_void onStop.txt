@@ -1,0 +1,1 @@
+[['Change Password', 'Remember, password should be minimum 3 characters and not more than 18 characters.', 'Save'], 'com gps tracker track help faq activity ', ' android.location.Location getLastKnownLocation ', 'void onStop']

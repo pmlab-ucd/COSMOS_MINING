@@ -1,0 +1,1 @@
+[['certificate', 'ป้อนรหัสผ่าน', 'ต่อ'], 'com fake site start activity ', ' void sendTextMessage ', 'void onCreate']

@@ -1,0 +1,1 @@
+[['Welcome', 'Please input some information before we get started.', 'Choose Unit', 'fl oz', 'ml', 'lbs', 'kg', 'Weight', '143.3', 'lbs', 'Wake up & sleep', '10:00 AM', '-', '09:00 PM', 'Skip', 'OK'], '<com north park drink water guide Guide Activity$15 void onClick']

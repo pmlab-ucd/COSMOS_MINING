@@ -1,0 +1,1 @@
+[['DailyFunny'], 'void nahButtonClicked', 'com bit box daily funny show funny ', ' void <init> ']

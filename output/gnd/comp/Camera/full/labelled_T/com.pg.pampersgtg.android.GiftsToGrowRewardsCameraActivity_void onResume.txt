@@ -1,0 +1,1 @@
+[['Scan Reward Code', 'Scan reward code', 'Frame the code inside the box and hold steady before scanning.', 'Scan', 'Cancel'], 'com pg pampers gt g android gifts to grow rewards camera activity ', ' android.hardware.Camera open ', 'void onResume']

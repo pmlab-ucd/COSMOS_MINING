@@ -1,0 +1,1 @@
+[['Category', 'Favorite', 'Add', 'Simple', 'Funny', 'Love', 'Greeting', 'Anniversary', 'Self Made'], 'com t nk factory emoticons main main tab activity ', ' void requestLocationUpdates ', 'void onCreate']

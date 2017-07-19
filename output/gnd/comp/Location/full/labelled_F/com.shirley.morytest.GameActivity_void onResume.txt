@@ -1,0 +1,1 @@
+[[], 'com shirley mory test game activity ', ' android.location.Location getLastKnownLocation ', 'void onResume']

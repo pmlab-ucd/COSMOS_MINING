@@ -1,0 +1,1 @@
+[['Maintenance', 'Username:', 'Enter Username', 'Password:', 'Database:', 'Save Info', 'Login'], '<yardi Android Work Order activity Inventory Control Transfer Activity void onCreate']

@@ -1,0 +1,1 @@
+[['Bonhomie: good-natured geniality; atmosphere of good cheer'], 'com h rd ui home activity ', ' android.location.Location getLastKnownLocation ', 'void onResume']

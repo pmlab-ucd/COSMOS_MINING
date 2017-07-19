@@ -1,0 +1,1 @@
+[['Account number', 'Log in', 'Forgot your password?', 'Contact support', "I'm new here", 'Create an account'], 'com fun be rs app ui funber settings activity ', ' void <init> ']

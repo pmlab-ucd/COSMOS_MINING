@@ -1,0 +1,1 @@
+[['Sign Up', 'Together we are creating a collective mosaic of awesome around the world.', 'Already have an account? Login'], '<com tr over activity au th Signup Activity void onActivityResult']

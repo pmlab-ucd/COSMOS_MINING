@@ -1,0 +1,1 @@
+[['UU提示', '提交反馈请先登录!', '确定', '取消'], 'com uu contacts contacts list activity ', ' void sendTextMessage ', 'void onResume']

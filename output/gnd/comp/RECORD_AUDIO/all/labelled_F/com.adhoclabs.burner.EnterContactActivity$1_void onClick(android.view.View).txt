@@ -1,0 +1,1 @@
+[['Burner', 'Add a forwarding number', "You can also add phone number to your burner's contact", 'Phone Number', 'Done'], 'void onClick', ' void <init> ', 'activity_enter_contact_$_textview_done', 'android.widget.TextView']

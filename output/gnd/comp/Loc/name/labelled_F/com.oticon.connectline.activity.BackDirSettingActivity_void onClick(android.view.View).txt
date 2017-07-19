@@ -1,0 +1,1 @@
+['<com ot icon connect line activity Back Dir Setting Activity void onClick']

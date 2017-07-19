@@ -1,0 +1,1 @@
+[[], 'com rc platform hd camera activity instagram send activity ', ' java.lang.String getSubscriberId ', 'boolean onCreateOptionsMenu']

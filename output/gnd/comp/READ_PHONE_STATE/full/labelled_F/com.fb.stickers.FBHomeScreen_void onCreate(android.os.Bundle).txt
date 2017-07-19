@@ -1,0 +1,1 @@
+[[], 'com fb stickers f b home screen ', ' java.lang.String getDeviceId ', 'void onCreate']

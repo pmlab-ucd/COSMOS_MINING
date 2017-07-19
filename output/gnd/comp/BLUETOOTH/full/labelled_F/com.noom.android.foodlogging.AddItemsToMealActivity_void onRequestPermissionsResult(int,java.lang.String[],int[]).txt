@@ -1,0 +1,1 @@
+[[], 'com no om android food logging add items to meal activity ', ' java.lang.String getName ', 'void onRequestPermissionsResult']

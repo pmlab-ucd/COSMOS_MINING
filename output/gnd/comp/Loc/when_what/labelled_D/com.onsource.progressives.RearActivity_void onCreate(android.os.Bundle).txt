@@ -1,0 +1,1 @@
+[['Rear', 'HELP', 'Walk clockwise around the vehicle. Take a photo of the rear of your vehicle. Be sure the entire vehicle is visible in the camera display.', 'Tap here to take\n the photo', 'VEHICLE-REAR', 'BACK', 'NEXT'], '<com on source progressives Rear Activity void onCreate']

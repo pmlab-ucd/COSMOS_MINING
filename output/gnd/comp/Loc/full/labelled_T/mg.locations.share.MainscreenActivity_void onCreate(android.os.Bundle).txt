@@ -1,0 +1,1 @@
+[['Battery Saving', "For power saving location tracking.\n 1. On your mobile device, touch Settings.\n 2. Touch Location.\n 3. Select Power Saving mode Wi-Fi networks, and mobile networks.\n \n Wi-Fi improves location accuracy, you'll need to make sure Wi-Fi is enabled on your device.", 'Cancel', 'OK'], 'void onCreate']

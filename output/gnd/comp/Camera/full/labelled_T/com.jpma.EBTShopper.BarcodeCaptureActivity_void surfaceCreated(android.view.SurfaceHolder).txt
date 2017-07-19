@@ -1,0 +1,1 @@
+[['Scan the Product Barcode'], 'com j pm a e b t shopper  barcode capture activity ', ' android.hardware.Camera open ', 'void surfaceCreated']

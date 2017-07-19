@@ -1,0 +1,1 @@
+[['Send live position', 'Broadcast your position to be localized by your friends also when you are moving.', 'If you insert a password you could be localized only by those who know it.', 'Password', 'Activate'], 'buttonAttiva', 'android.widget.Button']
