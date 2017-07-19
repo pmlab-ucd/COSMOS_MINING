@@ -1,1 +1,0 @@
-[['Name for e-Mail Title', 'Enter name here', 'Cancel', 'Save'], 'com example android med list 1 main activity ', ' boolean isProviderEnabled ', 'boolean onOptionsItemSelected']

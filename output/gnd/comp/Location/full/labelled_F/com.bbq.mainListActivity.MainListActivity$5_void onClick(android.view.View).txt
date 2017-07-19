@@ -1,1 +1,0 @@
-[['User Guide'], 'com bbq list activity main main list activity$5 ', ' boolean isProviderEnabled ', 'void onClick', 'sort_loc']

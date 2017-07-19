@@ -1,1 +1,0 @@
-['Welcome to your personal fitness and running app.', 'Sign in with Facebook', 'Sign in with Google', 'Skip Sign in', '|', 'Why Sign in?', '<com fit app activity registration Login Activity void onActivityResult']

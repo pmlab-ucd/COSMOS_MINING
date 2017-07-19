@@ -1,1 +1,0 @@
-[['SentriLock ID', 'Login', 'Forgotpassword']]

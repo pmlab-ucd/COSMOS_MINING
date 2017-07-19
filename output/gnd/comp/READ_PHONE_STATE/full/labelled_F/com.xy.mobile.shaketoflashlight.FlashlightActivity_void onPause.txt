@@ -1,1 +1,0 @@
-[['Use LED or not', 'No camera flash', 'Standard', 'Galaxy Ace or Galaxy Tab', 'HTC', 'Motorola(2.2)', 'Motorola(2.1)', 'Yes', 'No'], 'com xy mobile shake to flashlight flashlight activity ', ' java.lang.String getDeviceId ', 'void onPause']

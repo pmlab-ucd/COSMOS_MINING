@@ -1,1 +1,0 @@
-[['All Places', 'Tap on map for select location', 'No saved locations'], 'void contextClick']

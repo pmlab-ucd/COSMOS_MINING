@@ -1,1 +1,0 @@
-[[], 'com convert oman pro in proin activity ', ' java.lang.String getDeviceId ', 'void onCreate']

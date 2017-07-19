@@ -1,1 +1,0 @@
-[['Pregnancy Due Date', 'Calculate By:', 'Last menstrual period', 'First stirring', 'First visit to doctor', 'Ultrasound І', 'Ultrasound ІІ', 'Ultrasound ІІI', 'Others', 'About'], 'com juri us pre g calc settings activity ', ' boolean isProviderEnabled ', 'void onCreate']

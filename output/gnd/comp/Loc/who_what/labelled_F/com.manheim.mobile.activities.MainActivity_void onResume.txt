@@ -1,1 +1,0 @@
-[['Please log in using your existing Manheim.com username and password.', 'Username', 'Log In']]

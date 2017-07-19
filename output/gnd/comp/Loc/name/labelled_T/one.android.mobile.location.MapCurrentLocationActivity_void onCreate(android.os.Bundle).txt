@@ -1,1 +1,0 @@
-['<one android mobile location Map Current Location Activity void onCreate']

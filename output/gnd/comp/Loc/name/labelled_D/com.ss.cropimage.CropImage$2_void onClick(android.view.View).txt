@@ -1,1 +1,0 @@
-['<com ss crop image Crop Image$2 void onClick']

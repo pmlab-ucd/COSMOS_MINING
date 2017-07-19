@@ -1,1 +1,0 @@
-[['Settings', 'General settings', 'Format of name', 'Display name', 'Speak numbers', 'Speak numbers of unknown contacts', 'Edit contacts', 'Disable or rename contacts', 'Custom Apps', 'Add custom apps', 'Notifications will be announced by "Who\'s Calling?"'], 'void onCreate']

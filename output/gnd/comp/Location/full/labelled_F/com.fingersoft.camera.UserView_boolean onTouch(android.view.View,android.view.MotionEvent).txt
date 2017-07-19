@@ -1,1 +1,0 @@
-[[], 'com finger soft camera user view ', ' boolean isProviderEnabled ', 'boolean onTouch']

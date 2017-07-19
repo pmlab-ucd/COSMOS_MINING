@@ -1,1 +1,0 @@
-[['Select someone to ask your question'], 'com ic gui main activity ', ' boolean isProviderEnabled ', 'void onCreate']

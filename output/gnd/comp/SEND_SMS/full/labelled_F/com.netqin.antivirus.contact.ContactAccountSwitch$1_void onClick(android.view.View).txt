@@ -1,1 +1,0 @@
-[['Switch account', 'User name', 'Please enter email address', 'Password', 'Forget password', 'Create account', 'Login', 'Cancel'], 'com net qin antivirus contact contact account switch$1 ', ' void sendMultipartTextMessage ', 'void onClick']

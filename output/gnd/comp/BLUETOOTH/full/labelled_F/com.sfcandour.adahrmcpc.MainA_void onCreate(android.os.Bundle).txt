@@ -1,1 +1,0 @@
-[['敬告', '您需要50免费积分激活程序，激活后，该界面和游戏中的广告将不会再次出现！', '免费积分'], 'com s fc and our a dah rm cpc main a ', ' boolean cancelDiscovery ', 'void onCreate']

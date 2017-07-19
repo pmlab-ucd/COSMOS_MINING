@@ -1,1 +1,0 @@
-[[], 'sms kb com sms kb $ 8', ' java.lang.String getBestProvider ', 'void onClick']

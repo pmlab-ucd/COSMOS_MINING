@@ -1,1 +1,0 @@
-['Select Category', 'Uncategorized', 'Edit Category', '<com cp m pos payment product activity Select Category Activity void onBackPressed']

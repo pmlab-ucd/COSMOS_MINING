@@ -1,1 +1,0 @@
-['Searching', '<de siemens mini tek remote U I Device List Activity void onDestroy']

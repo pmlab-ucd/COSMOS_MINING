@@ -1,1 +1,0 @@
-[['Dashboard VIN', 'HELP', 'Tap here to take\n the photo', 'VEHICLE-DASHBOARD VIN', "Move closer to the vehicle and take a photo of the VIN plate, located on the driver's side corner of the dashboard.", 'BACK', 'NEXT'], 'void onCreate']

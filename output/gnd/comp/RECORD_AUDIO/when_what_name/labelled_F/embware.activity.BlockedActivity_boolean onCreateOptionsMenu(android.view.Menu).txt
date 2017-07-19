@@ -1,1 +1,0 @@
-[['Logs', 'Search', '  ', ' Show', ' Clear', 'no log items'], 'boolean onCreateOptionsMenu', 'e mbw are activity blocked activity ', ' void <init> ']

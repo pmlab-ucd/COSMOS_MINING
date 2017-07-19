@@ -1,1 +1,0 @@
-['<com weather creative weather apps Main Activity void onResume']

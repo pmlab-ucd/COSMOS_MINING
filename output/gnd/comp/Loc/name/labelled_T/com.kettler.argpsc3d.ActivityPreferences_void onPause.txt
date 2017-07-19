@@ -1,1 +1,0 @@
-['<com kettle r ar gps c 3 d Activity Preferences void onPause']

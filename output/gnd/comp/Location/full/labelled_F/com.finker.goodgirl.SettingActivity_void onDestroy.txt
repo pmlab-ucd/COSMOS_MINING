@@ -1,1 +1,0 @@
-[['设置', '设置', '设置 开关', '关闭', '美女背景设置', '请选择一个设置', '设置 开关雪花飘落效果', '开启雪花飘落效果', '雪花大小设置 ', '请选择一个设置', '雪花密度设置 '], 'com finke r good girl setting activity ', ' boolean isProviderEnabled ', 'void onDestroy']

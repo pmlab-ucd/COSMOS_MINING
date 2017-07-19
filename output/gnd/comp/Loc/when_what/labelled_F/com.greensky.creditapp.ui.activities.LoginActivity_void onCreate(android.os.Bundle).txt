@@ -1,1 +1,0 @@
-[['User ID*', 'Remember this User ID?', 'Log In', 'New User? Register Here', 'FORGOT USER ID', 'FORGOT PIN', 'NMLS #1416362; CT SLC-1416362; NJ MT #1501607 C22', 'v 2.1.19 ', 'Privacy Policy'], '<com green sky credit app ui activities Login Activity void onCreate']

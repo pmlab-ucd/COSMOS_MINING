@@ -1,1 +1,0 @@
-[['参数设置', '定位方式', '上传参数至服务器的频率', '60秒一次', '家人上网看我位置的密码', '防盗和监控本手机的号码'], 'com gps setup preference activity ', ' boolean isProviderEnabled ', 'boolean onPreferenceChange']

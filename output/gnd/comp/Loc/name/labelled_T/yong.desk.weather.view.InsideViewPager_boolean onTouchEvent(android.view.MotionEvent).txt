@@ -1,1 +1,0 @@
-['<yong desk weather view Inside View Pager boolean onTouchEvent']

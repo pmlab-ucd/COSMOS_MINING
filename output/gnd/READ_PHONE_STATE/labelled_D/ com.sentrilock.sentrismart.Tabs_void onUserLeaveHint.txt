@@ -1,1 +1,0 @@
-['Getstartedtitle', 'Getstarted', 'Quicktutorial', 'Taptodismiss', 'SentriSmart', 'Mobileaccess', 'Lockboxtools', 'Propertiespulltorefresh', 'Searchingforproperties', 'Getstarted', 'Lockboxserialnumber', 'Getkey', '<com sent ri lock sent ri smart Tabs void onUserLeaveHint']

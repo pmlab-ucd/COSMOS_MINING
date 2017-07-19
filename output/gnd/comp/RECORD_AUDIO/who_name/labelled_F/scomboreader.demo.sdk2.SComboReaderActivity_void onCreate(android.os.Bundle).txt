@@ -1,1 +1,0 @@
-['<scomboreader demo sdk 2 s combo reader activity ', ' void <init> ']

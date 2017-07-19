@@ -1,1 +1,0 @@
-[['绑定手机', '提示：此手机号用于寻找密码使用，请使用能接收短信的手机号，修改手机号需验证码。\n\n原绑定手机号: ', '新手机号: ', 'Sky密码:', '获取验证码', '\n\n>>>>>>已收到验证码\n请在下方输入收到的验证码: '], 'com sky call oem service service rebind$2 ', ' void sendTextMessage ', 'void onClick']

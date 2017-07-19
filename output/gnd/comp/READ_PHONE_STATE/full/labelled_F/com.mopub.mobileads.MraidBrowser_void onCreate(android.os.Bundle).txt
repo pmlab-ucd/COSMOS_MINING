@@ -1,1 +1,0 @@
-[[], 'com mo pub mobile ads mraid browser ', ' java.lang.String getDeviceId ', 'void onCreate']

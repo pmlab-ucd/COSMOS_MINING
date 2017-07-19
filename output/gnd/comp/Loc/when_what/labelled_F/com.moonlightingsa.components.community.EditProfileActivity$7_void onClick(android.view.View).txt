@@ -1,1 +1,0 @@
-[['Edit profile', 'Save', 'Account', 'Username', 'Name', 'Email', 'Change password', 'Change image profile', 'Logout', 'Notifications', 'ON'], '<com moonlighting s a components community Edit Profile Activity$7 void onClick']

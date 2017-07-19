@@ -1,1 +1,0 @@
-[['Settings', 'Advanced', 'Debug service', 'OFF', 'FGL service (fglserver, fgldb)', 'OFF', 'Clear cookies', 'Security', 'Manage allowed certificates']]

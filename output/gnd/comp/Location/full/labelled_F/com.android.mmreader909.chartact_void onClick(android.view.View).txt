@@ -1,1 +1,0 @@
-[['日行一善', '独立的青春', '珍妮的微笑', '退步原来是向前', '一颗善心就是一颗星', '尽力而为还不够', '点亮心烛', '你的心态就是你的主人', '比良知柔软，比金钱坚硬', '人生如题', '善良成就和谐之美'], 'com android mm reader 9 0 9 chart act', ' boolean isProviderEnabled ', 'void onClick']

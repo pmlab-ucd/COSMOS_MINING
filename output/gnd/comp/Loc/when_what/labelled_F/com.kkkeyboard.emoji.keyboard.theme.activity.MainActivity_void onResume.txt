@@ -1,1 +1,0 @@
-[['Pink Glitter', 'Activate', 'More Themes'], '<com kk keyboard e moji keyboard theme activity Main Activity void onResume']

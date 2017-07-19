@@ -1,1 +1,0 @@
-[['Edit profile', 'Save', 'Account', 'Username', 'Name', 'Email', 'Change password', 'Change image profile', 'Logout', 'Notifications', 'ON'], 'void onClick']

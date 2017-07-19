@@ -1,1 +1,0 @@
-['Tips', "It's recommended to use the default save path. Changing save path may lead to accidental deletion of photos by third party applications.", 'OK', '<com me it u poster setting Save Path Setting Activity void onCreate']

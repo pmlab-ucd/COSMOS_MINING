@@ -1,1 +1,0 @@
-[['Signal Strength', 'Connected to : ', 'moobilenetx', 'Interval:1 s', 'Scanning Time']]

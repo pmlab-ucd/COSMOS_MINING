@@ -1,1 +1,0 @@
-['Log In / Register', 'Cancel', 'Please enter your phone number.', '(530) 601-3751', 'Log In / Register', '* We will only use this for identification. Your information will not be shared.', '<com i mobile 3 pass connect ui activity Login Activity void onCreate']

@@ -1,1 +1,0 @@
-[[], 'com ad wo ad sdk adwo ad browser activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

@@ -1,1 +1,0 @@
-[['My Vehicle Location', 'Choose how to set your vehicle location:', 'Use GPS', 'OR', 'Street Address', 'City', 'State', 'ZIP', 'USA', 'Use Address'], '<com allstate A A R P activities Vehicle Location Activity void onCreate']

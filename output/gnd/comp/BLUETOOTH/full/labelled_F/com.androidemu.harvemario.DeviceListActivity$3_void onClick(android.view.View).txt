@@ -1,1 +1,0 @@
-[['\xa0超级玛丽\xa0', '未配对设备', '扫描设备'], 'com android emu har ve mario device list activity$3 ', ' android.bluetooth.BluetoothSocket createRfcommSocketToServiceRecord ', 'void onClick', 'button_scan', 'android.widget.Button']

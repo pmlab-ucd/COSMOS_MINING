@@ -1,1 +1,0 @@
-[['New feature allows Dog Titanium Whistle to identify calls for you', 'DENY', 'ALLOW'], '<it lr x dog whistle Splash Activity void onCreate']

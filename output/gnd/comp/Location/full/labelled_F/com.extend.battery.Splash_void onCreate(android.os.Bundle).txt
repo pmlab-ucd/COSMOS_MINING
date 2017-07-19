@@ -1,1 +1,0 @@
-[['Battery Overview', 'Level: 100%', '|', 'Temperature: 84°F', 'CPU Usage', 'Memory Usage', '★★★★★ Review This App ★★★★★'], 'com extend battery splash ', ' boolean isProviderEnabled ', 'void onCreate']

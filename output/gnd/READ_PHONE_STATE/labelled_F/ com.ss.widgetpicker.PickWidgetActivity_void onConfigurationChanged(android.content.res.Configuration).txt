@@ -1,1 +1,0 @@
-['Widget', '1', '2', '3', 'Calendar', 'Chrome bookmarks', '2', 'Clock', 'Drive', 'Email', 'Flirty Emoji', 'Gmail', '3', 'Google App', 'Google Play Books', '2', 'Google Play Music', '<com ss widget picker Pick Widget Activity void onConfigurationChanged']

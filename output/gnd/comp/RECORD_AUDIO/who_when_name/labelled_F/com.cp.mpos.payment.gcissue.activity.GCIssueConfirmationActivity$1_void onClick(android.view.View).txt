@@ -1,1 +1,0 @@
-['void onClick', 'com cp m pos payment gc issue activity g c issue confirmation activity$1 ', ' void <init> ']

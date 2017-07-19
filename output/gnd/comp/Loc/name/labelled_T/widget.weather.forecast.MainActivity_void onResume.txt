@@ -1,1 +1,0 @@
-['<widget weather forecast Main Activity void onResume']

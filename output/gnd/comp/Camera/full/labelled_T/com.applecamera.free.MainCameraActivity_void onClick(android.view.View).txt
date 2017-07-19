@@ -1,1 +1,0 @@
-[['VIDEO', 'PHOTO', 'SQUARE'], 'com apple camera free main camera activity ', ' void setVideoSource ', 'void onClick']

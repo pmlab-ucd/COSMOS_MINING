@@ -1,1 +1,0 @@
-[[], 'com al kaid mm ws 1 m mws1 activity ', ' boolean isProviderEnabled ', 'void onCreate']

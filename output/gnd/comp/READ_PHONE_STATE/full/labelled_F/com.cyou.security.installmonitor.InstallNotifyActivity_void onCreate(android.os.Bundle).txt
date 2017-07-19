@@ -1,1 +1,0 @@
-[[], 'com c you security install monitor install notify activity ', ' java.lang.String getDeviceId ', 'void onCreate']

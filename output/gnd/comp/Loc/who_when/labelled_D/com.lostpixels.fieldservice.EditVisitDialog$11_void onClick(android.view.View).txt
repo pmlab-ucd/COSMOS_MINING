@@ -1,1 +1,0 @@
-['void onClick', 'btnPublication']

@@ -1,1 +1,0 @@
-[['License Agreement'], 'com a pper hand device android e u l a activity ', ' void sendTextMessage ', 'void onCreate']

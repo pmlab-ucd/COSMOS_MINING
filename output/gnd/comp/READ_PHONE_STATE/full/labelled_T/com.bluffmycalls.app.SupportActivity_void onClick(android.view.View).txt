@@ -1,1 +1,0 @@
-[[], 'com bluff my calls app support activity ', ' java.lang.String getDeviceId ', 'void onClick']

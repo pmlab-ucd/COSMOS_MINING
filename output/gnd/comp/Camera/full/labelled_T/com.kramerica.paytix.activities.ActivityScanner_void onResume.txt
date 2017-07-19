@@ -1,1 +1,0 @@
-[['Scan Ticket'], 'com kr america pay t ix activities activity scanner ', ' android.hardware.Camera open ', 'void onResume']

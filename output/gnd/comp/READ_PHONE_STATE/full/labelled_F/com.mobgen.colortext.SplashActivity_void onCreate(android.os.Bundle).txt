@@ -1,1 +1,0 @@
-[[], 'com mob gen color text splash activity ', ' java.lang.String getDeviceId ', 'void onCreate']

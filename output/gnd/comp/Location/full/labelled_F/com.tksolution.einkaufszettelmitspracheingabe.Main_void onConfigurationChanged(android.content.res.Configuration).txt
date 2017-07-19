@@ -1,1 +1,0 @@
-[['Shopping list', 'There is nothing here yet...\n\nNew items can be created using the plus or microphone button.'], 'com tk solution e ink auf sze ttel mit sprache in gabe main ', ' boolean isProviderEnabled ', 'void onConfigurationChanged']

@@ -1,1 +1,0 @@
-[['Workout Program'], 'void onConfigurationChanged']

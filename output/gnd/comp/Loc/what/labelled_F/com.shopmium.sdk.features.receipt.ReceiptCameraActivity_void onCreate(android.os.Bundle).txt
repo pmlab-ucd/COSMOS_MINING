@@ -1,1 +1,0 @@
-[['Edge of receipt', 'Edge of receipt', 'Abort', 'Gallery', 'Receipt too long? Take several pictures']]

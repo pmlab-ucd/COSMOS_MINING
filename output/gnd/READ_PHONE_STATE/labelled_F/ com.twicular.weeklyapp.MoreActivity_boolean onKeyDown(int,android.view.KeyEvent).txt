@@ -1,1 +1,0 @@
-['More', 'I Like Weekly!', 'Check out Grocery Pal', 'Tell Friends', 'Feedback', 'About', 'Terms of Service', 'Privacy Policy', '<com twi cula r weekly app More Activity boolean onKeyDown']

@@ -1,1 +1,0 @@
-['Please send us your feedback so we may consider making changes or improvements in future App updates.', 'Name', 'Email Address', 'Please enter your message here', 'Send Now', '<com zed True Tone Contact Activity void SendEmail']

@@ -1,1 +1,0 @@
-['<com doorstep ui activity Home Activity void onActivityResult']

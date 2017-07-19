@@ -1,1 +1,0 @@
-[['Welcome Back', 'Email', 'Password', 'New to SherpaShare? Sign Up.', 'Forgot your password?', 'Sign In']]

@@ -1,1 +1,0 @@
-['news', 'Disconnect', '<org npr li vio Livio Activity void onDestroy']

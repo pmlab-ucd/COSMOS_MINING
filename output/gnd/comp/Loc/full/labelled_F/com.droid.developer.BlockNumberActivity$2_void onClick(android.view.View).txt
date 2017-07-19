@@ -1,1 +1,0 @@
-[['Call Block List'], 'void onClick']

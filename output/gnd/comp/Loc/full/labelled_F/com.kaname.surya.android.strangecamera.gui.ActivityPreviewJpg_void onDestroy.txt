@@ -1,1 +1,0 @@
-[['Cancel', 'Save', 'Preview'], 'void onDestroy']

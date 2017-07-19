@@ -1,1 +1,0 @@
-[['No collages found!', 'OK'], 'com android camera crop image$2 ', ' java.util.List getProviders ', 'void onClick']

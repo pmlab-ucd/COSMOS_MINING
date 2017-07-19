@@ -1,1 +1,0 @@
-[['Nickname', 'Name', 'Nickname will appear only within this application on this device.'], 'void onResume', 'com cp m pos more activity nickname activity ', ' void <init> ']

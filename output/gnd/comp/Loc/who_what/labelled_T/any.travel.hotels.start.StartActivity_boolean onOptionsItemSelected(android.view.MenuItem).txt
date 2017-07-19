@@ -1,1 +1,0 @@
-[['Hotels', '03 Feb - 04 Feb', 'Unknown dates', 'Adults:', '2', 'Children:', '0', 'Search', 'Find hotels near me']]

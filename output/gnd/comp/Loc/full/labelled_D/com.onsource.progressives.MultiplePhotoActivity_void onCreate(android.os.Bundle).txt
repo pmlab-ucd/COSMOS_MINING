@@ -1,1 +1,0 @@
-[['Additional Photos', 'HELP', 'ADDITIONAL1', 'Add up to 10 additional photos that were requested. When you are finished tap next.', 'BACK', 'NEXT'], 'void onCreate']

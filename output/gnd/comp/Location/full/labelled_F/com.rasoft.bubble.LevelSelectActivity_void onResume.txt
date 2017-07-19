@@ -1,1 +1,0 @@
-[[], 'com ra soft bubble level select activity ', ' boolean isProviderEnabled ', 'void onResume']

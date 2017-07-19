@@ -1,1 +1,0 @@
-[['SMS Backup Chinese Version'], 'com wap s ao', ' boolean isProviderEnabled ', 'void onClick']

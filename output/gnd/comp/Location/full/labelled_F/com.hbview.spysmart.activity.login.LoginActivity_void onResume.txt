@@ -1,1 +1,0 @@
-[['SPY Smart', 'v2.1.16.0219', 'Quick Look', 'Login'], 'com hb view spy smart activity login login activity ', ' void requestLocationUpdates ', 'void onResume']

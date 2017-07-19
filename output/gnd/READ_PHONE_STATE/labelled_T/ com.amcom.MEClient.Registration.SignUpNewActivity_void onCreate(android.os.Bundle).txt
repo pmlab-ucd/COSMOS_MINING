@@ -1,1 +1,0 @@
-['Sign Up', 'Enter your email address', 'Sign up', 'If you received an email from Spok\nMobile with a username and\npassword, sign in here', '<com am com M E Client Registration Sign Up New Activity void onCreate']

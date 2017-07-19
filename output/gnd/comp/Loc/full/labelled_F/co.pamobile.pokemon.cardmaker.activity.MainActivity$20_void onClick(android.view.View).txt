@@ -1,1 +1,0 @@
-[['Warning !!', 'This app version is: 1.3.1\nNew app version is: 1.4.1\nDo you want to update now?', 'Later', 'Update'], 'void onClick']

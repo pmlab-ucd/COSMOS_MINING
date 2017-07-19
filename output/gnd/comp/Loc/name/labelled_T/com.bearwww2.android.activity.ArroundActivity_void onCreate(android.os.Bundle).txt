@@ -1,1 +1,0 @@
-['<com bear www 2 android activity Arround Activity void onCreate']

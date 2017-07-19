@@ -1,1 +1,0 @@
-['<it gma riot ti android example navigation drawer biblia activity ', ' void <init> ']

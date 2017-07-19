@@ -1,1 +1,0 @@
-[['Shipping', 'Name (First and Last)', 'Address', 'Address 2', 'Zip', 'QTY', 'SUBTOTAL', 'TOTAL', '0', '$0.00', '$0.00', 'Shipping Methods:', 'Next Step']]

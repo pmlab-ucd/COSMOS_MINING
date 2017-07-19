@@ -1,1 +1,0 @@
-['Schedule Follow Up', 'When', 'Feb 05 2017', '08:47 AM', 'Customer Name :', 'Customer Name', 'Email :', 'Email address', 'Phone Number :', '(000) 000-0000', 'Location', 'Location', 'Save', '<com cp m pos component activity Schedule Follow Up Activity void onResume']

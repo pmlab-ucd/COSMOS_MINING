@@ -1,1 +1,0 @@
-Sound Analyser myProject Stop Reset   < c o m call dorado android ui settings activity   void <init>  void onClick

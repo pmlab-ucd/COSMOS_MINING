@@ -1,1 +1,0 @@
-[['Welcome', 'Do you want to see a small tutorial?', 'No', 'Yes'], 'com l rh soft shifter calendar main activity ', ' android.hardware.Camera open ', 'boolean onOptionsItemSelected']

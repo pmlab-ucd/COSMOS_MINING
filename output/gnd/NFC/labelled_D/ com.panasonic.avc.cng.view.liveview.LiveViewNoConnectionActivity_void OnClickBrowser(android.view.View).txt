@@ -1,1 +1,0 @@
-['This function cannot be used at this time. Confirm the Wi-Fi settings of your camera and your smartphone, and then select the camera under "Set connect dest. ".', '<com panasonic a vc cng view live view Live View No Connection Activity void OnClickBrowser']

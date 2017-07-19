@@ -1,1 +1,0 @@
-[[], 'com project android new user activity ', ' java.lang.String getDeviceId ', 'void onStop']

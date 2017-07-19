@@ -1,1 +1,0 @@
-[['为您的第一次使用创建密码', '输入密码：', '确认密码：', '确定', '取消'], 'com hail y account recorder account recorder activity ', ' java.lang.String getBestProvider ', 'void onCreate']

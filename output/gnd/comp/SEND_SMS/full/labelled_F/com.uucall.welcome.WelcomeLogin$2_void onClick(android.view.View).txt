@@ -1,1 +1,0 @@
-[['帐号:', '密码:', '马上登录', '忘记密码?'], 'com u u call welcome welcome login$2 ', ' void sendTextMessage ', 'void onClick']

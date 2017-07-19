@@ -1,1 +1,0 @@
-[['预订成功', '你的订单已提交，客服正在处理中，请注意 查收确认短信。', '请您结账时出示订餐短信，即可享受优惠折扣。', '订餐信息由饭统网提供，如有问题请拨打 4006-177-177电话咨询', '知道了'], 'cn bud ing coupon activity fantong success activity ', ' java.lang.String getBestProvider ', 'void onClick']

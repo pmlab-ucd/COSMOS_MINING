@@ -1,1 +1,0 @@
-['Settings', 'Simultaneous Translation', 'Detect language', 'Show dictionary', 'Predictive typing', 'Tap "Return" to translate', 'Translate clipboard', 'Offline mode', 'Download over Wi-Fi only', 'Download offline translation', 'About', '<ru y and ex translate ui Header A B void onClick']

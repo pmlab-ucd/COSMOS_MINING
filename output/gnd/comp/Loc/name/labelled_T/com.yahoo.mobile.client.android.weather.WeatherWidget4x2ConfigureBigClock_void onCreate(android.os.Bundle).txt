@@ -1,1 +1,0 @@
-['<com yahoo mobile client android weather Weather Widget4x2 Configure Big Clock void onCreate']

@@ -1,1 +1,0 @@
-[['Simply Hired', 'Home', 'com simply hired simply android simply hired activity ', 'boolean onOptionsItemSelected'], 'com simply hired simply android simply hired activity ', 'boolean onOptionsItemSelected']

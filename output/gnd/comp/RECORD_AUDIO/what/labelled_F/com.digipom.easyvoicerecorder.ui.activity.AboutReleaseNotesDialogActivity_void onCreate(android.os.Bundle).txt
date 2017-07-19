@@ -1,6 +1,0 @@
-Release notes - Improved Bluetooth recording on Android 5.0 Lollipop.
-- On Android 5.0 Lollipop, notifications can now be optionally hidden from the lock screen.
-- Other bug fixes and improvements.
-
-Thank you for your continued support! If you like Easy Voice Recorder, please take the time to leave us a nice review; this really helps us out! We can also be reached via EVR's help page.
- com dig i pom easy voice recorder ui activity about release notes dialog activity   void <init> 

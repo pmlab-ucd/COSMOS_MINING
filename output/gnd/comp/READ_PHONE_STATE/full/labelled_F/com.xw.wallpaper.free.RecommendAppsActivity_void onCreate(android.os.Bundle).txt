@@ -1,1 +1,0 @@
-[[], 'com xw wallpaper free recommend apps activity ', ' java.lang.String getDeviceId ', 'void onCreate']

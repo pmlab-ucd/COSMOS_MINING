@@ -1,1 +1,0 @@
-['<com tap crowd app modules launcher Events Launcher void onCreate']

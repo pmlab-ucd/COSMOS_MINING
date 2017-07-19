@@ -1,1 +1,0 @@
-[['F&H Solunar Time', 'Forecast', 'Calendar', 'Places', 'Weather'], '<com anton nik it in so lunar forecast Main Activity void onCreate']

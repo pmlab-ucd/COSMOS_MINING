@@ -1,1 +1,0 @@
-['<com yahoo mobile client android weather ui On Boarding Screen Activity void onClick']

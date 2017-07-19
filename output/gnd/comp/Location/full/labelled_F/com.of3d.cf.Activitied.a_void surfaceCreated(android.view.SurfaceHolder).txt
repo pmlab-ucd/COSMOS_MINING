@@ -1,1 +1,0 @@
-[[], 'com of 3 d cf activitied  a', ' java.lang.String getBestProvider ', 'void surfaceCreated']

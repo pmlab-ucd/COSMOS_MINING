@@ -1,1 +1,0 @@
-['Personalize', 'Widget', 'Background', 'Online', 'Local', '<com go weather ex theme config Go Widget21 Theme Config Home Activity void onCreate']

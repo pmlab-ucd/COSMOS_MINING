@@ -1,1 +1,0 @@
-['Playback settings', '"Picture Share " Settings', 'Size: Copy from Camera', 'Large (original)', 'Size: Upl. to Web', 'Recommended', 'Erase Upload Loc.', 'ON', 'LUMIX CLUB settings', 'Select Video Player', 'Play back using the Image App player', '<com panasonic a vc cng view setting Playback Setting Activity void onActivityResult']

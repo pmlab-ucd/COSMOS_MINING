@@ -1,1 +1,0 @@
-['<com fotos wipe android Main Activity void onResume']

@@ -1,1 +1,0 @@
-[['Sprouts Farmers Market', 'Weekly Specials', 'Mobile Coupons', 'Shopping Lists', 'Find A Store']]

@@ -1,1 +1,0 @@
-['Select your language', 'Chinese to English', 'Japanese to English', 'Korean to English', '<com way go app way go Main Activity void onStart']

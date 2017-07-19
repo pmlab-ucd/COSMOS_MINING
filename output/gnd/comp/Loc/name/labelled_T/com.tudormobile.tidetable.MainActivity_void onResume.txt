@@ -1,1 +1,0 @@
-['<com tudor mobile tide table Main Activity void onResume']

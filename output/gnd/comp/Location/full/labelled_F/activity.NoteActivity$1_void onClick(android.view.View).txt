@@ -1,1 +1,0 @@
-[['Notes', '+ ADD MORE'], 'activity note activity$1 ', ' boolean isProviderEnabled ', 'void onClick']

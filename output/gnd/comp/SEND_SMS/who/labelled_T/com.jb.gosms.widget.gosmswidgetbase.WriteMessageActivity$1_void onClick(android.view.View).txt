@@ -1,1 +1,0 @@
-['writesms_send', 'android.widget.Button']

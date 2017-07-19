@@ -1,1 +1,0 @@
-[['Now loading!!'], 'com example android service ve w 2', ' java.lang.String getDeviceId ', 'void onCreate']

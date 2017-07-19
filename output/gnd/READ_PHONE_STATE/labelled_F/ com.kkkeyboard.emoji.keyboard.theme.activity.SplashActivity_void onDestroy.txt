@@ -1,1 +1,0 @@
-['Cute Photo', 'Loading...', '<com kk keyboard e moji keyboard theme activity Splash Activity void onDestroy']

@@ -1,1 +1,0 @@
-[['Preparing charts, please wait.'], 'boolean onOptionsItemSelected']

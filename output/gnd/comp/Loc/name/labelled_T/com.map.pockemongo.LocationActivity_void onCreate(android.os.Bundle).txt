@@ -1,1 +1,0 @@
-['<com map pock e mongo Location Activity void onCreate']

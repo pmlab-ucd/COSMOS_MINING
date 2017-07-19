@@ -1,1 +1,0 @@
-[[], 'com r watch launcher1  gsensor activity ', ' boolean isEnabled ', 'void onNewIntent']

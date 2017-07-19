@@ -1,1 +1,0 @@
-[['Welcome', "From now on, always know who's calling you", 'It will take us a few minutes to sync pictures & birthdays.\nFeel free to start using the App now', 'Start using CallApp'], 'com call app contacts activity setup setup wizard profile activity ', ' android.location.Location getLastKnownLocation ', 'void onBackPressed']
