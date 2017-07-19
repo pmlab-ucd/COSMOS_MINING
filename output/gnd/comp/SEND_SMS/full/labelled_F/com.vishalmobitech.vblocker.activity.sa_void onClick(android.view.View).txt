@@ -1,0 +1,1 @@
+[['Change Picture', 'First name', 'Last name', 'Email', 'SKIP', 'NEXT', 'Or sign up with', 'Sign in'], 'com vishal mob i tech v blocker activity sa', ' void sendMultipartTextMessage ', 'void onClick']

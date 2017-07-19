@@ -1,0 +1,1 @@
+[['Manage Services', 'Connect to Twitter', 'Connect to Tumblr', 'Connect to Feedly', 'Connect to Reddit'], 'com larva labs flow feeds activity ', ' android.location.Location getLastKnownLocation ', 'void onPause']

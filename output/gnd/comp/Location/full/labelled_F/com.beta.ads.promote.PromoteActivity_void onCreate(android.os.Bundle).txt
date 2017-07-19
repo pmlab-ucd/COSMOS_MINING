@@ -1,0 +1,1 @@
+[[], 'com beta ads promote promote activity ', ' void requestLocationUpdates ', 'void onCreate']

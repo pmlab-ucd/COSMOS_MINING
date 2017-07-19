@@ -1,0 +1,1 @@
+['<com zhao kam camera Pic Activity$7 void onClick']

@@ -1,0 +1,1 @@
+[['Tap the screen to start recording', '00:00', '00:00'], 'void surfaceCreated', ' void setAudioSource ']

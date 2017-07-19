@@ -1,0 +1,1 @@
+[['Left Front Corner', 'HELP', 'Tap here to take\n the photo', 'VEHICLE-LEFT FRONT CORNER', 'Walk clockwise around the vehicle. Take a photo of the left front corner of your vehicle. Be sure the entire vehicle is visible in the camera display.', 'BACK', 'NEXT'], '<com on source progressives Left Front Corner Activity void onCreate']

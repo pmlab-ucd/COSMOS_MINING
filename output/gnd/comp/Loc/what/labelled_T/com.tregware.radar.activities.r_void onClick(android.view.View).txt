@@ -1,0 +1,1 @@
+[['Weather Radar Widget', 'Locate Me Automatically!', 'Set Custom Location', 'Theme', 'Dark', 'Light', 'Satellite', 'Zoom Level', 'Low', 'Medium', 'High', 'Cloud Transparency', 'Invisible', 'Visible']]

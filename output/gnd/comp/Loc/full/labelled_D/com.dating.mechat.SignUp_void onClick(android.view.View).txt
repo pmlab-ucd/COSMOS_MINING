@@ -1,0 +1,1 @@
+[['Register', 'Full Name', 'jameshaofu@gmail.com', 'I am', 'Male', 'Female', 'Date of Birth', 'must be 18+', 'Browse Image'], 'void onClick']

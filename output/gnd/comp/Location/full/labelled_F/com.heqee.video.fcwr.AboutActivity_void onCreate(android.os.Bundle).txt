@@ -1,0 +1,1 @@
+[['关于', '《非诚勿扰》是适应现代生活节奏的大型婚恋交友节目，新的互动形式完全突破传统的交友方式，完全体现新时代男女的婚恋观。外形靓丽养眼、打扮时髦前卫、表现大胆奔放的男女嘉宾们一次又一次引爆争议热点！', '在线观看会消耗大量流量，建议连接WIFI观看，您可以点击设置去连接WIFI', '视频内容均来自网络。如有侵权请联系我们。heqee@qq.com'], 'com he qe e video fcw r about activity ', ' boolean isProviderEnabled ', 'void onCreate']

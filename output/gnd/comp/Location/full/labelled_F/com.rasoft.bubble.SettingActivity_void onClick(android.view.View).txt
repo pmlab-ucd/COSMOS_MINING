@@ -1,0 +1,1 @@
+[['SETTING', 'Sound On', 'Music On'], 'com ra soft bubble setting activity ', ' boolean isProviderEnabled ', 'void onClick']

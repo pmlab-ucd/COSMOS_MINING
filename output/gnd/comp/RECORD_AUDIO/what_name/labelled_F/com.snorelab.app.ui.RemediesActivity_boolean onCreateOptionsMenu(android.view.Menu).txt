@@ -1,0 +1,1 @@
+[['Factors', 'Edit list', 'Select factors that apply', 'Weight', '60', 'kg', 'Alcohol', 'Bath', 'Blocked nose', 'Caffeine', 'Dehydrated', 'Exhaustion'], 'com snore lab app ui remedies activity ', ' void <init> ']

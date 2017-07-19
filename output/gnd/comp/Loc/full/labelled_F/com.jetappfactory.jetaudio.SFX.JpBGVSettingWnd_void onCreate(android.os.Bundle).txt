@@ -1,0 +1,1 @@
+[['Bongiovi DPS', 'Push the B button to enhance your audio.\n\nEnjoy 30 minutes of Bongiovi DPS for free!\nPlease purchase this plugin to enjoy full features.', 'Close'], 'void onCreate']

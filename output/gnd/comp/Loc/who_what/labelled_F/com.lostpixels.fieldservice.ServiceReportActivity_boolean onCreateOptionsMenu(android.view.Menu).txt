@@ -1,0 +1,1 @@
+[['February 2017', 'Daily', 'Month', 'Service Year', 'January', 'February', 'March', 'Hours', '0', 'Placements', '0', 'Magazines', '0', 'Brochures', '0', 'Books', '0', 'Tracts and articles', '0', 'Video showings', '0', 'Return visits', '0', 'Studies', '0', 'Profile: Publisher']]

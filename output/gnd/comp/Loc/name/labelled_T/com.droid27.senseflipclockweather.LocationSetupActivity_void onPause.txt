@@ -1,0 +1,1 @@
+['<com droid 2 7 sense flip clock weather Location Setup Activity void onPause']

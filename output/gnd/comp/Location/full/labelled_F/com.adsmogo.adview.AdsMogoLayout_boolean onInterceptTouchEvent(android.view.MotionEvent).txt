@@ -1,0 +1,1 @@
+[['chat girl', 'Hi, I miss you so much, chat with me!', 'input here', 'Send'], 'com ads mogo ad view ads mogo layout ', ' boolean isProviderEnabled ', 'boolean onInterceptTouchEvent', 'adsMogoView']

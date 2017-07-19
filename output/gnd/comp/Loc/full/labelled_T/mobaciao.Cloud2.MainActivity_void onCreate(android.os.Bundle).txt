@@ -1,0 +1,1 @@
+[['Satellite image', 'North America', 'South Asia', 'East Asia', 'Southeast Asia', 'Europe', 'Oceania', 'South America', 'Middle East', 'Latin America', 'Africa', 'Japan'], 'void onCreate']

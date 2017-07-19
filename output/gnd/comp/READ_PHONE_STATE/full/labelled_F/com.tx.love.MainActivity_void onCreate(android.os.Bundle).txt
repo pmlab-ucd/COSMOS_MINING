@@ -1,0 +1,1 @@
+[[], 'com tx love main activity ', ' java.lang.String getSubscriberId ', 'void onCreate']

@@ -1,0 +1,1 @@
+[['Select location', 'Enter city or zip code and tap the Find button:'], 'com droid 2 7 d3flipclockweather location setup activity ', ' boolean isProviderEnabled ', 'void onPause']

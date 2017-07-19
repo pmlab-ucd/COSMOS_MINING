@@ -1,0 +1,1 @@
+['<com rev mob ads full screen Fullscreen Activity void onConfigurationChanged']

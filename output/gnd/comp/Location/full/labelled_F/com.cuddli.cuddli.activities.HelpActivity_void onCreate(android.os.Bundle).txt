@@ -1,0 +1,1 @@
+[['Help And About', 'FAQ', 'REPORT', 'ABOUT'], 'com cud d li cud d li activities help activity ', ' boolean isProviderEnabled ', 'void onCreate']

@@ -1,0 +1,1 @@
+[['Sponsored', 'More FREE Apps', 'Settings', 'Power Saving Mode', 'OFF', 'Brightness', 'Scrolling', 'ON', 'Parallax Effect', 'OFF', 'Background', 'Background', 'Screen'], '<com alive wallpaper app info Activity Setting void onStop']

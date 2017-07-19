@@ -1,0 +1,1 @@
+[['Version 1.10.10', 'Day/night cycle', 'Colors fade between day and night, through sunset and sunrise.', 'Sun light', 'Test how it looks at different zenith angles', '900', '°/10', 'Night-time multiplier', 'The trees and hills are multiplied by this color at night. Use white to remove the effect.', 'Sky', 'Top']]

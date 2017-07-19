@@ -1,0 +1,1 @@
+['<com z entertain photo editor Main Activity void onStop']

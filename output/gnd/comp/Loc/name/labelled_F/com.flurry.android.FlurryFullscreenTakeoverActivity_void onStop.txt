@@ -1,0 +1,1 @@
+['<com flurry android Flurry Fullscreen Takeover Activity void onStop']

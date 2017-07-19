@@ -1,0 +1,1 @@
+[[], 'si mils iste mika ballistic calc activity ', ' java.util.Set getBondedDevices ', 'void onCreate']

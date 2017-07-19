@@ -1,0 +1,1 @@
+[['46', 'Level0', '3', '3'], 'max strom game ll k l l k view ', ' boolean isProviderEnabled ', 'boolean onTouchEvent', 'llk']

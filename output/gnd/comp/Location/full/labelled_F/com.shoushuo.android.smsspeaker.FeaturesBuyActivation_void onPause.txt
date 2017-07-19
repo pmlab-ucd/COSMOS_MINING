@@ -1,0 +1,1 @@
+[['Install hint', 'To ensure the security of your transactions, Alipay service needed to be installed for payment.\n\nConfirm to install now.', 'Cancel', 'Confirm'], 'com shou s huo android sms speaker features buy activation ', ' boolean isProviderEnabled ', 'void onPause']

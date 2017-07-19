@@ -1,0 +1,1 @@
+['<com droid 2 7 d3senseclockweather Location Setup Activity void onPause']
