@@ -421,11 +421,11 @@ class DataFormatter:
 
 gnd_based_dir = 'output/gnd/' #''output/drebin/gnd/'
 perm_type = 'Location' #SEND_SMS' #' #READ_PHONE_STATE' #' #NFC' #BLUETOOTH' #' #RECORD_AUDIO' #Location' #BLUETOOTH' #SEND_SMS' #RECORD_AUDIO' #Camera' #READ_PHONE_STATE'
-gen_md = False
+gen_md = True
 
 if __name__ == '__main__':
     if gen_md:
-        DataFormatter.combining_data(trigger_out_dir='D:\COSMOS\output\\', super_out_dir='Drebin',
+        DataFormatter.combining_data(trigger_out_dir='C:\\Users\hfu\Documents\COSMOS\output\\', super_out_dir='Play_win8',
                                      num=50, perm_type=perm_type)  # trigger_out_dir=os.curdir + '\\test\output')
     else:
         instances = []
