@@ -2,97 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b876ad0-1846-4c17-9912-20cfaf15dc70" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_2.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data_formatter.py" afterPath="$PROJECT_DIR$/data_formatter.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Books_Reference_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Books_Reference_50_0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Books_Reference_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Books_Reference_50_1.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Business_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Business_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Business_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Business_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Business_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Business_50_5.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Business_50_5.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/COMICS_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/COMICS_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Communication_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Communication_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Communication_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Communication_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Communication_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Communication_50_5.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Communication_50_5.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Education_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Education_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Education_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Education_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Finance_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Finance_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Finance_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Finance_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Finance_50_3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Health_Fitness_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Libraries_Demo_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Lifestyle_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Lifestyle_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Lifestyle_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Lifestyle_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Lifestyle_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Lifestyle_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Lifestyle_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Lifestyle_50_3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Lifestyle_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Lifestyle_50_4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Lifestyle_50_5.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Lifestyle_50_5.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Lifestyle_50_6.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Lifestyle_50_6.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Medical_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Medical_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Medical_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Medical_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Music_Audio_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/News_Magazines_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Personalization_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Photography_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Photography_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Photography_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Photography_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_5.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Productivity_50_5.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Shopping_50_4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Simulation_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Social_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Social_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Social_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Social_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Social_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Social_50_5.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Social_50_5.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Sports_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Sports_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Sports_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Sports_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Sports_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Sports_50_5.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Sports_50_5.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Tools_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Tools_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Tools_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Tools_50_2.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_0.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_1.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_5.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_5.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_6.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_6.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_7.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Travel_Local_50_7.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Weather_50_0.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_0.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Weather_50_1.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_1.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Weather_50_2.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_2.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Weather_50_3.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_3.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Weather_50_4.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_4.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Weather_50_5.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_5.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/output/gnd/Location/Weather_50_6.md" afterPath="$PROJECT_DIR$/output/gnd/Location/Weather_50_6.md" />
     </list>
     <ignored path="COSPOS_MINGING.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1358,7 +1274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500581237074</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="RM &quot;&lt;&gt;&quot; from mds">
+      <created>1500668031273</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1500668031273</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1441,7 +1364,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../COSPOS_MINING" />
     </ignored-roots>
-    <MESSAGE value="Some results" />
     <MESSAGE value="Generate templates for labelling" />
     <MESSAGE value="Formatting data for labelling" />
     <MESSAGE value="Fixed a bug and manually labelled some" />
@@ -1466,7 +1388,8 @@
     <MESSAGE value="Relabel RECORD_AUDIO" />
     <MESSAGE value="Renaming to user study handler" />
     <MESSAGE value="More results" />
-    <option name="LAST_COMMIT_MESSAGE" value="More results" />
+    <MESSAGE value="RM &quot;&lt;&gt;&quot; from mds" />
+    <option name="LAST_COMMIT_MESSAGE" value="RM &quot;&lt;&gt;&quot; from mds" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
