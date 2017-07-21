@@ -74,7 +74,8 @@ class DataFormatter:
                     if len(instances[instance]['views']) > 0:
                         sens_view = str(instances[instance]['views'])
                     # print(instances[instance]['api'])
-                    text_file.write("| {} | {} | {} | {} | |\n".format(count, instance + ';' + instances[instance]['api'].
+                    text_file.write("| {} | {} | {} | {} | |\n".format(count, str(instance).replace('<', '').replace('>', '')
+                                                                       + ';' + instances[instance]['api'].
                                                                      split(':')[1].split('(')[0], png_file, sens_view))
 
     @staticmethod
