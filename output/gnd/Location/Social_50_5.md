@@ -1,0 +1,11 @@
+### Location
+| Index | Entry Point & APIs | Screen shot | Resource id | Label |
+| ------------- | ------------- | ------------- |-------------|-------------|
+| 251 | no.gobiapp.gobi.gui.facebook.FacebookLoginActivity: void onCreate(android.os.Bundle); boolean isProviderEnabled | ![](C:\Users\hfu\Documents\COSMOS\output\py\Play_win8\Social\no.gobiapp.gobi\no.gobiapp.gobi.gui.facebook.FacebookLoginActivity.png) |  | |
+| 252 | org.thomnichols.android.marcopolo.CompassViewActivity: void onResume(); boolean isProviderEnabled | ![](C:\Users\hfu\Documents\COSMOS\output\py\Play_win8\Social\org.thomnichols.android.marcopolo\org.thomnichols.android.marcopolo.CompassViewActivity.png) |  | |
+| 253 | org.thomnichols.android.marcopolo.PostListActivity: void onContentChanged(); android.location.Location getLastKnownLocation | ![](C:\Users\hfu\Documents\COSMOS\output\py\Play_win8\Social\org.thomnichols.android.marcopolo\org.thomnichols.android.marcopolo.PostListActivity.png) |  | |
+| 254 | org.thomnichols.android.marcopolo.TargetViewActivity: void onCreate(android.os.Bundle); android.location.Location getLastKnownLocation | ![](C:\Users\hfu\Documents\COSMOS\output\py\Play_win8\Social\org.thomnichols.android.marcopolo\org.thomnichols.android.marcopolo.TargetViewActivity.png) |  | |
+| 255 | ru.kidcontrol.gpstracker.MainActivity$20: void onClick(android.view.View); boolean isProviderEnabled | ![](C:\Users\hfu\Documents\COSMOS\output\py\Play_win8\Social\ru.kidcontrol.gpstracker\ru.kidcontrol.gpstracker.MainActivity.png) |  | |
+| 256 | ru.kidcontrol.gpstracker.MainActivity$19: void onClick(android.view.View); boolean isProviderEnabled | ![](C:\Users\hfu\Documents\COSMOS\output\py\Play_win8\Social\ru.kidcontrol.gpstracker\ru.kidcontrol.gpstracker.MainActivity.png) |  | |
+| 257 | sk.forbis.recommendedapps.activities.MessengerActivity: boolean onOptionsItemSelected(android.view.MenuItem); boolean isProviderEnabled | ![](C:\Users\hfu\Documents\COSMOS\output\py\Play_win8\Social\sk.forbis.messenger\sk.forbis.recommendedapps.activities.MessengerActivity.png) |  | |
+| 258 | top.tags.copy.and.paste.BaseActivity: void onCreate(android.os.Bundle); boolean isProviderEnabled | ![](C:\Users\hfu\Documents\COSMOS\output\py\Play_win8\Social\top.tags.copy.and.paste\top.tags.copy.and.paste.BaseActivity.png) |  | |
