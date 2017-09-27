@@ -1,0 +1,1 @@
+[['com nf late sibi activities dynamic link activity ', 'void onCreate'], 'void onCreate']

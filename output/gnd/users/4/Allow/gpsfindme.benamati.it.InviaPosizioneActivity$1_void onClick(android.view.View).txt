@@ -1,0 +1,1 @@
+[['gps find me ben amati it invia posizione activity$1 ', 'void onClick'], 'void onClick']

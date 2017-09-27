@@ -1,0 +1,1 @@
+[['main java com ilo i a cono what 2 w e a r what2 wear activity ', 'void onRequestPermissionsResult'], 'void onRequestPermissionsResult']

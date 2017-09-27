@@ -1,0 +1,1 @@
+[['com earthquake map app ui activities home activity ', 'void onClick'], 'void onClick']

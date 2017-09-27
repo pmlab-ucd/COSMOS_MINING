@@ -1,0 +1,1 @@
+[['com gc material design views scroll view ', 'boolean onTouchEvent'], 'boolean onTouchEvent']

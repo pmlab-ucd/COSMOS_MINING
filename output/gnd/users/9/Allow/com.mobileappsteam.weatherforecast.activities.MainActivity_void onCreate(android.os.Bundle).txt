@@ -1,0 +1,1 @@
+[['com mobile apps team weather forecast activities main activity ', 'void onCreate'], 'void onCreate']

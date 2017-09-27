@@ -1,0 +1,1 @@
+[['com mobile apps team weather forecast activities main activity$3 ', 'void onClick'], 'void onClick']
