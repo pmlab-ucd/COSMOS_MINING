@@ -8,6 +8,8 @@ import logging
 import threading
 import re
 
+ISO_TIME_FORMAT = '%m%d-%H-%M-%S'
+
 class Dict2obj(object):
     def __init__(self, d):
         for a, b in d.items():
@@ -78,21 +80,6 @@ class Utilities:
         return file_handler
 
     @staticmethod
-    def set_logger(TAG):
-        logger = logging.getLogger(TAG)
-        logger.setLevel(logging.DEBUG)
-
-        consolehandler = logging.StreamHandler()
-        consolehandler.setLevel(logging.DEBUG)
-
-        formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-        consolehandler.setFormatter(formatter)
-
-        logger.addHandler(consolehandler)
-        Utilities.logger = logger
-        return logger
-
-    @staticmethod
     def str2words(str):
         #print 'English Detected!'
         str = re.sub('(http|com|net|org|/|\?|=|_|:|&|\.)', ' ', str)  # if English only
@@ -102,6 +89,30 @@ class Utilities:
 
         # print '/'.join(words) #  do not use print if you want to return
         return ' '.join(words)
+
+
+def set_logger(tag, level='DEBUG'):
+    log = logging.getLogger(tag)
+    console_handler = logging.StreamHandler()
+
+    if level == 'DEBUG':
+        log.setLevel(logging.DEBUG)
+        console_handler.setLevel(logging.DEBUG)
+    elif level == 'INFO':
+        log.setLevel(logging.INFO)
+        console_handler.setLevel(logging.INFO)
+    elif level == 'WARN':
+        log.setLevel(logging.WARN)
+        console_handler.setLevel(logging.WARN)
+    else:
+        log.setLevel(logging.ERROR)
+        console_handler.setLevel(logging.ERROR)
+
+    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+    console_handler.setFormatter(formatter)
+
+    log.addHandler(console_handler)
+    return log
 
 
 

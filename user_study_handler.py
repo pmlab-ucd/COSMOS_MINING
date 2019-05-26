@@ -14,7 +14,7 @@ class UserStudyHandler:
     Handle users' study feedback
     """
     TAG = 'UserStudyHandler'
-    logger = Utilities.set_logger(TAG)
+    logger = set_logger(TAG)
     gnd_dir = None
 
     @staticmethod
@@ -27,7 +27,7 @@ class UserStudyHandler:
 
                 if line.startswith('#') or line.startswith('| Index ') or line.startswith('| --'):
                     continue
-                #UserStudyHandler.logger.info(line)
+                # UserStudyHandler.logger.info(line)
                 png_path = sub_lines[len(sub_lines) - 4].split('(')[1]
                 png_path = png_path.split(')')[0]
 
@@ -39,12 +39,11 @@ class UserStudyHandler:
                         act = act.replace('- Copy', '')
                         click = True
                     if act in png_path:
-                        #UserStudyHandler.logger.info(header)
+                        # UserStudyHandler.logger.info(header)
                         found = True
                         break
                 if not found or line in md_targets:
                     continue
-
 
                 if png_path not in pngs:
                     pngs.append(png_path)
@@ -52,7 +51,7 @@ class UserStudyHandler:
                 UserStudyHandler.logger.info(xml_path + ', ' + line)
                 texts = []
                 DataFormatter.handle_dynamic_xml(xml_path, texts)
-                #UserStudyHandler.logger.info(texts)
+                # UserStudyHandler.logger.info(texts)
 
                 entry_name = sub_lines[len(sub_lines) - 5].split(';')[0]
                 if 'Click' in entry_name and not click:
@@ -60,7 +59,7 @@ class UserStudyHandler:
                 class_name, method_name = SensitiveComponent.SensEntryPoint.extract_class_method(entry_name)
                 if class_name in examined:
                     continue
-                    #pass
+                    # pass
                 else:
                     examined.append(class_name)
                 md_targets.append(line)
@@ -76,7 +75,6 @@ class UserStudyHandler:
                 instance['png_path'] = png_path
                 instances.append(instance)
                 counter += 1
-
 
     @staticmethod
     def parse_mds(gnd_dir, headers, instances):
@@ -107,7 +105,6 @@ class UserStudyHandler:
             users.append(user)
         # print(columns)
         print(users)
-
 
         columns = {}
 

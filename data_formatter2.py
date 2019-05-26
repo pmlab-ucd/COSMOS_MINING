@@ -3,7 +3,7 @@ from trigger_out_handler import TriggerOutHandler
 from miner import Miner
 from xml.dom.minidom import parseString
 from sensitive_component import SensitiveComponent
-from utils import Utilities
+from utils import set_logger
 from sklearn.feature_extraction.text import CountVectorizer
 import numpy as np
 from lda import LDA
@@ -20,7 +20,7 @@ class name | screen shot | entry point | rsid
 
 class DataFormatter:
     TAG = 'DataFormatter'
-    logger = Utilities.set_logger(TAG)
+    logger = set_logger(TAG)
     gnd_dir = None
 
     @staticmethod
@@ -28,7 +28,7 @@ class DataFormatter:
         all_views = []
         if os.path.exists(dynamic_xml):
             data = ''
-            with open(dynamic_xml, 'r', encoding='utf8') as f:
+            with open(dynamic_xml, 'r', encoding='utf8', errors='ignore') as f:
                 try:
                     data = f.read()
                 except UnicodeDecodeError as e:
@@ -390,7 +390,7 @@ class DataFormatter:
 
 
 gnd_based_dir = 'output/gnd/'  # ''output/drebin/gnd/'
-perm_type = 'RECORD_AUDIO'  # SEND_SMS' #Location'
+perm_type = 'Location' #'RECORD_AUDIO'  # SEND_SMS' #Location'
 gen_md = False  # True
 
 if __name__ == '__main__':

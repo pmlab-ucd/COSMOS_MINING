@@ -20,7 +20,7 @@ class TriggerOutHandler:
         print(trigger_py_out_dir)
         self.instances = {}
         if not TriggerOutHandler.logger:
-            TriggerOutHandler.logger = Utilities.set_logger(TriggerOutHandler.TAG)
+            TriggerOutHandler.logger = set_logger(TriggerOutHandler.TAG)
 
     def handle_dynamic_xml(self, dynamic_xml, use_event=True):
         text = []
@@ -31,6 +31,7 @@ class TriggerOutHandler:
                 for sens_target in self.sens_comp.get_entry(entry_name).sensTargets:
                     for perm_keyword in self.perm_keywords:
                         if perm_keyword in str(sens_target):
+                            # TriggerOutHandler.logger.info("Found: " + perm_keyword)
                             instances[entry_name] = {}
                             #instances[entry_name]['text'] = text
                             instances[entry_name]['dynamic_xml'] = dynamic_xml
@@ -39,14 +40,17 @@ class TriggerOutHandler:
                             instances[entry_name]['views'] = self.sens_comp.get_entry(entry_name).views
                             status = True
                             break
-
+            if not status:
+                return status
             data = ''
-            with open(dynamic_xml, 'r', encoding='utf8') as f:
+            with open(dynamic_xml, 'rb') as f:
                 try:
                     data = f.read()
                 except UnicodeDecodeError as e:
+                    TriggerOutHandler.logger.info('Error')
                     TriggerOutHandler.logger.error(e)
                     return
+            TriggerOutHandler.logger.info('Add ' + dynamic_xml)
             dom = parseString(data)
             nodes = dom.getElementsByTagName('node')
             # Iterate over all the uses-permission nodes
@@ -70,7 +74,6 @@ class TriggerOutHandler:
                 instances[entry_name]['text'] = text
                 self.instances[entry_name] = instances[entry_name]
                 TriggerOutHandler.logger.info('Add ' + entry_name)
-
 
             return status
             """

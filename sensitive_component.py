@@ -9,6 +9,8 @@ import os.path
 A class to represent a sensitive component
 """
 
+logger = utils.set_logger('SensitiveComponent', 'INFO')
+
 
 class SensitiveComponent:
     debug = False
@@ -79,6 +81,7 @@ class SensitiveComponent:
             pprint(data)
         self.layoutFile = data['layoutFile']
         self.componentName = data['componentName']
+        logger.info('comp name: %s', self.componentName)
         self.sensEntries = {}
         for sens_entry_name in data['sensEntries']:
             entry_data = data['sensEntries'][sens_entry_name]
@@ -89,6 +92,7 @@ class SensitiveComponent:
 
     def get_entries(self):
         return self.sensEntries
+
 
 if __name__ == '__main__':
     json_file = 'data/QKSMS-noAnalytics-debug/QKSMS-noAnalytics-debug.apk_com.moez.QKSMS.ui.compose.ComposeActivity.json'

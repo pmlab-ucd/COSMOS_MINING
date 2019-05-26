@@ -32,7 +32,7 @@ class Miner:
         self.perm_keywords = self.perm_types[perm_type]
 
         self.out_base_dir = 'output/' + self.dist_types[dist_type] + '/' + super_out_dir + '/' + perm_type + '/'
-        self.logger = Utilities.set_logger(self.TAG)
+        self.logger = set_logger(self.TAG)
         LDA.logger = self.logger
         self.file_handler = Utilities.set_file_log(self.logger, self.out_base_dir + '/' + self.TAG + '_' + perm_type + '.log')
         self.all_words = []

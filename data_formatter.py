@@ -20,7 +20,7 @@ class name | screen shot | entry point | rsid
 
 class DataFormatter:
     TAG = 'DataFormatter'
-    logger = Utilities.set_logger(TAG)
+    logger = set_logger(TAG)
     gnd_dir = None
 
     @staticmethod
@@ -51,7 +51,7 @@ class DataFormatter:
                             trigger_out_handler.handle_out_json(os.path.join(root, file_name))
                         except Exception as e:
                             print(e)
-                            print(os.path.join(root, file_name))
+                            #print(os.path.join(root, file_name))
             instances = trigger_out_handler.instances
             out_base_path = os.path.abspath(os.path.join(os.path.curdir, gnd_based_dir + '\\' + perm_type + '\\'))
             if not os.path.isdir(out_base_path):
@@ -83,7 +83,7 @@ class DataFormatter:
         all_views = []
         if os.path.exists(dynamic_xml):
             data = ''
-            with open(dynamic_xml, 'r', encoding='utf8') as f:
+            with open(dynamic_xml, 'rb') as f:
                 try:
                     data = f.read()
                 except UnicodeDecodeError as e:
@@ -167,7 +167,7 @@ class DataFormatter:
                     sens_comp = SensitiveComponent(os.path.join(par_dir, apkname + '.apk_' + os.path.basename(json_file)))
                     if not sens_comp or not sens_comp.layoutFile:
                         return
-                    print(sens_comp.componentName, sens_comp.layoutFile)
+                    #print(sens_comp.componentName, sens_comp.layoutFile)
                     sviews = {}
                     entry_name = str(entry_name).replace(' <', '<', 1)
                     for entry_na in sens_comp.get_entries():
@@ -182,7 +182,6 @@ class DataFormatter:
                         DataFormatter.logger.info(views[view_name].srid)
                         sviews[srid] = None #views[view_name]
                         for node in all_views:
-
                             node_srid = str(node.getAttribute('resource-id')).split('id/')
                             if len(node_srid) < 2:
                                 continue
@@ -420,13 +419,13 @@ class DataFormatter:
             doc_file.write(str(doc))
 
 
-gnd_based_dir = 'output/gnd/' #''output/drebin/gnd/'
+gnd_based_dir = 'output/Play_win8/' #''output/drebin/gnd/'
 perm_type = 'Location' #SEND_SMS' #' #READ_PHONE_STATE' #' #NFC' #BLUETOOTH' #' #RECORD_AUDIO' #Location' #BLUETOOTH' #SEND_SMS' #RECORD_AUDIO' #Camera' #READ_PHONE_STATE'
 gen_md = True
 
 if __name__ == '__main__':
     if gen_md:
-        DataFormatter.combining_data(trigger_out_dir='C:\\Users\hfu\Documents\COSMOS\output\\', super_out_dir='Play_win8',
+        DataFormatter.combining_data(trigger_out_dir='H:\\COSMOS\output\\', super_out_dir='Play_win8',
                                      num=50, perm_type=perm_type)  # trigger_out_dir=os.curdir + '\\test\output')
     else:
         instances = []
@@ -472,8 +471,6 @@ if __name__ == '__main__':
         DataFormatter.parse_labelled(instance_dir, instances)
         # json.dump(instances, open(out_dir + '/instances.json', 'w+'))
         DataFormatter.instances2txtdocs(out_dir, instances, what=what, when=when, who=who, name=name)
-
-
 
         views = []
         apks = []
