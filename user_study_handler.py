@@ -1,8 +1,8 @@
-from utils import Utilities
+from utils import set_logger
 import os
 from sensitive_component import SensitiveComponent
 import shutil
-from data_formatter import DataFormatter
+from context_labeling import instances2txtdocs
 import csv
 
 pngs = []
@@ -50,7 +50,7 @@ class UserStudyHandler:
                 xml_path = png_path.split('.png')[0] + '.xml'
                 UserStudyHandler.logger.info(xml_path + ', ' + line)
                 texts = []
-                DataFormatter.handle_dynamic_xml(xml_path, texts)
+                handle_dynamic_xml(xml_path, texts)
                 # UserStudyHandler.logger.info(texts)
 
                 entry_name = sub_lines[len(sub_lines) - 5].split(';')[0]
@@ -169,7 +169,7 @@ if __name__ == '__main__':
         outdir = instance_dir + '/' + str(users.index(user)) + '/'
         if os.path.exists(outdir):
             shutil.rmtree(outdir)
-        DataFormatter.instances2txtdocs(outdir, new_instances, what=True, when=True, who=False)
+        instances2txtdocs(outdir, new_instances, what=True, when=True, who=False)
 
     '''
     for png in pngs:

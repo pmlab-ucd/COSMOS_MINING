@@ -8,4 +8,3 @@ if __name__ == '__main__':
     miner.fit(parameter_list={len(miner.categories)})
 
     miner.predict()
-
